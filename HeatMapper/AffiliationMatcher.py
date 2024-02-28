@@ -1,36 +1,62 @@
-import nltk, openpyxl
+print("Installing prerequisites...")
+import openpyxl, pyperclip
+from collections import Counter
 from pandas import read_excel
 from pandas import concat
 from pandas import DataFrame
 from pathlib import Path
-import pyperclip
-#nltk.download('all')
-from nltk.corpus import stopwords 
-engStops = stopwords.words('english')   #list of trivial words: articles, prepositions, etc.
+from tqdm import tqdm
 
-from nltk.tokenize import word_tokenize 
-from math import floor
+#import nltk;
+#nltk.download('all')
+from nltk.tokenize import word_tokenize
 
 def __main__():
-    affTable = getAffiliationTable()
-    uniqueAffs = dict()
+    affArray = getAffiliationArray("AffiliationInfo.xlsx")
+    affArray = [str(aff) for aff in affArray]
     
-    i = 0
-    numChanges = 1
-    while numChanges > 0:
-        numChanges = 0
-        for i in range(0, affTable.shape[0]):
-            author = affTable.iat[i,0]
-            affiliation = affTable.iat[i,1]
-            for aff in list(uniqueAffs.keys()):
-                uniqueAffs[aff] = matchCosine(str(aff), str(affiliation))
-            dispAffTable = sorted(uniqueAffs.items(), key= lambda x:x[1], reverse = True)
-            if len(dispAffTable) > 0 and dispAffTable[0][1] > 0.85:
-                affTable.iat[i,1] = dispAffTable[0][0]
-                numChanges += 1
-            else:
-                uniqueAffs[affiliation] = 1
-    affTable.to_clipboard()
+    print("Tokenizing...")
+    affTokens = dict()
+    allTokens = Counter()
+    stopwords = []
+    for affiliation in affArray:
+        if affiliation not in affTokens:
+             affTokens[affiliation] = Counter(word_tokenize(affiliation.lower()))
+             allTokens += affTokens[affiliation]
+    for token in allTokens:
+        if allTokens[token] > len(affTokens)/2:
+            stopwords += [token]
+    for aff in affTokens:
+        for token in stopwords: del affTokens[aff][token]
+        
+    print("Matching...")
+    matchAffs = dict()
+    matchTokens = dict()
+    minMatchCosine = 0.7
+    autoMatchCosine = 0.7
+    for i in tqdm(range(0, len(affArray)), desc = "Matching"):
+        affiliation = affArray[i]
+        bestMatch = ""
+        bestCosine = 0
+        for checkAff in matchTokens:
+            cosine = weightedCosine(affTokens[affiliation], matchTokens[checkAff])
+            if cosine > bestCosine:
+                bestCosine = cosine
+                bestMatch = checkAff
+        if bestCosine > minMatchCosine and bestCosine < autoMatchCosine:
+            print("\n----------\nCosine: " + str(bestCosine) + "\n" + affiliation + "\n" + bestMatch + "\n----------\n")
+            if input("Leave empty to match: ") != "": bestCosine = 0
+        if bestCosine < minMatchCosine:
+            matchTokens[affiliation] = affTokens[affiliation]
+            matchAffs[affiliation] = affiliation  
+        else:
+            matchAffs[affiliation] = bestMatch
+            matchTokens[bestMatch] += affTokens[affiliation]
+    
+    newAffs = [None] * len(affArray)
+    for i in tqdm(range(0, len(affArray)), desc = "Rewriting"):
+        newAffs[i] = matchAffs[affArray[i]].replace("\n", ";")
+    pyperclip.copy("\r\n".join(newAffs))
     
 def manualMatcher(dispAffs, dispAffTable, affiliation, allAffs):
     for i in range(0, min(5, len(dispAffTable))):
@@ -59,27 +85,26 @@ def manualMatcher(dispAffs, dispAffTable, affiliation, allAffs):
     print("\n-------------------------------------------------\n")
 
 # source: https://www.geeksforgeeks.org/python-measure-similarity-between-two-sentences-using-cosine-similarity/
-def matchCosine(str1, str2):
-    str1Tokens = {token for token in word_tokenize(str1.lower()) if token not in engStops}
-    str2Tokens = {token for token in word_tokenize(str2.lower()) if token not in engStops}
-    
-    allTokens = str1Tokens.union(str2Tokens)
-    str1Matches = str2Matches = bothMatches = 0
-    for token in allTokens:
-        if token in str1Tokens:
-            str1Matches += 1
-            bothMatches += 0.6
-        if token in str2Tokens:
-            str2Matches += 1
-            bothMatches += 0.6
-        bothMatches = floor(bothMatches)
-        
-    return 0 if str1Matches * str2Matches == 0 else bothMatches / (str1Matches * str2Matches) ** 0.5
+# source: https://stackoverflow.com/questions/15173225/calculate-cosine-similarity-given-2-sentence-strings
+def weightedCosine(str1Tokens, str2Tokens):
+    bothTokens = set(str1Tokens).intersection(str2Tokens)
+    numerator = sum([str1Tokens[token] * str2Tokens[token] for token in bothTokens])
 
-def getAffiliationTable():
+    squareTokens1 = sum([str1Tokens[token] ** 2 for token in list(str1Tokens)])
+    squareTokens2 = sum([str2Tokens[token] ** 2 for token in list(str2Tokens)])
+    denominator = (squareTokens1 * squareTokens2) ** 0.5
+
+    return 0 if denominator == 0 else numerator / denominator
+    
+def simpleCosine(str1Tokens, str2Tokens):
+    bothTokens = set(str1Tokens).intersection(str2Tokens)
+    return 0 if len(bothTokens) == 0 else len(bothTokens)/ (len(str1Tokens) * len(str2Tokens)) ** 0.5
+
+def getAffiliationArray(defName):
     confirm = False
     while not confirm:
-        filePath = Path(input("\nName of affiliations excel file: "))
+        filePath = input("\nName of affiliations excel file: ")
+        filePath = Path(defName if filePath == "" else filePath)
         if not filePath.is_absolute():
             filePath = Path.joinpath(Path(__file__).parent.resolve(), filePath)
         print("File selected: " + str(filePath))
@@ -92,7 +117,7 @@ def getAffiliationTable():
                     print("Could not open file. Please try again.")
         else:
             print("Could not find file. Please try again.")
-    return affTable
+    return list(affTable.iloc[:,1])
 
 __main__()
 '''
