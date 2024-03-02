@@ -1,0 +1,780 @@
+PMID- 35453114
+OWN - NLM
+STAT- Publisher
+LR  - 20240220
+IS  - 1547-5646 (Electronic)
+IS  - 1547-5646 (Linking)
+DP  - 2022 Apr 22
+TI  - Assessing the differences in operative and patient-reported outcomes between 
+      lateral approaches for lumbar fusion: a systematic review and indirect 
+      meta-analysis.
+PG  - 1-17
+LID - 2022.2.SPINE211164 [pii]
+LID - 10.3171/2022.2.SPINE211164 [doi]
+AB  - OBJECTIVE: Anterior-to-psoas lumbar interbody fusion (ATP-LIF), more commonly 
+      referred to as oblique lateral interbody fusion, and lateral transpsoas lumbar 
+      interbody fusion (LTP-LIF), also known as extreme lateral interbody fusion, are 
+      the two commonly used lateral approaches for performing a lumbar fusion 
+      procedure. These approaches help overcome some of the technical challenges 
+      associated with traditional approaches for lumbar fusion. In this systematic 
+      review and indirect meta-analysis, the authors compared operative and 
+      patient-reported outcomes between these two select approaches using available 
+      studies. METHODS: Using the Preferred Reporting Items for Systematic Reviews and 
+      Meta-Analyses (PRISMA) approach, the authors conducted an electronic search using 
+      the PubMed, EMBASE, and Scopus databases for studies published before May 1, 
+      2019. Indirect meta-analysis was conducted on fusion rate, cage movement 
+      (subsidence plus migration), permanent deficits, and transient deficits; results 
+      were depicted as forest plots of proportions (effect size [ES]). RESULTS: A total 
+      of 63 studies were included in this review after applying the exclusion criteria, 
+      of which 26 studies investigated the outcomes of ATP-LIF, while 37 studied the 
+      outcomes of LTP-LIF. The average fusion rate was found to be similar between the 
+      two groups (ES 0.97, 95% CI 0.84-1.00 vs ES 0.94, 95% CI 0.91-0.97; p = 0.561). 
+      The mean incidence of cage movement was significantly higher in the ATP-LIF group 
+      compared with the LTP-LIF group (stand-alone: ES 0.15, 95% CI 0.06-0.27 vs ES 
+      0.09, 95% CI 0.04-0.16 [p = 0.317]; combined: ES 0.18, 95% CI 0.07-0.32 vs ES 
+      0.02, 95% CI 0.00-0.05 [p = 0.002]). The mean incidence of reoperations was 
+      significantly higher in patients undergoing ATP-LIF than in those undergoing 
+      LTP-LIF (ES 0.02, 95% CI 0.01-0.03 vs ES 0.04, 95% CI 0.02-0.07; p = 0.012). The 
+      mean incidence of permanent deficits was similar between the two groups 
+      (stand-alone: ES 0.03, 95% CI 0.01-0.06 vs ES 0.05, 95% CI 0.01-0.12 [p = 0.204]; 
+      combined: ES 0.03, 95% CI 0.01-0.06 vs ES 0.03, 95% CI 0.00-0.08 [p = 0.595]). 
+      The postoperative changes in visual analog scale (VAS) and Oswestry Disability 
+      Index (ODI) scores were both found to be higher for ATP-LIF relative to LTP-LIF 
+      (VAS: weighted average 4.11 [SD 2.03] vs weighted average 3.75 [SD 1.94] [p = 
+      0.004]; ODI: weighted average 28.3 [SD 5.33] vs weighted average 24.3 [SD 4.94] 
+      [p < 0.001]). CONCLUSIONS: These analyses indicate that while both approaches are 
+      associated with similar fusion rates, ATP-LIF may be related to higher odds of 
+      cage movement and reoperations as compared with LTP-LIF. Furthermore, there is no 
+      difference in rates of permanent deficits between the two procedures.
+FAU - Bhatti, Atiq Ur Rehman
+AU  - Bhatti AUR
+AD  - 1Mayo Clinic Neuro-Informatics Laboratory, Mayo Clinic, Rochester, Minnesota.
+AD  - 2Department of Neurologic Surgery, Mayo Clinic, Rochester, Minnesota.
+FAU - Cesare, Joseph
+AU  - Cesare J
+AD  - 1Mayo Clinic Neuro-Informatics Laboratory, Mayo Clinic, Rochester, Minnesota.
+AD  - 2Department of Neurologic Surgery, Mayo Clinic, Rochester, Minnesota.
+AD  - 4University of Wisconsin, Madison, Wisconsin.
+FAU - Wahood, Waseem
+AU  - Wahood W
+AD  - 5Dr. Kiran C. Patel College of Allopathic Medicine, Nova Southeastern University, 
+      Davie, Florida; and.
+FAU - Alvi, Mohammed Ali
+AU  - Alvi MA
+AD  - 1Mayo Clinic Neuro-Informatics Laboratory, Mayo Clinic, Rochester, Minnesota.
+AD  - 2Department of Neurologic Surgery, Mayo Clinic, Rochester, Minnesota.
+FAU - Onyedimma, Chiduziem E
+AU  - Onyedimma CE
+AD  - 1Mayo Clinic Neuro-Informatics Laboratory, Mayo Clinic, Rochester, Minnesota.
+AD  - 2Department of Neurologic Surgery, Mayo Clinic, Rochester, Minnesota.
+FAU - Ghaith, Abdul Karim
+AU  - Ghaith AK
+AD  - 1Mayo Clinic Neuro-Informatics Laboratory, Mayo Clinic, Rochester, Minnesota.
+AD  - 2Department of Neurologic Surgery, Mayo Clinic, Rochester, Minnesota.
+FAU - Akinnusotu, Oluwatoyin
+AU  - Akinnusotu O
+AD  - 6Meharry Medical College, Nashville, Tennessee.
+FAU - El Sammak, Sally
+AU  - El Sammak S
+AD  - 1Mayo Clinic Neuro-Informatics Laboratory, Mayo Clinic, Rochester, Minnesota.
+AD  - 2Department of Neurologic Surgery, Mayo Clinic, Rochester, Minnesota.
+FAU - Freedman, Brett A
+AU  - Freedman BA
+AD  - 3Department of Orthopedic Surgery, Mayo Clinic, Rochester, Minnesota.
+FAU - Sebastian, Arjun S
+AU  - Sebastian AS
+AD  - 3Department of Orthopedic Surgery, Mayo Clinic, Rochester, Minnesota.
+FAU - Bydon, Mohamad
+AU  - Bydon M
+AD  - 1Mayo Clinic Neuro-Informatics Laboratory, Mayo Clinic, Rochester, Minnesota.
+AD  - 2Department of Neurologic Surgery, Mayo Clinic, Rochester, Minnesota.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20220422
+PL  - United States
+TA  - J Neurosurg Spine
+JT  - Journal of neurosurgery. Spine
+JID - 101223545
+SB  - IM
+OTO - NOTNLM
+OT  - ATP
+OT  - LLIF
+OT  - LTP
+OT  - OLIF
+OT  - XLIF
+OT  - anterior to psoas
+OT  - lateral lumbar interbody fusion
+OT  - lateral to psoas
+OT  - transpsoas lumbar interbody fusion
+OT  - oblique lumbar interbody fusion
+EDAT- 2022/04/23 06:00
+MHDA- 2022/04/23 06:00
+CRDT- 2022/04/22 20:16
+PHST- 2021/08/31 00:00 [received]
+PHST- 2022/02/21 00:00 [accepted]
+PHST- 2022/04/22 20:16 [entrez]
+PHST- 2022/04/23 06:00 [pubmed]
+PHST- 2022/04/23 06:00 [medline]
+AID - 2022.2.SPINE211164 [pii]
+AID - 10.3171/2022.2.SPINE211164 [doi]
+PST - aheadofprint
+SO  - J Neurosurg Spine. 2022 Apr 22:1-17. doi: 10.3171/2022.2.SPINE211164.
+
+PMID- 37779135
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231003
+LR  - 20240122
+IS  - 1437-2320 (Electronic)
+IS  - 0344-5607 (Linking)
+VI  - 46
+IP  - 1
+DP  - 2023 Oct 2
+TI  - Outcomes following surgical and endovascular treatment of extracranial vertebral 
+      artery aneurysms (VAA): a systematic evaluation of the literature.
+PG  - 260
+LID - 10.1007/s10143-023-02171-5 [doi]
+AB  - Extracranial vertebral artery aneurysms are rare complications resulting from 
+      trauma and multiple different diseases. However, the difference between clinical 
+      and surgical profiles is well understood. To investigate the clinical and 
+      interventional outcomes following extracranial vertebral artery aneurysms (VAA) 
+      treatment through a systematic review of the literature to date, an electronic 
+      database search for full-text English articles was conducted following PRISMA 
+      guidelines. The search yielded results on clinical and surgical outcomes for 
+      extracranial VAAs. These results included patient-specific risk factors, 
+      indications, and techniques. Our literature search resulted in 561 articles, of 
+      which 36 studies were qualified to be included in the analysis. A total of 55 
+      patients with multiple various extracranial VAA incidents were included. The mean 
+      age of subjects was 42 years (ranging from 13.0 to 76.0 years), and the majority 
+      of patients were males (71%, n =39). Blunt trauma was the most frequent risk 
+      factor for extracranial VAA formation (35%, n = 19). The majority of aneurysms 
+      (60%) were dissected in nature. The most common form of treatment for 
+      extracranial VAAs was the use of a flow diverter (24%, n=13). Overall, five (9%) 
+      patients had long-term adverse neurological complications following intervention 
+      with 5% (n=3) mortality, 2% (n=1) resulting in unilateral vocal cord paralysis, 
+      and 2% (n=1) resulted in a positive Romberg sign. The mortality rate is 15.7% in 
+      the surgical group, whereas the endovascular treatment did not result in any 
+      mortality. The endovascular approach is a safe and effective treatment of 
+      extracranial VAAs due to its relatively low overall complication rate and lack of 
+      resulting mortality. This is in contrast to the surgical approach which results 
+      in a higher rate of complications, recurrence, and mortality outcomes. An 
+      understanding of the factors and clinical outcomes associated with the incidence 
+      of extracranial VAAs is essential for the future improvement of patient outcomes.
+CI  - © 2023. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+      part of Springer Nature.
+FAU - Akinnusotu, Oluwatoyin
+AU  - Akinnusotu O
+AD  - Meharry Medical College, Nashville, TN, USA.
+FAU - Bhatti, Atiq Ur Rehman
+AU  - Bhatti AUR
+AD  - Neuro-Informatics Laboratory, Mayo Clinic College of Medicine and Science, 
+      Rochester, MN, USA.
+AD  - Department of Neurological Surgery, Mayo Clinic, Rochester, MN, USA.
+FAU - Ghaith, Abdul Karim
+AU  - Ghaith AK
+AD  - Neuro-Informatics Laboratory, Mayo Clinic College of Medicine and Science, 
+      Rochester, MN, USA.
+AD  - Department of Neurological Surgery, Mayo Clinic, Rochester, MN, USA.
+FAU - Nieves, Antonio Bon
+AU  - Nieves AB
+AD  - Neuro-Informatics Laboratory, Mayo Clinic College of Medicine and Science, 
+      Rochester, MN, USA.
+AD  - Department of Neurological Surgery, Mayo Clinic, Rochester, MN, USA.
+FAU - Jarrah, Ryan
+AU  - Jarrah R
+AD  - Neuro-Informatics Laboratory, Mayo Clinic College of Medicine and Science, 
+      Rochester, MN, USA.
+AD  - Department of Neurological Surgery, Mayo Clinic, Rochester, MN, USA.
+FAU - Wahood, Waseem
+AU  - Wahood W
+AD  - Nova Southeastern University Dr. Kiran C. Patel College of Allopathic Medicine, 
+      Davie, FL, 33328, USA.
+FAU - Bydon, Mohamad
+AU  - Bydon M
+AD  - Neuro-Informatics Laboratory, Mayo Clinic College of Medicine and Science, 
+      Rochester, MN, USA. bydon.mohamad@mayo.edu.
+AD  - Department of Neurological Surgery, Mayo Clinic, Rochester, MN, USA. 
+      bydon.mohamad@mayo.edu.
+FAU - Bendok, Bernard R
+AU  - Bendok BR
+AD  - Department of Neurological Surgery, Mayo Clinic, Phoenix, AZ, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20231002
+PL  - Germany
+TA  - Neurosurg Rev
+JT  - Neurosurgical review
+JID - 7908181
+SB  - IM
+MH  - Male
+MH  - Humans
+MH  - Adult
+MH  - Female
+MH  - Vertebral Artery/surgery
+MH  - *Endovascular Procedures/adverse effects
+MH  - Retrospective Studies
+MH  - *Aneurysm/surgery/diagnosis
+MH  - Treatment Outcome
+OTO - NOTNLM
+OT  - Blunt trauma
+OT  - Extracranial vertebral artery aneurysms
+OT  - Ischemic strokes
+EDAT- 2023/10/02 00:41
+MHDA- 2023/10/03 06:47
+CRDT- 2023/10/01 23:07
+PHST- 2023/02/07 00:00 [received]
+PHST- 2023/09/24 00:00 [accepted]
+PHST- 2023/07/06 00:00 [revised]
+PHST- 2023/10/03 06:47 [medline]
+PHST- 2023/10/02 00:41 [pubmed]
+PHST- 2023/10/01 23:07 [entrez]
+AID - 10.1007/s10143-023-02171-5 [pii]
+AID - 10.1007/s10143-023-02171-5 [doi]
+PST - epublish
+SO  - Neurosurg Rev. 2023 Oct 2;46(1):260. doi: 10.1007/s10143-023-02171-5.
+
+PMID- 34098570
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211125
+LR  - 20240207
+IS  - 1524-4040 (Electronic)
+IS  - 0148-396X (Print)
+IS  - 0148-396X (Linking)
+VI  - 89
+IP  - 3
+DP  - 2021 Aug 16
+TI  - Genome-Wide Association Study Identifies Genetic Risk Factors for Spastic 
+      Cerebral Palsy.
+PG  - 435-442
+LID - 10.1093/neuros/nyab184 [doi]
+AB  - BACKGROUND: Although many clinical risk factors of spastic cerebral palsy (CP) 
+      have been identified, the genetic basis of spastic CP is largely unknown. Here, 
+      using whole-genome genetic information linked to a deidentified electronic health 
+      record (BioVU) with replication in the UK Biobank and FinnGen, we perform the 
+      first genome-wide association study (GWAS) for spastic CP. OBJECTIVE: To define 
+      the genetic basis of spastic CP. METHODS: Whole-genome data were obtained using 
+      the multi-ethnic genotyping array (MEGA) genotyping array capturing 
+      single-nucleotide polymorphisms (SNPs), minor allele frequency (MAF) > 0.01, and 
+      imputation quality score (r2) > 0.3, imputed based on the 1000 genomes phase 3 
+      reference panel. Threshold for genome-wide significance was defined after 
+      Bonferroni correction for the total number of SNPs tested (P 
+      < 5.0 × 10-8). Replication analysis (defined as P < .05) was performed in the UK 
+      Biobank and FinnGen. RESULTS: We identify 1 SNP (rs78686911) reaching genome-wide 
+      significance with spastic CP. Expression quantitative trait loci (eQTL) analysis 
+      suggests that rs78686911 decreases expression of GRIK4, a gene that encodes a 
+      high-affinity kainate glutamatergic receptor of largely unknown function. 
+      Replication analysis in the UK Biobank and FinnGen reveals additional SNPs in the 
+      GRIK4 loci associated with CP. CONCLUSION: To our knowledge, we perform the first 
+      GWAS of spastic CP. Our study indicates that genetic variation contributes to CP 
+      risk.
+CI  - © Congress of Neurological Surgeons 2021.
+FAU - Hale, Andrew T
+AU  - Hale AT
+AD  - Vanderbilt University School of Medicine, Medical Scientist Training Program, 
+      Nashville, Tennessee, USA.
+AD  - Surgical Outcomes Center for Kids, Monroe Carell Jr Children's Hospital of 
+      Vanderbilt University, Nashville, Tennessee, USA.
+AD  - Division of Genetic Medicine, Vanderbilt University Medical Center, Nashville, 
+      Tennessee, USA.
+FAU - Akinnusotu, Oluwatoyin
+AU  - Akinnusotu O
+AD  - Surgical Outcomes Center for Kids, Monroe Carell Jr Children's Hospital of 
+      Vanderbilt University, Nashville, Tennessee, USA.
+FAU - He, Jing
+AU  - He J
+AD  - Department of Bioinformatics, Vanderbilt University Medical Center, Nashville, 
+      Tennessee, USA.
+FAU - Wang, Janey
+AU  - Wang J
+AD  - Department of Bioinformatics, Vanderbilt University Medical Center, Nashville, 
+      Tennessee, USA.
+FAU - Hibshman, Natalie
+AU  - Hibshman N
+AD  - Surgical Outcomes Center for Kids, Monroe Carell Jr Children's Hospital of 
+      Vanderbilt University, Nashville, Tennessee, USA.
+FAU - Shannon, Chevis N
+AU  - Shannon CN
+AD  - Surgical Outcomes Center for Kids, Monroe Carell Jr Children's Hospital of 
+      Vanderbilt University, Nashville, Tennessee, USA.
+AD  - Division of Pediatric Neurosurgery, Monroe Carell Jr Children's Hospital of 
+      Vanderbilt University, Nashville, Tennessee, USA.
+FAU - Naftel, Robert P
+AU  - Naftel RP
+AD  - Surgical Outcomes Center for Kids, Monroe Carell Jr Children's Hospital of 
+      Vanderbilt University, Nashville, Tennessee, USA.
+AD  - Division of Pediatric Neurosurgery, Monroe Carell Jr Children's Hospital of 
+      Vanderbilt University, Nashville, Tennessee, USA.
+LA  - eng
+GR  - F30 HL143826/HL/NHLBI NIH HHS/United States
+GR  - MC_PC_17228/MRC_/Medical Research Council/United Kingdom
+GR  - MC_QA137853/MRC_/Medical Research Council/United Kingdom
+GR  - T32 GM007347/GM/NIGMS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Neurosurgery
+JT  - Neurosurgery
+JID - 7802914
+SB  - IM
+CIN - Neurosurgery. 2021 Jun 16;:. PMID: 34133737
+MH  - *Cerebral Palsy/genetics
+MH  - Genetic Predisposition to Disease/genetics
+MH  - *Genome-Wide Association Study
+MH  - Humans
+MH  - Polymorphism, Single Nucleotide/genetics
+MH  - Risk Factors
+PMC - PMC8364821
+OTO - NOTNLM
+OT  - Cerebral palsy
+OT  - GWAS
+OT  - Genetics
+OT  - Spasticity
+EDAT- 2021/06/08 06:00
+MHDA- 2021/11/26 06:00
+CRDT- 2021/06/07 20:33
+PHST- 2020/11/17 00:00 [received]
+PHST- 2021/03/31 00:00 [accepted]
+PHST- 2021/06/08 06:00 [pubmed]
+PHST- 2021/11/26 06:00 [medline]
+PHST- 2021/06/07 20:33 [entrez]
+AID - 6294726 [pii]
+AID - nyab184 [pii]
+AID - 10.1093/neuros/nyab184 [doi]
+PST - ppublish
+SO  - Neurosurgery. 2021 Aug 16;89(3):435-442. doi: 10.1093/neuros/nyab184.
+
+PMID- 33794495
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210921
+LR  - 20210921
+IS  - 1092-0684 (Electronic)
+IS  - 1092-0684 (Linking)
+VI  - 50
+IP  - 4
+DP  - 2021 Apr
+TI  - Sport participation and related head injuries following craniosynostosis 
+      correction: a survey study.
+PG  - E15
+LID - 2021.1.FOCUS20970 [pii]
+LID - 10.3171/2021.1.FOCUS20970 [doi]
+AB  - OBJECTIVE: Craniosynostosis (CS) affects about 1 in 2500 infants and is 
+      predominantly treated by surgical intervention in infancy. Later in childhood, 
+      many of these children wish to participate in sports. However, the safety of 
+      participation is largely anecdotal and based on surgeon experience. The objective 
+      of this survey study was to describe sport participation and sport-related head 
+      injury in CS patients. METHODS: A 16-question survey related to child/parent 
+      demographics, CS surgery history, sport history, and sport-induced head injury 
+      history was made available to patients/parents in the United States through a 
+      series of synostosis organization listservs, as well as synostosis-focused 
+      Facebook groups, between October 2019 and June 2020. Sports were categorized 
+      based on the American Academy of Pediatrics groupings. Pearson's chi-square test, 
+      Fisher's exact test, and the independent-samples t-test were used in the 
+      analysis. RESULTS: Overall, 187 CS patients were described as 63% male, 89% 
+      White, and 88% non-Hispanic, and 89% underwent surgery at 1 year or younger. The 
+      majority (74%) had participated in sports starting at an average age of 5 years 
+      (SD 2.2). Of those participating in sports, contact/collision sport participation 
+      was most common (77%), and 71% participated in multiple sports. Those that played 
+      sports were less frequently Hispanic (2.2% vs 22.9%, p < 0.001) and more 
+      frequently had undergone a second surgery (44% vs 25%, p = 0.021). Only 9 of 139 
+      (6.5%) sport-participating CS patients suffered head injuries; 6 (67%) were 
+      concussions and the remaining 3 were nondescript but did not mention any surgical 
+      needs. CONCLUSIONS: In this nationwide survey of postsurgical CS patients and 
+      parents, sport participation was exceedingly common, with contact sports being 
+      the most common sport category. Few head injuries (mostly concussions) were 
+      reported as related to sport participation. Although this is a selective sample 
+      of CS patients, the initial data suggest that sport participation, even in 
+      contact sports, and typically beginning a few years after CS correction, is safe 
+      and commonplace.
+FAU - Yengo-Kahn, Aaron M
+AU  - Yengo-Kahn AM
+AD  - Departments of1Neurological Surgery and.
+AD  - 2Surgical Outcomes Center for Kids, Monroe Carell Jr. Children's Hospital at 
+      Vanderbilt University; and.
+FAU - Akinnusotu, Oluwatoyin
+AU  - Akinnusotu O
+AD  - 2Surgical Outcomes Center for Kids, Monroe Carell Jr. Children's Hospital at 
+      Vanderbilt University; and.
+AD  - 3Meharry Medical College School of Medicine, Nashville, Tennessee.
+FAU - Wiseman, Alyssa L
+AU  - Wiseman AL
+AD  - 2Surgical Outcomes Center for Kids, Monroe Carell Jr. Children's Hospital at 
+      Vanderbilt University; and.
+FAU - Owais Abdul Ghani, Muhammad
+AU  - Owais Abdul Ghani M
+AD  - 2Surgical Outcomes Center for Kids, Monroe Carell Jr. Children's Hospital at 
+      Vanderbilt University; and.
+AD  - 4Plastic Surgery, Vanderbilt University Medical Center.
+FAU - Shannon, Chevis N
+AU  - Shannon CN
+AD  - Departments of1Neurological Surgery and.
+AD  - 2Surgical Outcomes Center for Kids, Monroe Carell Jr. Children's Hospital at 
+      Vanderbilt University; and.
+FAU - Golinko, Michael S
+AU  - Golinko MS
+AD  - 4Plastic Surgery, Vanderbilt University Medical Center.
+FAU - Bonfield, Christopher M
+AU  - Bonfield CM
+AD  - Departments of1Neurological Surgery and.
+AD  - 2Surgical Outcomes Center for Kids, Monroe Carell Jr. Children's Hospital at 
+      Vanderbilt University; and.
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Neurosurg Focus
+JT  - Neurosurgical focus
+JID - 100896471
+SB  - IM
+MH  - *Athletic Injuries/epidemiology/surgery
+MH  - *Brain Concussion
+MH  - Child
+MH  - Child, Preschool
+MH  - *Craniosynostoses/epidemiology/surgery
+MH  - Female
+MH  - Humans
+MH  - Infant
+MH  - Male
+MH  - *Sports
+MH  - Surveys and Questionnaires
+MH  - United States/epidemiology
+OTO - NOTNLM
+OT  - craniofacial reconstruction
+OT  - craniosynostosis
+OT  - sport participation
+OT  - sport-related head injury
+EDAT- 2021/04/02 06:00
+MHDA- 2021/09/22 06:00
+CRDT- 2021/04/01 20:16
+PHST- 2020/11/04 00:00 [received]
+PHST- 2021/01/14 00:00 [accepted]
+PHST- 2021/04/01 20:16 [entrez]
+PHST- 2021/04/02 06:00 [pubmed]
+PHST- 2021/09/22 06:00 [medline]
+AID - 2021.1.FOCUS20970 [pii]
+AID - 10.3171/2021.1.FOCUS20970 [doi]
+PST - ppublish
+SO  - Neurosurg Focus. 2021 Apr;50(4):E15. doi: 10.3171/2021.1.FOCUS20970.
+
+PMID- 37728398
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231103
+LR  - 20231107
+IS  - 1933-0715 (Electronic)
+IS  - 1933-0707 (Linking)
+VI  - 32
+IP  - 5
+DP  - 2023 Nov 1
+TI  - Neurosurgical management of cervicomedullary compression, spinal stenosis, and 
+      hydrocephalus in pediatric achondroplasia: a systematic review.
+PG  - 597-606
+LID - 10.3171/2023.6.PEDS23162 [doi]
+AB  - OBJECTIVE: Pediatric achondroplasia is often associated with conditions requiring 
+      neurosurgical intervention, including CSF diversion and multilevel spinal 
+      decompression. However, there is a lack of clinical guidelines and reliable 
+      estimates of the benefits and risks of these interventions. This study aimed to 
+      summarize the literature on the neurosurgical management of pediatric 
+      achondroplasia patients in order to aid in determining optimal treatment and 
+      standardization of care. METHODS: A systematic review of peer-reviewed studies 
+      with an objective diagnosis of achondroplasia, patient demographic information, 
+      and available data on neurosurgical interventions performed before 18 years of 
+      age for cervicomedullary compression, spinal stenosis, and hydrocephalus was 
+      performed. Study quality and risks of bias were assessed using standardized 
+      scores. Independent patient data on surgical indications, outcomes, reoperations, 
+      and complication risks were aggregated using means and percentages. RESULTS: Of 
+      204 records, 25 studies with 287 pediatric achondroplasia patients (mean age 25 ± 
+      36 months) treated for cervicomedullary compression (n = 153), spinal stenosis (n 
+      = 100), and obstructive hydrocephalus (n = 34) were evaluated. Symptomatic 
+      cervicomedullary compression occurred early in life (mean age 31 ± 25 months), 
+      with apnea (48%), T2-weighted MRI cord signal (28%), myelopathy (27%), and 
+      delayed motor skills (15%) requiring foramen magnum decompression observed in 99% 
+      of patients, as well as cervical laminectomy in 65% of patients. Although 91% of 
+      treated patients had resolution of symptoms, 2% mortality, 9% reoperation, and 
+      21% complication rates were reported. Spinal stenosis was treated in relatively 
+      older children (mean age 13 ± 3 years) with laminectomy (23%), as well as with 
+      instrumented fusion (73%) for neurogenic claudication (59%), back pain (15%), and 
+      sciatica (8%). Although 95% of patients had symptom resolution after surgery, 17% 
+      reported complications and 18% required reoperation. Of the hydrocephalus 
+      patients (mean age 56 ± 103 months), half were treated with endoscopic third 
+      ventriculostomy (ETV) and half had a shunt placed for progressive 
+      ventriculomegaly (66%), headaches (32%), and delayed cognitive development (4%). 
+      The shunted patients had a 3% mortality rate and an average of 1.5 shunt 
+      revisions per patient. None of the patients who underwent ETV as the primary 
+      procedure required a revision. CONCLUSIONS: Neurosurgical intervention for 
+      pediatric achondroplasia conditions, including cervicomedullary compression, 
+      spinal stenosis, and hydrocephalus, is associated with high recovery rates and 
+      good outcomes. However, complications and reoperations are common. Further 
+      studies with follow-up into adulthood are needed to evaluate the long-term 
+      outcomes.
+FAU - Akinnusotu, Oluwatoyin
+AU  - Akinnusotu O
+AD  - 1Meharry Medical College, Nashville, Tennessee; and.
+FAU - Isaacs, Albert M
+AU  - Isaacs AM
+AD  - 2Department of Neurosurgery, Vanderbilt University Medical Center, Nashville, 
+      Tennessee.
+FAU - Stone, Michelle
+AU  - Stone M
+AD  - 2Department of Neurosurgery, Vanderbilt University Medical Center, Nashville, 
+      Tennessee.
+FAU - Bonfield, Christopher M
+AU  - Bonfield CM
+AD  - 2Department of Neurosurgery, Vanderbilt University Medical Center, Nashville, 
+      Tennessee.
+LA  - eng
+PT  - Journal Article
+PT  - Systematic Review
+DEP - 20230818
+PL  - United States
+TA  - J Neurosurg Pediatr
+JT  - Journal of neurosurgery. Pediatrics
+JID - 101463759
+SB  - IM
+MH  - Child
+MH  - Humans
+MH  - Infant
+MH  - Adolescent
+MH  - Child, Preschool
+MH  - *Spinal Stenosis/complications/surgery
+MH  - Retrospective Studies
+MH  - Laminectomy
+MH  - *Hydrocephalus/surgery/complications
+MH  - *Achondroplasia/complications/surgery
+OTO - NOTNLM
+OT  - achondroplasia
+OT  - congenital
+OT  - dwarfism
+OT  - hydrocephalus
+OT  - spinal decompression
+OT  - spinal deformity
+OT  - spinal fusion
+OT  - spinal instability
+OT  - spinal stenosis
+OT  - spine
+EDAT- 2023/09/20 12:53
+MHDA- 2023/11/03 06:44
+CRDT- 2023/09/20 09:23
+PHST- 2023/06/08 00:00 [received]
+PHST- 2023/06/26 00:00 [accepted]
+PHST- 2023/11/03 06:44 [medline]
+PHST- 2023/09/20 12:53 [pubmed]
+PHST- 2023/09/20 09:23 [entrez]
+AID - 10.3171/2023.6.PEDS23162 [doi]
+PST - epublish
+SO  - J Neurosurg Pediatr. 2023 Aug 18;32(5):597-606. doi: 10.3171/2023.6.PEDS23162. 
+      Print 2023 Nov 1.
+
+PMID- 36849469
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230301
+LR  - 20230308
+IS  - 1544-1717 (Electronic)
+IS  - 1544-1709 (Print)
+IS  - 1544-1709 (Linking)
+VI  - 21
+IP  - Suppl 2
+DP  - 2023 Feb
+TI  - Supporting Mental Health and Psychological Resilience Among the Health Care 
+      Workforce: Gaps in the Evidence and Urgency for Action.
+PG  - S100-S102
+LID - 10.1370/afm.2933 [doi]
+AB  - Since the COVID-19 pandemic started, health care workers have faced various 
+      challenges to their mental health due to extreme working conditions. Yet these 
+      workers have continued to deliver care in the face of stressors and death among 
+      their patients, family, and social networks. The pandemic highlighted weaknesses 
+      within our health care work environment, especially pertaining to a need to 
+      provide increased psychological resilience to clinicians. There has been little 
+      research to determine the best practices for psychological health in workplaces 
+      and interventions to improve psychological resilience. Although some studies have 
+      attempted to provide solutions, there are noteworthy gaps in the literature on 
+      effective interventions to use in the time of crisis. The most common include an 
+      absence of preintervention data concerning the overall mental well-being of 
+      health care workers, inconsistent application of interventions, and a lack of 
+      standard assessment tools across studies. There is an urgent need for 
+      system-level strategies that not only transform the way workplaces are organized, 
+      but also destigmatize, recognize, support, and treat mental health conditions 
+      among health care workers. There is also need for more evidence-based resources 
+      to improve resilience on the job, and thereby increase clinicians' capacity to 
+      address new medical crises. Doing so may mitigate rates of burnout and other 
+      psychological conditions in times of crisis among health care workers.
+CI  - © 2023 Annals of Family Medicine, Inc.
+FAU - Akinnusotu, Oluwatoyin
+AU  - Akinnusotu O
+AD  - Department of Neurosurgery, Mayo Clinic Rochester, Minnesota 
+      oakinnusotu19@email.mmc.edu.
+FAU - Bhatti, Atiq
+AU  - Bhatti A
+AD  - Department of Neurosurgery, Mayo Clinic Rochester, Minnesota.
+FAU - Doubeni, Chyke A
+AU  - Doubeni CA
+AD  - Center for Health Equity, The Ohio State University Wexner Medical Center, 
+      Columbus, Ohio.
+FAU - Williams, Mark
+AU  - Williams M
+AD  - Department of Psychiatry and Psychology, Mayo Clinic Rochester, Minnesota.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - United States
+TA  - Ann Fam Med
+JT  - Annals of family medicine
+JID - 101167762
+SB  - IM
+MH  - Humans
+MH  - Mental Health
+MH  - Pandemics
+MH  - *Resilience, Psychological
+MH  - *COVID-19/epidemiology
+MH  - Workforce
+PMC - PMC9970679
+OTO - NOTNLM
+OT  - COVID-19
+OT  - burnout
+OT  - delivery of health care
+OT  - health care professionals
+OT  - health workforce
+OT  - mental health
+OT  - organizational change
+OT  - psychological resilience
+OT  - stress
+OT  - surge capacity
+OT  - workplace
+COIS- Conflicts of interest: authors report none.
+EDAT- 2023/02/28 06:00
+MHDA- 2023/03/03 06:00
+CRDT- 2023/02/27 23:40
+PHST- 2022/05/23 00:00 [received]
+PHST- 2022/11/09 00:00 [revised]
+PHST- 2022/11/11 00:00 [accepted]
+PHST- 2023/02/27 23:40 [entrez]
+PHST- 2023/02/28 06:00 [pubmed]
+PHST- 2023/03/03 06:00 [medline]
+AID - 21/Suppl_2/S100 [pii]
+AID - 10.1370/afm.2933 [doi]
+PST - ppublish
+SO  - Ann Fam Med. 2023 Feb;21(Suppl 2):S100-S102. doi: 10.1370/afm.2933.
+
+PMID- 33325582
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210708
+LR  - 20210708
+IS  - 1540-8175 (Electronic)
+IS  - 0742-2822 (Print)
+IS  - 0742-2822 (Linking)
+VI  - 38
+IP  - 2
+DP  - 2021 Feb
+TI  - Conversion of left atrial volume to diameter for automated estimation of sudden 
+      cardiac death risk in hypertrophic cardiomyopathy.
+PG  - 183-188
+LID - 10.1111/echo.14943 [doi]
+AB  - BACKGROUND: A subset of patients with hypertrophic cardiomyopathy (HCM) is at 
+      high risk of sudden cardiac death (SCD). Practice guidelines endorse use of a 
+      risk calculator, which requires entry of left atrial (LA) diameter. However, 
+      American Society of Echocardiography (ASE) guidelines recommend the use of LA 
+      volume index (LAVI) for routine quantification of LA size. The aims of this study 
+      were to (a) develop a model to estimate LA diameter from LAVI and (b) evaluate 
+      whether substitution of measured LA diameter by estimated LA diameter derived 
+      from LAVI reclassifies HCM-SCD risk. METHODS: The study cohort was comprised of 
+      500 randomly selected HCM patients who underwent transthoracic echocardiography 
+      (TTE). LA diameter and LAVI were measured offline using digital clips from TTE. 
+      Linear regression models were developed to estimate LA diameter from LAVI. A 
+      European Society of Cardiology endorsed equation estimated SCD risk, which was 
+      measured using LA diameter and estimated LA diameter derived from LAVI. RESULTS: 
+      The mean LAVI was 48.5 ± 18.8 mL/m(2) . The derived LA diameter was 45.1 mm (SD: 
+      5.5 mm), similar to the measured LA diameter (45.1 mm, SD: 7.1 mm). Median SCD 
+      risk at 5 years estimated by measured LA diameter was 2.22% (interquartile range 
+      (IQR): 1.39, 3.56), while median risk calculated by estimated LA diameter was 
+      2.18% (IQR: 1.44, 3.52). 476/500 (95%) patients maintained the same risk 
+      classification regardless of whether the measured or estimated LA diameter was 
+      used. CONCLUSIONS: Substitution of measured LA diameter by estimated LA diameter 
+      in the HCM-SCD calculator did not reclassify risk.
+CI  - © 2020 The Authors. Echocardiography published by Wiley Periodicals LLC.
+FAU - Bhopalwala, Huzefa
+AU  - Bhopalwala H
+AD  - Department of Cardiovascular Medicine, Mayo Clinic, Rochester, MN, USA.
+FAU - Dewaswala, Nakeya
+AU  - Dewaswala N
+AD  - Department of Cardiovascular Medicine, Mayo Clinic, Rochester, MN, USA.
+FAU - Liu, Sijia
+AU  - Liu S
+AD  - Department of Health Sciences Research, Mayo Clinic, Rochester, MN, USA.
+FAU - Scott, Christopher G
+AU  - Scott CG
+AD  - Department of Health Sciences Research, Mayo Clinic, Rochester, MN, USA.
+FAU - Welper, James M
+AU  - Welper JM
+AD  - Department of Cardiovascular Medicine, Mayo Clinic, Rochester, MN, USA.
+FAU - Akinnusotu, Oluwatoyin
+AU  - Akinnusotu O
+AD  - Department of Cardiovascular Medicine, Mayo Clinic, Rochester, MN, USA.
+FAU - Bos, Johan Martijn
+AU  - Bos JM
+AD  - Department of Cardiovascular Medicine, Mayo Clinic, Rochester, MN, USA.
+FAU - Ommen, Steve R
+AU  - Ommen SR
+AD  - Department of Cardiovascular Medicine, Mayo Clinic, Rochester, MN, USA.
+FAU - Ackerman, Michael J
+AU  - Ackerman MJ
+AD  - Department of Cardiovascular Medicine, Mayo Clinic, Rochester, MN, USA.
+AD  - Department of Pediatric and Adolescent Medicine, Mayo Clinic, Rochester, MN, USA.
+AD  - Department of Molecular Pharmacology & Experimental Therapeutics, Mayo Clinic, 
+      Rochester, MN, USA.
+FAU - Pellikka, Patricia A
+AU  - Pellikka PA
+AD  - Department of Cardiovascular Medicine, Mayo Clinic, Rochester, MN, USA.
+FAU - Geske, Jeffrey B
+AU  - Geske JB
+AD  - Department of Cardiovascular Medicine, Mayo Clinic, Rochester, MN, USA.
+FAU - Noseworthy, Peter
+AU  - Noseworthy P
+AD  - Department of Cardiovascular Medicine, Mayo Clinic, Rochester, MN, USA.
+AD  - Robert D. and Patricia E. Kern Center for the Science of Health Care Delivery, 
+      Mayo Clinic, Rochester, MN, USA.
+FAU - Arruda-Olson, Adelaide M
+AU  - Arruda-Olson AM
+AUID- ORCID: 0000-0001-9541-9899
+AD  - Department of Cardiovascular Medicine, Mayo Clinic, Rochester, MN, USA.
+AD  - Robert D. and Patricia E. Kern Center for the Science of Health Care Delivery, 
+      Mayo Clinic, Rochester, MN, USA.
+LA  - eng
+GR  - K01 HL124045/HL/NHLBI NIH HHS/United States
+PT  - Journal Article
+DEP - 20201216
+PL  - United States
+TA  - Echocardiography
+JT  - Echocardiography (Mount Kisco, N.Y.)
+JID - 8511187
+SB  - IM
+MH  - *Cardiomyopathy, Hypertrophic/complications/diagnostic imaging
+MH  - Death, Sudden, Cardiac
+MH  - Echocardiography
+MH  - Heart Atria/diagnostic imaging
+MH  - Humans
+MH  - Risk Factors
+PMC - PMC7986336
+OTO - NOTNLM
+OT  - hypertrophic cardiomyopathy
+OT  - left atrial diameter
+OT  - left atrial volume index
+OT  - sudden cardiac death risk
+EDAT- 2020/12/17 06:00
+MHDA- 2021/07/09 06:00
+CRDT- 2020/12/16 08:45
+PHST- 2020/09/30 00:00 [received]
+PHST- 2020/11/12 00:00 [revised]
+PHST- 2020/11/15 00:00 [accepted]
+PHST- 2020/12/17 06:00 [pubmed]
+PHST- 2021/07/09 06:00 [medline]
+PHST- 2020/12/16 08:45 [entrez]
+AID - ECHO14943 [pii]
+AID - 10.1111/echo.14943 [doi]
+PST - ppublish
+SO  - Echocardiography. 2021 Feb;38(2):183-188. doi: 10.1111/echo.14943. Epub 2020 Dec 
+      16.

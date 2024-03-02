@@ -1,0 +1,1146 @@
+PMID- 31879710
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220412
+IS  - 2405-8440 (Print)
+IS  - 2405-8440 (Electronic)
+IS  - 2405-8440 (Linking)
+VI  - 5
+IP  - 12
+DP  - 2019 Dec
+TI  - Opioid-induced toxic leukoencephalopathy: A case report and review of the 
+      literature.
+PG  - e03005
+LID - 10.1016/j.heliyon.2019.e03005 [doi]
+LID - e03005
+AB  - IMPORTANCE: Reports of toxic leukoencephalopathy (TLE) due to opioids have been 
+      extensively documented within the adult literature. There is a paucity of 
+      literature with respect to the incidence, complications, and outcomes of TLE in 
+      the pediatric population. OBJECTIVE: To describe a rare complication of opioid 
+      ingestion in the pediatric population and serve as the first large review of 
+      published cases of opioid-induced leukoencephalopathy. Thirteen case reports with 
+      varying treatments are herein reviewed in addition to our own case. The range of 
+      treatment modalities, morbidity and mortality are broad and outcomes secondary to 
+      supportive care versus neurosurgical intervention is explored. EVIDENCE REVIEW: 
+      All cases of pediatric opioid-induced toxic leukoencephalopathy published on 
+      pubmed and google scholar were included in this review. FINDINGS: We report the 
+      case of a 4-year old male surgically treated for acute oxycodone-induced TLE who 
+      initially presented with Glascow Coma Scale of 4 and a comatose state for weeks. 
+      Over the next several months he recovered with spasticity of all extremities, 
+      oral aversion, substantial vision loss, and the ability to speak in short 
+      sentences. In addition, we found thirteen other reported cases of opioid-induced 
+      leukoencephalopathy reported in the literature. The treatment approaches 
+      described range from supportive care alone, to invasive neurosurgical 
+      interventions including placement of extraventricular drains, removal of 
+      hemorrhagic tissue, and craniectomy. The outcomes of patients with opioid-induced 
+      leukoencephalopathy is also variable. Reports demonstrate a range of outcomes 
+      that include patients who died to those with no residual neurologic deficits. 
+      CONCLUSIONS: This review of reported pediatric cases of opioid-induced 
+      leukoencephalopathy highlights the importance of early neurosurgical intervention 
+      for prevention of devastating outcomes.
+CI  - © 2019 Published by Elsevier Ltd.
+FAU - Wheaton, Taylor
+AU  - Wheaton T
+AD  - St Christopher's Hospital for Children, Department of Critical Care Medicine, 160 
+      E Erie Ave, Philadelphia, Pennsylvania, 19134, USA.
+FAU - Toll, Brandon J
+AU  - Toll BJ
+AD  - Shriners Hospitals for Children-Philadelphia, Departments of Orthopaedic and 
+      Neurosurgery, 3551 N Broad St, Philadelphia, PA, 19140, USA.
+FAU - Breznak, Kara
+AU  - Breznak K
+AD  - St. Christopher's Hospital for Children, Department of Neurosurgery, 160 Erie 
+      Avenue, Philadelphia, PA, 19134, USA.
+FAU - Da-Silva, Shonola
+AU  - Da-Silva S
+AD  - Shriners Hospitals for Children-Philadelphia, Department of Critical Care, 3551 N 
+      Broad St, Philadelphia, PA, 19140, USA.
+FAU - Melvin, Joseph
+AU  - Melvin J
+AD  - St. Christopher's Hospital for Children, Department of Neurology, 160 Erie 
+      Avenue, Philadelphia, PA, 19134, USA.
+FAU - Misra, Amit
+AU  - Misra A
+AD  - St Christopher's Hospital for Children, Department of Critical Care Medicine, 160 
+      E Erie Ave, Philadelphia, Pennsylvania, 19134, USA.
+FAU - Hwang, Steven W
+AU  - Hwang SW
+AD  - Shriners Hospitals for Children-Philadelphia, Departments of Orthopaedic and 
+      Neurosurgery, 3551 N Broad St, Philadelphia, PA, 19140, USA.
+AD  - St. Christopher's Hospital for Children, Department of Neurosurgery, 160 Erie 
+      Avenue, Philadelphia, PA, 19134, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20191211
+PL  - England
+TA  - Heliyon
+JT  - Heliyon
+JID - 101672560
+PMC - PMC6920259
+OTO - NOTNLM
+OT  - Clinical toxicology
+OT  - Critical care
+OT  - Medicine
+OT  - Nervous system
+OT  - Neurology
+OT  - Neuroscience
+OT  - Neurosurgery
+OT  - Opioid ingestion
+OT  - Pediatrics
+OT  - Toxic leukoencephlaopathy
+EDAT- 2019/12/28 06:00
+MHDA- 2019/12/28 06:01
+CRDT- 2019/12/28 06:00
+PHST- 2019/05/30 00:00 [received]
+PHST- 2019/09/30 00:00 [revised]
+PHST- 2019/12/05 00:00 [accepted]
+PHST- 2019/12/28 06:00 [entrez]
+PHST- 2019/12/28 06:00 [pubmed]
+PHST- 2019/12/28 06:01 [medline]
+AID - S2405-8440(19)36664-2 [pii]
+AID - e03005 [pii]
+AID - 10.1016/j.heliyon.2019.e03005 [doi]
+PST - epublish
+SO  - Heliyon. 2019 Dec 11;5(12):e03005. doi: 10.1016/j.heliyon.2019.e03005. 
+      eCollection 2019 Dec.
+
+PMID- 35851613
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20221003
+LR  - 20221021
+IS  - 1433-0350 (Electronic)
+IS  - 0256-7040 (Linking)
+VI  - 38
+IP  - 10
+DP  - 2022 Oct
+TI  - Risk factors for proximal junctional kyphosis after pediatric spinal deformity 
+      surgery with halo gravity traction.
+PG  - 1913-1922
+LID - 10.1007/s00381-022-05596-3 [doi]
+AB  - PURPOSE: To determine risk factors for proximal junctional kyphosis (PJK) in 
+      pediatric patients with scoliosis undergoing halo gravity traction (HGT) prior to 
+      posterior spinal fusion (PSF). METHODS: Data from consecutive patients who 
+      underwent PSF after HGT with 2-year follow-up were retrospectively collected from 
+      a single center. Patients were divided into two groups: PJK vs. no PJK. RESULTS: 
+      Twenty-five patients (age 13.6 ± 3.1 years) underwent HGT for a mean of 
+      42 ± 37 days. Eight patients (32%) developed radiographic PJK and 1 (4%) 
+      developed proximal junctional failure. PJK patients had greater loss of cervical 
+      lordosis (-17.4 ± 23.2 vs. 2.7 ± 16.2°, p < 0.05), greater increase in lumbar 
+      lordosis (9.3 ± 19.5 vs. -2.8 ± 12.8°; p = 0.034) during traction, and smaller 
+      overall major coronal curve angle correction (-16.8 ± 30.6 vs. -36.6 ± 16.4°; 
+      p = 0.026). From postoperative to last follow-up, PJK patients had a greater 
+      increase in upper end vertebrae (UEV) slope (3.3 ± 7.8 vs. -4.0 ± 7.7°; 
+      p = 0.004). Selection of UIV based on which vertebra was most level either 
+      pre-traction or in-traction was not associated with PJK development (p > 0.05). 
+      CONCLUSION: In-traction radiographic changes of decreased cervical lordosis, 
+      decreased major coronal curve, increased lumbar lordosis, and disruption of 
+      cervical sagittal balance at last follow-up may have implications for level 
+      selection and risk of PJK.
+CI  - © 2022. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+      part of Springer Nature.
+FAU - Amanullah, Amir
+AU  - Amanullah A
+AUID- ORCID: 0000-0002-3489-3770
+AD  - Lewis Katz School of Medicine at Temple University, PA, Philadelphia, USA.
+FAU - Piazza, Martin
+AU  - Piazza M
+AUID- ORCID: 0000-0001-8575-6840
+AD  - Shriners Children's Philadelphia, 3551 N Broad Street, Philadelphia, PA, 19140, 
+      USA.
+FAU - Qutteineh, Bilal
+AU  - Qutteineh B
+AUID- ORCID: 0000-0001-7118-8600
+AD  - Shriners Children's Philadelphia, 3551 N Broad Street, Philadelphia, PA, 19140, 
+      USA.
+FAU - Samdani, Amer F
+AU  - Samdani AF
+AUID- ORCID: 0000-0002-4206-610X
+AD  - Shriners Children's Philadelphia, 3551 N Broad Street, Philadelphia, PA, 19140, 
+      USA.
+FAU - Pahys, Joshua M
+AU  - Pahys JM
+AUID- ORCID: 0000-0001-8965-354X
+AD  - Shriners Children's Philadelphia, 3551 N Broad Street, Philadelphia, PA, 19140, 
+      USA.
+FAU - Toll, Brandon J
+AU  - Toll BJ
+AUID- ORCID: 0000-0002-5036-8781
+AD  - Shriners Children's Philadelphia, 3551 N Broad Street, Philadelphia, PA, 19140, 
+      USA.
+FAU - Kim, Andrew Jeongyoon
+AU  - Kim AJ
+AUID- ORCID: 0000-0001-8369-1932
+AD  - Shriners Children's Philadelphia, 3551 N Broad Street, Philadelphia, PA, 19140, 
+      USA.
+FAU - Hwang, Steven W
+AU  - Hwang SW
+AUID- ORCID: 0000-0003-0832-3683
+AD  - Shriners Children's Philadelphia, 3551 N Broad Street, Philadelphia, PA, 19140, 
+      USA. stevenhwang@hotmail.com.
+LA  - eng
+PT  - Journal Article
+DEP - 20220718
+PL  - Germany
+TA  - Childs Nerv Syst
+JT  - Child's nervous system : ChNS : official journal of the International Society for 
+      Pediatric Neurosurgery
+JID - 8503227
+SB  - IM
+MH  - Adolescent
+MH  - Child
+MH  - Humans
+MH  - *Kyphosis/diagnostic imaging/etiology/surgery
+MH  - *Lordosis/diagnostic imaging/etiology/surgery
+MH  - Postoperative Complications/diagnostic imaging/epidemiology/etiology
+MH  - Retrospective Studies
+MH  - Risk Factors
+MH  - *Spinal Fusion/adverse effects
+MH  - Thoracic Vertebrae/surgery
+OTO - NOTNLM
+OT  - Complications
+OT  - Level selection
+OT  - Proximal junction failure
+OT  - Scoliosis
+EDAT- 2022/07/20 06:00
+MHDA- 2022/10/04 06:00
+CRDT- 2022/07/19 08:35
+PHST- 2022/03/28 00:00 [received]
+PHST- 2022/06/23 00:00 [accepted]
+PHST- 2022/07/20 06:00 [pubmed]
+PHST- 2022/10/04 06:00 [medline]
+PHST- 2022/07/19 08:35 [entrez]
+AID - 10.1007/s00381-022-05596-3 [pii]
+AID - 10.1007/s00381-022-05596-3 [doi]
+PST - ppublish
+SO  - Childs Nerv Syst. 2022 Oct;38(10):1913-1922. doi: 10.1007/s00381-022-05596-3. 
+      Epub 2022 Jul 18.
+
+PMID- 33534366
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210528
+LR  - 20231107
+IS  - 1539-2570 (Electronic)
+IS  - 0271-6798 (Linking)
+VI  - 41
+IP  - 3
+DP  - 2021 Mar 1
+TI  - Congenital Scoliosis of the Pediatric Cervical Spine: Characterization of a 
+      17-Patient Operative Cohort.
+PG  - e211-e216
+LID - 10.1097/BPO.0000000000001718 [doi]
+AB  - BACKGROUND: Congenital cervical scoliosis is rare, and there is a paucity of 
+      literature describing surgical outcomes. We report surgical outcomes in a 
+      17-patient cohort with surgical correction for congenital cervical scoliosis and 
+      identify risk factors associated with complications. METHODS: Data were 
+      retrospectively collected from a single-center cohort of 17 consecutive patients 
+      (9 boys, 8 girls) receiving surgical deformity correction for congenital cervical 
+      scoliosis. The mean age at surgery was 7.1±3.4 years with an average follow-up of 
+      3.6±1.1 years. RESULTS: There were 24 operations performed on 17 patients, and 4 
+      complications (17%) were reported in the series, including one each of pressure 
+      ulcer, asystole, vertebral artery injury, and pseudarthrosis. The mean 
+      preoperative major curve angle was 36±20 degrees, which improved to 24±14 degrees 
+      (P=0.02). The mean operative time was 8±2 hours with a mean estimated blood loss 
+      of 298±690 mL. Halo-gravity traction was used in 5 patients and 6 cases were 
+      staged with anterior/posterior procedures. CONCLUSIONS: Congenital scoliosis of 
+      the cervical spine is a complex process. The spinal deformity of this nature can 
+      be managed successfully with carefully planned and executed surgical correction. 
+      LEVEL OF EVIDENCE: Level IV-retrospective review.
+CI  - Copyright © 2020 Wolters Kluwer Health, Inc. All rights reserved.
+FAU - Toll, Brandon J
+AU  - Toll BJ
+AD  - Departments of Orthopaedic Surgery and Neurosurgery, Shriners Hospitals for 
+      Children-Philadelphia, Philadelphia, PA.
+FAU - Samdani, Amer F
+AU  - Samdani AF
+AD  - Departments of Orthopaedic Surgery and Neurosurgery, Shriners Hospitals for 
+      Children-Philadelphia, Philadelphia, PA.
+FAU - Amanullah, Amir A
+AU  - Amanullah AA
+AD  - Departments of Orthopaedic Surgery and Neurosurgery, Shriners Hospitals for 
+      Children-Philadelphia, Philadelphia, PA.
+FAU - Pahys, Joshua M
+AU  - Pahys JM
+AD  - Departments of Orthopaedic Surgery and Neurosurgery, Shriners Hospitals for 
+      Children-Philadelphia, Philadelphia, PA.
+FAU - Janjua, Muhammad Burhan
+AU  - Janjua MB
+AD  - Departments of Orthopaedic Surgery and Neurosurgery, Shriners Hospitals for 
+      Children-Philadelphia, Philadelphia, PA.
+FAU - Hwang, Steven W
+AU  - Hwang SW
+AD  - Departments of Orthopaedic Surgery and Neurosurgery, Shriners Hospitals for 
+      Children-Philadelphia, Philadelphia, PA.
+CN  - Pediatric Spine Study Group
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Pediatr Orthop
+JT  - Journal of pediatric orthopedics
+JID - 8109053
+SB  - IM
+MH  - Cervical Vertebrae/diagnostic imaging/*surgery
+MH  - Child
+MH  - Child, Preschool
+MH  - Diskectomy
+MH  - Female
+MH  - Humans
+MH  - Laminectomy
+MH  - Male
+MH  - Operative Time
+MH  - Postoperative Complications
+MH  - Radiography
+MH  - Retrospective Studies
+MH  - Scoliosis/*congenital/diagnostic imaging/*surgery
+MH  - Spinal Fusion
+MH  - Traction
+COIS- The authors declare no conflicts of interest.
+EDAT- 2021/02/04 06:00
+MHDA- 2021/05/29 06:00
+CRDT- 2021/02/03 12:28
+PHST- 2021/02/03 12:28 [entrez]
+PHST- 2021/02/04 06:00 [pubmed]
+PHST- 2021/05/29 06:00 [medline]
+AID - 01241398-202103000-00003 [pii]
+AID - 10.1097/BPO.0000000000001718 [doi]
+PST - ppublish
+SO  - J Pediatr Orthop. 2021 Mar 1;41(3):e211-e216. doi: 10.1097/BPO.0000000000001718.
+
+PMID- 37470388
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231023
+LR  - 20231023
+IS  - 1528-1159 (Electronic)
+IS  - 0362-2436 (Linking)
+VI  - 48
+IP  - 20
+DP  - 2023 Oct 15
+TI  - Pain After Anterior Vertebral Body Tethering: Incidence, Risk Factors, and 
+      Timing.
+PG  - 1464-1471
+LID - 10.1097/BRS.0000000000004779 [doi]
+AB  - STUDY DESIGN: Retrospective case series. OBJECTIVE: To examine the incidence and 
+      risk factors for postoperative pain following anterior vertebral body tethering 
+      (AVBT) for adolescent idiopathic scoliosis (AIS). SUMMARY OF BACKGROUND DATA: Up 
+      to 78% of patients with AIS report preoperative pain; it is the greatest patient 
+      concern surrounding surgery. Pain significantly decreases following posterior 
+      spinal fusion, but pain following AVBT is poorly understood. MATERIALS AND 
+      METHODS: We retrospectively reviewed 279 patients with a two-year follow-up after 
+      AVBT for AIS. We collected demographic, radiographic, and clinical data pertinent 
+      to postoperative pain at each time interval of preoperative and postoperative 
+      visits (6 wk, 6 mo, 1 y, and annually thereafter). RESULTS: Within our cohort, 
+      68.1% of patients reported preoperative pain. Older age ( P =0.014) and greater 
+      proximal thoracic ( P =0.013) and main thoracic ( P =0.002) coronal curve 
+      magnitudes were associated with preoperative pain. Pain at any time point > 6 
+      weeks postoperatively was reported in 41.6% of patients; it was associated with 
+      the female sex ( P =0.032), need for revision surgery ( P =0.019), and greater 
+      lateral displacement of the apical lumbar vertebrae ( P =0.028). The association 
+      between preoperative and postoperative pain trended toward significance ( P 
+      =0.07). At 6 months postoperatively, 91.8% had pain resolution; the same number 
+      remained pain-free at the time of last follow-up. The presence of a postoperative 
+      complication was associated with new-onset postoperative pain that resolved ( P 
+      =0.009). Only 8.2% had persistent pain, although no risk factors were found to be 
+      associated with persistent pain. CONCLUSION: In our cohort of 279 patients with a 
+      minimum 2-year follow-up after AVBT, 68.1% reported preoperative pain. Nearly 42% 
+      reported postoperative pain at any time point, but only 8.2% had persistent pain. 
+      Postoperative pain after AVBT was associated with female sex, revision surgery, 
+      and Lenke lumbar modifier. AVBT is associated with a significant reduction in 
+      pain, and few patients report long-term postoperative pain.
+CI  - Copyright © 2023 Wolters Kluwer Health, Inc. All rights reserved.
+FAU - Yang, Michael J
+AU  - Yang MJ
+AD  - Shriners Children's-Philadelphia, Philadelphia, PA.
+AD  - Tufts Medical Center, Boston, MA.
+FAU - Samdani, Amer F
+AU  - Samdani AF
+AD  - Shriners Children's-Philadelphia, Philadelphia, PA.
+FAU - Pahys, Joshua M
+AU  - Pahys JM
+AD  - Shriners Children's-Philadelphia, Philadelphia, PA.
+FAU - Quinonez, Alejandro
+AU  - Quinonez A
+AD  - Shriners Children's-Philadelphia, Philadelphia, PA.
+FAU - McGarry, Maureen
+AU  - McGarry M
+AD  - Shriners Children's-Philadelphia, Philadelphia, PA.
+FAU - Toll, Brandon
+AU  - Toll B
+AD  - Shriners Children's-Philadelphia, Philadelphia, PA.
+FAU - Grewal, Harsh
+AU  - Grewal H
+AD  - Shriners Children's-Philadelphia, Philadelphia, PA.
+FAU - Hwang, Steven W
+AU  - Hwang SW
+AD  - Shriners Children's-Philadelphia, Philadelphia, PA.
+LA  - eng
+PT  - Journal Article
+DEP - 20230720
+PL  - United States
+TA  - Spine (Phila Pa 1976)
+JT  - Spine
+JID - 7610646
+SB  - IM
+MH  - Adolescent
+MH  - Humans
+MH  - Female
+MH  - Retrospective Studies
+MH  - Thoracic Vertebrae/diagnostic imaging/surgery
+MH  - Vertebral Body
+MH  - Incidence
+MH  - *Scoliosis/epidemiology/surgery
+MH  - *Kyphosis
+MH  - Pain, Postoperative
+MH  - *Spinal Fusion/adverse effects
+MH  - Risk Factors
+MH  - Treatment Outcome
+MH  - Follow-Up Studies
+COIS- The authors report no conflicts of interest.
+EDAT- 2023/07/20 13:06
+MHDA- 2023/10/23 00:42
+CRDT- 2023/07/20 08:14
+PHST- 2023/04/26 00:00 [received]
+PHST- 2023/07/03 00:00 [accepted]
+PHST- 2023/10/23 00:42 [medline]
+PHST- 2023/07/20 13:06 [pubmed]
+PHST- 2023/07/20 08:14 [entrez]
+AID - 00007632-990000000-00418 [pii]
+AID - 10.1097/BRS.0000000000004779 [doi]
+PST - ppublish
+SO  - Spine (Phila Pa 1976). 2023 Oct 15;48(20):1464-1471. doi: 
+      10.1097/BRS.0000000000004779. Epub 2023 Jul 20.
+
+PMID- 29749884
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190520
+LR  - 20190520
+IS  - 1933-0715 (Electronic)
+IS  - 1933-0707 (Linking)
+VI  - 22
+IP  - 2
+DP  - 2018 Aug
+TI  - Perioperative complications and risk factors in neuromuscular scoliosis surgery.
+PG  - 207-213
+LID - 2018.2.PEDS17724 [pii]
+LID - 10.3171/2018.2.PEDS17724 [doi]
+AB  - OBJECTIVE High rates of perioperative complications are associated with deformity 
+      correction in neuromuscular scoliosis. The current study aimed to evaluate 
+      complications associated with surgical correction of neuromuscular scoliosis and 
+      to characterize potential risk factors. METHODS Data were retrospectively 
+      collected from a single-center cohort of 102 consecutive patients who underwent 
+      spinal fusions for neuromuscular scoliosis between January 2008 and December 2016 
+      and who had a minimum of 6 months of follow-up. A subgroup analysis was performed 
+      on data from patients who had at least 2 years of follow-up. Univariate and 
+      multivariate regression analyses, as well as binary correlational models and 
+      Student t-tests, were employed for further statistical analysis. RESULTS The 
+      present cohort had 53 boys and 49 girls with a mean age at surgery of 14.0 years 
+      (± 2.7 SD, range 7.5-19.5 years). The most prevalent diagnoses were cerebral 
+      palsy (26.5%), spinal cord injury (24.5%), and neurofibromatosis (10.8%). 
+      Analysis reflected an overall perioperative complication rate of 27% (37 
+      complications in 27 patients), 81.1% of which constituted major complications (n 
+      = 30) compared to a rate of 18.9% for minor complications (n = 7). Complications 
+      were predicted by nonambulatory status (p = 0.037), increased intraoperative 
+      blood loss (p = 0.012), increased intraoperative time (p = 0.046), greater pelvic 
+      obliquity at follow-up (p = 0.028), and greater magnitude of sagittal profile at 
+      follow-up (p = 0.048). Pulmonary comorbidity (p = 0.001), previous operations (p 
+      = 0.013), history of seizures (p = 0.046), diagnosis of myelomeningocele (p = 
+      0.046), increase in weight postoperatively (p < 0.005), and increased lumbar 
+      lordosis at follow-up (p = 0.015) were identified as risk factors for 
+      perioperative infection. CONCLUSIONS These results suggest that in neuromuscular 
+      scoliosis, patients with preexisting pulmonary compromise and greater 
+      intraoperative blood loss have the greatest risk of experiencing a major 
+      perioperative complication following surgical deformity correction.
+FAU - Toll, Brandon J
+AU  - Toll BJ
+FAU - Samdani, Amer F
+AU  - Samdani AF
+FAU - Janjua, M Burhan
+AU  - Janjua MB
+FAU - Gandhi, Shashank
+AU  - Gandhi S
+FAU - Pahys, Joshua M
+AU  - Pahys JM
+FAU - Hwang, Steven W
+AU  - Hwang SW
+LA  - eng
+PT  - Journal Article
+DEP - 20180511
+PL  - United States
+TA  - J Neurosurg Pediatr
+JT  - Journal of neurosurgery. Pediatrics
+JID - 101463759
+SB  - IM
+MH  - Adolescent
+MH  - Child
+MH  - Cognition Disorders/etiology
+MH  - Cohort Studies
+MH  - Female
+MH  - Humans
+MH  - Intraoperative Period
+MH  - Male
+MH  - Nervous System Diseases/etiology
+MH  - Neuromuscular Diseases/*complications/diagnostic imaging/*surgery
+MH  - Postoperative Complications/*physiopathology
+MH  - Radiography
+MH  - Respiration Disorders/etiology
+MH  - Risk Factors
+MH  - Scoliosis/*complications/diagnostic imaging/*surgery
+MH  - Spinal Fusion/*methods
+MH  - Treatment Outcome
+OTO - NOTNLM
+OT  - ASA = American Society of Anesthesiologists
+OT  - NMS = neuromuscular scoliosis
+OT  - SCI = spinal cord injury
+OT  - SSI = surgical site infection
+OT  - TBI = traumatic brain injury
+OT  - cerebral palsy
+OT  - complications
+OT  - neuromuscular
+OT  - outcomes
+OT  - scoliosis
+OT  - spine
+EDAT- 2018/05/12 06:00
+MHDA- 2019/05/21 06:00
+CRDT- 2018/05/12 06:00
+PHST- 2018/05/12 06:00 [pubmed]
+PHST- 2019/05/21 06:00 [medline]
+PHST- 2018/05/12 06:00 [entrez]
+AID - 2018.2.PEDS17724 [pii]
+AID - 10.3171/2018.2.PEDS17724 [doi]
+PST - ppublish
+SO  - J Neurosurg Pediatr. 2018 Aug;22(2):207-213. doi: 10.3171/2018.2.PEDS17724. Epub 
+      2018 May 11.
+
+PMID- 33065694
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210324
+LR  - 20210324
+IS  - 1528-1159 (Electronic)
+IS  - 0362-2436 (Linking)
+VI  - 46
+IP  - 3
+DP  - 2021 Feb 1
+TI  - Risk Factors for Proximal Junctional Kyphosis Following Surgical Deformity 
+      Correction in Pediatric Neuromuscular Scoliosis.
+PG  - 169-174
+LID - 10.1097/BRS.0000000000003755 [doi]
+AB  - STUDY DESIGN: Single-center retrospective cohort analysis. OBJECTIVE: The aim of 
+      this study was to evaluate risk factors associated with the development of 
+      proximal junctional kyphosis (PJK) in pediatric neuromuscular scoliosis (NMS). 
+      SUMMARY OF BACKGROUND DATA: PJK is a common cause of reoperation in adult 
+      deformity but has been less well reported in pediatric NMS. METHODS: Sixty 
+      consecutive pediatric patients underwent spinal fusion for NMS with a minimum 
+      2-year follow-up. PJK was defined as >10° increase between the inferior end plate 
+      of the upper instrumented vertebra (UIV) and the superior end plate of the 
+      vertebra two segments above. Regression analyses as well as binary correlational 
+      models and Student t tests were employed for further statistical analysis 
+      assessing variables of primary and compensatory curve magnitudes, thoracic 
+      kyphosis, proximal kyphosis, lumbar lordosis, pelvic obliquity, shoulder 
+      imbalance, Risser classification, and sagittal profile. RESULTS: The present 
+      cohort consisted of 29 boys and 31 girls with a mean age at surgery of 14 ± 2.7 
+      years. The most prevalent diagnoses were spinal cord injury (23%) and cerebral 
+      palsy (20%). Analysis reflected an overall radiographic PJK rate of 27% (n = 16) 
+      and a proximal junctional failure rate of 7% (n = 4). No significant association 
+      was identified with previously suggested risk factors such as extent of rostral 
+      fixation (P = 0.750), rod metal type (P = 0.776), laminar hooks (P = 0.654), 
+      implant density (P = 0.386), nonambulatory functional status (P = 0.254), or 
+      pelvic fixation (P = 0.746). Significant risk factors for development of PJK 
+      included perioperative use of halo gravity traction (38%, P = 0.029), greater 
+      postoperative C2 sagittal translation (P = 0.030), decreased proximal kyphosis 
+      preoperatively (P = 0.002), and loss of correction of primary curve magnitude at 
+      follow-up (P = 0.047). Increase in lumbar lordosis from post-op to last follow-up 
+      trended toward significance (P = 0.055). CONCLUSION: Twenty-seven percent of 
+      patients with NMS developed PJK, and 7% had revision surgery. Those treated with 
+      halo gravity traction or with greater postoperative C2 sagittal translation, loss 
+      of primary curve correction, and smaller preoperative proximal kyphosis had the 
+      greatest risk of developing PJK.Level of Evidence: 4.
+CI  - Copyright © 2020 Wolters Kluwer Health, Inc. All rights reserved.
+FAU - Toll, Brandon J
+AU  - Toll BJ
+AD  - Departments of Orthopaedic Surgery and Neurosurgery, Shriners Hospitals for 
+      Children-Philadelphia, Philadelphia, PA.
+FAU - Gandhi, Shashank V
+AU  - Gandhi SV
+AD  - Department of Neurological Surgery, Donald and Barbara Zucker School of Medicine 
+      at Hofstra/Northwell, Hempstead, NY.
+FAU - Amanullah, Amir
+AU  - Amanullah A
+AD  - Departments of Orthopaedic Surgery and Neurosurgery, Shriners Hospitals for 
+      Children-Philadelphia, Philadelphia, PA.
+FAU - Samdani, Amer F
+AU  - Samdani AF
+AD  - Departments of Orthopaedic Surgery and Neurosurgery, Shriners Hospitals for 
+      Children-Philadelphia, Philadelphia, PA.
+FAU - Janjua, M Burhan
+AU  - Janjua MB
+AD  - Department of Neurosurgery, Mercy Health, Rockford, IL.
+FAU - Kong, Qingwu
+AU  - Kong Q
+AD  - Departments of Orthopaedic Surgery and Neurosurgery, Shriners Hospitals for 
+      Children-Philadelphia, Philadelphia, PA.
+FAU - Pahys, Joshua M
+AU  - Pahys JM
+AD  - Departments of Orthopaedic Surgery and Neurosurgery, Shriners Hospitals for 
+      Children-Philadelphia, Philadelphia, PA.
+FAU - Hwang, Steven W
+AU  - Hwang SW
+AD  - Departments of Orthopaedic Surgery and Neurosurgery, Shriners Hospitals for 
+      Children-Philadelphia, Philadelphia, PA.
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Spine (Phila Pa 1976)
+JT  - Spine
+JID - 7610646
+SB  - IM
+MH  - Adolescent
+MH  - Cerebral Palsy/epidemiology
+MH  - Child
+MH  - Cohort Studies
+MH  - Female
+MH  - Humans
+MH  - Kyphosis/*epidemiology/surgery
+MH  - Lordosis/epidemiology
+MH  - Male
+MH  - Postoperative Complications/*epidemiology
+MH  - Reoperation/*statistics & numerical data
+MH  - Retrospective Studies
+MH  - Risk Factors
+MH  - Scoliosis/*surgery
+MH  - Spinal Fusion/adverse effects
+MH  - Spine/surgery
+EDAT- 2020/10/17 06:00
+MHDA- 2021/03/25 06:00
+CRDT- 2020/10/16 20:19
+PHST- 2020/10/17 06:00 [pubmed]
+PHST- 2021/03/25 06:00 [medline]
+PHST- 2020/10/16 20:19 [entrez]
+AID - 00007632-202102010-00009 [pii]
+AID - 10.1097/BRS.0000000000003755 [doi]
+PST - ppublish
+SO  - Spine (Phila Pa 1976). 2021 Feb 1;46(3):169-174. doi: 
+      10.1097/BRS.0000000000003755.
+
+PMID- 34860260
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220404
+LR  - 20220405
+IS  - 1433-0350 (Electronic)
+IS  - 0256-7040 (Linking)
+VI  - 38
+IP  - 3
+DP  - 2022 Mar
+TI  - Do drains help reduce the risk of complications after thoracoplasties in 
+      posterior spinal fusions for adolescent idiopathic scoliosis?
+PG  - 557-564
+LID - 10.1007/s00381-021-05421-3 [doi]
+AB  - PURPOSE: In adolescent idiopathic scoliosis (AIS), the rib prominence is a major 
+      cosmetic concern which can be improved using thoracoplasties. We sought to 
+      determine if the use of deep drains helps minimize the development of pleural 
+      effusions after thoracoplasties. METHODS: Retrospective study of 45 patients with 
+      AIS undergoing posterior spinal fusion (PSF) and thoracoplasties. RESULTS: Thirty 
+      six out of 45 patients (80.0%) required placement of a deep surgical drain, and 
+      16 out of 45 (35.6%) developed pleural effusions after PSF with concomitant 
+      thoracoplasty. Of the 16 patients who developed pleural effusion, 12 of 36 
+      (33.3%) required a placement of a deep drain (p > 0.05). Of the total 45 patients 
+      in this cohort, 3 patients (6.7%) required chest tubes, and 4 patients (8.9%) 
+      developed surgical site infections (SSIs). We found that deep drains were 
+      associated with a lower incidence of SSI (2.8% vs 33.3%; p = 0.021). Patients who 
+      had a pleural effusion had longer ICU stays (p = 0.037) and longer requirements 
+      of nasal oxygen (p = 0.025). DISCUSSION: The presence of a pleural effusion in 
+      patients with AIS undergoing PSF with thoracoplasty was associated with longer 
+      oxygen requirements and length of hospital ICU admission. Thirty six percent of 
+      patients with thoracoplasties developed pleural effusions, but deep subfascial 
+      drains did not significantly decrease the incidence of pleural effusions.
+CI  - © 2021. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+      part of Springer Nature.
+FAU - Amanullah, Amir
+AU  - Amanullah A
+AUID- ORCID: 0000-0002-3489-3770
+AD  - Lewis Katz School of Medicine, Temple University, Philadelphia, PA, USA.
+FAU - Patel, Akul
+AU  - Patel A
+AUID- ORCID: 0000-0002-9850-7840
+AD  - Department of Orthopaedic Surgery and Sports Medicine, Temple University 
+      Hospital, Philadelphia, PA, USA.
+FAU - Samdani, Amer F
+AU  - Samdani AF
+AUID- ORCID: 0000-0002-4206-610X
+AD  - Shriners Hospitals for Children-Philadelphia, 3551 N Broad Street, Philadelphia, 
+      PA, 19140, USA.
+FAU - Pahys, Joshua M
+AU  - Pahys JM
+AUID- ORCID: 0000-0001-8965-354X
+AD  - Shriners Hospitals for Children-Philadelphia, 3551 N Broad Street, Philadelphia, 
+      PA, 19140, USA.
+FAU - Toll, Brandon J
+AU  - Toll BJ
+AUID- ORCID: 0000-0002-5036-8781
+AD  - Shriners Hospitals for Children-Philadelphia, 3551 N Broad Street, Philadelphia, 
+      PA, 19140, USA.
+FAU - Ackshota, Nissim
+AU  - Ackshota N
+AUID- ORCID: 0000-0002-5046-9435
+AD  - Shriners Hospitals for Children-Philadelphia, 3551 N Broad Street, Philadelphia, 
+      PA, 19140, USA.
+FAU - Kim, Andrew Jeongyoon
+AU  - Kim AJ
+AUID- ORCID: 0000-0001-8369-1932
+AD  - Shriners Hospitals for Children-Philadelphia, 3551 N Broad Street, Philadelphia, 
+      PA, 19140, USA.
+FAU - Hwang, Steven W
+AU  - Hwang SW
+AUID- ORCID: 0000-0003-0832-3683
+AD  - Shriners Hospitals for Children-Philadelphia, 3551 N Broad Street, Philadelphia, 
+      PA, 19140, USA. stevenhwang@hotmail.com.
+LA  - eng
+PT  - Journal Article
+DEP - 20211203
+PL  - Germany
+TA  - Childs Nerv Syst
+JT  - Child's nervous system : ChNS : official journal of the International Society for 
+      Pediatric Neurosurgery
+JID - 8503227
+SB  - IM
+MH  - Adolescent
+MH  - Humans
+MH  - *Kyphosis
+MH  - Retrospective Studies
+MH  - *Scoliosis/surgery
+MH  - *Spinal Fusion/adverse effects
+MH  - *Thoracoplasty/adverse effects
+OTO - NOTNLM
+OT  - Chest tube
+OT  - Deep drain
+OT  - Pleural effusion
+OT  - Subfascial drain
+OT  - Surgical complications
+OT  - Thoracoplasty
+EDAT- 2021/12/04 06:00
+MHDA- 2022/04/05 06:00
+CRDT- 2021/12/03 12:17
+PHST- 2021/09/11 00:00 [received]
+PHST- 2021/11/23 00:00 [accepted]
+PHST- 2021/12/04 06:00 [pubmed]
+PHST- 2022/04/05 06:00 [medline]
+PHST- 2021/12/03 12:17 [entrez]
+AID - 10.1007/s00381-021-05421-3 [pii]
+AID - 10.1007/s00381-021-05421-3 [doi]
+PST - ppublish
+SO  - Childs Nerv Syst. 2022 Mar;38(3):557-564. doi: 10.1007/s00381-021-05421-3. Epub 
+      2021 Dec 3.
+
+PMID- 30783030
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190429
+LR  - 20190429
+IS  - 1423-0305 (Electronic)
+IS  - 1016-2291 (Linking)
+VI  - 54
+IP  - 2
+DP  - 2019
+TI  - Risk Factors for Wound Infections after Deformity Correction Surgery in 
+      Neuromuscular Scoliosis.
+PG  - 108-115
+LID - 10.1159/000496693 [doi]
+AB  - OBJECTIVE: This study aims to elucidate surgical risk factors in neuromuscular 
+      scoliosis (NMS) with respect to wound site infection after spinal fusion. 
+      METHODS: A retrospective review was performed of all patients treated surgically 
+      for NMS between January 2008 and December 2016 (minimum 6 months' follow-up). A 
+      sub-cohort of 60 patients with minimum 2 years of follow-up data was also 
+      analyzed. RESULTS: In 102 patients (53 boys and 49 girls), the mean age at 
+      surgery was 14.0 years (SD ±2.7). Mean follow-up was 2.53 years (±1.66), and mean 
+      time to presentation of infection was 2.14 months (±4.95). The overall 
+      perioperative complication rate was 26.5%, with 14.7% of patients developing deep 
+      wound infection. Gram-negative bacteria were responsible for 60% of infections; 
+      20% were Gram positive, and 20% involved both types. Pulmonary comorbidities (p = 
+      0.007), pre- to postoperative increase in weight (p = 0.010), exaggerated lumbar 
+      lordosis at follow-up (p = 0.008), history of seizures (p = 0.046), previous 
+      myelomeningocele repair (p = 0.046), and previous operations (p = 0.013) were 
+      significant risk factors for infection. CONCLUSION: Our data suggest that in the 
+      pediatric population treated surgically for NMS, wound infection is strongly 
+      associated with postoperative increase in body weight, residual lumbar lordosis, 
+      pulmonary comorbidity, history of myelomeningocele repair, seizures, and previous 
+      operations.
+CI  - © 2019 S. Karger AG, Basel.
+FAU - Janjua, M Burhan
+AU  - Janjua MB
+AD  - Departments of Orthopaedic Surgery and Neurosurgery, Shriners Hospitals for 
+      Children-Philadelphia, Philadelphia, Pennsylvania, USA.
+AD  - Department of Orthopedic and Neurosurgery, University of Pennsylvania Hospital, 
+      Philadelphia, Pennsylvania, USA.
+AD  - Department of Pediatric Neurosurgery, UT Southwestern Medical Center, Dallas, 
+      Texas, USA.
+FAU - Toll, Brandon
+AU  - Toll B
+AD  - Departments of Orthopaedic Surgery and Neurosurgery, Shriners Hospitals for 
+      Children-Philadelphia, Philadelphia, Pennsylvania, USA.
+FAU - Ghandi, Shashank
+AU  - Ghandi S
+AD  - Departments of Orthopaedic Surgery and Neurosurgery, Shriners Hospitals for 
+      Children-Philadelphia, Philadelphia, Pennsylvania, USA.
+FAU - Sebert, Michael E
+AU  - Sebert ME
+AD  - Department of Infectious Disease, UT Southwestern Medical Center, Dallas, Texas, 
+      USA.
+FAU - Swift, Dale M
+AU  - Swift DM
+AD  - Department of Pediatric Neurosurgery, UT Southwestern Medical Center, Dallas, 
+      Texas, USA.
+FAU - Pahys, Joshua M
+AU  - Pahys JM
+AD  - Departments of Orthopaedic Surgery and Neurosurgery, Shriners Hospitals for 
+      Children-Philadelphia, Philadelphia, Pennsylvania, USA.
+FAU - Samdani, Amer F
+AU  - Samdani AF
+AD  - Departments of Orthopaedic Surgery and Neurosurgery, Shriners Hospitals for 
+      Children-Philadelphia, Philadelphia, Pennsylvania, USA.
+FAU - Hwang, Steven W
+AU  - Hwang SW
+AD  - Departments of Orthopaedic Surgery and Neurosurgery, Shriners Hospitals for 
+      Children-Philadelphia, Philadelphia, Pennsylvania, USA, stevenhwang@hotmail.com.
+LA  - eng
+PT  - Journal Article
+DEP - 20190215
+PL  - Switzerland
+TA  - Pediatr Neurosurg
+JT  - Pediatric neurosurgery
+JID - 9114967
+SB  - IM
+MH  - Adolescent
+MH  - Child
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Male
+MH  - Retrospective Studies
+MH  - Risk Factors
+MH  - Scoliosis/*diagnostic imaging/*surgery
+MH  - Spinal Fusion/*adverse effects/trends
+MH  - Surgical Wound Infection/*diagnostic imaging/*etiology
+MH  - Young Adult
+OTO - NOTNLM
+OT  - Correction surgery
+OT  - Neuromuscular scoliosis
+OT  - Wound infection
+EDAT- 2019/02/21 06:00
+MHDA- 2019/04/30 06:00
+CRDT- 2019/02/21 06:00
+PHST- 2018/07/10 00:00 [received]
+PHST- 2019/01/04 00:00 [accepted]
+PHST- 2019/02/21 06:00 [pubmed]
+PHST- 2019/04/30 06:00 [medline]
+PHST- 2019/02/21 06:00 [entrez]
+AID - 000496693 [pii]
+AID - 10.1159/000496693 [doi]
+PST - ppublish
+SO  - Pediatr Neurosurg. 2019;54(2):108-115. doi: 10.1159/000496693. Epub 2019 Feb 15.
+
+PMID- 33730238
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210625
+LR  - 20210625
+IS  - 1433-0350 (Electronic)
+IS  - 0256-7040 (Linking)
+VI  - 37
+IP  - 6
+DP  - 2021 Jun
+TI  - Crossing the cervicothoracic junction in complex pediatric deformity using 
+      anterior cervical discectomy and fusion: a case series.
+PG  - 1957-1964
+LID - 10.1007/s00381-021-05109-8 [doi]
+AB  - PURPOSE: Proximal instrumentation failure is a challenge in posterior spinal 
+      fusions (PSFs) crossing the cervicothoracic junction. High rates of proximal 
+      junctional kyphosis (PJK) and loss of fixation have been reported. In this 
+      single-center retrospective cohort study, we evaluate the utility of anterior 
+      cervical discectomy and fusion (ACDF) in addition to traditional PSF crossing the 
+      cervicothoracic junction in order to mitigate implant-related complications. 
+      METHODS: All patients who underwent PSF across the cervicothoracic junction with 
+      ACDF with 2 years of follow-up data were reviewed. We analyzed clinical, 
+      surgical, and radiographic measures such as operative details, presence of PJK, 
+      complications, instrumentation migration, curve angles, and vertebral 
+      translation. Measurements were compared statistically using paired samples 
+      t-tests. RESULTS: Ten patients (6 girls, 4 boys) met inclusion criteria with a 
+      mean age at surgery of 12.8 ± 3.3 years and follow-up of 3.38 ± 0.9 years. All 
+      patients underwent ACDF (range 1-3 levels), and 8 (80%) underwent traction. The 
+      average number of levels fused posteriorly was 16.7 ± 4.7 and anteriorly was 2.4 
+      ± 0.7. The major coronal curve averaged 48.8 ± 34.7° preoperatively and 
+      23.3±13.3° postoperatively (p = 0.028). The average major sagittal curve was 83.5 
+      ± 24.2° preoperatively, resolving to 53.9 ± 25.5° (p=0.001). One patient suffered 
+      rod breakage at T7, and another developed symptomatic PJK 19 months 
+      postoperatively. CONCLUSION: Our data suggest that ACDF procedures added to PSFs 
+      crossing the cervicothoracic junction offer promise for reducing risk for 
+      instrumentation-related complications. ACDF also significantly helps improve and 
+      maintain both coronal and sagittal correction over 2 years. LEVEL OF EVIDENCE: 4.
+FAU - Toll, Brandon J
+AU  - Toll BJ
+AD  - Shriners Hospitals for Children-Philadelphia, 3551 N Broad St, Philadelphia, PA, 
+      19140, USA.
+FAU - Samdani, Amer F
+AU  - Samdani AF
+AD  - Shriners Hospitals for Children-Philadelphia, 3551 N Broad St, Philadelphia, PA, 
+      19140, USA. asamdani@shrinenet.org.
+FAU - Pahys, Joshua M
+AU  - Pahys JM
+AD  - Shriners Hospitals for Children-Philadelphia, 3551 N Broad St, Philadelphia, PA, 
+      19140, USA.
+FAU - Amanullah, Amir A
+AU  - Amanullah AA
+AD  - Shriners Hospitals for Children-Philadelphia, 3551 N Broad St, Philadelphia, PA, 
+      19140, USA.
+FAU - Hwang, Steven W
+AU  - Hwang SW
+AD  - Shriners Hospitals for Children-Philadelphia, 3551 N Broad St, Philadelphia, PA, 
+      19140, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20210317
+PL  - Germany
+TA  - Childs Nerv Syst
+JT  - Child's nervous system : ChNS : official journal of the International Society for 
+      Pediatric Neurosurgery
+JID - 8503227
+SB  - IM
+MH  - Child
+MH  - Diskectomy
+MH  - Female
+MH  - Humans
+MH  - *Kyphosis/diagnostic imaging/surgery
+MH  - Male
+MH  - Postoperative Complications
+MH  - Retrospective Studies
+MH  - *Scoliosis/surgery
+MH  - *Spinal Fusion
+MH  - Spine
+MH  - Thoracic Vertebrae/diagnostic imaging/surgery
+MH  - Treatment Outcome
+OTO - NOTNLM
+OT  - Early-onset scoliosis
+OT  - Outcomes
+OT  - Posterior spinal fusion
+OT  - Spine
+EDAT- 2021/03/18 06:00
+MHDA- 2021/06/29 06:00
+CRDT- 2021/03/17 17:45
+PHST- 2021/01/13 00:00 [received]
+PHST- 2021/03/01 00:00 [accepted]
+PHST- 2021/03/18 06:00 [pubmed]
+PHST- 2021/06/29 06:00 [medline]
+PHST- 2021/03/17 17:45 [entrez]
+AID - 10.1007/s00381-021-05109-8 [pii]
+AID - 10.1007/s00381-021-05109-8 [doi]
+PST - ppublish
+SO  - Childs Nerv Syst. 2021 Jun;37(6):1957-1964. doi: 10.1007/s00381-021-05109-8. Epub 
+      2021 Mar 17.
+
+PMID- 37581449
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230816
+LR  - 20231020
+IS  - 1524-4040 (Electronic)
+IS  - 0148-396X (Linking)
+VI  - 93
+IP  - 3
+DP  - 2023 Sep 1
+TI  - Commentary: Anterior Cervical Discectomy and Fusion Versus Microendoscopic 
+      Posterior Cervical Foraminotomy for Unilateral Cervical Radiculopathy: A 1-Year 
+      Cost-Utility Analysis.
+PG  - e59-e60
+LID - 10.1227/neu.0000000000002494 [doi]
+FAU - Toll, Brandon J
+AU  - Toll BJ
+AD  - Department of Neurosurgery, Lahey Hospital & Medical Center, Burlington , 
+      Massachusetts , USA.
+FAU - Whitmore, Robert G
+AU  - Whitmore RG
+AUID- ORCID: 0000-0002-3188-4254
+LA  - eng
+PT  - Comment
+PT  - Journal Article
+DEP - 20230404
+PL  - United States
+TA  - Neurosurgery
+JT  - Neurosurgery
+JID - 7802914
+SB  - IM
+CON - Neurosurgery. 2023 Sep 1;93(3):628-635. PMID: 36995083
+MH  - Humans
+MH  - *Foraminotomy
+MH  - Cost-Benefit Analysis
+MH  - *Radiculopathy/surgery
+MH  - Neck/surgery
+MH  - Diskectomy
+MH  - Cervical Vertebrae/surgery
+MH  - Treatment Outcome
+MH  - *Spinal Fusion
+MH  - Retrospective Studies
+EDAT- 2023/08/15 12:43
+MHDA- 2023/08/16 06:43
+CRDT- 2023/08/15 09:03
+PHST- 2023/02/23 00:00 [received]
+PHST- 2023/02/24 00:00 [accepted]
+PHST- 2023/08/16 06:43 [medline]
+PHST- 2023/08/15 12:43 [pubmed]
+PHST- 2023/08/15 09:03 [entrez]
+AID - 00006123-202309000-00030 [pii]
+AID - 10.1227/neu.0000000000002494 [doi]
+PST - ppublish
+SO  - Neurosurgery. 2023 Sep 1;93(3):e59-e60. doi: 10.1227/neu.0000000000002494. Epub 
+      2023 Apr 4.
+
+PMID- 32224656
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210111
+LR  - 20230720
+IS  - 2160-3251 (Electronic)
+IS  - 2160-3251 (Linking)
+VI  - 10
+IP  - 1
+DP  - 2020 Jan-Mar
+TI  - Novel Use of Subcostal Polyethylene Bands to Manage Tumor-Related Scoliosis 
+      Requiring Serial Imaging: A Case Report.
+PG  - e0351
+LID - 10.2106/JBJS.CC.19.00351 [doi]
+AB  - CASE: A 16-year-old male patient with severe kyphoscoliosis, paraplegia, and 
+      neurogenic bowel/bladder caused by a juvenile pilocytic astrocytoma was treated 
+      surgically using a hybrid fusion construct with polyethylene bands after neoplasm 
+      resection. Owing to the necessity of serial postoperative magnetic resonance 
+      imaging studies to evaluate the recurrence of pathology and known effect of metal 
+      artifact from spinal instrumentation, preservation of radiographic resolution was 
+      critical. CONCLUSION: We describe the novel utility of polyethylene bands placed 
+      around the ribs as a safe and effective form of hybrid construct for reducing 
+      radiographic metal artifact in spinal deformity cases requiring serial imaging.
+FAU - Toll, Brandon J
+AU  - Toll BJ
+AUID- ORCID: 0000-0002-5036-8781
+AD  - Departments of Orthopaedic Surgery and Neurosurgery, Shriners Hospitals for 
+      Children-Philadelphia, Philadelphia, Pennsylvania.
+FAU - Pahys, Joshua M
+AU  - Pahys JM
+AUID- ORCID: 0000-0001-8965-354
+FAU - Yezdani, Samir G
+AU  - Yezdani SG
+AUID- ORCID: 0000-0001-5760-7936
+FAU - Samdani, Amer F
+AU  - Samdani AF
+AUID- ORCID: 0000-0002-4206-610
+FAU - Hwang, Steven W
+AU  - Hwang SW
+AUID- ORCID: 0000-0003-0832-3683
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+PL  - United States
+TA  - JBJS Case Connect
+JT  - JBJS case connector
+JID - 101596828
+SB  - IM
+MH  - Adolescent
+MH  - Astrocytoma/complications/diagnostic imaging/*surgery
+MH  - Humans
+MH  - Magnetic Resonance Imaging
+MH  - Male
+MH  - Scoliosis/diagnostic imaging/etiology/*surgery
+MH  - Spinal Cord Neoplasms/complications/diagnostic imaging/*surgery
+MH  - Spinal Fusion/*instrumentation
+EDAT- 2020/04/01 06:00
+MHDA- 2021/01/12 06:00
+CRDT- 2020/04/01 06:00
+PHST- 2020/04/01 06:00 [entrez]
+PHST- 2020/04/01 06:00 [pubmed]
+PHST- 2021/01/12 06:00 [medline]
+AID - 01709767-202003000-00045 [pii]
+AID - 10.2106/JBJS.CC.19.00351 [doi]
+PST - ppublish
+SO  - JBJS Case Connect. 2020 Jan-Mar;10(1):e0351. doi: 10.2106/JBJS.CC.19.00351.
+
+PMID- 32649096
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210203
+LR  - 20230720
+IS  - 2160-3251 (Electronic)
+IS  - 2160-3251 (Linking)
+VI  - 10
+IP  - 2
+DP  - 2020 Apr-Jun
+TI  - Single-Staged Management of Pediatric Neuropathic Scoliosis with 
+      Intradural-Extramedullary Schwannoma and Improvement in Intraoperative 
+      Neuromonitoring: A Case Report.
+PG  - e0352
+LID - 10.2106/JBJS.CC.19.00352 [doi]
+AB  - CASE: A 16-year-old girl with lumbar prominence presented to our outpatient 
+      clinic complaining of sporadic back pain without paresthesia. Radiographic 
+      investigation revealed a 68° left thoracolumbar curve with the apex at L1. 
+      Preoperative magnetic resonance imaging identified a mass at T10-11, subsequently 
+      confirmed by pathology as a schwannoma. She was treated surgically with resection 
+      and posterior spinal fusion in a single-staged procedure under neuromonitoring 
+      guidance. Intraoperative improvement in motor evoked potentials after resection 
+      informed the decision to perform simultaneous deformity correction. CONCLUSION: 
+      We discuss the unusual coincidence of a schwannoma with scoliosis and our 
+      management algorithm based on operative changes in neuromonitoring.
+FAU - Toll, Brandon J
+AU  - Toll BJ
+AUID- ORCID: 0000-0002-5036-8781
+AD  - Departments of Orthopaedic Surgery and Neurosurgery, Shriners Hospitals for 
+      Children-Philadelphia, Philadelphia, Pennsylvania.
+FAU - Samdani, Amer F
+AU  - Samdani AF
+AUID- ORCID: 0000-0002-4206-610
+AD  - Departments of Orthopaedic Surgery and Neurosurgery, Shriners Hospitals for 
+      Children-Philadelphia, Philadelphia, Pennsylvania.
+FAU - Pahys, Joshua M
+AU  - Pahys JM
+AUID- ORCID: 0000-0001-8965-354
+AD  - Departments of Orthopaedic Surgery and Neurosurgery, Shriners Hospitals for 
+      Children-Philadelphia, Philadelphia, Pennsylvania.
+FAU - Franco, Alier
+AU  - Franco A
+AUID- ORCID: 0000-0002-4171-9033
+AD  - Division of Intraoperative Neuromonitoring, SpecialtyCare, Brentwood, Tennessee.
+FAU - Yezdani, Samir G
+AU  - Yezdani SG
+AUID- ORCID: 0000-0001-5760-7936
+AD  - Departments of Orthopaedic Surgery and Neurosurgery, Shriners Hospitals for 
+      Children-Philadelphia, Philadelphia, Pennsylvania.
+FAU - Hwang, Steven W
+AU  - Hwang SW
+AUID- ORCID: 0000-0003-0832-3683
+AD  - Departments of Orthopaedic Surgery and Neurosurgery, Shriners Hospitals for 
+      Children-Philadelphia, Philadelphia, Pennsylvania.
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+PL  - United States
+TA  - JBJS Case Connect
+JT  - JBJS case connector
+JID - 101596828
+SB  - IM
+MH  - Adolescent
+MH  - Female
+MH  - Humans
+MH  - Intraoperative Neurophysiological Monitoring
+MH  - Magnetic Resonance Imaging
+MH  - Neurilemmoma/*complications/diagnostic imaging/surgery
+MH  - Scoliosis/*complications/diagnostic imaging/surgery
+MH  - Spinal Cord Neoplasms/*complications/diagnostic imaging/surgery
+MH  - Spinal Fusion
+EDAT- 2020/07/11 06:00
+MHDA- 2021/02/04 06:00
+CRDT- 2020/07/11 06:00
+PHST- 2020/07/11 06:00 [entrez]
+PHST- 2020/07/11 06:00 [pubmed]
+PHST- 2021/02/04 06:00 [medline]
+AID - 01709767-202006000-00015 [pii]
+AID - 10.2106/JBJS.CC.19.00352 [doi]
+PST - ppublish
+SO  - JBJS Case Connect. 2020 Apr-Jun;10(2):e0352. doi: 10.2106/JBJS.CC.19.00352.

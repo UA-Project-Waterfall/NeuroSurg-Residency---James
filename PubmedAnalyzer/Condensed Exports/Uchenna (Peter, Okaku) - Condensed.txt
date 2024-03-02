@@ -1,0 +1,142 @@
+PMID- 37466685
+TI  - Global pediatric craniopharyngioma management modalities and outcomes.
+FAU - Tang, Alan R
+AU  - Tang AR
+AD  - Vanderbilt University School of Medicine, TN, Nashville, USA.
+FAU - Haizel-Cobbina, Joseline
+AU  - Haizel-Cobbina J
+AD  - Department of Neurological Surgery, Division of Pediatric Neurological Surgery, Vanderbilt University Medical Center, 2200 Children's Way, 9226 Doctors Office Tower, TN, 37232-9557, Nashville, USA.
+AD  - Vanderbilt Institute for Global Health, Vanderbilt University Medical Center, Nashville, TN, USA.
+FAU - Khalid, Muhammad Usman
+AU  - Khalid MU
+AD  - Department of Neurological Surgery, University of Kentucky College of Medicine, Lexington, KY, USA.
+FAU - Peter-Okaka, Uchenna I
+AU  - Peter-Okaka UI
+AD  - Department of Neurosurgery, Rutgers University, New Brunswick, NJ, USA.
+FAU - Prosak, Olivia L
+AU  - Prosak OL
+AD  - Vanderbilt University School of Medicine, TN, Nashville, USA.
+FAU - Mushtaq, Naureen
+AU  - Mushtaq N
+AD  - Department of Oncology, Section of Pediatric Oncology, Aga Khan University Hospital, Karachi, Pakistan.
+FAU - Dewan, Michael C
+AU  - Dewan MC
+AD  - Department of Neurological Surgery, Division of Pediatric Neurological Surgery, Vanderbilt University Medical Center, 2200 Children's Way, 9226 Doctors Office Tower, TN, 37232-9557, Nashville, USA. michael.dewan@vumc.org.
+AD  - Vanderbilt Institute for Global Health, Vanderbilt University Medical Center, Nashville, TN, USA. michael.dewan@vumc.org.
+TA  - Childs Nerv Syst
+JT  - Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery
+
+
+PMID- 38383364
+TI  - Are there any benefits for post-operative splinting after carpal tunnel release? A systematic review and meta-analysis.
+FAU - Peter-Okaka, Uchenna I
+AU  - Peter-Okaka UI
+AD  - Department of Neurosurgery, Rutgers University New-Brunswick, Moncton, NJ, USA.
+FAU - Shiri, Samira
+AU  - Shiri S
+AD  - Clinical Research Development Center, Taleghani and Imam Ali Hospital, Kermanshah University of Medical Sciences, Kermanshah, Iran.
+FAU - Owodunni, Oluwafemi
+AU  - Owodunni O
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, NM, USA.
+FAU - Bagheri, Seyed Reza
+AU  - Bagheri SR
+AD  - Department of Neurosurgery, Kermanshah University of Medical Sciences, Kermanshah, Iran.
+FAU - Jalilian, Amir
+AU  - Jalilian A
+AD  - Kermanshah University of Medical Sciences, Kermanshah, Iran.
+FAU - Uzoukwu, Cynthia
+AU  - Uzoukwu C
+AD  - Northeast Ohio Medical University, Rootstown, OH, USA.
+FAU - Eden, Sonia
+AU  - Eden S
+AD  - Semmes Murphey Clinic and University of Tennessee Health Science Center, Memphis, TN, USA.
+FAU - Alimohammadi, Ehsan
+AU  - Alimohammadi E
+AD  - Department of Neurosurgery, Kermanshah University of Medical Sciences, Kermanshah, Iran. hafez125@gmail.com.
+TA  - BMC Musculoskelet Disord
+JT  - BMC musculoskeletal disorders
+
+
+PMID- 37246860
+TI  - Letter: A Pathway to Safe Spine Surgery in Underweight Frail Patients: The Revised Risk Analysis Index Displays Remarkable Discrimination for 30-Day Postoperative Mortality and Nonhome Discharge.
+FAU - Owodunni, Oluwafemi P
+AU  - Owodunni OP
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque , New Mexico , USA.
+AD  - Department of Surgery, Bowers Neurosurgical Frailty and Outcomes Data Science Lab, Albuquerque , New Mexico , USA.
+FAU - Peter-Okaka, Uchenna
+AU  - Peter-Okaka U
+AD  - Department of Surgery, Bowers Neurosurgical Frailty and Outcomes Data Science Lab, Albuquerque , New Mexico , USA.
+AD  - Department of Surgery, West Virginia University School of Medicine, Morgantown , West Virginia , USA.
+FAU - Courville, Evan N
+AU  - Courville EN
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque , New Mexico , USA.
+AD  - Department of Surgery, Bowers Neurosurgical Frailty and Outcomes Data Science Lab, Albuquerque , New Mexico , USA.
+FAU - Schmidt, Meic H
+AU  - Schmidt MH
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque , New Mexico , USA.
+AD  - Department of Surgery, Bowers Neurosurgical Frailty and Outcomes Data Science Lab, Albuquerque , New Mexico , USA.
+FAU - Bowers, Christian A
+AU  - Bowers CA
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque , New Mexico , USA.
+AD  - Department of Surgery, Bowers Neurosurgical Frailty and Outcomes Data Science Lab, Albuquerque , New Mexico , USA.
+TA  - Neurosurgery
+JT  - Neurosurgery
+
+
+PMID- 37625550
+TI  - A comprehensive analysis of the triad of frailty, aging, and obesity in spine surgery: the risk analysis index predicted 30-day mortality with superior discrimination.
+FAU - Owodunni, Oluwafemi P
+AU  - Owodunni OP
+AD  - Department of Emergency Medicine, University of New Mexico Hospital, MSC11 6025, 1 University of New Mexico, Albuquerque, NM 87131, USA; Bowers Neurosurgical Frailty and Outcomes Data Science Lab, Albuquerque, NM, USA. Electronic address: oowodunni@salud.unm.edu.
+FAU - Yocky, Alyssa G
+AU  - Yocky AG
+AD  - Bowers Neurosurgical Frailty and Outcomes Data Science Lab, Albuquerque, NM, USA; University of New Mexico School of Medicine, 2501 Frontier Ave NE, Albuquerque, NM 87106, USA.
+FAU - Courville, Evan N
+AU  - Courville EN
+AD  - Bowers Neurosurgical Frailty and Outcomes Data Science Lab, Albuquerque, NM, USA; Department of Neurosurgical Surgery, University of New Mexico Hospital, MSC08 4720 1 UNM, Albuquerque, NM 87131, USA.
+FAU - Peter-Okaka, Uchenna
+AU  - Peter-Okaka U
+AD  - Bowers Neurosurgical Frailty and Outcomes Data Science Lab, Albuquerque, NM, USA; West Virginia University School of Medicine, 64 Medical Center Dr, Morgantown, WV 26506, USA.
+FAU - Alare, Kehinde P
+AU  - Alare KP
+AD  - Bowers Neurosurgical Frailty and Outcomes Data Science Lab, Albuquerque, NM, USA.
+FAU - Schmidt, Meic
+AU  - Schmidt M
+AD  - Bowers Neurosurgical Frailty and Outcomes Data Science Lab, Albuquerque, NM, USA; Department of Neurosurgical Surgery, University of New Mexico Hospital, MSC08 4720 1 UNM, Albuquerque, NM 87131, USA.
+FAU - Alunday, Robert
+AU  - Alunday R
+AD  - Department of Emergency Medicine, University of New Mexico Hospital, MSC11 6025, 1 University of New Mexico, Albuquerque, NM 87131, USA; Department of Neurosurgical Surgery, University of New Mexico Hospital, MSC08 4720 1 UNM, Albuquerque, NM 87131, USA; Center for Adult Critical Care, University of New Mexico Hospital, 2211 Lomas Blvd NE, Albuquerque, NM 8710, USA.
+FAU - Greene-Chandos, Diana
+AU  - Greene-Chandos D
+AD  - Center for Adult Critical Care, University of New Mexico Hospital, 2211 Lomas Blvd NE, Albuquerque, NM 8710, USA; Department of Neurology, University of New Mexico Hospital, MSC08 4720 1 UNM, Albuquerque, NM 87131, USA.
+FAU - Bowers, Christian A
+AU  - Bowers CA
+AD  - Bowers Neurosurgical Frailty and Outcomes Data Science Lab, Albuquerque, NM, USA.
+TA  - Spine J
+JT  - The spine journal : official journal of the North American Spine Society
+
+
+PMID- 38110501
+TI  - Multiplicative effect of frailty and obesity on postoperative mortality following spine surgery: a deep dive into the frailty, obesity, and Clavien-Dindo dynamic.
+FAU - Owodunni, Oluwafemi P
+AU  - Owodunni OP
+AD  - Department of Emergency Medicine, University of New Mexico Hospital, Albuquerque, NM, USA. oowodunni@salud.unm.edu.
+AD  - Bowers Neurosurgical Frailty and Outcomes Data Science Lab, Albuquerque, NM, USA. oowodunni@salud.unm.edu.
+FAU - Courville, Evan N
+AU  - Courville EN
+AD  - Bowers Neurosurgical Frailty and Outcomes Data Science Lab, Albuquerque, NM, USA.
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, NM, USA.
+FAU - Peter-Okaka, Uchenna
+AU  - Peter-Okaka U
+AD  - Bowers Neurosurgical Frailty and Outcomes Data Science Lab, Albuquerque, NM, USA.
+FAU - Ricks, Christian B
+AU  - Ricks CB
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, NM, USA.
+FAU - Schmidt, Meic H
+AU  - Schmidt MH
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, NM, USA.
+FAU - Bowers, Christian A
+AU  - Bowers CA
+AD  - Bowers Neurosurgical Frailty and Outcomes Data Science Lab, Albuquerque, NM, USA.
+TA  - Int J Obes (Lond)
+JT  - International journal of obesity (2005)

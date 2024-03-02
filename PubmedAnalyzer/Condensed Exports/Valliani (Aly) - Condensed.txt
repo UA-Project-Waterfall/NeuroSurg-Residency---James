@@ -1,0 +1,760 @@
+PMID- 31435868
+TI  - Deep Learning and Neurology: A Systematic Review.
+FAU - Valliani, Aly Al-Amyn
+AU  - Valliani AA
+AD  - Department of Neurological Surgery, Mount Sinai Health System, 1 Gustave Levy Pl, New York, NY, 10029, USA.
+FAU - Ranti, Daniel
+AU  - Ranti D
+AD  - Department of Neurological Surgery, Mount Sinai Health System, 1 Gustave Levy Pl, New York, NY, 10029, USA.
+FAU - Oermann, Eric Karl
+AU  - Oermann EK
+AD  - Department of Neurological Surgery, Mount Sinai Health System, 1 Gustave Levy Pl, New York, NY, 10029, USA. eric.oermann@mountsinai.org.
+TA  - Neurol Ther
+JT  - Neurology and therapy
+
+
+PMID- 34861445
+TI  - Clinical Trials in Spinal Tumors: A Two-Decade Review.
+FAU - Chapman, Emily K
+AU  - Chapman EK
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, New York, New York, USA. Electronic address: emily.chapman@icahn.mssm.edu.
+FAU - Valliani, Aly A
+AU  - Valliani AA
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, New York, New York, USA.
+FAU - Shuman, William H
+AU  - Shuman WH
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, New York, New York, USA.
+FAU - Martini, Michael L
+AU  - Martini ML
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, New York, New York, USA.
+FAU - Neifert, Sean N
+AU  - Neifert SN
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, New York, New York, USA.
+FAU - Gilligan, Jeffrey T
+AU  - Gilligan JT
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, New York, New York, USA.
+FAU - Yuk, Frank J
+AU  - Yuk FJ
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, New York, New York, USA.
+FAU - Schupper, Alexander J
+AU  - Schupper AJ
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, New York, New York, USA.
+FAU - Gal, Jonathan S
+AU  - Gal JS
+AD  - Department of Anesthesiology, Perioperative and Pain Medicine, Icahn School of Medicine at Mount Sinai, New York, New York, USA.
+FAU - Caridi, John M
+AU  - Caridi JM
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, New York, New York, USA.
+TA  - World Neurosurg
+JT  - World neurosurgery
+
+
+PMID- 35302963
+TI  - Understanding Artificial Intelligence and Predictive Analytics: A Clinically Focused Review of Machine Learning Techniques.
+FAU - Cho, Brian
+AU  - Cho B
+AD  - Department of Orthopedics, Icahn School of Medicine at Mount Sinai, New York, NY.
+FAU - Geng, Eric
+AU  - Geng E
+FAU - Arvind, Varun
+AU  - Arvind V
+FAU - Valliani, Aly A
+AU  - Valliani AA
+FAU - Tang, Justin E
+AU  - Tang JE
+FAU - Schwartz, John
+AU  - Schwartz J
+FAU - Dominy, Calista
+AU  - Dominy C
+FAU - Cho, Samuel K
+AU  - Cho SK
+FAU - Kim, Jun S
+AU  - Kim JS
+TA  - JBJS Rev
+JT  - JBJS reviews
+
+
+PMID- 35558637
+TI  - Portable hardware & software technologies for addressing ophthalmic health disparities: A systematic review.
+FAU - Labkovich, Margarita
+AU  - Labkovich M
+AD  - Department of Medical Education, Icahn School of Medicine at Mount Sinai, New York, NY, USA. RINGGOLD: 5925
+FAU - Paul, Megan
+AU  - Paul M
+AD  - Department of Medical Education, Icahn School of Medicine at Mount Sinai, New York, NY, USA. RINGGOLD: 5925
+FAU - Kim, Eliott
+AU  - Kim E
+AD  - Department of Medical Education, Icahn School of Medicine at Mount Sinai, New York, NY, USA. RINGGOLD: 5925
+FAU - A Serafini, Randal
+AU  - A Serafini R
+AD  - Department of Medical Education, Icahn School of Medicine at Mount Sinai, New York, NY, USA. RINGGOLD: 5925
+AD  - Nash Department of Neuroscience and Friedman Brain Institute, Icahn School of Medicine at Mount Sinai, New York, NY, USA. RINGGOLD: 5925
+FAU - Lakhtakia, Shreyas
+AU  - Lakhtakia S
+AD  - Department of Engineering, Princeton University, Princeton, NJ, USA. RINGGOLD: 198482
+FAU - Valliani, Aly A
+AU  - Valliani AA
+AD  - Department of Medical Education, Icahn School of Medicine at Mount Sinai, New York, NY, USA. RINGGOLD: 5925
+FAU - Warburton, Andrew J
+AU  - Warburton AJ
+AD  - Department of Medical Education, Icahn School of Medicine at Mount Sinai, New York, NY, USA. RINGGOLD: 5925
+FAU - Patel, Aashay
+AU  - Patel A
+AD  - Department of Medical Education, Icahn School of Medicine at Mount Sinai, New York, NY, USA. RINGGOLD: 5925
+FAU - Zhou, Davis
+AU  - Zhou D
+AD  - Department of Ophthalmology, New York Eye and Ear Infirmary of Mount Sinai, New York, NY, USA. RINGGOLD: 22526
+FAU - Sklar, Bonnie
+AU  - Sklar B
+AD  - Department of Ophthalmology, Wills Eye Hospital, Philadelphia, PA, USA. RINGGOLD: 14523
+FAU - Chelnis, James
+AU  - Chelnis J
+AD  - Department of Ophthalmology, Icahn School of Medicine at Mount Sinai, New York, NY, USA. RINGGOLD: 5925
+FAU - Elahi, Ebrahim
+AU  - Elahi E
+AD  - Department of Ophthalmology, Icahn School of Medicine at Mount Sinai, New York, NY, USA. RINGGOLD: 5925
+TA  - Digit Health
+JT  - Digital health
+
+
+PMID- 35033690
+TI  - Intraoperative Navigation in Spine Surgery: Effects on Complications and Reoperations.
+FAU - Shuman, William H
+AU  - Shuman WH
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, Mount Sinai Health System, New York, New York, USA. Electronic address: will.shuman@icahn.mssm.edu.
+FAU - Valliani, Aly A
+AU  - Valliani AA
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, Mount Sinai Health System, New York, New York, USA.
+FAU - Chapman, Emily K
+AU  - Chapman EK
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, Mount Sinai Health System, New York, New York, USA.
+FAU - Martini, Michael L
+AU  - Martini ML
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, Mount Sinai Health System, New York, New York, USA.
+FAU - Neifert, Sean N
+AU  - Neifert SN
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, Mount Sinai Health System, New York, New York, USA.
+FAU - Baron, Rebecca B
+AU  - Baron RB
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, Mount Sinai Health System, New York, New York, USA.
+FAU - Schupper, Alexander J
+AU  - Schupper AJ
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, Mount Sinai Health System, New York, New York, USA.
+FAU - Steinberger, Jeremy M
+AU  - Steinberger JM
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, Mount Sinai Health System, New York, New York, USA.
+FAU - Caridi, John M
+AU  - Caridi JM
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, Mount Sinai Health System, New York, New York, USA.
+TA  - World Neurosurg
+JT  - World neurosurgery
+
+
+PMID- 36240135
+TI  - Deploying deep learning models on unseen medical imaging using adversarial domain adaptation.
+FAU - Valliani, Aly A
+AU  - Valliani AA
+AD  - Department of Neurosurgery, Mount Sinai Health System, New York, NY, United States of America.
+FAU - Gulamali, Faris F
+AU  - Gulamali FF
+AD  - Department of Neurosurgery, Mount Sinai Health System, New York, NY, United States of America.
+FAU - Kwon, Young Joon
+AU  - Kwon YJ
+AD  - Department of Neurosurgery, Mount Sinai Health System, New York, NY, United States of America.
+FAU - Martini, Michael L
+AU  - Martini ML
+AD  - Department of Neurosurgery, Mount Sinai Health System, New York, NY, United States of America.
+FAU - Wang, Chiatse
+AU  - Wang C
+AD  - Data Science Degree Program, National Taiwan University, Taipei, Taiwan.
+FAU - Kondziolka, Douglas
+AU  - Kondziolka D
+AD  - Department of Neurosurgery, New York University Langone Medical Center, New York, NY, United States of America.
+AD  - Department of Radiation Oncology, New York University Langone Medical Center, New York, NY, United States of America.
+FAU - Chen, Viola J
+AU  - Chen VJ
+AD  - Oncology Early Development, Merck Co., Inc, Kenilworth, NJ, United States of America.
+FAU - Wang, Weichung
+AU  - Wang W
+AD  - Data Science Degree Program, National Taiwan University, Taipei, Taiwan.
+AD  - Institute of Applied Mathematical Sciences, National Taiwan University, Taipei, Taiwan.
+FAU - Costa, Anthony B
+AU  - Costa AB
+AD  - NVIDIA, Santa Clara, CA, United States of America.
+FAU - Oermann, Eric K
+AU  - Oermann EK
+AD  - Department of Neurosurgery, New York University Langone Medical Center, New York, NY, United States of America.
+AD  - Department of Radiology, New York University Langone Medical Center, New York, NY, United States of America.
+TA  - PLoS One
+JT  - PloS one
+
+
+PMID- 34269759
+TI  - Identification of Anterior Cervical Spinal Instrumentation Using a Smartphone Application Powered by Machine Learning.
+FAU - Schwartz, John T
+AU  - Schwartz JT
+AD  - Department of Orthopedic Surgery, Mount Sinai Health System, New York, NY.
+FAU - Valliani, Aly A
+AU  - Valliani AA
+AD  - Department of Orthopedic Surgery, Mount Sinai Health System, New York, NY.
+FAU - Arvind, Varun
+AU  - Arvind V
+AD  - Department of Orthopedic Surgery, Mount Sinai Health System, New York, NY.
+FAU - Cho, Brian H
+AU  - Cho BH
+AD  - Department of Orthopedic Surgery, Mount Sinai Health System, New York, NY.
+FAU - Geng, Eric
+AU  - Geng E
+AD  - Department of Orthopedic Surgery, Mount Sinai Health System, New York, NY.
+FAU - Henson, Philip
+AU  - Henson P
+AD  - Department of Orthopedic Surgery, Mount Sinai Health System, New York, NY.
+FAU - Riew, K Daniel
+AU  - Riew KD
+AD  - Department of Orthopedic Surgery, Columbia University Medical Center, New York, NY.
+FAU - Lehman, Ronald A
+AU  - Lehman RA
+AD  - Department of Orthopedic Surgery, Columbia University Medical Center, New York, NY.
+FAU - Lenke, Lawrence G
+AU  - Lenke LG
+AD  - Department of Orthopedic Surgery, Columbia University Medical Center, New York, NY.
+FAU - Cho, Samuel K
+AU  - Cho SK
+AD  - Department of Orthopedic Surgery, Mount Sinai Health System, New York, NY.
+FAU - Kim, Jun S
+AU  - Kim JS
+AD  - Department of Orthopedic Surgery, Mount Sinai Health System, New York, NY.
+TA  - Spine (Phila Pa 1976)
+JT  - Spine
+
+
+PMID- 33820942
+TI  - Deep anomaly detection of seizures with paired stereoelectroencephalography and video recordings.
+FAU - Martini, Michael L
+AU  - Martini ML
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, New York, NY, 10029, USA.
+FAU - Valliani, Aly A
+AU  - Valliani AA
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, New York, NY, 10029, USA.
+FAU - Sun, Claire
+AU  - Sun C
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, New York, NY, 10029, USA.
+AD  - Department of Neurosciences, Friedman Brain Institute, Icahn School of Medicine at Mount Sinai, One Gustave Levy Place, New York, NY, 10029, USA.
+FAU - Costa, Anthony B
+AU  - Costa AB
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, New York, NY, 10029, USA.
+FAU - Zhao, Shan
+AU  - Zhao S
+AD  - Department of Anesthesiology, Icahn School of Medicine At Mount Sinai, New York, NY, 10029, USA.
+FAU - Panov, Fedor
+AU  - Panov F
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, New York, NY, 10029, USA.
+FAU - Ghatan, Saadi
+AU  - Ghatan S
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, New York, NY, 10029, USA.
+FAU - Rajan, Kanaka
+AU  - Rajan K
+AD  - Department of Neurosciences, Friedman Brain Institute, Icahn School of Medicine at Mount Sinai, One Gustave Levy Place, New York, NY, 10029, USA. kanaka.rajan@mssm.edu.
+FAU - Oermann, Eric Karl
+AU  - Oermann EK
+AD  - Department of Neurosurgery, New York University Langone Medical Center, New York University, Skirball, Suite 8S, 530 First Avenue, New York, NY, 10016, USA. eric.oermann@nyulangone.org.
+AD  - Department of Radiology, New York University Langone Medical Center, New York, NY, 10016, USA. eric.oermann@nyulangone.org.
+AD  - NYU Center for Data Science, New York University, New York, NY, 10011, USA. eric.oermann@nyulangone.org.
+TA  - Sci Rep
+JT  - Scientific reports
+
+
+PMID- 35730283
+TI  - Population scale latent space cohort matching for the improved use and exploration of observational trial data.
+FAU - Gologorsky, Rachel
+AU  - Gologorsky R
+AD  - Department of Medicine, Icahn School of Medicine, New York, NY 10028, USA.
+FAU - Somani, Sulaiman S
+AU  - Somani SS
+AD  - Department of Medicine, Stanford University School of Medicine, Stanford, CA 94305, USA.
+FAU - Neifert, Sean N
+AU  - Neifert SN
+AD  - Department of Neurosurgery, NYU Grossman School of Medicine, New York, NY 10016, USA.
+FAU - Valliani, Aly A
+AU  - Valliani AA
+AD  - Department of Medicine, Icahn School of Medicine, New York, NY 10028, USA.
+FAU - Link, Katherine E
+AU  - Link KE
+AD  - Department of Medicine, Icahn School of Medicine, New York, NY 10028, USA.
+FAU - Chen, Viola J
+AU  - Chen VJ
+AD  - Oncology Early development, Merck & Co., Inc, Kenilworth, NJ 07033, USA.
+FAU - Costa, Anthony B
+AU  - Costa AB
+AD  - NVIDIA, Santa Clara, CA 95051, USA.
+FAU - Oermann, Eric K
+AU  - Oermann EK
+AD  - Department of Neurosurgery, NYU Grossman School of Medicine, New York, NY 10016, USA.
+AD  - Department of Radiology, NYU Grossman School of Medicine, New York, NY 10016, USA.
+TA  - Math Biosci Eng
+JT  - Mathematical biosciences and engineering : MBE
+
+
+PMID- 36282119
+TI  - Virtual Reality Hemifield Measurements for Corrective Surgery Eligibility in Ptosis Patients: A Pilot Clinical Trial.
+FAU - Labkovich, Margarita
+AU  - Labkovich M
+AD  - Department of Medical Education, Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+FAU - Warburton, Andrew J
+AU  - Warburton AJ
+AD  - Department of Medical Education, Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+FAU - Ying, Stephanie
+AU  - Ying S
+AD  - Department of Medical Education, Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+FAU - Valliani, Aly A
+AU  - Valliani AA
+AD  - Department of Medical Education, Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+FAU - Kissel, Nicholas
+AU  - Kissel N
+AD  - Department of Statistics & Data Science, Carnegie Mellon, Pittsburgh, PA, USA.
+FAU - Serafini, Randal A
+AU  - Serafini RA
+AD  - Department of Medical Education, Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+AD  - Nash Department of Neuroscience and Friedman Brain Institute, Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+FAU - Mathew, Raj
+AU  - Mathew R
+AD  - Department of Medical Education, SUNY Downstate, Brooklyn, NY, USA.
+FAU - Paul, Megan
+AU  - Paul M
+AD  - Department of Medical Education, Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+FAU - Hovstadius, S Malin
+AU  - Hovstadius SM
+AD  - Department of Medical Education, Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+FAU - Navarro, Vicente N
+AU  - Navarro VN
+AD  - Department of Uro Onc Research, Weill Cornell Medicine, New York, NY, USA.
+FAU - Patel, Aashay
+AU  - Patel A
+AD  - Department of Medical Education, Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+FAU - Reddy, Harsha
+AU  - Reddy H
+AD  - Department of Ophthalmology, Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+FAU - Chelnis, James G
+AU  - Chelnis JG
+AD  - Department of Ophthalmology, Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+TA  - Transl Vis Sci Technol
+JT  - Translational vision science & technology
+
+
+PMID- 37016876
+TI  - Weekend Admission Increases Risk of Readmissions Following Elective Cervical Spinal Fusion.
+FAU - Ren, Renee
+AU  - Ren R
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+FAU - Dominy, Calista
+AU  - Dominy C
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+FAU - Bueno, Brian
+AU  - Bueno B
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+FAU - Pasik, Sara
+AU  - Pasik S
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+FAU - Markowitz, Jonathan
+AU  - Markowitz J
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+FAU - Yeshoua, Brandon
+AU  - Yeshoua B
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+FAU - Cho, Brian
+AU  - Cho B
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+FAU - Arvind, Varun
+AU  - Arvind V
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+FAU - Valliani, Aly A
+AU  - Valliani AA
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+FAU - Kim, Jun
+AU  - Kim J
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+FAU - Cho, Samuel
+AU  - Cho S
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+TA  - Neurospine
+JT  - Neurospine
+
+
+PMID- 36941913
+TI  - Teledermatology in medical student, postgraduate trainee, and global dermatology education: A systematic review.
+FAU - Patel, Heli
+AU  - Patel H
+AD  - Sidney Kimmel Medical College at Thomas Jefferson University, Philadelphia.
+FAU - Revankar, Rishab
+AU  - Revankar R
+AD  - The Icahn School of Medicine at Mount Sinai, New York.
+FAU - Valliani, Aly
+AU  - Valliani A
+AD  - The Icahn School of Medicine at Mount Sinai, New York.
+FAU - Revankar, Nikita
+AU  - Revankar N
+AD  - East Carolina University Brody School of Medicine, Greenville, North Carolina.
+FAU - Yerigeri, Shivani
+AU  - Yerigeri S
+AD  - Northeast Ohio Medical University, Rootstown, Ohio.
+FAU - Kaskas, Nadine
+AU  - Kaskas N
+AD  - The Icahn School of Medicine at Mount Sinai, New York.
+FAU - Stoff, Benjamin
+AU  - Stoff B
+AD  - Department of Dermatology, Emory University School of Medicine, Atlanta, Georgia.
+TA  - JAAD Int
+JT  - JAAD international
+
+
+PMID- 35654334
+TI  - Robust Prediction of Non-home Discharge After Thoracolumbar Spine Surgery With Ensemble Machine Learning and Validation on a Nationwide Cohort.
+FAU - Valliani, Aly A
+AU  - Valliani AA
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, New York, New York, USA. Electronic address: aly.valliani@icahn.mssm.edu.
+FAU - Kim, Nora C
+AU  - Kim NC
+AD  - Department of Neurosurgery, New York University Langone Medical Center, New York, New York, USA.
+FAU - Martini, Michael L
+AU  - Martini ML
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, New York, New York, USA.
+FAU - Gal, Jonathan S
+AU  - Gal JS
+AD  - Department of Anesthesiology, Perioperative, and Pain Medicine, Icahn School of Medicine at Mount Sinai, New York, New York, USA.
+FAU - Neifert, Sean N
+AU  - Neifert SN
+AD  - Department of Neurosurgery, New York University Langone Medical Center, New York, New York, USA.
+FAU - Feng, Rui
+AU  - Feng R
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, New York, New York, USA.
+FAU - Geng, Eric A
+AU  - Geng EA
+AD  - Department of Orthopedic Surgery, Icahn School of Medicine at Mount Sinai, New York, New York, USA.
+FAU - Kim, Jun S
+AU  - Kim JS
+AD  - Department of Orthopedic Surgery, Icahn School of Medicine at Mount Sinai, New York, New York, USA.
+FAU - Cho, Samuel K
+AU  - Cho SK
+AD  - Department of Orthopedic Surgery, Icahn School of Medicine at Mount Sinai, New York, New York, USA.
+FAU - Oermann, Eric K
+AU  - Oermann EK
+AD  - Department of Neurosurgery, New York University Langone Medical Center, New York, New York, USA; Department of Radiology, New York University Langone Medical Center, New York, New York, USA; Center for Data Science, New York University Langone Medical Center, New York, New York, USA.
+FAU - Caridi, John M
+AU  - Caridi JM
+AD  - Department of Neurosurgery, University of Texas Health Science Center, Houston, Texas, USA.
+TA  - World Neurosurg
+JT  - World neurosurgery
+
+
+PMID- 35834322
+TI  - Pragmatic Prediction of Excessive Length of Stay After Cervical Spine Surgery With Machine Learning and Validation on a National Scale.
+FAU - Valliani, Aly A
+AU  - Valliani AA
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, New York, New York, USA.
+FAU - Feng, Rui
+AU  - Feng R
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, New York, New York, USA.
+FAU - Martini, Michael L
+AU  - Martini ML
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, New York, New York, USA.
+FAU - Neifert, Sean N
+AU  - Neifert SN
+AD  - Department of Neurosurgery, New York University Langone Medical Center, New York, New York, USA.
+FAU - Kim, Nora C
+AU  - Kim NC
+AD  - Department of Neurosurgery, New York University Langone Medical Center, New York, New York, USA.
+FAU - Gal, Jonathan S
+AU  - Gal JS
+AD  - Department of Anesthesiology, Perioperative and Pain Medicine, Icahn School of Medicine at Mount Sinai, New York, New York, USA.
+FAU - Oermann, Eric K
+AU  - Oermann EK
+AD  - Department of Neurosurgery, New York University Langone Medical Center, New York, New York, USA.
+AD  - Department of Radiology, New York University Langone Medical Center, New York, New York, USA.
+AD  - Center for Data Science, New York University Langone Medical Center, New York, New York, USA.
+FAU - Caridi, John M
+AU  - Caridi JM
+AD  - Department of Neurosurgery, University of Texas Health Science Center, Houston, Texas, USA.
+TA  - Neurosurgery
+JT  - Neurosurgery
+
+
+PMID- 35969028
+TI  - Weekend Admission Increases Risk of Readmissions Following Elective Thoracolumbar Spinal Fusion.
+FAU - Rosenberg, Ashley
+AU  - Rosenberg A
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New York, NY, USA. RINGGOLD: 5925
+FAU - Dominy, Calista
+AU  - Dominy C
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New York, NY, USA. RINGGOLD: 5925
+FAU - Bueno, Brian T
+AU  - Bueno BT
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New York, NY, USA. RINGGOLD: 5925
+FAU - Pasik, Sara
+AU  - Pasik S
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New York, NY, USA. RINGGOLD: 5925
+FAU - Yeshoua, Brandon
+AU  - Yeshoua B
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New York, NY, USA. RINGGOLD: 5925
+FAU - Cho, Brian
+AU  - Cho B
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New York, NY, USA. RINGGOLD: 5925
+FAU - Arvind, Varun
+AU  - Arvind V
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New York, NY, USA. RINGGOLD: 5925
+FAU - Valliani, Aly A
+AU  - Valliani AA
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New York, NY, USA. RINGGOLD: 5925
+FAU - Markowitz, Jonathan
+AU  - Markowitz J
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New York, NY, USA. RINGGOLD: 5925
+FAU - Kim, Jun S
+AU  - Kim JS
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New York, NY, USA. RINGGOLD: 5925
+FAU - Cho, Samuel K
+AU  - Cho SK
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New York, NY, USA. RINGGOLD: 5925
+TA  - Global Spine J
+JT  - Global spine journal
+
+
+PMID- 32677567
+TI  - Automated Measurement of Lumbar Lordosis on Radiographs Using Machine Learning and Computer Vision.
+FAU - Cho, Brian H
+AU  - Cho BH
+AD  - Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+AD  - Brian H. Cho and Deepak Kaji contributed equally to this work.
+FAU - Kaji, Deepak
+AU  - Kaji D
+AD  - Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+AD  - Brian H. Cho and Deepak Kaji contributed equally to this work.
+FAU - Cheung, Zoe B
+AU  - Cheung ZB
+AD  - Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+FAU - Ye, Ivan B
+AU  - Ye IB
+AD  - Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+FAU - Tang, Ray
+AU  - Tang R
+AD  - Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+FAU - Ahn, Amy
+AU  - Ahn A
+AD  - Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+FAU - Carrillo, Oscar
+AU  - Carrillo O
+AD  - Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+FAU - Schwartz, John T
+AU  - Schwartz JT
+AD  - Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+FAU - Valliani, Aly A
+AU  - Valliani AA
+AD  - Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+FAU - Oermann, Eric K
+AU  - Oermann EK
+AD  - Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+FAU - Arvind, Varun
+AU  - Arvind V
+AD  - Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+FAU - Ranti, Daniel
+AU  - Ranti D
+AD  - Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+FAU - Sun, Li
+AU  - Sun L
+AD  - Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+FAU - Kim, Jun S
+AU  - Kim JS
+AD  - Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+FAU - Cho, Samuel K
+AU  - Cho SK
+AD  - Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+TA  - Global Spine J
+JT  - Global spine journal
+
+
+PMID- 36854862
+TI  - Robust prediction of nonhome discharge following elective anterior cervical discectomy and fusion using explainable machine learning.
+FAU - Geng, Eric A
+AU  - Geng EA
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New York, United States of America.
+FAU - Gal, Jonathan S
+AU  - Gal JS
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New York, United States of America.
+AD  - Department of Anesthesiology, Perioperative and Pain Medicine, Icahn School of Medicine at Mount Sinai, New York, United States of America.
+FAU - Kim, Jun S
+AU  - Kim JS
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New York, United States of America. kim.jun3@gmail.com.
+FAU - Martini, Michael L
+AU  - Martini ML
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New York, United States of America.
+FAU - Markowitz, Jonathan
+AU  - Markowitz J
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New York, United States of America.
+FAU - Neifert, Sean N
+AU  - Neifert SN
+AD  - Department of Neurosurgery, New York University Grossman School of Medicine, New York, United States of America.
+FAU - Tang, Justin E
+AU  - Tang JE
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New York, United States of America.
+FAU - Shah, Kush C
+AU  - Shah KC
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New York, United States of America.
+FAU - White, Christopher A
+AU  - White CA
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New York, United States of America.
+FAU - Dominy, Calista L
+AU  - Dominy CL
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New York, United States of America.
+FAU - Valliani, Aly A
+AU  - Valliani AA
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New York, United States of America.
+FAU - Duey, Akiro H
+AU  - Duey AH
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New York, United States of America.
+FAU - Li, Gavin
+AU  - Li G
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New York, United States of America.
+FAU - Zaidat, Bashar
+AU  - Zaidat B
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New York, United States of America.
+FAU - Bueno, Brian
+AU  - Bueno B
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New York, United States of America.
+FAU - Caridi, John M
+AU  - Caridi JM
+AD  - Department of Neurosurgery, McGovern Medical School at University of Texas Health, Houston, United States of America.
+FAU - Cho, Samuel K
+AU  - Cho SK
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New York, United States of America.
+TA  - Eur Spine J
+JT  - European spine journal : official publication of the European Spine Society, the European Spinal Deformity Society, and the European Section of the Cervical Spine Research Society
+
+
+PMID- 36411845
+TI  - Development of a machine learning algorithm to identify total and reverse shoulder arthroplasty implants from X-ray images.
+FAU - Geng, Eric A
+AU  - Geng EA
+AD  - Department of Orthopaedic Surgery, Mount Sinai Health System, New York, NY, 10029, USA.
+FAU - Cho, Brian H
+AU  - Cho BH
+AD  - Department of Orthopaedic Surgery, Mount Sinai Health System, New York, NY, 10029, USA.
+FAU - Valliani, Aly A
+AU  - Valliani AA
+AD  - Department of Orthopaedic Surgery, Mount Sinai Health System, New York, NY, 10029, USA.
+FAU - Arvind, Varun
+AU  - Arvind V
+AD  - Department of Orthopaedic Surgery, Mount Sinai Health System, New York, NY, 10029, USA.
+FAU - Patel, Akshar V
+AU  - Patel AV
+AD  - Department of Orthopaedic Surgery, Mount Sinai Health System, New York, NY, 10029, USA.
+FAU - Cho, Samuel K
+AU  - Cho SK
+AD  - Department of Orthopaedic Surgery, Mount Sinai Health System, New York, NY, 10029, USA.
+FAU - Kim, Jun S
+AU  - Kim JS
+AD  - Department of Orthopaedic Surgery, Mount Sinai Health System, New York, NY, 10029, USA.
+FAU - Cagle, Paul J
+AU  - Cagle PJ
+AD  - Department of Orthopaedic Surgery, Mount Sinai Health System, New York, NY, 10029, USA.
+TA  - J Orthop
+JT  - Journal of orthopaedics
+
+
+PMID- 28490518
+TI  - CHK1 Inhibition in Small-Cell Lung Cancer Produces Single-Agent Activity in Biomarker-Defined Disease Subsets and Combination Activity with Cisplatin or Olaparib.
+FAU - Sen, Triparna
+AU  - Sen T
+AD  - Department of Thoracic/Head and Neck Medical Oncology, The University of Texas MD Anderson Cancer Center, Houston, Texas.
+FAU - Tong, Pan
+AU  - Tong P
+AD  - Department of Bioinformatics and Computational Biology, The University of Texas MD Anderson Cancer Center, Houston, Texas.
+FAU - Stewart, C Allison
+AU  - Stewart CA
+AD  - Department of Thoracic/Head and Neck Medical Oncology, The University of Texas MD Anderson Cancer Center, Houston, Texas.
+FAU - Cristea, Sandra
+AU  - Cristea S
+AD  - Department of Pediatrics, Stanford University, Stanford, California.
+AD  - Department of Genetics, Stanford University, Stanford, California.
+FAU - Valliani, Aly
+AU  - Valliani A
+AD  - Department of Thoracic/Head and Neck Medical Oncology, The University of Texas MD Anderson Cancer Center, Houston, Texas.
+FAU - Shames, David S
+AU  - Shames DS
+AD  - Department of Oncology Biomarker Development, Genentech Inc., South San Francisco, California.
+FAU - Redwood, Abena B
+AU  - Redwood AB
+AD  - Department of Experimental Radiation Oncology, The University of Texas MD Anderson Cancer Center, Houston, Texas.
+FAU - Fan, You Hong
+AU  - Fan YH
+AD  - Department of Thoracic/Head and Neck Medical Oncology, The University of Texas MD Anderson Cancer Center, Houston, Texas.
+FAU - Li, Lerong
+AU  - Li L
+AD  - Department of Bioinformatics and Computational Biology, The University of Texas MD Anderson Cancer Center, Houston, Texas.
+FAU - Glisson, Bonnie S
+AU  - Glisson BS
+AD  - Department of Thoracic/Head and Neck Medical Oncology, The University of Texas MD Anderson Cancer Center, Houston, Texas.
+FAU - Minna, John D
+AU  - Minna JD
+AD  - Hamon Center for Therapeutic Oncology Research, The University of Texas Southwestern, Dallas, Texas.
+FAU - Sage, Julien
+AU  - Sage J
+AD  - Department of Pediatrics, Stanford University, Stanford, California.
+AD  - Department of Genetics, Stanford University, Stanford, California.
+FAU - Gibbons, Don L
+AU  - Gibbons DL
+AD  - Department of Thoracic/Head and Neck Medical Oncology, The University of Texas MD Anderson Cancer Center, Houston, Texas.
+AD  - Department of Molecular and Cellular Oncology, The University of Texas MD Anderson Cancer Center, Houston, Texas.
+FAU - Piwnica-Worms, Helen
+AU  - Piwnica-Worms H
+AD  - Department of Experimental Radiation Oncology, The University of Texas MD Anderson Cancer Center, Houston, Texas.
+FAU - Heymach, John V
+AU  - Heymach JV
+AD  - Department of Thoracic/Head and Neck Medical Oncology, The University of Texas MD Anderson Cancer Center, Houston, Texas.
+AD  - Department of Cancer Biology, The University of Texas MD Anderson Cancer Center, Houston, Texas.
+FAU - Wang, Jing
+AU  - Wang J
+AD  - Department of Bioinformatics and Computational Biology, The University of Texas MD Anderson Cancer Center, Houston, Texas.
+FAU - Byers, Lauren Averett
+AU  - Byers LA
+AD  - Department of Thoracic/Head and Neck Medical Oncology, The University of Texas MD Anderson Cancer Center, Houston, Texas. lbyers@mdanderson.org.
+TA  - Cancer Res
+JT  - Cancer research
+
+
+PMID- 38285429
+TI  - Reliable Prediction of Discharge Disposition Following Cervical Spine Surgery With Ensemble Machine Learning and Validation on a National Cohort.
+FAU - Feng, Rui
+AU  - Feng R
+AD  - Departments of Neurosurgery.
+FAU - Valliani, Aly A
+AU  - Valliani AA
+AD  - Departments of Neurosurgery.
+FAU - Martini, Michael L
+AU  - Martini ML
+AD  - Departments of Neurosurgery.
+FAU - Gal, Jonathan S
+AU  - Gal JS
+AD  - Anesthesiology, Perioperative and Pain Medicine, Icahn School of Medicine at Mount Sinai.
+FAU - Neifert, Sean N
+AU  - Neifert SN
+AD  - Department of Neurosurgery, New York University Langone Medical Center.
+FAU - Kim, Nora C
+AU  - Kim NC
+AD  - Department of Neurosurgery, New York University Langone Medical Center.
+FAU - Geng, Eric A
+AU  - Geng EA
+AD  - Department of Orthopedic Surgery, Icahn School of Medicine at Mount Sinai.
+FAU - Kim, Jun S
+AU  - Kim JS
+AD  - Department of Orthopedic Surgery, Icahn School of Medicine at Mount Sinai.
+FAU - Cho, Samuel K
+AU  - Cho SK
+AD  - Department of Orthopedic Surgery, Icahn School of Medicine at Mount Sinai.
+FAU - Oermann, Eric K
+AU  - Oermann EK
+AD  - Department of Neurosurgery, New York University Langone Medical Center.
+AD  - Department of Radiology, New York University Langone Medical Center.
+AD  - Center for Data Science, New York University Langone Medical Center, New York, NY.
+FAU - Caridi, John M
+AU  - Caridi JM
+AD  - Department of Neurosurgery, University of Texas Health Science Center, Houston, TX.
+TA  - Clin Spine Surg
+JT  - Clinical spine surgery

@@ -1,0 +1,2228 @@
+PMID- 31435868
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231019
+IS  - 2193-8253 (Print)
+IS  - 2193-6536 (Electronic)
+IS  - 2193-6536 (Linking)
+VI  - 8
+IP  - 2
+DP  - 2019 Dec
+TI  - Deep Learning and Neurology: A Systematic Review.
+PG  - 351-365
+LID - 10.1007/s40120-019-00153-8 [doi]
+AB  - Deciphering the massive volume of complex electronic data that has been compiled 
+      by hospital systems over the past decades has the potential to revolutionize 
+      modern medicine, as well as present significant challenges. Deep learning is 
+      uniquely suited to address these challenges, and recent advances in techniques 
+      and hardware have poised the field of medical machine learning for 
+      transformational growth. The clinical neurosciences are particularly well 
+      positioned to benefit from these advances given the subtle presentation of 
+      symptoms typical of neurologic disease. Here we review the various domains in 
+      which deep learning algorithms have already provided impetus for change-areas 
+      such as medical image analysis for the improved diagnosis of Alzheimer's disease 
+      and the early detection of acute neurologic events; medical image segmentation 
+      for quantitative evaluation of neuroanatomy and vasculature; connectome mapping 
+      for the diagnosis of Alzheimer's, autism spectrum disorder, and attention deficit 
+      hyperactivity disorder; and mining of microscopic electroencephalogram signals 
+      and granular genetic signatures. We additionally note important challenges in the 
+      integration of deep learning tools in the clinical setting and discuss the 
+      barriers to tackling the challenges that currently exist.
+FAU - Valliani, Aly Al-Amyn
+AU  - Valliani AA
+AD  - Department of Neurological Surgery, Mount Sinai Health System, 1 Gustave Levy Pl, 
+      New York, NY, 10029, USA.
+FAU - Ranti, Daniel
+AU  - Ranti D
+AD  - Department of Neurological Surgery, Mount Sinai Health System, 1 Gustave Levy Pl, 
+      New York, NY, 10029, USA.
+FAU - Oermann, Eric Karl
+AU  - Oermann EK
+AD  - Department of Neurological Surgery, Mount Sinai Health System, 1 Gustave Levy Pl, 
+      New York, NY, 10029, USA. eric.oermann@mountsinai.org.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20190821
+PL  - New Zealand
+TA  - Neurol Ther
+JT  - Neurology and therapy
+JID - 101637818
+PMC - PMC6858915
+OTO - NOTNLM
+OT  - Artificial intelligence
+OT  - Biomedical informatics
+OT  - Computer vision
+OT  - Connectome mapping
+OT  - Deep learning
+OT  - Genomics
+OT  - Machine learning
+OT  - Neurology
+OT  - Neuroscience
+EDAT- 2019/08/23 06:00
+MHDA- 2019/08/23 06:01
+CRDT- 2019/08/23 06:00
+PHST- 2019/06/27 00:00 [received]
+PHST- 2019/08/23 06:00 [pubmed]
+PHST- 2019/08/23 06:01 [medline]
+PHST- 2019/08/23 06:00 [entrez]
+AID - 10.1007/s40120-019-00153-8 [pii]
+AID - 153 [pii]
+AID - 10.1007/s40120-019-00153-8 [doi]
+PST - ppublish
+SO  - Neurol Ther. 2019 Dec;8(2):351-365. doi: 10.1007/s40120-019-00153-8. Epub 2019 
+      Aug 21.
+
+PMID- 34861445
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220505
+LR  - 20220824
+IS  - 1878-8769 (Electronic)
+IS  - 1878-8750 (Linking)
+VI  - 161
+DP  - 2022 May
+TI  - Clinical Trials in Spinal Tumors: A Two-Decade Review.
+PG  - e39-e53
+LID - S1878-8750(21)01814-3 [pii]
+LID - 10.1016/j.wneu.2021.11.101 [doi]
+AB  - OBJECTIVE: Clinical trials are essential for assessing the advancements in spine 
+      tumor therapeutics. The purpose of the present study was to characterize the 
+      trends in clinical trials for primary and metastatic tumor treatment during the 
+      past 2 decades. METHODS: The ClinicalTrials.gov database was queried using the 
+      search term "spine" for all interventional studies from 1999 to 2020 with the 
+      categories of "cancer," "neoplasm," "tumor," and/or "metastasis." The tumor type, 
+      phase data, enrollment numbers, and home institution country were recorded. The 
+      sponsor was categorized as an academic institution, industry, government, or 
+      other and the intervention type as procedure, drug, device, radiation therapy, or 
+      other. The frequency of each category and the cumulative frequency during the 
+      20-year period were calculated. RESULTS: A total of 106 registered trials for 
+      spine tumors were listed. All, except for 2, that had begun before 2008 had been 
+      completed. An enrollment of 51-100 participants (29.8%) was the most common, and 
+      most were phase II studies (54.4%). Most of the studies had examined metastatic 
+      tumors (58.5%), and the number of new trials annually had increased 3.4-fold from 
+      2009 to 2020. Most of the studies had been conducted in the United States 
+      (56.4%). The most common intervention strategy was radiation therapy (32.1%), 
+      although from 2010 to 2020, procedural studies had become the most frequent 
+      (2.4/year). Most of the studies had been sponsored by academic institutions 
+      (63.2%), which during the 20-year period had sponsored 3.2-fold more studies 
+      compared with the industry partners. CONCLUSIONS: The number of clinical trials 
+      for spine tumor therapies has rapidly increased during the past 15 years, owing 
+      to studies at U.S. academic medical institutions investigating radiosurgery for 
+      the treatment of metastases. Targeted therapies for tumor subtypes and sequelae 
+      have updated international best practices.
+CI  - Copyright © 2021 Elsevier Inc. All rights reserved.
+FAU - Chapman, Emily K
+AU  - Chapman EK
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, New York, 
+      New York, USA. Electronic address: emily.chapman@icahn.mssm.edu.
+FAU - Valliani, Aly A
+AU  - Valliani AA
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, New York, 
+      New York, USA.
+FAU - Shuman, William H
+AU  - Shuman WH
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, New York, 
+      New York, USA.
+FAU - Martini, Michael L
+AU  - Martini ML
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, New York, 
+      New York, USA.
+FAU - Neifert, Sean N
+AU  - Neifert SN
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, New York, 
+      New York, USA.
+FAU - Gilligan, Jeffrey T
+AU  - Gilligan JT
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, New York, 
+      New York, USA.
+FAU - Yuk, Frank J
+AU  - Yuk FJ
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, New York, 
+      New York, USA.
+FAU - Schupper, Alexander J
+AU  - Schupper AJ
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, New York, 
+      New York, USA.
+FAU - Gal, Jonathan S
+AU  - Gal JS
+AD  - Department of Anesthesiology, Perioperative and Pain Medicine, Icahn School of 
+      Medicine at Mount Sinai, New York, New York, USA.
+FAU - Caridi, John M
+AU  - Caridi JM
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, New York, 
+      New York, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20211130
+PL  - United States
+TA  - World Neurosurg
+JT  - World neurosurgery
+JID - 101528275
+SB  - IM
+MH  - *Clinical Trials as Topic
+MH  - Databases, Factual
+MH  - Humans
+MH  - Radiosurgery
+MH  - *Spinal Neoplasms/surgery
+MH  - United States
+OTO - NOTNLM
+OT  - Clinical trial
+OT  - Metastasis
+OT  - Radiosurgery
+OT  - Spine
+OT  - Tumor
+EDAT- 2021/12/04 06:00
+MHDA- 2022/05/06 06:00
+CRDT- 2021/12/03 20:16
+PHST- 2021/09/26 00:00 [received]
+PHST- 2021/11/22 00:00 [revised]
+PHST- 2021/11/23 00:00 [accepted]
+PHST- 2021/12/04 06:00 [pubmed]
+PHST- 2022/05/06 06:00 [medline]
+PHST- 2021/12/03 20:16 [entrez]
+AID - S1878-8750(21)01814-3 [pii]
+AID - 10.1016/j.wneu.2021.11.101 [doi]
+PST - ppublish
+SO  - World Neurosurg. 2022 May;161:e39-e53. doi: 10.1016/j.wneu.2021.11.101. Epub 2021 
+      Nov 30.
+
+PMID- 35302963
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220331
+LR  - 20230806
+IS  - 2329-9185 (Electronic)
+IS  - 2329-9185 (Linking)
+VI  - 10
+IP  - 3
+DP  - 2022 Mar 18
+TI  - Understanding Artificial Intelligence and Predictive Analytics: A Clinically 
+      Focused Review of Machine Learning Techniques.
+LID - e21.00142 [doi]
+AB  - »: Machine learning and artificial intelligence have seen tremendous growth in 
+      recent years and have been applied in numerous studies in the field of 
+      orthopaedics. »: Machine learning will soon become critical in the day-to-day 
+      operations of orthopaedic practice; therefore, it is imperative that providers 
+      become accustomed to and familiar with not only the terminology but also the 
+      fundamental techniques behind the technology. »: A foundation of knowledge 
+      regarding machine learning is critical for physicians so they can begin to 
+      understand the details in the algorithms that are being developed, which provide 
+      improved accuracy compared with clinicians, decreased time required, and a 
+      heightened ability to triage patients.
+CI  - Copyright © 2022 by The Journal of Bone and Joint Surgery, Incorporated.
+FAU - Cho, Brian
+AU  - Cho B
+AUID- ORCID: 0000-0002-8763-8992
+AD  - Department of Orthopedics, Icahn School of Medicine at Mount Sinai, New York, NY.
+FAU - Geng, Eric
+AU  - Geng E
+AUID- ORCID: 0000-0003-0736-3245
+FAU - Arvind, Varun
+AU  - Arvind V
+AUID- ORCID: 0000-0001-7511-2486
+FAU - Valliani, Aly A
+AU  - Valliani AA
+AUID- ORCID: 0000-0003-0295-7108
+FAU - Tang, Justin E
+AU  - Tang JE
+AUID- ORCID: 0000-0003-4544-3262
+FAU - Schwartz, John
+AU  - Schwartz J
+AUID- ORCID: 0000-0003-3682-5605
+FAU - Dominy, Calista
+AU  - Dominy C
+AUID- ORCID: 0000-0002-6572-585
+FAU - Cho, Samuel K
+AU  - Cho SK
+FAU - Kim, Jun S
+AU  - Kim JS
+AUID- ORCID: 0000-0002-6114-2673
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20220318
+PL  - United States
+TA  - JBJS Rev
+JT  - JBJS reviews
+JID - 101674872
+SB  - IM
+MH  - Algorithms
+MH  - *Artificial Intelligence
+MH  - Humans
+MH  - Machine Learning
+MH  - *Orthopedics
+COIS- Disclosure: The Disclosure of Potential Conflicts of Interest forms are provided 
+      with the online version of the article (http://links.lww.com/JBJSREV/A822).
+EDAT- 2022/03/19 06:00
+MHDA- 2022/04/01 06:00
+CRDT- 2022/03/18 17:16
+PHST- 2022/03/18 17:16 [entrez]
+PHST- 2022/03/19 06:00 [pubmed]
+PHST- 2022/04/01 06:00 [medline]
+AID - 01874474-202203000-00013 [pii]
+AID - 10.2106/JBJS.RVW.21.00142 [doi]
+PST - epublish
+SO  - JBJS Rev. 2022 Mar 18;10(3). doi: 10.2106/JBJS.RVW.21.00142.
+
+PMID- 35558637
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220716
+IS  - 2055-2076 (Print)
+IS  - 2055-2076 (Electronic)
+IS  - 2055-2076 (Linking)
+VI  - 8
+DP  - 2022 Jan-Dec
+TI  - Portable hardware & software technologies for addressing ophthalmic health 
+      disparities: A systematic review.
+PG  - 20552076221090042
+LID - 10.1177/20552076221090042 [doi]
+LID - 20552076221090042
+AB  - Vision impairment continues to be a major global problem, as the WHO estimates 
+      2.2 billion people struggling with vision loss or blindness. One billion of these 
+      cases, however, can be prevented by expanding diagnostic capabilities. Direct 
+      global healthcare costs associated with these conditions totaled $255 billion in 
+      2010, with a rapid upward projection to $294 billion in 2020. Accordingly, WHO 
+      proposed 2030 targets to enhance integration and patient-centered vision care by 
+      expanding refractive error and cataract worldwide coverage. Due to the 
+      limitations in cost and portability of adapted vision screening models, there is 
+      a clear need for new, more accessible vision testing tools in vision care. This 
+      comparative, systematic review highlights the need for new ophthalmic equipment 
+      and approaches while looking at existing and emerging technologies that could 
+      expand the capacity for disease identification and access to diagnostic tools. 
+      Specifically, the review focuses on portable hardware- and software-centered 
+      strategies that can be deployed in remote locations for detection of ophthalmic 
+      conditions and refractive error. Advancements in portable hardware, automated 
+      software screening tools, and big data-centric analytics, including machine 
+      learning, may provide an avenue for improving ophthalmic healthcare.
+CI  - © The Author(s) 2022.
+FAU - Labkovich, Margarita
+AU  - Labkovich M
+AUID- ORCID: 0000-0001-9500-348X
+AD  - Department of Medical Education, Icahn School of Medicine at Mount Sinai, New 
+      York, NY, USA. RINGGOLD: 5925
+FAU - Paul, Megan
+AU  - Paul M
+AD  - Department of Medical Education, Icahn School of Medicine at Mount Sinai, New 
+      York, NY, USA. RINGGOLD: 5925
+FAU - Kim, Eliott
+AU  - Kim E
+AD  - Department of Medical Education, Icahn School of Medicine at Mount Sinai, New 
+      York, NY, USA. RINGGOLD: 5925
+FAU - A Serafini, Randal
+AU  - A Serafini R
+AD  - Department of Medical Education, Icahn School of Medicine at Mount Sinai, New 
+      York, NY, USA. RINGGOLD: 5925
+AD  - Nash Department of Neuroscience and Friedman Brain Institute, Icahn School of 
+      Medicine at Mount Sinai, New York, NY, USA. RINGGOLD: 5925
+FAU - Lakhtakia, Shreyas
+AU  - Lakhtakia S
+AD  - Department of Engineering, Princeton University, Princeton, NJ, USA. RINGGOLD: 
+      198482
+FAU - Valliani, Aly A
+AU  - Valliani AA
+AD  - Department of Medical Education, Icahn School of Medicine at Mount Sinai, New 
+      York, NY, USA. RINGGOLD: 5925
+FAU - Warburton, Andrew J
+AU  - Warburton AJ
+AD  - Department of Medical Education, Icahn School of Medicine at Mount Sinai, New 
+      York, NY, USA. RINGGOLD: 5925
+FAU - Patel, Aashay
+AU  - Patel A
+AD  - Department of Medical Education, Icahn School of Medicine at Mount Sinai, New 
+      York, NY, USA. RINGGOLD: 5925
+FAU - Zhou, Davis
+AU  - Zhou D
+AD  - Department of Ophthalmology, New York Eye and Ear Infirmary of Mount Sinai, New 
+      York, NY, USA. RINGGOLD: 22526
+FAU - Sklar, Bonnie
+AU  - Sklar B
+AD  - Department of Ophthalmology, Wills Eye Hospital, Philadelphia, PA, USA. RINGGOLD: 
+      14523
+FAU - Chelnis, James
+AU  - Chelnis J
+AD  - Department of Ophthalmology, Icahn School of Medicine at Mount Sinai, New York, 
+      NY, USA. RINGGOLD: 5925
+FAU - Elahi, Ebrahim
+AU  - Elahi E
+AD  - Department of Ophthalmology, Icahn School of Medicine at Mount Sinai, New York, 
+      NY, USA. RINGGOLD: 5925
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20220506
+PL  - United States
+TA  - Digit Health
+JT  - Digital health
+JID - 101690863
+PMC - PMC9087242
+OTO - NOTNLM
+OT  - Portable
+OT  - blindness
+OT  - chronic disease, vision screening, eye exams, global health, eyecare access
+OT  - digital health
+OT  - machine learning
+OT  - prevention
+OT  - vision
+EDAT- 2022/05/14 06:00
+MHDA- 2022/05/14 06:01
+CRDT- 2022/05/13 18:17
+PHST- 2021/07/13 00:00 [received]
+PHST- 2022/03/09 00:00 [accepted]
+PHST- 2022/05/13 18:17 [entrez]
+PHST- 2022/05/14 06:00 [pubmed]
+PHST- 2022/05/14 06:01 [medline]
+AID - 10.1177_20552076221090042 [pii]
+AID - 10.1177/20552076221090042 [doi]
+PST - epublish
+SO  - Digit Health. 2022 May 6;8:20552076221090042. doi: 10.1177/20552076221090042. 
+      eCollection 2022 Jan-Dec.
+
+PMID- 35033690
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220405
+LR  - 20220823
+IS  - 1878-8769 (Electronic)
+IS  - 1878-8750 (Linking)
+VI  - 160
+DP  - 2022 Apr
+TI  - Intraoperative Navigation in Spine Surgery: Effects on Complications and 
+      Reoperations.
+PG  - e404-e411
+LID - S1878-8750(22)00038-9 [pii]
+LID - 10.1016/j.wneu.2022.01.035 [doi]
+AB  - INTRODUCTION: Intraoperative navigation during spine surgery improves pedicle 
+      screw placement accuracy. However, limited studies have correlated the use of 
+      navigation with clinical factors, including operative time and safety. In the 
+      present study, we compared the complications and reoperations between surgeries 
+      with and without navigation. METHODS: The National Surgical Quality Improvement 
+      Project database was queried for posterior cervical and lumbar fusions and 
+      deformity surgeries from 2011 to 2018 and divided by navigation use. Patients 
+      aged >89 years, patients with deformity aged <25 years, and patients undergoing 
+      surgery for tumors, fractures, infections, or nonelective indications were 
+      excluded. The demographics and perioperative factors were compared via univariate 
+      analysis. The outcomes were compared using multivariable logistic regression 
+      adjusting for age, sex, body mass index, American Society of Anesthesiologists 
+      class, surgical region, and multiple treatment levels. The outcomes were also 
+      compared stratifying by revision status. RESULTS: Navigation surgery patients had 
+      had higher American Society of Anesthesiologists class (P < 0.0001), more 
+      multiple level surgeries (P < 0.0001), and longer operative times (P < 0.0001). 
+      The adjusted analysis revealed that navigated lumbar surgery had lower odds of 
+      complications (odds ratio [OR], 0.82; 95% confidence interval [CI], 0.77-0.90; P 
+      < 0.0001), blood transfusion (OR, 0.79; 95% CI, 0.72-0.87; P < 0.0001), and wound 
+      debridement and/or drainage (OR, 0.66; 95% CI, 0.44-0.97; P = 0.04) compared with 
+      non-navigated lumbar surgery. Navigated cervical fusions had increased odds of 
+      transfusions (OR, 1.53; 95% CI, 1.06-2.23; P = 0.02). Navigated primary fusion 
+      had decreased odds of complications (OR, 0.91; 95% CI, 0.85-0.98; P = 0.01). 
+      However, no differences were found in revisions (OR, 0.89; 95% CI, 0.69-1.14; P = 
+      0.34). CONCLUSIONS: Navigated surgery patients experienced longer operations 
+      owing to a combination of the time required for navigation, more multilevel 
+      procedures, and a larger comorbidity burden, without differences in the incidence 
+      of infection. Fewer complications and wound washouts were required for navigated 
+      lumbar surgery owing to a greater proportion percentage of minimally invasive 
+      cases. The combined use of navigation and minimally invasive surgery might 
+      benefit patients with the proper indications.
+CI  - Copyright © 2022 Elsevier Inc. All rights reserved.
+FAU - Shuman, William H
+AU  - Shuman WH
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, Mount Sinai 
+      Health System, New York, New York, USA. Electronic address: 
+      will.shuman@icahn.mssm.edu.
+FAU - Valliani, Aly A
+AU  - Valliani AA
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, Mount Sinai 
+      Health System, New York, New York, USA.
+FAU - Chapman, Emily K
+AU  - Chapman EK
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, Mount Sinai 
+      Health System, New York, New York, USA.
+FAU - Martini, Michael L
+AU  - Martini ML
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, Mount Sinai 
+      Health System, New York, New York, USA.
+FAU - Neifert, Sean N
+AU  - Neifert SN
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, Mount Sinai 
+      Health System, New York, New York, USA.
+FAU - Baron, Rebecca B
+AU  - Baron RB
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, Mount Sinai 
+      Health System, New York, New York, USA.
+FAU - Schupper, Alexander J
+AU  - Schupper AJ
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, Mount Sinai 
+      Health System, New York, New York, USA.
+FAU - Steinberger, Jeremy M
+AU  - Steinberger JM
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, Mount Sinai 
+      Health System, New York, New York, USA.
+FAU - Caridi, John M
+AU  - Caridi JM
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, Mount Sinai 
+      Health System, New York, New York, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20220113
+PL  - United States
+TA  - World Neurosurg
+JT  - World neurosurgery
+JID - 101528275
+SB  - IM
+MH  - Adult
+MH  - Aged, 80 and over
+MH  - Humans
+MH  - Lumbar Vertebrae/surgery
+MH  - Lumbosacral Region/surgery
+MH  - Minimally Invasive Surgical Procedures/methods
+MH  - *Pedicle Screws
+MH  - Reoperation
+MH  - Retrospective Studies
+MH  - *Spinal Fusion/adverse effects/methods
+OTO - NOTNLM
+OT  - Complications
+OT  - NSQIP
+OT  - Navigation
+OT  - Outcomes
+OT  - Reoperations
+OT  - Spine surgery
+EDAT- 2022/01/17 06:00
+MHDA- 2022/04/06 06:00
+CRDT- 2022/01/16 20:50
+PHST- 2021/09/11 00:00 [received]
+PHST- 2022/01/08 00:00 [revised]
+PHST- 2022/01/08 00:00 [accepted]
+PHST- 2022/01/17 06:00 [pubmed]
+PHST- 2022/04/06 06:00 [medline]
+PHST- 2022/01/16 20:50 [entrez]
+AID - S1878-8750(22)00038-9 [pii]
+AID - 10.1016/j.wneu.2022.01.035 [doi]
+PST - ppublish
+SO  - World Neurosurg. 2022 Apr;160:e404-e411. doi: 10.1016/j.wneu.2022.01.035. Epub 
+      2022 Jan 13.
+
+PMID- 36240135
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20221018
+LR  - 20221105
+IS  - 1932-6203 (Electronic)
+IS  - 1932-6203 (Linking)
+VI  - 17
+IP  - 10
+DP  - 2022
+TI  - Deploying deep learning models on unseen medical imaging using adversarial domain 
+      adaptation.
+PG  - e0273262
+LID - 10.1371/journal.pone.0273262 [doi]
+LID - e0273262
+AB  - The fundamental challenge in machine learning is ensuring that trained models 
+      generalize well to unseen data. We developed a general technique for ameliorating 
+      the effect of dataset shift using generative adversarial networks (GANs) on a 
+      dataset of 149,298 handwritten digits and dataset of 868,549 chest radiographs 
+      obtained from four academic medical centers. Efficacy was assessed by comparing 
+      area under the curve (AUC) pre- and post-adaptation. On the digit recognition 
+      task, the baseline CNN achieved an average internal test AUC of 99.87% (95% CI, 
+      99.87-99.87%), which decreased to an average external test AUC of 91.85% (95% CI, 
+      91.82-91.88%), with an average salvage of 35% from baseline upon adaptation. On 
+      the lung pathology classification task, the baseline CNN achieved an average 
+      internal test AUC of 78.07% (95% CI, 77.97-78.17%) and an average external test 
+      AUC of 71.43% (95% CI, 71.32-71.60%), with a salvage of 25% from baseline upon 
+      adaptation. Adversarial domain adaptation leads to improved model performance on 
+      radiographic data derived from multiple out-of-sample healthcare populations. 
+      This work can be applied to other medical imaging domains to help shape the 
+      deployment toolkit of machine learning in medicine.
+FAU - Valliani, Aly A
+AU  - Valliani AA
+AUID- ORCID: 0000-0003-0295-7108
+AD  - Department of Neurosurgery, Mount Sinai Health System, New York, NY, United 
+      States of America.
+FAU - Gulamali, Faris F
+AU  - Gulamali FF
+AUID- ORCID: 0000-0002-2973-6594
+AD  - Department of Neurosurgery, Mount Sinai Health System, New York, NY, United 
+      States of America.
+FAU - Kwon, Young Joon
+AU  - Kwon YJ
+AD  - Department of Neurosurgery, Mount Sinai Health System, New York, NY, United 
+      States of America.
+FAU - Martini, Michael L
+AU  - Martini ML
+AD  - Department of Neurosurgery, Mount Sinai Health System, New York, NY, United 
+      States of America.
+FAU - Wang, Chiatse
+AU  - Wang C
+AD  - Data Science Degree Program, National Taiwan University, Taipei, Taiwan.
+FAU - Kondziolka, Douglas
+AU  - Kondziolka D
+AD  - Department of Neurosurgery, New York University Langone Medical Center, New York, 
+      NY, United States of America.
+AD  - Department of Radiation Oncology, New York University Langone Medical Center, New 
+      York, NY, United States of America.
+FAU - Chen, Viola J
+AU  - Chen VJ
+AD  - Oncology Early Development, Merck Co., Inc, Kenilworth, NJ, United States of 
+      America.
+FAU - Wang, Weichung
+AU  - Wang W
+AUID- ORCID: 0000-0002-6154-7750
+AD  - Data Science Degree Program, National Taiwan University, Taipei, Taiwan.
+AD  - Institute of Applied Mathematical Sciences, National Taiwan University, Taipei, 
+      Taiwan.
+FAU - Costa, Anthony B
+AU  - Costa AB
+AUID- ORCID: 0000-0002-2202-6450
+AD  - NVIDIA, Santa Clara, CA, United States of America.
+FAU - Oermann, Eric K
+AU  - Oermann EK
+AUID- ORCID: 0000-0002-1876-5963
+AD  - Department of Neurosurgery, New York University Langone Medical Center, New York, 
+      NY, United States of America.
+AD  - Department of Radiology, New York University Langone Medical Center, New York, 
+      NY, United States of America.
+LA  - eng
+GR  - T32 GM146636/GM/NIGMS NIH HHS/United States
+PT  - Journal Article
+DEP - 20221014
+PL  - United States
+TA  - PLoS One
+JT  - PloS one
+JID - 101285081
+SB  - IM
+MH  - *Deep Learning
+MH  - Machine Learning
+MH  - Radiographic Image Interpretation, Computer-Assisted/methods
+MH  - Radiography
+PMC - PMC9565422
+COIS- The authors have declared that no competing interests exist.
+EDAT- 2022/10/15 06:00
+MHDA- 2022/10/19 06:00
+CRDT- 2022/10/14 13:33
+PHST- 2022/03/18 00:00 [received]
+PHST- 2022/08/04 00:00 [accepted]
+PHST- 2022/10/14 13:33 [entrez]
+PHST- 2022/10/15 06:00 [pubmed]
+PHST- 2022/10/19 06:00 [medline]
+AID - PONE-D-22-08145 [pii]
+AID - 10.1371/journal.pone.0273262 [doi]
+PST - epublish
+SO  - PLoS One. 2022 Oct 14;17(10):e0273262. doi: 10.1371/journal.pone.0273262. 
+      eCollection 2022.
+
+PMID- 34269759
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220511
+LR  - 20230831
+IS  - 1528-1159 (Electronic)
+IS  - 0362-2436 (Linking)
+VI  - 47
+IP  - 9
+DP  - 2022 May 1
+TI  - Identification of Anterior Cervical Spinal Instrumentation Using a Smartphone 
+      Application Powered by Machine Learning.
+PG  - E407-E414
+LID - 10.1097/BRS.0000000000004172 [doi]
+AB  - STUDY DESIGN: Cross-sectional study. OBJECTIVE: The purpose of this study is to 
+      develop and validate a machine learning algorithm for the automated 
+      identification of anterior cervical discectomy and fusion (ACDF) plates from 
+      smartphone images of anterior-posterior (AP) cervical spine radiographs. SUMMARY 
+      OF BACKGROUND DATA: Identification of existing instrumentation is a critical step 
+      in planning revision surgery for ACDF. Machine learning algorithms that are known 
+      to be adept at image classification may be applied to the problem of ACDF plate 
+      identification. METHODS: A total of 402 smartphone images containing 15 different 
+      types of ACDF plates were gathered. Two hundred seventy-five images (∼70%) were 
+      used to train and validate a convolution neural network (CNN) for classification 
+      of images from radiographs. One hundred twenty-seven (∼30%) images were held out 
+      to test algorithm performance. RESULTS: The algorithm performed with an overall 
+      accuracy of 94.4% and 85.8% for top-3 and top-1 accuracy, respectively. Overall 
+      positive predictive value, sensitivity, and f1-scores were 0.873, 0.858, and 
+      0.855, respectively. CONCLUSION: This algorithm demonstrates strong performance 
+      in the classification of ACDF plates from smartphone images and will be deployed 
+      as an accessible smartphone application for further evaluation, improvement, and 
+      eventual widespread use.Level of Evidence: 3.
+CI  - Copyright © 2021 Wolters Kluwer Health, Inc. All rights reserved.
+FAU - Schwartz, John T
+AU  - Schwartz JT
+AD  - Department of Orthopedic Surgery, Mount Sinai Health System, New York, NY.
+FAU - Valliani, Aly A
+AU  - Valliani AA
+AD  - Department of Orthopedic Surgery, Mount Sinai Health System, New York, NY.
+FAU - Arvind, Varun
+AU  - Arvind V
+AD  - Department of Orthopedic Surgery, Mount Sinai Health System, New York, NY.
+FAU - Cho, Brian H
+AU  - Cho BH
+AD  - Department of Orthopedic Surgery, Mount Sinai Health System, New York, NY.
+FAU - Geng, Eric
+AU  - Geng E
+AD  - Department of Orthopedic Surgery, Mount Sinai Health System, New York, NY.
+FAU - Henson, Philip
+AU  - Henson P
+AD  - Department of Orthopedic Surgery, Mount Sinai Health System, New York, NY.
+FAU - Riew, K Daniel
+AU  - Riew KD
+AD  - Department of Orthopedic Surgery, Columbia University Medical Center, New York, 
+      NY.
+FAU - Lehman, Ronald A
+AU  - Lehman RA
+AD  - Department of Orthopedic Surgery, Columbia University Medical Center, New York, 
+      NY.
+FAU - Lenke, Lawrence G
+AU  - Lenke LG
+AD  - Department of Orthopedic Surgery, Columbia University Medical Center, New York, 
+      NY.
+FAU - Cho, Samuel K
+AU  - Cho SK
+AD  - Department of Orthopedic Surgery, Mount Sinai Health System, New York, NY.
+FAU - Kim, Jun S
+AU  - Kim JS
+AD  - Department of Orthopedic Surgery, Mount Sinai Health System, New York, NY.
+LA  - eng
+PT  - Journal Article
+DEP - 20210716
+PL  - United States
+TA  - Spine (Phila Pa 1976)
+JT  - Spine
+JID - 7610646
+SB  - IM
+MH  - Bone Plates
+MH  - *Cervical Vertebrae/diagnostic imaging/surgery
+MH  - Cross-Sectional Studies
+MH  - Diskectomy/methods
+MH  - Humans
+MH  - Machine Learning
+MH  - Retrospective Studies
+MH  - Smartphone
+MH  - *Spinal Fusion/methods
+MH  - Treatment Outcome
+EDAT- 2021/07/17 06:00
+MHDA- 2022/05/12 06:00
+CRDT- 2021/07/16 12:21
+PHST- 2021/07/17 06:00 [pubmed]
+PHST- 2022/05/12 06:00 [medline]
+PHST- 2021/07/16 12:21 [entrez]
+AID - 00007632-202205010-00010 [pii]
+AID - 10.1097/BRS.0000000000004172 [doi]
+PST - ppublish
+SO  - Spine (Phila Pa 1976). 2022 May 1;47(9):E407-E414. doi: 
+      10.1097/BRS.0000000000004172. Epub 2021 Jul 16.
+
+PMID- 33820942
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211028
+LR  - 20211028
+IS  - 2045-2322 (Electronic)
+IS  - 2045-2322 (Linking)
+VI  - 11
+IP  - 1
+DP  - 2021 Apr 5
+TI  - Deep anomaly detection of seizures with paired stereoelectroencephalography and 
+      video recordings.
+PG  - 7482
+LID - 10.1038/s41598-021-86891-y [doi]
+LID - 7482
+AB  - Real-time seizure detection is a resource intensive process as it requires 
+      continuous monitoring of patients on stereoelectroencephalography. This study 
+      improves real-time seizure detection in drug resistant epilepsy (DRE) patients by 
+      developing patient-specific deep learning models that utilize a novel 
+      self-supervised dynamic thresholding approach. Deep neural networks were 
+      constructed on over 2000 h of high-resolution, multichannel SEEG and video 
+      recordings from 14 DRE patients. Consensus labels from a panel of epileptologists 
+      were used to evaluate model efficacy. Self-supervised dynamic thresholding 
+      exhibited improvements in positive predictive value (PPV; difference: 39.0%; 95% 
+      CI 4.5-73.5%; Wilcoxon-Mann-Whitney test; N = 14; p = 0.03) with similar 
+      sensitivity (difference: 14.3%; 95% CI - 21.7 to 50.3%; Wilcoxon-Mann-Whitney 
+      test; N = 14; p = 0.42) compared to static thresholds. In some models, training 
+      on as little as 10 min of SEEG data yielded robust detection. Cross-testing 
+      experiments reduced PPV (difference: 56.5%; 95% CI 25.8-87.3%; 
+      Wilcoxon-Mann-Whitney test; N = 14; p = 0.002), while multimodal detection 
+      significantly improved sensitivity (difference: 25.0%; 95% CI 0.2-49.9%; 
+      Wilcoxon-Mann-Whitney test; N = 14; p < 0.05). Self-supervised dynamic 
+      thresholding improved the efficacy of real-time seizure predictions. Multimodal 
+      models demonstrated potential to improve detection. These findings are promising 
+      for future deployment in epilepsy monitoring units to enable real-time seizure 
+      detection without annotated data and only minimal training time in individual 
+      patients.
+FAU - Martini, Michael L
+AU  - Martini ML
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, New York, 
+      NY, 10029, USA.
+FAU - Valliani, Aly A
+AU  - Valliani AA
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, New York, 
+      NY, 10029, USA.
+FAU - Sun, Claire
+AU  - Sun C
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, New York, 
+      NY, 10029, USA.
+AD  - Department of Neurosciences, Friedman Brain Institute, Icahn School of Medicine 
+      at Mount Sinai, One Gustave Levy Place, New York, NY, 10029, USA.
+FAU - Costa, Anthony B
+AU  - Costa AB
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, New York, 
+      NY, 10029, USA.
+FAU - Zhao, Shan
+AU  - Zhao S
+AD  - Department of Anesthesiology, Icahn School of Medicine At Mount Sinai, New York, 
+      NY, 10029, USA.
+FAU - Panov, Fedor
+AU  - Panov F
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, New York, 
+      NY, 10029, USA.
+FAU - Ghatan, Saadi
+AU  - Ghatan S
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, New York, 
+      NY, 10029, USA.
+FAU - Rajan, Kanaka
+AU  - Rajan K
+AD  - Department of Neurosciences, Friedman Brain Institute, Icahn School of Medicine 
+      at Mount Sinai, One Gustave Levy Place, New York, NY, 10029, USA. 
+      kanaka.rajan@mssm.edu.
+FAU - Oermann, Eric Karl
+AU  - Oermann EK
+AD  - Department of Neurosurgery, New York University Langone Medical Center, New York 
+      University, Skirball, Suite 8S, 530 First Avenue, New York, NY, 10016, USA. 
+      eric.oermann@nyulangone.org.
+AD  - Department of Radiology, New York University Langone Medical Center, New York, 
+      NY, 10016, USA. eric.oermann@nyulangone.org.
+AD  - NYU Center for Data Science, New York University, New York, NY, 10011, USA. 
+      eric.oermann@nyulangone.org.
+LA  - eng
+PT  - Journal Article
+DEP - 20210405
+PL  - England
+TA  - Sci Rep
+JT  - Scientific reports
+JID - 101563288
+SB  - IM
+MH  - Algorithms
+MH  - *Electroencephalography
+MH  - Electrophysiological Phenomena
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Multimodal Imaging
+MH  - Neural Networks, Computer
+MH  - Seizures/*diagnostic imaging/physiopathology
+MH  - *Stereotaxic Techniques
+MH  - *Video Recording
+MH  - Young Adult
+PMC - PMC8021582
+COIS- The authors declare no competing interests.
+EDAT- 2021/04/07 06:00
+MHDA- 2021/10/29 06:00
+CRDT- 2021/04/06 05:44
+PHST- 2021/01/09 00:00 [received]
+PHST- 2021/03/16 00:00 [accepted]
+PHST- 2021/04/06 05:44 [entrez]
+PHST- 2021/04/07 06:00 [pubmed]
+PHST- 2021/10/29 06:00 [medline]
+AID - 10.1038/s41598-021-86891-y [pii]
+AID - 86891 [pii]
+AID - 10.1038/s41598-021-86891-y [doi]
+PST - epublish
+SO  - Sci Rep. 2021 Apr 5;11(1):7482. doi: 10.1038/s41598-021-86891-y.
+
+PMID- 35730283
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220623
+LR  - 20220726
+IS  - 1551-0018 (Electronic)
+IS  - 1547-1063 (Linking)
+VI  - 19
+IP  - 7
+DP  - 2022 May 5
+TI  - Population scale latent space cohort matching for the improved use and 
+      exploration of observational trial data.
+PG  - 6795-6813
+LID - 10.3934/mbe.2022320 [doi]
+AB  - A significant amount of clinical research is observational by nature and derived 
+      from medical records, clinical trials, and large-scale registries. While there is 
+      no substitute for randomized, controlled experimentation, such experiments or 
+      trials are often costly, time consuming, and even ethically or practically 
+      impossible to execute. Combining classical regression and structural equation 
+      modeling with matching techniques can leverage the value of observational data. 
+      Nevertheless, identifying variables of greatest interest in high-dimensional data 
+      is frequently challenging, even with application of classical dimensionality 
+      reduction and/or propensity scoring techniques. Here, we demonstrate that 
+      projecting high-dimensional medical data onto a lower-dimensional manifold using 
+      deep autoencoders and post-hoc generation of treatment/control cohorts based on 
+      proximity in the lower-dimensional space results in better matching of 
+      confounding variables compared to classical propensity score matching (PSM) in 
+      the original high-dimensional space (P<0.0001) and performs similarly to PSM 
+      models constructed by experts with prior knowledge of the underlying pathology 
+      when evaluated on predicting risk ratios from real-world clinical data. Thus, in 
+      cases when the underlying problem is poorly understood and the data is 
+      high-dimensional in nature, matching in the autoencoder latent space might be of 
+      particular benefit.
+FAU - Gologorsky, Rachel
+AU  - Gologorsky R
+AD  - Department of Medicine, Icahn School of Medicine, New York, NY 10028, USA.
+FAU - Somani, Sulaiman S
+AU  - Somani SS
+AD  - Department of Medicine, Stanford University School of Medicine, Stanford, CA 
+      94305, USA.
+FAU - Neifert, Sean N
+AU  - Neifert SN
+AD  - Department of Neurosurgery, NYU Grossman School of Medicine, New York, NY 10016, 
+      USA.
+FAU - Valliani, Aly A
+AU  - Valliani AA
+AD  - Department of Medicine, Icahn School of Medicine, New York, NY 10028, USA.
+FAU - Link, Katherine E
+AU  - Link KE
+AD  - Department of Medicine, Icahn School of Medicine, New York, NY 10028, USA.
+FAU - Chen, Viola J
+AU  - Chen VJ
+AD  - Oncology Early development, Merck & Co., Inc, Kenilworth, NJ 07033, USA.
+FAU - Costa, Anthony B
+AU  - Costa AB
+AD  - NVIDIA, Santa Clara, CA 95051, USA.
+FAU - Oermann, Eric K
+AU  - Oermann EK
+AD  - Department of Neurosurgery, NYU Grossman School of Medicine, New York, NY 10016, 
+      USA.
+AD  - Department of Radiology, NYU Grossman School of Medicine, New York, NY 10016, 
+      USA.
+LA  - eng
+PT  - Journal Article
+PT  - Observational Study
+PL  - United States
+TA  - Math Biosci Eng
+JT  - Mathematical biosciences and engineering : MBE
+JID - 101197794
+SB  - IM
+MH  - Cohort Studies
+MH  - Humans
+MH  - Propensity Score
+MH  - *Research Design
+OTO - NOTNLM
+OT  - artificial intelligence
+OT  - autoencoders
+OT  - cohort matching
+OT  - data visualization
+OT  - deep learning
+OT  - manifold learning
+EDAT- 2022/06/23 06:00
+MHDA- 2022/06/24 06:00
+CRDT- 2022/06/22 04:02
+PHST- 2022/06/22 04:02 [entrez]
+PHST- 2022/06/23 06:00 [pubmed]
+PHST- 2022/06/24 06:00 [medline]
+AID - 10.3934/mbe.2022320 [doi]
+PST - ppublish
+SO  - Math Biosci Eng. 2022 May 5;19(7):6795-6813. doi: 10.3934/mbe.2022320.
+
+PMID- 36282119
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20221028
+LR  - 20221101
+IS  - 2164-2591 (Electronic)
+IS  - 2164-2591 (Linking)
+VI  - 11
+IP  - 10
+DP  - 2022 Oct 3
+TI  - Virtual Reality Hemifield Measurements for Corrective Surgery Eligibility in 
+      Ptosis Patients: A Pilot Clinical Trial.
+PG  - 35
+LID - 10.1167/tvst.11.10.35 [doi]
+LID - 35
+AB  - PURPOSE: We developed an accelerated virtual reality (VR) suprathreshold 
+      hemifield perimetry algorithm, the median cut hemifield test (MCHT). This study 
+      examines the ability of the MCHT to determine ptosis severity and its 
+      reversibility with an artificial improvement by eyelid taping on an HTC Vive Pro 
+      Eye VR headset and the Humphrey visual field analyzer (HVFA) to assess the 
+      capabilities of emerging technologies in evaluating ptosis. METHODS: In a single 
+      visit, the MCHT was administered along with the HVFA 30-2 on ptotic untaped and 
+      taped eyelids in a randomized order. The primary end points were a superior field 
+      visibility comparison with severity of VF loss and VF improvement after taping 
+      for MCHT and HVFA. Secondary end points included evaluating patients' 
+      Likert-scaled survey responses on the comfort, speed, and overall experience with 
+      both testing modalities. RESULTS: VR's MCHT superior field degrees visible 
+      correlated well for severe category margin to reflex distance (r = 0.78) compared 
+      with HVFA's (r = -0.21). The MCHT also demonstrated noninferiority (83.3% 
+      agreement; P = 1) against HVFA for detection of 30% or more superior visual field 
+      improvement after taping, warranting a corrective surgical intervention. In 
+      comparing hemi-VF in untaped eyes, both tests demonstrated relative obstruction 
+      to the field when comparing normal controls to severe ptosis (HVFA P < 0.05; MCHT 
+      P < 0.001), which proved sufficient to demonstrate percent improvement with 
+      taping. The secondary end point of patient satisfaction favored VR vision testing 
+      presentation mode in terms of comfort (P < 0.01), speed (P < 0.001), and overall 
+      experience (P < 0.01). CONCLUSIONS: This pilot trial supports the use of MCHT for 
+      the quantitative measurement of visual field loss owing to ptosis and the 
+      reversibility of ptosis that is tested when conducting a presurgical evaluation. 
+      We believe the adoption of MCHT testing in oculoplastic clinics could decrease 
+      patient burden and accelerate time to corrective treatment. TRANSLATIONAL 
+      RELEVANCE: In this study, we look at vision field outputs in patients with ptosis 
+      to evaluate its severity and improvement with eyelid taping on a low-profile 
+      VR-based technology and compare it with HVFA. Our results demonstrate that 
+      alternative, portable technologies such as VR can be used to grade the degree of 
+      ptosis and determine whether ptosis surgery could provide a significant superior 
+      visual field improvement of 30% or more, all while ensuring a more comfortable 
+      experience and faster testing time.
+FAU - Labkovich, Margarita
+AU  - Labkovich M
+AD  - Department of Medical Education, Icahn School of Medicine at Mount Sinai, New 
+      York, NY, USA.
+FAU - Warburton, Andrew J
+AU  - Warburton AJ
+AD  - Department of Medical Education, Icahn School of Medicine at Mount Sinai, New 
+      York, NY, USA.
+FAU - Ying, Stephanie
+AU  - Ying S
+AD  - Department of Medical Education, Icahn School of Medicine at Mount Sinai, New 
+      York, NY, USA.
+FAU - Valliani, Aly A
+AU  - Valliani AA
+AD  - Department of Medical Education, Icahn School of Medicine at Mount Sinai, New 
+      York, NY, USA.
+FAU - Kissel, Nicholas
+AU  - Kissel N
+AD  - Department of Statistics & Data Science, Carnegie Mellon, Pittsburgh, PA, USA.
+FAU - Serafini, Randal A
+AU  - Serafini RA
+AD  - Department of Medical Education, Icahn School of Medicine at Mount Sinai, New 
+      York, NY, USA.
+AD  - Nash Department of Neuroscience and Friedman Brain Institute, Icahn School of 
+      Medicine at Mount Sinai, New York, NY, USA.
+FAU - Mathew, Raj
+AU  - Mathew R
+AD  - Department of Medical Education, SUNY Downstate, Brooklyn, NY, USA.
+FAU - Paul, Megan
+AU  - Paul M
+AD  - Department of Medical Education, Icahn School of Medicine at Mount Sinai, New 
+      York, NY, USA.
+FAU - Hovstadius, S Malin
+AU  - Hovstadius SM
+AD  - Department of Medical Education, Icahn School of Medicine at Mount Sinai, New 
+      York, NY, USA.
+FAU - Navarro, Vicente N
+AU  - Navarro VN
+AD  - Department of Uro Onc Research, Weill Cornell Medicine, New York, NY, USA.
+FAU - Patel, Aashay
+AU  - Patel A
+AD  - Department of Medical Education, Icahn School of Medicine at Mount Sinai, New 
+      York, NY, USA.
+FAU - Reddy, Harsha
+AU  - Reddy H
+AD  - Department of Ophthalmology, Icahn School of Medicine at Mount Sinai, New York, 
+      NY, USA.
+FAU - Chelnis, James G
+AU  - Chelnis JG
+AD  - Department of Ophthalmology, Icahn School of Medicine at Mount Sinai, New York, 
+      NY, USA.
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PL  - United States
+TA  - Transl Vis Sci Technol
+JT  - Translational vision science & technology
+JID - 101595919
+SB  - IM
+MH  - Humans
+MH  - *Blepharoptosis/diagnosis/surgery/complications
+MH  - Eyelids/surgery
+MH  - *Virtual Reality
+MH  - Visual Field Tests/methods
+MH  - Visual Fields
+MH  - Pilot Projects
+PMC - PMC9617504
+COIS- Disclosure: M. Labkovich, Retina Technologies, Inc. (I); A.J. Warburton, Retina 
+      Technologies, Inc. (I); S. Ying, None; A.A.Valliani, Retina Technologies, Inc. 
+      (I); N. Kissel, None; R.A. Serafini, Retina Technologies, Inc. (I), MatrixMed, 
+      Inc. (I); R. Mathew, None; M. Paul, None; S.M. Hovstadius, None; V.N. Navarro, 
+      None; A. Patel, Retina Technologies, Inc. (I), Vitrix Health, Inc. (I); H. Reddy, 
+      None; J.G. Chelnis, None
+EDAT- 2022/10/26 06:00
+MHDA- 2022/10/28 06:00
+CRDT- 2022/10/25 09:33
+PHST- 2022/10/25 09:33 [entrez]
+PHST- 2022/10/26 06:00 [pubmed]
+PHST- 2022/10/28 06:00 [medline]
+AID - 2783790 [pii]
+AID - TVST-21-4048 [pii]
+AID - 10.1167/tvst.11.10.35 [doi]
+PST - ppublish
+SO  - Transl Vis Sci Technol. 2022 Oct 3;11(10):35. doi: 10.1167/tvst.11.10.35.
+
+PMID- 37016876
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20230412
+IS  - 2586-6583 (Print)
+IS  - 2586-6591 (Electronic)
+IS  - 2586-6591 (Linking)
+VI  - 20
+IP  - 1
+DP  - 2023 Mar
+TI  - Weekend Admission Increases Risk of Readmissions Following Elective Cervical 
+      Spinal Fusion.
+PG  - 290-300
+LID - 10.14245/ns.2244816.408 [doi]
+AB  - OBJECTIVE: The "weekend effect" occurs when patients cared for during weekends 
+      versus weekdays experience worse outcomes. But reasons for this effect are 
+      unclear, especially amongst patients undergoing elective cervical spinal fusion 
+      (ECSF). Our aim was to analyze whether index weekend admission affects 30- and 
+      90-day readmission rates post-ECSF. METHODS: All ECSF patients > 18 years were 
+      retrospectively identified from the 2016-2018 Healthcare Cost and Utilization 
+      Project Nationwide Readmissions Database (NRD), using unique patient linkage 
+      codes and International Classification of Diseases, Tenth Revision codes. Patient 
+      demographics, comorbidities, and outcomes were analyzed. Univariate logistic 
+      regression analyzed primary outcomes of 30- and 90-day readmission rates in 
+      weekday or weekend groups. Multivariate regression determined the impact of 
+      complications on readmission rates. RESULTS: Compared to the weekday group (n = 
+      125,590), the weekend group (n = 1,026) held a higher percentage of 
+      Medicare/Medicaid insurance, incurred higher costs, had longer length of stay, 
+      and fewer routine home discharge (all p < 0.001). There was no difference in 
+      comorbidity burden between weekend versus weekday admissions, as measured by the 
+      Elixhauser Comorbidity Index (p = 0.527). Weekend admissions had higher 30-day 
+      (4.30% vs. 7.60%, p < 0.001) and 90-day (7.80% vs. 16.10%, p < 0.001) readmission 
+      rates, even after adjusting for sex, age, insurance status, and comorbidities. 
+      All-cause complication rates were higher for weekend admissions (8.62% vs. 12.7%, 
+      p < 0.001), specifically deep vein thrombosis, infection, neurological 
+      conditions, and pulmonary embolism. CONCLUSION: Index weekend admission increases 
+      30- and 90-day readmission rates after ECSF. In patients undergoing ECSF on 
+      weekends, postoperative care for patients at risk for specific complications will 
+      allow for improved outcomes and health care utilization.
+FAU - Ren, Renee
+AU  - Ren R
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New 
+      York, NY, USA.
+FAU - Dominy, Calista
+AU  - Dominy C
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New 
+      York, NY, USA.
+FAU - Bueno, Brian
+AU  - Bueno B
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New 
+      York, NY, USA.
+FAU - Pasik, Sara
+AU  - Pasik S
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New 
+      York, NY, USA.
+FAU - Markowitz, Jonathan
+AU  - Markowitz J
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New 
+      York, NY, USA.
+FAU - Yeshoua, Brandon
+AU  - Yeshoua B
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New 
+      York, NY, USA.
+FAU - Cho, Brian
+AU  - Cho B
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New 
+      York, NY, USA.
+FAU - Arvind, Varun
+AU  - Arvind V
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New 
+      York, NY, USA.
+FAU - Valliani, Aly A
+AU  - Valliani AA
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New 
+      York, NY, USA.
+FAU - Kim, Jun
+AU  - Kim J
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New 
+      York, NY, USA.
+FAU - Cho, Samuel
+AU  - Cho S
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New 
+      York, NY, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20230331
+PL  - Korea (South)
+TA  - Neurospine
+JT  - Neurospine
+JID - 101724936
+PMC - PMC10080455
+OTO - NOTNLM
+OT  - Complications
+OT  - Elective cervical spinal fusion
+OT  - Perioperative characteristics
+OT  - Postoperative outcomes
+OT  - Readmission rates
+OT  - Weekend admission
+COIS- Conflict of Interest The authors have nothing to disclose.
+EDAT- 2023/04/06 06:00
+MHDA- 2023/04/06 06:01
+CRDT- 2023/04/05 03:28
+PHST- 2022/09/24 00:00 [received]
+PHST- 2023/01/10 00:00 [accepted]
+PHST- 2023/04/06 06:01 [medline]
+PHST- 2023/04/05 03:28 [entrez]
+PHST- 2023/04/06 06:00 [pubmed]
+AID - ns.2244816.408 [pii]
+AID - ns-2244816-408 [pii]
+AID - 10.14245/ns.2244816.408 [doi]
+PST - ppublish
+SO  - Neurospine. 2023 Mar;20(1):290-300. doi: 10.14245/ns.2244816.408. Epub 2023 Mar 
+      31.
+
+PMID- 36941913
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20230328
+IS  - 2666-3287 (Electronic)
+IS  - 2666-3287 (Linking)
+VI  - 11
+DP  - 2023 Jun
+TI  - Teledermatology in medical student, postgraduate trainee, and global dermatology 
+      education: A systematic review.
+PG  - 106-111
+LID - 10.1016/j.jdin.2023.01.023 [doi]
+AB  - BACKGROUND: In the aftermath of the COVID-19 pandemic, medical students and 
+      residents in the U.S. and globally have gained more exposure to teledermatology, 
+      both for the purposes of clinical practice and education. OBJECTIVE: We conducted 
+      a systematic review to assess outcomes from teledermatology interventions for 
+      dermatology trainees in the U.S. and globally in accordance with Preferred 
+      Reporting Items for Systematic Reviews (PRISMA). METHODS: We searched MEDLINE, 
+      EMBASE, Web of Science, and Cochrane CENTRAL for articles written in English and 
+      published database inception to November 20, 2022. RESULTS: In total, 15 studies 
+      met the inclusion criteria. Outcomes reported ranged broadly from 
+      resident-provider concordance rates, diagnostic accuracy in comparison to control 
+      groups, number of patients seen, and self-reported satisfaction and improvement. 
+      Generally, studies indicated high satisfaction rates and improvement in 
+      educational outcomes among medical students, residents, and other trainees in the 
+      global health setting. LIMITATIONS: Because of the heterogeneity of study design 
+      and outcomes reported, meta-analysis could not be performed. CONCLUSION: 
+      Teledermatology can be successfully deployed for clinical care and education 
+      domestically and in the global health setting.
+CI  - © 2023 Published by Elsevier Inc. on behalf of the American Academy of 
+      Dermatology, Inc.
+FAU - Patel, Heli
+AU  - Patel H
+AD  - Sidney Kimmel Medical College at Thomas Jefferson University, Philadelphia.
+FAU - Revankar, Rishab
+AU  - Revankar R
+AD  - The Icahn School of Medicine at Mount Sinai, New York.
+FAU - Valliani, Aly
+AU  - Valliani A
+AD  - The Icahn School of Medicine at Mount Sinai, New York.
+FAU - Revankar, Nikita
+AU  - Revankar N
+AD  - East Carolina University Brody School of Medicine, Greenville, North Carolina.
+FAU - Yerigeri, Shivani
+AU  - Yerigeri S
+AD  - Northeast Ohio Medical University, Rootstown, Ohio.
+FAU - Kaskas, Nadine
+AU  - Kaskas N
+AD  - The Icahn School of Medicine at Mount Sinai, New York.
+FAU - Stoff, Benjamin
+AU  - Stoff B
+AD  - Department of Dermatology, Emory University School of Medicine, Atlanta, Georgia.
+LA  - eng
+PT  - Journal Article
+DEP - 20230219
+PL  - United States
+TA  - JAAD Int
+JT  - JAAD international
+JID - 101774762
+PMC - PMC10018315
+OTO - NOTNLM
+OT  - PRISMA, Preferred Reporting Items for Systematic Reviews
+OT  - VR, virtual reality
+OT  - global health
+OT  - international dermatology education
+OT  - teledermatology
+OT  - virtual curriculum
+COIS- None disclosed.
+EDAT- 2023/03/22 06:00
+MHDA- 2023/03/22 06:01
+CRDT- 2023/03/21 02:07
+PHST- 2023/01/28 00:00 [accepted]
+PHST- 2023/03/21 02:07 [entrez]
+PHST- 2023/03/22 06:00 [pubmed]
+PHST- 2023/03/22 06:01 [medline]
+AID - S2666-3287(23)00026-3 [pii]
+AID - 10.1016/j.jdin.2023.01.023 [doi]
+PST - ppublish
+SO  - JAAD Int. 2023 Jun;11:106-111. doi: 10.1016/j.jdin.2023.01.023. Epub 2023 Feb 19.
+
+PMID- 35654334
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220922
+LR  - 20221213
+IS  - 1878-8769 (Electronic)
+IS  - 1878-8750 (Linking)
+VI  - 165
+DP  - 2022 Sep
+TI  - Robust Prediction of Non-home Discharge After Thoracolumbar Spine Surgery With 
+      Ensemble Machine Learning and Validation on a Nationwide Cohort.
+PG  - e83-e91
+LID - S1878-8750(22)00745-8 [pii]
+LID - 10.1016/j.wneu.2022.05.105 [doi]
+AB  - BACKGROUND: Delays in postoperative referrals to rehabilitation or skilled 
+      nursing facilities contribute toward extended hospital stays. Facilitating more 
+      efficient referrals through accurate preoperative prediction algorithms has the 
+      potential to reduce unnecessary economic burden and minimize risk of 
+      hospital-acquired complications. We develop a robust machine learning algorithm 
+      to predict non-home discharge after thoracolumbar spine surgery that generalizes 
+      to unseen populations and identifies markers for prediction. METHODS: 
+      Retrospective electronic health records were obtained from our single-center data 
+      warehouse (SCDW) to identify patients undergoing thoracolumbar spine surgeries 
+      between 2008 and 2019 for algorithm development and internal validation. The 
+      National Inpatient Sample (NIS) database was queried to identify thoracolumbar 
+      surgeries between 2009 and 2017 for out-of-sample validation. Ensemble decision 
+      trees were constructed for prediction and area under the receiver operating 
+      characteristic curve (AUROC) was used to assess performance. Shapley additive 
+      explanations values were derived to identify drivers of non-home discharge for 
+      interpretation of algorithm predictions. RESULTS: A total of 5224 cases of 
+      thoracolumbar spine surgeries were isolated from the SCDW and 492,312 cases were 
+      identified from NIS. The model achieved an AUROC of 0.81 (standard deviation 
+      [SD] = 0.01) on the SCDW test set and 0.77 (SD = 0.01) on the nationwide NIS data 
+      set, thereby demonstrating robust prediction of non-home discharge across all 
+      diverse patient cohorts. Age, total Elixhauser comorbidities, Medicare insurance, 
+      weighted Elixhauser score, and female sex were among the most important 
+      predictors of non-home discharge. CONCLUSIONS: Machine learning algorithms 
+      reliably predict non-home discharge after thoracolumbar spine surgery across 
+      single-center and national cohorts and identify preoperative features of 
+      importance that elucidate algorithm decision-making.
+CI  - Copyright © 2022 Elsevier Inc. All rights reserved.
+FAU - Valliani, Aly A
+AU  - Valliani AA
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, New York, 
+      New York, USA. Electronic address: aly.valliani@icahn.mssm.edu.
+FAU - Kim, Nora C
+AU  - Kim NC
+AD  - Department of Neurosurgery, New York University Langone Medical Center, New York, 
+      New York, USA.
+FAU - Martini, Michael L
+AU  - Martini ML
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, New York, 
+      New York, USA.
+FAU - Gal, Jonathan S
+AU  - Gal JS
+AD  - Department of Anesthesiology, Perioperative, and Pain Medicine, Icahn School of 
+      Medicine at Mount Sinai, New York, New York, USA.
+FAU - Neifert, Sean N
+AU  - Neifert SN
+AD  - Department of Neurosurgery, New York University Langone Medical Center, New York, 
+      New York, USA.
+FAU - Feng, Rui
+AU  - Feng R
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, New York, 
+      New York, USA.
+FAU - Geng, Eric A
+AU  - Geng EA
+AD  - Department of Orthopedic Surgery, Icahn School of Medicine at Mount Sinai, New 
+      York, New York, USA.
+FAU - Kim, Jun S
+AU  - Kim JS
+AD  - Department of Orthopedic Surgery, Icahn School of Medicine at Mount Sinai, New 
+      York, New York, USA.
+FAU - Cho, Samuel K
+AU  - Cho SK
+AD  - Department of Orthopedic Surgery, Icahn School of Medicine at Mount Sinai, New 
+      York, New York, USA.
+FAU - Oermann, Eric K
+AU  - Oermann EK
+AD  - Department of Neurosurgery, New York University Langone Medical Center, New York, 
+      New York, USA; Department of Radiology, New York University Langone Medical 
+      Center, New York, New York, USA; Center for Data Science, New York University 
+      Langone Medical Center, New York, New York, USA.
+FAU - Caridi, John M
+AU  - Caridi JM
+AD  - Department of Neurosurgery, University of Texas Health Science Center, Houston, 
+      Texas, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20220530
+PL  - United States
+TA  - World Neurosurg
+JT  - World neurosurgery
+JID - 101528275
+SB  - IM
+MH  - Aged
+MH  - Humans
+MH  - Length of Stay
+MH  - Machine Learning
+MH  - *Medicare
+MH  - *Patient Discharge
+MH  - Retrospective Studies
+MH  - United States
+OTO - NOTNLM
+OT  - Artificial intelligence
+OT  - Electronic medical records
+OT  - Game theory
+OT  - Machine learning
+OT  - Thoracolumbar discectomy and fusion
+OT  - Thoracolumbar spine
+EDAT- 2022/06/03 06:00
+MHDA- 2022/09/23 06:00
+CRDT- 2022/06/02 19:27
+PHST- 2022/04/29 00:00 [received]
+PHST- 2022/05/22 00:00 [revised]
+PHST- 2022/05/23 00:00 [accepted]
+PHST- 2022/06/03 06:00 [pubmed]
+PHST- 2022/09/23 06:00 [medline]
+PHST- 2022/06/02 19:27 [entrez]
+AID - S1878-8750(22)00745-8 [pii]
+AID - 10.1016/j.wneu.2022.05.105 [doi]
+PST - ppublish
+SO  - World Neurosurg. 2022 Sep;165:e83-e91. doi: 10.1016/j.wneu.2022.05.105. Epub 2022 
+      May 30.
+
+PMID- 35834322
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220718
+LR  - 20220823
+IS  - 1524-4040 (Electronic)
+IS  - 0148-396X (Linking)
+VI  - 91
+IP  - 2
+DP  - 2022 Aug 1
+TI  - Pragmatic Prediction of Excessive Length of Stay After Cervical Spine Surgery 
+      With Machine Learning and Validation on a National Scale.
+PG  - 322-330
+LID - 10.1227/neu.0000000000001999 [doi]
+AB  - BACKGROUND: Extended postoperative hospital stays are associated with numerous 
+      clinical risks and increased economic cost. Accurate preoperative prediction of 
+      extended length of stay (LOS) can facilitate targeted interventions to mitigate 
+      clinical harm and resource utilization. OBJECTIVE: To develop a machine learning 
+      algorithm aimed at predicting extended LOS after cervical spine surgery on a 
+      national level and elucidate drivers of prediction. METHODS: Electronic medical 
+      records from a large, urban academic medical center were retrospectively examined 
+      to identify patients who underwent cervical spine fusion surgeries between 2008 
+      and 2019 for machine learning algorithm development and in-sample validation. The 
+      National Inpatient Sample database was queried to identify cervical spine fusion 
+      surgeries between 2009 and 2017 for out-of-sample validation of algorithm 
+      performance. Gradient-boosted trees predicted LOS and efficacy was assessed using 
+      the area under the receiver operating characteristic curve (AUROC). Shapley 
+      values were calculated to characterize preoperative risk factors for extended LOS 
+      and explain algorithm predictions. RESULTS: Gradient-boosted trees accurately 
+      predicted extended LOS across cohorts, achieving an AUROC of 0.87 (SD = 0.01) on 
+      the single-center validation set and an AUROC of 0.84 (SD = 0.00) on the 
+      nationwide National Inpatient Sample data set. Anterior approach only, elective 
+      admission status, age, and total number of Elixhauser comorbidities were 
+      important predictors that affected the likelihood of prolonged LOS. CONCLUSION: 
+      Machine learning algorithms accurately predict extended LOS across single-center 
+      and national patient cohorts and characterize key preoperative drivers of 
+      increased LOS after cervical spine surgery.
+CI  - Copyright © Congress of Neurological Surgeons 2022. All rights reserved.
+FAU - Valliani, Aly A
+AU  - Valliani AA
+AUID- ORCID: 0000-0003-0295-7108
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, New York, 
+      New York, USA.
+FAU - Feng, Rui
+AU  - Feng R
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, New York, 
+      New York, USA.
+FAU - Martini, Michael L
+AU  - Martini ML
+AD  - Department of Neurosurgery, Icahn School of Medicine at Mount Sinai, New York, 
+      New York, USA.
+FAU - Neifert, Sean N
+AU  - Neifert SN
+AD  - Department of Neurosurgery, New York University Langone Medical Center, New York, 
+      New York, USA.
+FAU - Kim, Nora C
+AU  - Kim NC
+AD  - Department of Neurosurgery, New York University Langone Medical Center, New York, 
+      New York, USA.
+FAU - Gal, Jonathan S
+AU  - Gal JS
+AD  - Department of Anesthesiology, Perioperative and Pain Medicine, Icahn School of 
+      Medicine at Mount Sinai, New York, New York, USA.
+FAU - Oermann, Eric K
+AU  - Oermann EK
+AD  - Department of Neurosurgery, New York University Langone Medical Center, New York, 
+      New York, USA.
+AD  - Department of Radiology, New York University Langone Medical Center, New York, 
+      New York, USA.
+AD  - Center for Data Science, New York University Langone Medical Center, New York, 
+      New York, USA.
+FAU - Caridi, John M
+AU  - Caridi JM
+AD  - Department of Neurosurgery, University of Texas Health Science Center, Houston, 
+      Texas, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20220617
+PL  - United States
+TA  - Neurosurgery
+JT  - Neurosurgery
+JID - 7802914
+SB  - IM
+MH  - Cervical Vertebrae/surgery
+MH  - Humans
+MH  - Length of Stay
+MH  - *Machine Learning
+MH  - Retrospective Studies
+MH  - *Spinal Fusion
+EDAT- 2022/07/15 06:00
+MHDA- 2022/07/19 06:00
+CRDT- 2022/07/14 12:02
+PHST- 2021/09/29 00:00 [received]
+PHST- 2022/02/10 00:00 [accepted]
+PHST- 2022/07/14 12:02 [entrez]
+PHST- 2022/07/15 06:00 [pubmed]
+PHST- 2022/07/19 06:00 [medline]
+AID - 00006123-202208000-00013 [pii]
+AID - 10.1227/neu.0000000000001999 [doi]
+PST - ppublish
+SO  - Neurosurgery. 2022 Aug 1;91(2):322-330. doi: 10.1227/neu.0000000000001999. Epub 
+      2022 Jun 17.
+
+PMID- 35969028
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240124
+IS  - 2192-5682 (Print)
+IS  - 2192-5690 (Electronic)
+IS  - 2192-5682 (Linking)
+VI  - 14
+IP  - 2
+DP  - 2024 Mar
+TI  - Weekend Admission Increases Risk of Readmissions Following Elective Thoracolumbar 
+      Spinal Fusion.
+PG  - 667-675
+LID - 10.1177/21925682221120788 [doi]
+AB  - STUDY DESIGN: Retrospective database study. OBJECTIVES: The goal of this study 
+      was to assess the influence of weekend admission on patients undergoing elective 
+      thoracolumbar spinal fusion by investigating hospital readmission outcomes and 
+      analyzing differences in demographics, comorbidities, and postoperative factors. 
+      METHODS: The 2016-2018 Nationwide Readmission Database was used to identify adult 
+      patients who underwent elective thoracolumbar spinal fusion. The sample was 
+      divided into weekday and weekend admission patients. Demographics, comorbidities, 
+      complications, and discharge status data were compiled. The primary outcomes were 
+      30-day and 90-day readmission. Univariate logistic regression analyzed the 
+      relationship between weekday or weekend admission and 30- or 90-day readmission, 
+      and multivariate regression determined the impact of covariates. RESULTS: 177,847 
+      patients were identified in total, with 176,842 in the weekday cohort and 1005 in 
+      the weekend cohort. Multivariate regression analysis found that 30-day 
+      readmissions were significantly greater for the weekend cohort after adjusting 
+      for sex, age, Medicare or Medicaid status, and comorbidity status (OR 2.00, 95% 
+      CI: 1.60-2.48; P < .001), and 90-day readmissions were also greater for the 
+      weekend cohort after adjustment (OR 2.01, 95% CI: 1.68-2.40, P < .001). 
+      CONCLUSIONS: Patients undergoing elective thoracolumbar spinal fusion surgery who 
+      are initially admitted on weekends are more likely to experience hospital 
+      readmission. These patients have increased incidence of deep vein thrombosis, 
+      postoperative infection, and non-routine discharge status. These factors are 
+      potential areas of focus for reducing the impact of the "weekend effect" and 
+      improving outcomes for elective thoracolumbar spinal fusion.
+FAU - Rosenberg, Ashley
+AU  - Rosenberg A
+AUID- ORCID: 0000-0001-9029-445X
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New 
+      York, NY, USA. RINGGOLD: 5925
+FAU - Dominy, Calista
+AU  - Dominy C
+AUID- ORCID: 0000-0002-6572-585X
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New 
+      York, NY, USA. RINGGOLD: 5925
+FAU - Bueno, Brian T
+AU  - Bueno BT
+AUID- ORCID: 0000-0003-1952-6638
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New 
+      York, NY, USA. RINGGOLD: 5925
+FAU - Pasik, Sara
+AU  - Pasik S
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New 
+      York, NY, USA. RINGGOLD: 5925
+FAU - Yeshoua, Brandon
+AU  - Yeshoua B
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New 
+      York, NY, USA. RINGGOLD: 5925
+FAU - Cho, Brian
+AU  - Cho B
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New 
+      York, NY, USA. RINGGOLD: 5925
+FAU - Arvind, Varun
+AU  - Arvind V
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New 
+      York, NY, USA. RINGGOLD: 5925
+FAU - Valliani, Aly A
+AU  - Valliani AA
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New 
+      York, NY, USA. RINGGOLD: 5925
+FAU - Markowitz, Jonathan
+AU  - Markowitz J
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New 
+      York, NY, USA. RINGGOLD: 5925
+FAU - Kim, Jun S
+AU  - Kim JS
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New 
+      York, NY, USA. RINGGOLD: 5925
+FAU - Cho, Samuel K
+AU  - Cho SK
+AUID- ORCID: 0000-0001-7511-2486
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New 
+      York, NY, USA. RINGGOLD: 5925
+LA  - eng
+PT  - Journal Article
+DEP - 20220815
+PL  - England
+TA  - Global Spine J
+JT  - Global spine journal
+JID - 101596156
+PMC - PMC10802542
+OTO - NOTNLM
+OT  - weekend, thoracolumbar, thoracic, lumbar, admission, readmission, fusion, 
+      elective
+COIS- Declaration of Conflicting InterestsThe author(s) declared no potential conflicts 
+      of interest with respect to the research, authorship, and/or publication of this 
+      article.
+EDAT- 2022/08/16 06:00
+MHDA- 2022/08/16 06:01
+CRDT- 2022/08/15 08:42
+PHST- 2022/08/16 06:01 [medline]
+PHST- 2022/08/16 06:00 [pubmed]
+PHST- 2022/08/15 08:42 [entrez]
+AID - 10.1177_21925682221120788 [pii]
+AID - 10.1177/21925682221120788 [doi]
+PST - ppublish
+SO  - Global Spine J. 2024 Mar;14(2):667-675. doi: 10.1177/21925682221120788. Epub 2022 
+      Aug 15.
+
+PMID- 32677567
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220415
+IS  - 2192-5682 (Print)
+IS  - 2192-5690 (Electronic)
+IS  - 2192-5682 (Linking)
+VI  - 10
+IP  - 5
+DP  - 2020 Aug
+TI  - Automated Measurement of Lumbar Lordosis on Radiographs Using Machine Learning 
+      and Computer Vision.
+PG  - 611-618
+LID - 10.1177/2192568219868190 [doi]
+AB  - STUDY DESIGN: Cross sectional database study. OBJECTIVE: To develop a fully 
+      automated artificial intelligence and computer vision pipeline for assisted 
+      evaluation of lumbar lordosis. METHODS: Lateral lumbar radiographs were used to 
+      develop a segmentation neural network (n = 629). After synthetic augmentation, 
+      70% of these radiographs were used for network training, while the remaining 30% 
+      were used for hyperparameter optimization. A computer vision algorithm was 
+      deployed on the segmented radiographs to calculate lumbar lordosis angles. A test 
+      set of radiographs was used to evaluate the validity of the entire pipeline (n = 
+      151). RESULTS: The U-Net segmentation achieved a test dataset dice score of 
+      0.821, an area under the receiver operating curve of 0.914, and an accuracy of 
+      0.862. The computer vision algorithm identified the L1 and S1 vertebrae on 84.1% 
+      of the test set with an average speed of 0.14 seconds/radiograph. From the 151 
+      test set radiographs, 50 were randomly chosen for surgeon measurement. When 
+      compared with those measurements, our algorithm achieved a mean absolute error of 
+      8.055° and a median absolute error of 6.965° (not statistically significant, P > 
+      .05). CONCLUSION: This study is the first to use artificial intelligence and 
+      computer vision in a combined pipeline to rapidly measure a sagittal spinopelvic 
+      parameter without prior manual surgeon input. The pipeline measures angles with 
+      no statistically significant differences from manual measurements by surgeons. 
+      This pipeline offers clinical utility in an assistive capacity, and future work 
+      should focus on improving segmentation network performance.
+FAU - Cho, Brian H
+AU  - Cho BH
+AD  - Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+AD  - Brian H. Cho and Deepak Kaji contributed equally to this work.
+FAU - Kaji, Deepak
+AU  - Kaji D
+AD  - Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+AD  - Brian H. Cho and Deepak Kaji contributed equally to this work.
+FAU - Cheung, Zoe B
+AU  - Cheung ZB
+AD  - Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+FAU - Ye, Ivan B
+AU  - Ye IB
+AD  - Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+FAU - Tang, Ray
+AU  - Tang R
+AD  - Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+FAU - Ahn, Amy
+AU  - Ahn A
+AD  - Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+FAU - Carrillo, Oscar
+AU  - Carrillo O
+AD  - Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+FAU - Schwartz, John T
+AU  - Schwartz JT
+AUID- ORCID: 0000-0003-3682-5605
+AD  - Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+FAU - Valliani, Aly A
+AU  - Valliani AA
+AD  - Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+FAU - Oermann, Eric K
+AU  - Oermann EK
+AD  - Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+FAU - Arvind, Varun
+AU  - Arvind V
+AD  - Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+FAU - Ranti, Daniel
+AU  - Ranti D
+AD  - Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+FAU - Sun, Li
+AU  - Sun L
+AD  - Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+FAU - Kim, Jun S
+AU  - Kim JS
+AD  - Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+FAU - Cho, Samuel K
+AU  - Cho SK
+AUID- ORCID: 0000-0001-7511-2486
+AD  - Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20190813
+PL  - England
+TA  - Global Spine J
+JT  - Global spine journal
+JID - 101596156
+PMC - PMC7359685
+OTO - NOTNLM
+OT  - angle measurement
+OT  - artificial intelligence
+OT  - computer-assisted
+OT  - lordosis
+OT  - lumbar
+OT  - machine learning
+OT  - neural networks
+OT  - radiographic image interpretation
+OT  - radiography
+OT  - sagittal balance
+OT  - spinopelvic parameters
+COIS- Declaration of Conflicting Interests: The author(s) declared no potential 
+      conflicts of interest with respect to the research, authorship, and/or 
+      publication of this article.
+EDAT- 2020/07/18 06:00
+MHDA- 2020/07/18 06:01
+CRDT- 2020/07/18 06:00
+PHST- 2020/07/18 06:00 [entrez]
+PHST- 2020/07/18 06:00 [pubmed]
+PHST- 2020/07/18 06:01 [medline]
+AID - 10.1177_2192568219868190 [pii]
+AID - 10.1177/2192568219868190 [doi]
+PST - ppublish
+SO  - Global Spine J. 2020 Aug;10(5):611-618. doi: 10.1177/2192568219868190. Epub 2019 
+      Aug 13.
+
+PMID- 36854862
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230605
+LR  - 20230606
+IS  - 1432-0932 (Electronic)
+IS  - 0940-6719 (Linking)
+VI  - 32
+IP  - 6
+DP  - 2023 Jun
+TI  - Robust prediction of nonhome discharge following elective anterior cervical 
+      discectomy and fusion using explainable machine learning.
+PG  - 2149-2156
+LID - 10.1007/s00586-023-07621-8 [doi]
+AB  - PURPOSE: Predict nonhome discharge (NHD) following elective anterior cervical 
+      discectomy and fusion (ACDF) using an explainable machine learning model. 
+      METHODS: 2227 patients undergoing elective ACDF from 2008 to 2019 were identified 
+      from a single institutional database. A machine learning model was trained on 
+      preoperative variables, including demographics, comorbidity indices, and levels 
+      fused. The validation technique was repeated stratified K-Fold cross validation 
+      with the area under the receiver operating curve (AUROC) statistic as the 
+      performance metric. Shapley Additive Explanation (SHAP) values were calculated to 
+      provide further explainability regarding the model's decision making. RESULTS: 
+      The preoperative model performed with an AUROC of 0.83 ± 0.05. SHAP scores 
+      revealed the most pertinent risk factors to be age, medicare insurance, and 
+      American Society of Anesthesiology (ASA) score. Interaction analysis demonstrated 
+      that female patients over 65 with greater fusion levels were more likely to 
+      undergo NHD. Likewise, ASA demonstrated positive interaction effects with female 
+      sex, levels fused and BMI. CONCLUSION: We validated an explainable machine 
+      learning model for the prediction of NHD using common preoperative variables. 
+      Adding transparency is a key step towards clinical application because it 
+      demonstrates that our model's "thinking" aligns with clinical reasoning. 
+      Interactive analysis demonstrated that those of age over 65, female sex, higher 
+      ASA score, and greater fusion levels were more predisposed to NHD. Age and ASA 
+      score were similar in their predictive ability. Machine learning may be used to 
+      predict NHD, and can assist surgeons with patient counseling or early discharge 
+      planning.
+CI  - © 2023. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+      part of Springer Nature.
+FAU - Geng, Eric A
+AU  - Geng EA
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New 
+      York, United States of America.
+FAU - Gal, Jonathan S
+AU  - Gal JS
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New 
+      York, United States of America.
+AD  - Department of Anesthesiology, Perioperative and Pain Medicine, Icahn School of 
+      Medicine at Mount Sinai, New York, United States of America.
+FAU - Kim, Jun S
+AU  - Kim JS
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New 
+      York, United States of America. kim.jun3@gmail.com.
+FAU - Martini, Michael L
+AU  - Martini ML
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New 
+      York, United States of America.
+FAU - Markowitz, Jonathan
+AU  - Markowitz J
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New 
+      York, United States of America.
+FAU - Neifert, Sean N
+AU  - Neifert SN
+AD  - Department of Neurosurgery, New York University Grossman School of Medicine, New 
+      York, United States of America.
+FAU - Tang, Justin E
+AU  - Tang JE
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New 
+      York, United States of America.
+FAU - Shah, Kush C
+AU  - Shah KC
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New 
+      York, United States of America.
+FAU - White, Christopher A
+AU  - White CA
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New 
+      York, United States of America.
+FAU - Dominy, Calista L
+AU  - Dominy CL
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New 
+      York, United States of America.
+FAU - Valliani, Aly A
+AU  - Valliani AA
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New 
+      York, United States of America.
+FAU - Duey, Akiro H
+AU  - Duey AH
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New 
+      York, United States of America.
+FAU - Li, Gavin
+AU  - Li G
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New 
+      York, United States of America.
+FAU - Zaidat, Bashar
+AU  - Zaidat B
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New 
+      York, United States of America.
+FAU - Bueno, Brian
+AU  - Bueno B
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New 
+      York, United States of America.
+FAU - Caridi, John M
+AU  - Caridi JM
+AD  - Department of Neurosurgery, McGovern Medical School at University of Texas 
+      Health, Houston, United States of America.
+FAU - Cho, Samuel K
+AU  - Cho SK
+AD  - Department of Orthopaedic Surgery, Icahn School of Medicine at Mount Sinai, New 
+      York, United States of America.
+LA  - eng
+PT  - Journal Article
+DEP - 20230228
+PL  - Germany
+TA  - Eur Spine J
+JT  - European spine journal : official publication of the European Spine Society, the 
+      European Spinal Deformity Society, and the European Section of the Cervical Spine 
+      Research Society
+JID - 9301980
+SB  - IM
+MH  - Humans
+MH  - Female
+MH  - Aged
+MH  - United States
+MH  - *Patient Discharge
+MH  - *Spinal Fusion/methods
+MH  - Medicare
+MH  - Diskectomy/methods
+MH  - Machine Learning
+MH  - Retrospective Studies
+OTO - NOTNLM
+OT  - Anterior cervical discectomy and fusion
+OT  - Machine learning
+OT  - Outcomes prediction
+EDAT- 2023/03/02 06:00
+MHDA- 2023/06/05 06:43
+CRDT- 2023/03/01 00:01
+PHST- 2022/09/25 00:00 [received]
+PHST- 2023/02/19 00:00 [accepted]
+PHST- 2023/01/25 00:00 [revised]
+PHST- 2023/06/05 06:43 [medline]
+PHST- 2023/03/02 06:00 [pubmed]
+PHST- 2023/03/01 00:01 [entrez]
+AID - 10.1007/s00586-023-07621-8 [pii]
+AID - 10.1007/s00586-023-07621-8 [doi]
+PST - ppublish
+SO  - Eur Spine J. 2023 Jun;32(6):2149-2156. doi: 10.1007/s00586-023-07621-8. Epub 2023 
+      Feb 28.
+
+PMID- 36411845
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240102
+IS  - 0972-978X (Print)
+IS  - 0972-978X (Electronic)
+IS  - 0972-978X (Linking)
+VI  - 35
+DP  - 2023 Jan
+TI  - Development of a machine learning algorithm to identify total and reverse 
+      shoulder arthroplasty implants from X-ray images.
+PG  - 74-78
+LID - 10.1016/j.jor.2022.11.004 [doi]
+AB  - INTRODUCTION: Demand for total shoulder arthroplasty (TSA) has risen 
+      significantly and is projected to continue growing. From 2012 to 2017, the 
+      incidence of reverse total shoulder arthroplasty (rTSA) rose from 7.3 cases per 
+      100,000 to 19.3 per 100,000. Anatomical TSA saw a growth from 9.5 cases per 
+      100,000 to 12.5 per 100,000. Failure to identify implants in a timely manner can 
+      increase operative time, cost and risk of complications. Several machine learning 
+      models have been developed to perform medical image analysis. However, they have 
+      not been widely applied in shoulder surgery. The authors developed a machine 
+      learning model to identify shoulder implant manufacturers and type from 
+      anterior-posterior X-ray images. METHODS: The model deployed was a convolutional 
+      neural network (CNN), which has been widely used in computer vision tasks. 696 
+      radiographs were obtained from a single institution. 70% were used to train the 
+      model, while evaluation was done on 30%. RESULTS: On the evaluation set, the 
+      model performed with an overall accuracy of 93.9% with positive predictive value, 
+      sensitivity and F-1 scores of 94% across 10 different implant types (4 reverse, 6 
+      anatomical). Average identification time was 0.110 s per implant. CONCLUSION: 
+      This proof of concept study demonstrates that machine learning can assist with 
+      preoperative planning and improve cost-efficiency in shoulder surgery.
+CI  - © 2022 Professor P K Surendran Memorial Education Foundation. Published by 
+      Elsevier B.V. All rights reserved.
+FAU - Geng, Eric A
+AU  - Geng EA
+AD  - Department of Orthopaedic Surgery, Mount Sinai Health System, New York, NY, 
+      10029, USA.
+FAU - Cho, Brian H
+AU  - Cho BH
+AD  - Department of Orthopaedic Surgery, Mount Sinai Health System, New York, NY, 
+      10029, USA.
+FAU - Valliani, Aly A
+AU  - Valliani AA
+AD  - Department of Orthopaedic Surgery, Mount Sinai Health System, New York, NY, 
+      10029, USA.
+FAU - Arvind, Varun
+AU  - Arvind V
+AD  - Department of Orthopaedic Surgery, Mount Sinai Health System, New York, NY, 
+      10029, USA.
+FAU - Patel, Akshar V
+AU  - Patel AV
+AD  - Department of Orthopaedic Surgery, Mount Sinai Health System, New York, NY, 
+      10029, USA.
+FAU - Cho, Samuel K
+AU  - Cho SK
+AD  - Department of Orthopaedic Surgery, Mount Sinai Health System, New York, NY, 
+      10029, USA.
+FAU - Kim, Jun S
+AU  - Kim JS
+AD  - Department of Orthopaedic Surgery, Mount Sinai Health System, New York, NY, 
+      10029, USA.
+FAU - Cagle, Paul J
+AU  - Cagle PJ
+AD  - Department of Orthopaedic Surgery, Mount Sinai Health System, New York, NY, 
+      10029, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20221111
+PL  - India
+TA  - J Orthop
+JT  - Journal of orthopaedics
+JID - 101233220
+PMC - PMC9674869
+OTO - NOTNLM
+OT  - Digital medicine
+OT  - Implant identification
+OT  - Machine learning
+OT  - Mobile application
+OT  - Total shoulder arthroplasty
+COIS- None.
+EDAT- 2022/11/23 06:00
+MHDA- 2022/11/23 06:01
+CRDT- 2022/11/22 01:47
+PHST- 2022/06/21 00:00 [received]
+PHST- 2022/10/16 00:00 [revised]
+PHST- 2022/11/07 00:00 [accepted]
+PHST- 2022/11/22 01:47 [entrez]
+PHST- 2022/11/23 06:00 [pubmed]
+PHST- 2022/11/23 06:01 [medline]
+AID - S0972-978X(22)00259-8 [pii]
+AID - 10.1016/j.jor.2022.11.004 [doi]
+PST - epublish
+SO  - J Orthop. 2022 Nov 11;35:74-78. doi: 10.1016/j.jor.2022.11.004. eCollection 2023 
+      Jan.
+
+PMID- 28490518
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170929
+LR  - 20210109
+IS  - 1538-7445 (Electronic)
+IS  - 0008-5472 (Print)
+IS  - 0008-5472 (Linking)
+VI  - 77
+IP  - 14
+DP  - 2017 Jul 15
+TI  - CHK1 Inhibition in Small-Cell Lung Cancer Produces Single-Agent Activity in 
+      Biomarker-Defined Disease Subsets and Combination Activity with Cisplatin or 
+      Olaparib.
+PG  - 3870-3884
+LID - 10.1158/0008-5472.CAN-16-3409 [doi]
+AB  - Effective targeted therapies for small-cell lung cancer (SCLC), the most 
+      aggressive form of lung cancer, remain urgently needed. Here we report evidence 
+      of preclinical efficacy evoked by targeting the overexpressed cell-cycle 
+      checkpoint kinase CHK1 in SCLC. Our studies employed RNAi-mediated attenuation or 
+      pharmacologic blockade with the novel second-generation CHK1 inhibitor 
+      prexasertib (LY2606368), currently in clinical trials. In SCLC models in vitro 
+      and in vivo, LY2606368 exhibited strong single-agent efficacy, augmented the 
+      effects of cisplatin or the PARP inhibitor olaparib, and improved the response of 
+      platinum-resistant models. Proteomic analysis identified CHK1 and MYC as top 
+      predictive biomarkers of LY2606368 sensitivity, suggesting that CHK1 inhibition 
+      may be especially effective in SCLC with MYC amplification or MYC protein 
+      overexpression. Our findings provide a preclinical proof of concept supporting 
+      the initiation of a clinical efficacy trial in patients with platinum-sensitive 
+      or platinum-resistant relapsed SCLC. Cancer Res; 77(14); 3870-84. ©2017 AACR.
+CI  - ©2017 American Association for Cancer Research.
+FAU - Sen, Triparna
+AU  - Sen T
+AD  - Department of Thoracic/Head and Neck Medical Oncology, The University of Texas MD 
+      Anderson Cancer Center, Houston, Texas.
+FAU - Tong, Pan
+AU  - Tong P
+AD  - Department of Bioinformatics and Computational Biology, The University of Texas 
+      MD Anderson Cancer Center, Houston, Texas.
+FAU - Stewart, C Allison
+AU  - Stewart CA
+AD  - Department of Thoracic/Head and Neck Medical Oncology, The University of Texas MD 
+      Anderson Cancer Center, Houston, Texas.
+FAU - Cristea, Sandra
+AU  - Cristea S
+AD  - Department of Pediatrics, Stanford University, Stanford, California.
+AD  - Department of Genetics, Stanford University, Stanford, California.
+FAU - Valliani, Aly
+AU  - Valliani A
+AD  - Department of Thoracic/Head and Neck Medical Oncology, The University of Texas MD 
+      Anderson Cancer Center, Houston, Texas.
+FAU - Shames, David S
+AU  - Shames DS
+AD  - Department of Oncology Biomarker Development, Genentech Inc., South San 
+      Francisco, California.
+FAU - Redwood, Abena B
+AU  - Redwood AB
+AD  - Department of Experimental Radiation Oncology, The University of Texas MD 
+      Anderson Cancer Center, Houston, Texas.
+FAU - Fan, You Hong
+AU  - Fan YH
+AD  - Department of Thoracic/Head and Neck Medical Oncology, The University of Texas MD 
+      Anderson Cancer Center, Houston, Texas.
+FAU - Li, Lerong
+AU  - Li L
+AD  - Department of Bioinformatics and Computational Biology, The University of Texas 
+      MD Anderson Cancer Center, Houston, Texas.
+FAU - Glisson, Bonnie S
+AU  - Glisson BS
+AD  - Department of Thoracic/Head and Neck Medical Oncology, The University of Texas MD 
+      Anderson Cancer Center, Houston, Texas.
+FAU - Minna, John D
+AU  - Minna JD
+AD  - Hamon Center for Therapeutic Oncology Research, The University of Texas 
+      Southwestern, Dallas, Texas.
+FAU - Sage, Julien
+AU  - Sage J
+AD  - Department of Pediatrics, Stanford University, Stanford, California.
+AD  - Department of Genetics, Stanford University, Stanford, California.
+FAU - Gibbons, Don L
+AU  - Gibbons DL
+AD  - Department of Thoracic/Head and Neck Medical Oncology, The University of Texas MD 
+      Anderson Cancer Center, Houston, Texas.
+AD  - Department of Molecular and Cellular Oncology, The University of Texas MD 
+      Anderson Cancer Center, Houston, Texas.
+FAU - Piwnica-Worms, Helen
+AU  - Piwnica-Worms H
+AD  - Department of Experimental Radiation Oncology, The University of Texas MD 
+      Anderson Cancer Center, Houston, Texas.
+FAU - Heymach, John V
+AU  - Heymach JV
+AD  - Department of Thoracic/Head and Neck Medical Oncology, The University of Texas MD 
+      Anderson Cancer Center, Houston, Texas.
+AD  - Department of Cancer Biology, The University of Texas MD Anderson Cancer Center, 
+      Houston, Texas.
+FAU - Wang, Jing
+AU  - Wang J
+AD  - Department of Bioinformatics and Computational Biology, The University of Texas 
+      MD Anderson Cancer Center, Houston, Texas.
+FAU - Byers, Lauren Averett
+AU  - Byers LA
+AD  - Department of Thoracic/Head and Neck Medical Oncology, The University of Texas MD 
+      Anderson Cancer Center, Houston, Texas. lbyers@mdanderson.org.
+LA  - eng
+GR  - P30 CA016672/CA/NCI NIH HHS/United States
+GR  - P50 CA070907/CA/NCI NIH HHS/United States
+GR  - R01 CA207295/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20170510
+PL  - United States
+TA  - Cancer Res
+JT  - Cancer research
+JID - 2984705R
+RN  - 0 (Biomarkers, Tumor)
+RN  - 0 (Phthalazines)
+RN  - 0 (Piperazines)
+RN  - 0 (Poly(ADP-ribose) Polymerase Inhibitors)
+RN  - 0 (Pyrazines)
+RN  - 0 (Pyrazoles)
+RN  - 0 (prexasertib)
+RN  - EC 2.7.11.1 (Checkpoint Kinase 1)
+RN  - EC 2.7.11.1 (Chek1 protein, mouse)
+RN  - Q20Q21Q62J (Cisplatin)
+RN  - WOH1JD9AR8 (olaparib)
+SB  - IM
+MH  - Animals
+MH  - Antineoplastic Combined Chemotherapy Protocols/*pharmacology
+MH  - Biomarkers, Tumor/metabolism
+MH  - Cell Line, Tumor
+MH  - Checkpoint Kinase 1/*antagonists & inhibitors/genetics/metabolism
+MH  - Cisplatin/administration & dosage/*pharmacology
+MH  - Drug Synergism
+MH  - Female
+MH  - Gene Knockdown Techniques
+MH  - Humans
+MH  - Lung Neoplasms/*drug therapy/genetics/pathology
+MH  - Mice
+MH  - Mice, Nude
+MH  - Phthalazines/administration & dosage/*pharmacology
+MH  - Piperazines/administration & dosage/*pharmacology
+MH  - Poly(ADP-ribose) Polymerase Inhibitors/administration & dosage/pharmacology
+MH  - Pyrazines/administration & dosage/pharmacology
+MH  - Pyrazoles/administration & dosage/pharmacology
+MH  - Small Cell Lung Carcinoma/*drug therapy/enzymology/genetics/pathology
+PMC - PMC5563854
+MID - NIHMS890135
+COIS- Disclosure of Potential Conflicts of Interest D.S. Shames reports receiving 
+      ownership interest (including patents) in Genentech Inc. and UT Southwestern. J. 
+      Heymach is a consultant/advisory board member for AstraZeneca and Lilly. L.A. 
+      Byers is a consultant/advisory board member for AstraZeneca. No potential 
+      conflicts of interest were disclosed by the other authors.
+EDAT- 2017/05/12 06:00
+MHDA- 2017/09/30 06:00
+CRDT- 2017/05/12 06:00
+PHST- 2016/12/20 00:00 [received]
+PHST- 2017/03/15 00:00 [revised]
+PHST- 2017/05/03 00:00 [accepted]
+PHST- 2017/05/12 06:00 [pubmed]
+PHST- 2017/09/30 06:00 [medline]
+PHST- 2017/05/12 06:00 [entrez]
+AID - 0008-5472.CAN-16-3409 [pii]
+AID - 10.1158/0008-5472.CAN-16-3409 [doi]
+PST - ppublish
+SO  - Cancer Res. 2017 Jul 15;77(14):3870-3884. doi: 10.1158/0008-5472.CAN-16-3409. 
+      Epub 2017 May 10.
+
+PMID- 38285429
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240130
+LR  - 20240206
+IS  - 2380-0194 (Electronic)
+IS  - 2380-0186 (Linking)
+VI  - 37
+IP  - 1
+DP  - 2024 Feb 1
+TI  - Reliable Prediction of Discharge Disposition Following Cervical Spine Surgery 
+      With Ensemble Machine Learning and Validation on a National Cohort.
+PG  - E30-E36
+LID - 10.1097/BSD.0000000000001520 [doi]
+AB  - STUDY DESIGN: A retrospective cohort study. OBJECTIVE: The purpose of this study 
+      is to develop a machine learning algorithm to predict nonhome discharge after 
+      cervical spine surgery that is validated and usable on a national scale to ensure 
+      generalizability and elucidate candidate drivers for prediction. SUMMARY OF 
+      BACKGROUND DATA: Excessive length of hospital stay can be attributed to delays in 
+      postoperative referrals to intermediate care rehabilitation centers or skilled 
+      nursing facilities. Accurate preoperative prediction of patients who may require 
+      access to these resources can facilitate a more efficient referral and discharge 
+      process, thereby reducing hospital and patient costs in addition to minimizing 
+      the risk of hospital-acquired complications. METHODS: Electronic medical records 
+      were retrospectively reviewed from a single-center data warehouse (SCDW) to 
+      identify patients undergoing cervical spine surgeries between 2008 and 2019 for 
+      machine learning algorithm development and internal validation. The National 
+      Inpatient Sample (NIS) database was queried to identify cervical spine fusion 
+      surgeries between 2009 and 2017 for external validation of algorithm performance. 
+      Gradient-boosted trees were constructed to predict nonhome discharge across 
+      patient cohorts. The area under the receiver operating characteristic curve 
+      (AUROC) was used to measure model performance. SHAP values were used to identify 
+      nonlinear risk factors for nonhome discharge and to interpret algorithm 
+      predictions. RESULTS: A total of 3523 cases of cervical spine fusion surgeries 
+      were included from the SCDW data set, and 311,582 cases were isolated from NIS. 
+      The model demonstrated robust prediction of nonhome discharge across all cohorts, 
+      achieving an area under the receiver operating characteristic curve of 0.87 
+      (SD=0.01) on both the SCDW and nationwide NIS test sets. Anterior approach only, 
+      age, elective admission status, Medicare insurance status, and total Elixhauser 
+      Comorbidity Index score were the most important predictors of discharge 
+      destination. CONCLUSIONS: Machine learning algorithms reliably predict nonhome 
+      discharge across single-center and national cohorts and identify preoperative 
+      features of importance following cervical spine fusion surgery.
+CI  - Copyright © 2023 Wolters Kluwer Health, Inc. All rights reserved.
+FAU - Feng, Rui
+AU  - Feng R
+AD  - Departments of Neurosurgery.
+FAU - Valliani, Aly A
+AU  - Valliani AA
+AD  - Departments of Neurosurgery.
+FAU - Martini, Michael L
+AU  - Martini ML
+AD  - Departments of Neurosurgery.
+FAU - Gal, Jonathan S
+AU  - Gal JS
+AD  - Anesthesiology, Perioperative and Pain Medicine, Icahn School of Medicine at 
+      Mount Sinai.
+FAU - Neifert, Sean N
+AU  - Neifert SN
+AD  - Department of Neurosurgery, New York University Langone Medical Center.
+FAU - Kim, Nora C
+AU  - Kim NC
+AD  - Department of Neurosurgery, New York University Langone Medical Center.
+FAU - Geng, Eric A
+AU  - Geng EA
+AD  - Department of Orthopedic Surgery, Icahn School of Medicine at Mount Sinai.
+FAU - Kim, Jun S
+AU  - Kim JS
+AD  - Department of Orthopedic Surgery, Icahn School of Medicine at Mount Sinai.
+FAU - Cho, Samuel K
+AU  - Cho SK
+AD  - Department of Orthopedic Surgery, Icahn School of Medicine at Mount Sinai.
+FAU - Oermann, Eric K
+AU  - Oermann EK
+AD  - Department of Neurosurgery, New York University Langone Medical Center.
+AD  - Department of Radiology, New York University Langone Medical Center.
+AD  - Center for Data Science, New York University Langone Medical Center, New York, 
+      NY.
+FAU - Caridi, John M
+AU  - Caridi JM
+AD  - Department of Neurosurgery, University of Texas Health Science Center, Houston, 
+      TX.
+LA  - eng
+PT  - Journal Article
+DEP - 20240129
+PL  - United States
+TA  - Clin Spine Surg
+JT  - Clinical spine surgery
+JID - 101675083
+SB  - IM
+MH  - United States
+MH  - Humans
+MH  - Aged
+MH  - *Medicare
+MH  - *Patient Discharge
+MH  - Retrospective Studies
+MH  - Machine Learning
+MH  - Cervical Vertebrae/surgery
+COIS- The authors declare no conflict of interest.
+EDAT- 2024/01/29 12:44
+MHDA- 2024/01/30 12:43
+CRDT- 2024/01/29 11:23
+PHST- 2023/01/04 00:00 [received]
+PHST- 2023/07/19 00:00 [accepted]
+PHST- 2024/01/30 12:43 [medline]
+PHST- 2024/01/29 12:44 [pubmed]
+PHST- 2024/01/29 11:23 [entrez]
+AID - 01933606-202402000-00008 [pii]
+AID - 10.1097/BSD.0000000000001520 [doi]
+PST - ppublish
+SO  - Clin Spine Surg. 2024 Feb 1;37(1):E30-E36. doi: 10.1097/BSD.0000000000001520. 
+      Epub 2024 Jan 29.

@@ -1,0 +1,1932 @@
+PMID- 34341881
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220324
+LR  - 20220324
+IS  - 1559-1182 (Electronic)
+IS  - 0893-7648 (Linking)
+VI  - 58
+IP  - 11
+DP  - 2021 Nov
+TI  - Corticospinal Motor Circuit Plasticity After Spinal Cord Injury: Harnessing 
+      Neuroplasticity to Improve Functional Outcomes.
+PG  - 5494-5516
+LID - 10.1007/s12035-021-02484-w [doi]
+AB  - Spinal cord injury (SCI) is a devastating condition that affects approximately 
+      294,000 people in the USA and several millions worldwide. The corticospinal motor 
+      circuitry plays a major role in controlling skilled movements and in planning and 
+      coordinating movements in mammals and can be damaged by SCI. While axonal 
+      regeneration of injured fibers over long distances is scarce in the adult CNS, 
+      substantial spontaneous neural reorganization and plasticity in the spared 
+      corticospinal motor circuitry has been shown in experimental SCI models, 
+      associated with functional recovery. Beneficially harnessing this neuroplasticity 
+      of the corticospinal motor circuitry represents a highly promising therapeutic 
+      approach for improving locomotor outcomes after SCI. Several different strategies 
+      have been used to date for this purpose including neuromodulation (spinal 
+      cord/brain stimulation strategies and brain-machine interfaces), rehabilitative 
+      training (targeting activity-dependent plasticity), stem cells and biological 
+      scaffolds, neuroregenerative/neuroprotective pharmacotherapies, and light-based 
+      therapies like photodynamic therapy (PDT) and photobiomodulation (PMBT). This 
+      review provides an overview of the spontaneous reorganization and neuroplasticity 
+      in the corticospinal motor circuitry after SCI and summarizes the various 
+      therapeutic approaches used to beneficially harness this neuroplasticity for 
+      functional recovery after SCI in preclinical animal model and clinical human 
+      patients' studies.
+CI  - © 2021. The Author(s), under exclusive licence to Springer Science+Business 
+      Media, LLC, part of Springer Nature.
+FAU - Kazim, Syed Faraz
+AU  - Kazim SF
+AUID- ORCID: 0000-0001-8723-4181
+AD  - Department of Neurosurgery, University of New Mexico (UNM) School of Medicine, 
+      Albuquerque, NM, 87131, USA.
+FAU - Bowers, Christian A
+AU  - Bowers CA
+AD  - Department of Neurosurgery, University of New Mexico (UNM) School of Medicine, 
+      Albuquerque, NM, 87131, USA.
+FAU - Cole, Chad D
+AU  - Cole CD
+AD  - Department of Neurosurgery, University of New Mexico (UNM) School of Medicine, 
+      Albuquerque, NM, 87131, USA.
+FAU - Varela, Samantha
+AU  - Varela S
+AD  - School of Medicine, University of New Mexico (UNM), Albuquerque, NM, 87131, USA.
+FAU - Karimov, Zafar
+AU  - Karimov Z
+AD  - School of Medicine, New York Medical College (NYMC), Valhalla, NY, 10595, USA.
+FAU - Martinez, Erick
+AU  - Martinez E
+AD  - School of Medicine, New York Medical College (NYMC), Valhalla, NY, 10595, USA.
+FAU - Ogulnick, Jonathan V
+AU  - Ogulnick JV
+AD  - School of Medicine, New York Medical College (NYMC), Valhalla, NY, 10595, USA.
+FAU - Schmidt, Meic H
+AU  - Schmidt MH
+AD  - Department of Neurosurgery, University of New Mexico (UNM) School of Medicine, 
+      Albuquerque, NM, 87131, USA. MHSchmidt@salud.unm.edu.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20210803
+PL  - United States
+TA  - Mol Neurobiol
+JT  - Molecular neurobiology
+JID - 8900963
+RN  - 0 (Neuroprotective Agents)
+RN  - 7LJ087RS6F (Riluzole)
+SB  - IM
+MH  - Animals
+MH  - Brain-Computer Interfaces
+MH  - Combined Modality Therapy
+MH  - Electric Stimulation Therapy
+MH  - Humans
+MH  - Locomotion/physiology
+MH  - Low-Level Light Therapy
+MH  - Motor Cortex/physiopathology
+MH  - Nerve Regeneration
+MH  - Neuronal Outgrowth
+MH  - *Neuronal Plasticity
+MH  - Neuroprotective Agents/therapeutic use
+MH  - Photochemotherapy
+MH  - Pyramidal Tracts/*physiopathology
+MH  - Quality of Life
+MH  - Recovery of Function
+MH  - Riluzole/therapeutic use
+MH  - Spinal Cord/physiopathology
+MH  - Spinal Cord Diseases/rehabilitation
+MH  - Spinal Cord Injuries/*physiopathology/therapy
+MH  - Stem Cell Transplantation
+MH  - Transcranial Direct Current Stimulation
+MH  - Transcutaneous Electric Nerve Stimulation
+OTO - NOTNLM
+OT  - Corticospinal motor circuit
+OT  - Neuromodulation
+OT  - Neuroplasticity
+OT  - Rehabilitation
+OT  - Spinal cord injury
+EDAT- 2021/08/04 06:00
+MHDA- 2022/03/25 06:00
+CRDT- 2021/08/03 06:44
+PHST- 2021/01/13 00:00 [received]
+PHST- 2021/07/07 00:00 [accepted]
+PHST- 2021/08/04 06:00 [pubmed]
+PHST- 2022/03/25 06:00 [medline]
+PHST- 2021/08/03 06:44 [entrez]
+AID - 10.1007/s12035-021-02484-w [pii]
+AID - 10.1007/s12035-021-02484-w [doi]
+PST - ppublish
+SO  - Mol Neurobiol. 2021 Nov;58(11):5494-5516. doi: 10.1007/s12035-021-02484-w. Epub 
+      2021 Aug 3.
+
+PMID- 36470560
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230307
+LR  - 20230307
+IS  - 1878-8769 (Electronic)
+IS  - 1878-8750 (Linking)
+VI  - 171
+DP  - 2023 Mar
+TI  - Postprocedural Complications of External Ventricular Drains: A Meta-Analysis 
+      Evaluating the Absolute Risk of Hemorrhages, Infections, and Revisions.
+PG  - 41-64
+LID - S1878-8750(22)01686-2 [pii]
+LID - 10.1016/j.wneu.2022.11.134 [doi]
+AB  - BACKGROUND: External ventricular drain (EVD) insertion is often a lifesaving 
+      procedure frequently used in neurosurgical emergencies. It is routinely done at 
+      the bedside in the neurocritical care unit or in the emergency room. However, 
+      there are infectious and noninfectious complications associated with this 
+      procedure. This meta-analysis sought to evaluate the absolute risk associated 
+      with EVD hemorrhages, infections, and revisions. The secondary purpose was to 
+      identify and characterize risk factors for EVD complications. METHODS: We 
+      searched the MEDLINE (PubMed) database for "external ventricular drain," 
+      "external ventricular drain" + "complications" or "Hemorrhage" or "Infection" or 
+      "Revision" irrespective of publication year. Estimates from individual studies 
+      were combined using a random effects model, and 95% confidence intervals (CIs) 
+      were calculated with maximum likelihood specification. To investigate 
+      heterogeneity, the t(2) and I(2) tests were utilized. To evaluate for publication 
+      bias, a funnel plot was developed. RESULTS: There were 260 total studies screened 
+      from our PubMed literature database search, with 176 studies selected for 
+      full-text review, and all of these 176 studies were included in the meta-analysis 
+      as they met the inclusion criteria. A total of 132,128 EVD insertions were 
+      reported, with a total of 130,609 participants having at least one EVD inserted. 
+      The pooled absolute risk (risk difference) and percentage of the total 
+      variability due to true heterogeneity (I(2)) for hemorrhagic complication was 
+      1236/10,203 (risk difference: -0.63; 95% CI: -0.66 to -0.60; I(2): 97.8%), 
+      infectious complication was 7278/125,909 (risk difference: -0.65; 95% CI: -0.67 
+      to -0.64; I(2): 99.7%), and EVD revision was 674/4416 (risk difference: -0.58; 
+      95% CI: -0.65 to -0.51; I(2): 98.5%). On funnel plot analysis, we had a variety 
+      of symmetrical plots, and asymmetrical plots, suggesting no bias in larger 
+      studies, and the lack of positive effects/methodological quality in smaller 
+      studies. CONCLUSIONS: In conclusion, these findings provide valuable information 
+      regarding the safety of one of the most important and most common neurosurgical 
+      procedures, EVD insertion. Implementing best-practice standards is recommended in 
+      order to reduce EVD-related complications. There is a need for more in-depth 
+      research into the independent risk factors associated with these complications, 
+      as well as confirmation of these findings by well-structured prospective studies.
+CI  - Copyright © 2022 Elsevier Inc. All rights reserved.
+FAU - Mahto, Neil
+AU  - Mahto N
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, New 
+      Mexico, USA.
+FAU - Owodunni, Oluwafemi P
+AU  - Owodunni OP
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, New 
+      Mexico, USA.
+FAU - Okakpu, Uchenna
+AU  - Okakpu U
+AD  - West Virginia University School of Medicine, Morgantown, West Virginia, USA.
+FAU - Kazim, Syed F
+AU  - Kazim SF
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, New 
+      Mexico, USA.
+FAU - Varela, Samantha
+AU  - Varela S
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, New 
+      Mexico, USA.
+FAU - Varela, Yandry
+AU  - Varela Y
+AD  - Burrell College of Osteopathic Medicine, New Mexico, USA.
+FAU - Garcia, Josiel
+AU  - Garcia J
+AD  - Burrell College of Osteopathic Medicine, New Mexico, USA.
+FAU - Alunday, Robert
+AU  - Alunday R
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, New 
+      Mexico, USA.
+FAU - Schmidt, Meic H
+AU  - Schmidt MH
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, New 
+      Mexico, USA.
+FAU - Bowers, Christian A
+AU  - Bowers CA
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, New 
+      Mexico, USA. Electronic address: CABowers@salud.unm.edu.
+LA  - eng
+PT  - Journal Article
+PT  - Meta-Analysis
+PT  - Review
+DEP - 20221205
+PL  - United States
+TA  - World Neurosurg
+JT  - World neurosurgery
+JID - 101528275
+SB  - IM
+MH  - Humans
+MH  - Prospective Studies
+MH  - *Ventriculostomy/methods
+MH  - *Drainage/methods
+MH  - Hemorrhage/etiology
+MH  - Neurosurgical Procedures/methods
+MH  - Retrospective Studies
+OTO - NOTNLM
+OT  - Complications
+OT  - External ventricular drain
+OT  - External ventricular drain revision
+OT  - Hemorrhage
+OT  - Infection
+EDAT- 2022/12/06 06:00
+MHDA- 2023/03/08 06:00
+CRDT- 2022/12/05 19:35
+PHST- 2022/11/20 00:00 [received]
+PHST- 2022/11/29 00:00 [accepted]
+PHST- 2022/12/06 06:00 [pubmed]
+PHST- 2023/03/08 06:00 [medline]
+PHST- 2022/12/05 19:35 [entrez]
+AID - S1878-8750(22)01686-2 [pii]
+AID - 10.1016/j.wneu.2022.11.134 [doi]
+PST - ppublish
+SO  - World Neurosurg. 2023 Mar;171:41-64. doi: 10.1016/j.wneu.2022.11.134. Epub 2022 
+      Dec 5.
+
+PMID- 35766210
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20221121
+LR  - 20221129
+IS  - 1827-1855 (Electronic)
+IS  - 0390-5616 (Linking)
+VI  - 66
+IP  - 6
+DP  - 2022 Dec
+TI  - One-year experience with virtual multidisciplinary neuro-oncology tumor board 
+      during the COVID-19 pandemic.
+PG  - 589-591
+LID - 10.23736/S0390-5616.22.05791-5 [doi]
+FAU - Varela, Samantha
+AU  - Varela S
+AD  - School of Medicine, University of New Mexico (UNM), Albuquerque, NM, USA.
+FAU - Vidrine, Devan W
+AU  - Vidrine DW
+AD  - School of Medicine, University of New Mexico (UNM), Albuquerque, NM, USA.
+FAU - Marquez, Joshua
+AU  - Marquez J
+AD  - School of Medicine, University of New Mexico (UNM), Albuquerque, NM, USA.
+FAU - Kazim, Syed F
+AU  - Kazim SF
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), 
+      Albuquerque, NM, USA.
+FAU - Kogan, Michael
+AU  - Kogan M
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), 
+      Albuquerque, NM, USA.
+FAU - Ormsby, Jacob W
+AU  - Ormsby JW
+AD  - Section of Neuroradiology, Department of Radiology, University of New Mexico 
+      Hospital (UNMH), Albuquerque, NM, USA.
+FAU - Schroeder, Thomas M
+AU  - Schroeder TM
+AD  - Section of Radiation Oncology, Department of Internal Medicine, University of New 
+      Mexico Hospital (UNMH), Albuquerque, NM, USA.
+FAU - Santacruz, Karen S
+AU  - Santacruz KS
+AD  - Section of Neuropathology, Department of Pathology, University of New Mexico 
+      Hospital (UNMH), Albuquerque, NM, USA.
+FAU - Botros, James A
+AU  - Botros JA
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), 
+      Albuquerque, NM, USA.
+FAU - Spader, Heather S
+AU  - Spader HS
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), 
+      Albuquerque, NM, USA.
+FAU - Schmidt, Meic H
+AU  - Schmidt MH
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), 
+      Albuquerque, NM, USA.
+FAU - Bowers, Christian A
+AU  - Bowers CA
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), 
+      Albuquerque, NM, USA - CABowers@salud.unm.edu.
+LA  - eng
+PT  - Letter
+DEP - 20220628
+PL  - Italy
+TA  - J Neurosurg Sci
+JT  - Journal of neurosurgical sciences
+JID - 0432557
+SB  - IM
+MH  - Humans
+MH  - *COVID-19
+MH  - Pandemics
+MH  - SARS-CoV-2
+MH  - Medical Oncology
+MH  - *Neoplasms
+EDAT- 2022/06/30 06:00
+MHDA- 2022/11/22 06:00
+CRDT- 2022/06/29 06:19
+PHST- 2022/06/30 06:00 [pubmed]
+PHST- 2022/11/22 06:00 [medline]
+PHST- 2022/06/29 06:19 [entrez]
+AID - S0390-5616.22.05791-5 [pii]
+AID - 10.23736/S0390-5616.22.05791-5 [doi]
+PST - ppublish
+SO  - J Neurosurg Sci. 2022 Dec;66(6):589-591. doi: 10.23736/S0390-5616.22.05791-5. 
+      Epub 2022 Jun 28.
+
+PMID- 34647717
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220622
+LR  - 20220622
+IS  - 1827-1855 (Electronic)
+IS  - 0390-5616 (Linking)
+VI  - 66
+IP  - 3
+DP  - 2022 Jun
+TI  - Neurosurgery virtual education in the COVID-19 pandemic era: results of a global 
+      survey.
+PG  - 274-277
+LID - 10.23736/S0390-5616.21.05579-X [doi]
+FAU - Varela, Samantha
+AU  - Varela S
+AD  - School of Medicine, University of New Mexico (UNM), Albuquerque, NM, USA.
+FAU - Kazim, Syed F
+AU  - Kazim SF
+AD  - Department of Neurosurgery, University of New Mexico (UNM) School of Medicine, 
+      Albuquerque, NM, USA.
+FAU - Schmidt, Meic H
+AU  - Schmidt MH
+AD  - Department of Neurosurgery, University of New Mexico (UNM) School of Medicine, 
+      Albuquerque, NM, USA.
+FAU - Chaurasia, Bipin
+AU  - Chaurasia B
+AD  - Department of Neurosurgery, Bangabandhu Sheikh Mujib Medical University, Dhaka, 
+      Bangladesh.
+FAU - Dicpinigaitis, Alis J
+AU  - Dicpinigaitis AJ
+AD  - School of Medicine, New York Medical College, Valhalla, NY, USA.
+FAU - Ogulnick, Jonathan V
+AU  - Ogulnick JV
+AD  - School of Medicine, New York Medical College, Valhalla, NY, USA.
+FAU - Cole, Kyril L
+AU  - Cole KL
+AD  - School of Medicine, University of Utah, Salt Lake City, UT, USA.
+FAU - Conlon, Matthew
+AU  - Conlon M
+AD  - School of Medicine, New York Medical College, Valhalla, NY, USA.
+FAU - Tarawneh, Omar
+AU  - Tarawneh O
+AD  - School of Medicine, New York Medical College, Valhalla, NY, USA.
+FAU - Thommen, Rachel
+AU  - Thommen R
+AD  - School of Medicine, New York Medical College, Valhalla, NY, USA.
+FAU - Cole, Chad D
+AU  - Cole CD
+AD  - Department of Neurosurgery, University of New Mexico (UNM) School of Medicine, 
+      Albuquerque, NM, USA.
+FAU - Jean, Walter C
+AU  - Jean WC
+AD  - Department of Neurosurgery, George Washington University, Washington, DC, USA.
+FAU - Couldwell, William T
+AU  - Couldwell WT
+AD  - Department of Neurosurgery, University of Utah, Clinical Neurosciences Center, 
+      University of Utah, Salt Lake City, UT, USA.
+FAU - Litvack, Zachary N
+AU  - Litvack ZN
+AD  - Department of Neurosurgery, Swedish Neuroscience Institute, Swedish Medical 
+      Center, Seattle, WA, USA.
+FAU - Al-Mufti, Fawaz
+AU  - Al-Mufti F
+AD  - Department of Neurosurgery, Westchester Medical Center, Valhalla, NY, USA.
+FAU - Bowers, Christian A
+AU  - Bowers CA
+AD  - Department of Neurosurgery, University of New Mexico (UNM) School of Medicine, 
+      Albuquerque, NM, USA - CABowers@salud.unm.edu.
+LA  - eng
+PT  - Letter
+DEP - 20211014
+PL  - Italy
+TA  - J Neurosurg Sci
+JT  - Journal of neurosurgical sciences
+JID - 0432557
+SB  - IM
+MH  - *COVID-19
+MH  - Humans
+MH  - *Neurosurgery/education
+MH  - Neurosurgical Procedures
+MH  - Pandemics
+MH  - SARS-CoV-2
+MH  - Surveys and Questionnaires
+EDAT- 2021/10/15 06:00
+MHDA- 2022/06/23 06:00
+CRDT- 2021/10/14 11:09
+PHST- 2021/10/15 06:00 [pubmed]
+PHST- 2022/06/23 06:00 [medline]
+PHST- 2021/10/14 11:09 [entrez]
+AID - S0390-5616.21.05579-X [pii]
+AID - 10.23736/S0390-5616.21.05579-X [doi]
+PST - ppublish
+SO  - J Neurosurg Sci. 2022 Jun;66(3):274-277. doi: 10.23736/S0390-5616.21.05579-X. 
+      Epub 2021 Oct 14.
+
+PMID- 35442224
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220517
+LR  - 20220621
+IS  - 1524-4040 (Electronic)
+IS  - 0148-396X (Linking)
+VI  - 90
+IP  - 6
+DP  - 2022 Jun 1
+TI  - Letter: Association of Late Week Nonhome Discharge With Increased Length of Stay 
+      in Intracranial Meningioma Resection Patients.
+PG  - e186-e188
+LID - 10.1227/neu.0000000000001968 [doi]
+FAU - Varela, Samantha
+AU  - Varela S
+AD  - School of Medicine, University of New Mexico (UNM), Albuquerque, New Mexico, USA.
+FAU - Garcia, Joshua
+AU  - Garcia J
+AD  - Clinical Quality Improvement (CQI) Program, University of New Mexico Health 
+      Science Center (UNMHSC), Albuquerque, New Mexico, USA.
+FAU - Kazim, Syed Faraz
+AU  - Kazim SF
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), 
+      Albuquerque, New Mexico, USA.
+FAU - Schmidt, Meic H
+AU  - Schmidt MH
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), 
+      Albuquerque, New Mexico, USA.
+FAU - McKee, Rohini G
+AU  - McKee RG
+AD  - Department of Surgery, University of New Mexico Hospital (UNMH), Albuquerque, New 
+      Mexico, USA.
+FAU - Miskimins, Richard
+AU  - Miskimins R
+AD  - Department of Surgery, University of New Mexico Hospital (UNMH), Albuquerque, New 
+      Mexico, USA.
+FAU - Abeyta, Carlos
+AU  - Abeyta C
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), 
+      Albuquerque, New Mexico, USA.
+FAU - Bowers, Christian A
+AU  - Bowers CA
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), 
+      Albuquerque, New Mexico, USA.
+LA  - eng
+PT  - Letter
+DEP - 20220422
+PL  - United States
+TA  - Neurosurgery
+JT  - Neurosurgery
+JID - 7802914
+SB  - IM
+MH  - Humans
+MH  - Length of Stay
+MH  - *Meningeal Neoplasms/surgery
+MH  - *Meningioma/surgery
+MH  - Patient Discharge
+MH  - Retrospective Studies
+MH  - Risk Factors
+EDAT- 2022/04/21 06:00
+MHDA- 2022/05/18 06:00
+CRDT- 2022/04/20 12:14
+PHST- 2022/02/04 00:00 [received]
+PHST- 2022/02/05 00:00 [accepted]
+PHST- 2022/04/21 06:00 [pubmed]
+PHST- 2022/05/18 06:00 [medline]
+PHST- 2022/04/20 12:14 [entrez]
+AID - 00006123-202206000-00048 [pii]
+AID - 10.1227/neu.0000000000001968 [doi]
+PST - ppublish
+SO  - Neurosurgery. 2022 Jun 1;90(6):e186-e188. doi: 10.1227/neu.0000000000001968. Epub 
+      2022 Apr 22.
+
+PMID- 36094282
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20221018
+LR  - 20221206
+IS  - 1524-4040 (Electronic)
+IS  - 0148-396X (Linking)
+VI  - 91
+IP  - 5
+DP  - 2022 Nov 1
+TI  - Letter: Association of Patient Frailty With Vestibular Schwannoma Resection 
+      Outcomes and Machine Learning Development of a Vestibular Schwannoma Risk 
+      Stratification Score.
+PG  - e139-e140
+LID - 10.1227/neu.0000000000002154 [doi]
+FAU - Bowers, Christian A
+AU  - Bowers CA
+AUID- ORCID: 0000-0001-6299-503
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), 
+      Albuquerque, New Mexico, USA.
+FAU - Varela, Samantha
+AU  - Varela S
+AD  - School of Medicine, University of New Mexico (UNM), Albuquerque, New Mexico, USA.
+FAU - Kazim, Syed Faraz
+AU  - Kazim SF
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), 
+      Albuquerque, New Mexico, USA.
+FAU - Gurgel, Richard
+AU  - Gurgel R
+AD  - Department of Otolaryngology, University of Utah, Salt Lake City, Utah, USA.
+LA  - eng
+PT  - Comment
+PT  - Letter
+DEP - 20220912
+PL  - United States
+TA  - Neurosurgery
+JT  - Neurosurgery
+JID - 7802914
+SB  - IM
+CON - Neurosurgery. 2022 Aug 1;91(2):312-321. PMID: 35411872
+CIN - Neurosurgery. 2022 Nov 1;91(5):e141-e142. PMID: 36106865
+MH  - Cranial Nerves
+MH  - *Frailty/complications/diagnosis
+MH  - Humans
+MH  - Machine Learning
+MH  - *Neuroma, Acoustic/complications/surgery
+MH  - Risk Assessment
+EDAT- 2022/09/13 06:00
+MHDA- 2022/10/19 06:00
+CRDT- 2022/09/12 09:06
+PHST- 2022/06/10 00:00 [received]
+PHST- 2022/07/29 00:00 [accepted]
+PHST- 2022/09/13 06:00 [pubmed]
+PHST- 2022/10/19 06:00 [medline]
+PHST- 2022/09/12 09:06 [entrez]
+AID - 00006123-202211000-00030 [pii]
+AID - 10.1227/neu.0000000000002154 [doi]
+PST - ppublish
+SO  - Neurosurgery. 2022 Nov 1;91(5):e139-e140. doi: 10.1227/neu.0000000000002154. Epub 
+      2022 Sep 12.
+
+PMID- 36324951
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20221104
+IS  - 2229-5097 (Print)
+IS  - 2152-7806 (Electronic)
+IS  - 2152-7806 (Linking)
+VI  - 13
+DP  - 2022
+TI  - Advanced frailty assessment tool predicts successful awake craniotomy in a 
+      92-year-old patient: A case report.
+PG  - 404
+LID - 10.25259/SNI_542_2022 [doi]
+LID - 404
+AB  - BACKGROUND: The awake craniotomy (AC) procedure allows for safe and maximal 
+      resection of brain tumors from highly eloquent regions. However, geriatric 
+      patients are often viewed as poor candidates for AC due to age and medical 
+      comorbidities. Frailty assessments gauge physiological reserve for surgery and 
+      are valuable tools for preoperative decision-making. Here, we present a novel 
+      case illustrating how frailty scoring enabled an elderly but otherwise healthy 
+      female to undergo successful AC for tumor resection. CASE DESCRIPTION: A 
+      92-year-old right-handed female with history of hypertension and basal cell skin 
+      cancer presented with a 1-month history of progressive aphasia and was found to 
+      have a ring-enhancing left frontoparietal mass abutting the rolandic cortex 
+      concerning for malignant neoplasm. Frailty scoring with the recalibrated risk 
+      analysis index (RAI-C) tool revealed a score of 30 (of 81) indicating low 
+      surgical risk. The patient and family were counseled appropriately that, despite 
+      advanced chronological age, a low frailty score predicts favorable surgical 
+      outcomes. The patient underwent left-sided AC for resection of tumor and 
+      experienced immediate improvement of speech intraoperatively. After surgery, the 
+      patient was neurologically intact and had an unremarkable postoperative course 
+      with significant improvements from preoperatively baseline at follow-up. 
+      CONCLUSION: To the best of our knowledge, this case represents the oldest patient 
+      to undergo successful AC for brain tumor resection. Nonfrail patients over 90 
+      years of age with the proper indications may tolerate cranial surgery. Frailty 
+      scoring is a powerful tool for preoperative risk assessment in the geriatric 
+      neurosurgery population.
+CI  - Copyright: © 2022 Surgical Neurology International.
+FAU - Cole, Kyril L
+AU  - Cole KL
+AD  - Department of Neurosurgery, University of New Mexico, University of New Mexico 
+      Health Sciences Center, Albuquerque, United States.
+FAU - Varela, Samantha
+AU  - Varela S
+AD  - Department of Neurosurgery, University of New Mexico, University of New Mexico 
+      Health Sciences Center, Albuquerque, United States.
+FAU - Rumalla, Kavelin
+AU  - Rumalla K
+AD  - Department of Neurosurgery, University of New Mexico, University of New Mexico 
+      Health Sciences Center, Albuquerque, United States.
+FAU - Kazim, Syed Faraz
+AU  - Kazim SF
+AD  - Department of Neurosurgery, University of New Mexico, University of New Mexico 
+      Health Sciences Center, Albuquerque, United States.
+FAU - Rebbe, Ryan W
+AU  - Rebbe RW
+AD  - Department of Neurosurgery, University of New Mexico, University of New Mexico 
+      Health Sciences Center, Albuquerque, United States.
+FAU - Carvajal, Michael
+AU  - Carvajal M
+AD  - Department of Neurosurgery, University of New Mexico, University of New Mexico 
+      Health Sciences Center, Albuquerque, United States.
+FAU - SantaCruz, Karen S
+AU  - SantaCruz KS
+AD  - Department of Neurosurgery, University of New Mexico, University of New Mexico 
+      Health Sciences Center, Albuquerque, United States.
+FAU - McKee, Rohini
+AU  - McKee R
+AD  - Department of Neurosurgery, University of New Mexico, University of New Mexico 
+      Health Sciences Center, Albuquerque, United States.
+FAU - Willman, Cheryl
+AU  - Willman C
+AD  - Department of Neurosurgery, University of New Mexico, University of New Mexico 
+      Health Sciences Center, Albuquerque, United States.
+FAU - Schmidt, Meic H
+AU  - Schmidt MH
+AD  - Department of Neurosurgery, University of New Mexico, University of New Mexico 
+      Health Sciences Center, Albuquerque, United States.
+FAU - Bowers, Christian A
+AU  - Bowers CA
+AD  - Department of Neurosurgery, University of New Mexico, University of New Mexico 
+      Health Sciences Center, Albuquerque, United States.
+LA  - eng
+PT  - Case Reports
+DEP - 20220909
+PL  - United States
+TA  - Surg Neurol Int
+JT  - Surgical neurology international
+JID - 101535836
+PMC - PMC9610602
+OTO - NOTNLM
+OT  - Awake craniotomy
+OT  - Frailty
+OT  - Malignant tumor
+OT  - Risk analysis index
+OT  - Tumor resection
+COIS- There are no conflicts of interest.
+EDAT- 2022/11/04 06:00
+MHDA- 2022/11/04 06:01
+CRDT- 2022/11/03 02:38
+PHST- 2022/06/14 00:00 [received]
+PHST- 2022/07/18 00:00 [accepted]
+PHST- 2022/11/03 02:38 [entrez]
+PHST- 2022/11/04 06:00 [pubmed]
+PHST- 2022/11/04 06:01 [medline]
+AID - 10.25259/SNI_542_2022 [pii]
+AID - 10.25259/SNI_542_2022 [doi]
+PST - epublish
+SO  - Surg Neurol Int. 2022 Sep 9;13:404. doi: 10.25259/SNI_542_2022. eCollection 2022.
+
+PMID- 36227254
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20221118
+LR  - 20231023
+IS  - 2332-4260 (Electronic)
+IS  - 2332-4252 (Print)
+IS  - 2332-4252 (Linking)
+VI  - 23
+IP  - 6
+DP  - 2022 Dec 1
+TI  - Continuous Tissue Plasminogen Activator Infusion Using a Minimally Invasive 
+      Irrigating Catheter for the Treatment of Intraparenchymal Hemorrhage Within the 
+      Basal Ganglia: Case Reports.
+PG  - e387-e391
+LID - 10.1227/ons.0000000000000408 [doi]
+AB  - BACKGROUND AND IMPORTANCE: Intraparenchymal hemorrhage (IPH) is a debilitating 
+      and highly morbid type of stroke with limited effective treatment modalities. 
+      Minimally invasive evacuation with tissue plasminogen activator (rt-PA) has 
+      demonstrated promise for mortality/functional improvements with adequate clot 
+      volume reduction. In this study, we report 2 cases of continuous rt-PA infusion 
+      using a closed circuit, dual lumen catheter, and irrigation system (IRRAflow) for 
+      IPH treatment. CLINICAL PRESENTATION: A 55-year-old man was admitted for acute 
+      onset left hemiparesis; he was found to have right basal ganglia IPH. He was 
+      treated with continuous rt-PA irrigation using the IRRAflow device, at a rate of 
+      30 mL/h for 119 hours, with a total volume reduction of 87.8 mL and 
+      post-treatment volume of 1.2 mL. At 3-month follow-up, he exhibited a modified 
+      Rankin score of 4 and improved hemiparesis. A 39-year-old woman was admitted for 
+      acute onset left facial droop, left hemianopsia, and left hemiparesis; she was 
+      diagnosed with a right basal ganglia IPH. She was treated with drainage and 
+      continuous rt-PA irrigation at 30 mL/h for 24 hours, with a total hematoma volume 
+      reduction of 41 mL and with a final post-treatment volume of 9.1 mL. At 3-month 
+      follow-up, she exhibited a modified Rankin score of 3 with some improvement in 
+      left hemiparesis. CONCLUSION: Continuous rt-PA infusion using a minimally 
+      invasive catheter with saline irrigation was feasible and resulted in successful 
+      volume reduction in 2 patients with IPH. This technique is similar to the 
+      Minimally Invasive Surgery Plus rt-PA for Intracerebral Hemorrhage Evacuation 
+      (MISTIE) approach but offers the potential advantages of less breaks in the 
+      sterile circuit, continuous intracranial pressure monitoring, and may provide 
+      more efficient clot lysis compared with intermittent bolusing.
+CI  - Copyright © Congress of Neurological Surgeons 2022. All rights reserved.
+FAU - Varela, Samantha
+AU  - Varela S
+AD  - School of Medicine, University of New Mexico (UNM), Albuquerque, New Mexico, USA.
+FAU - Carrera, Diego
+AU  - Carrera D
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), 
+      Albuquerque, New Mexico, USA.
+FAU - Elazim, Ahmed Abd
+AU  - Elazim AA
+AD  - Department of Neurology, University of New Mexico Hospital (UNMH), Albuquerque, 
+      New Mexico, USA.
+FAU - Robinson, Myranda B
+AU  - Robinson MB
+AD  - School of Medicine, University of New Mexico (UNM), Albuquerque, New Mexico, USA.
+FAU - Torbey, Michel
+AU  - Torbey M
+AD  - Department of Neurology, University of New Mexico Hospital (UNMH), Albuquerque, 
+      New Mexico, USA.
+FAU - Carlson, Andrew P
+AU  - Carlson AP
+AUID- ORCID: 0000-0003-2189-3699
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), 
+      Albuquerque, New Mexico, USA.
+LA  - eng
+GR  - P20 GM109089/GM/NIGMS NIH HHS/United States
+PT  - Case Reports
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+DEP - 20220914
+PL  - United States
+TA  - Oper Neurosurg (Hagerstown)
+JT  - Operative neurosurgery (Hagerstown, Md.)
+JID - 101635417
+RN  - EC 3.4.21.68 (Tissue Plasminogen Activator)
+RN  - 0 (Fibrinolytic Agents)
+SB  - IM
+MH  - Male
+MH  - Female
+MH  - Humans
+MH  - Adult
+MH  - Middle Aged
+MH  - *Tissue Plasminogen Activator/therapeutic use
+MH  - *Fibrinolytic Agents/therapeutic use
+MH  - Cerebral Hemorrhage/therapy
+MH  - Catheters
+MH  - Basal Ganglia/diagnostic imaging
+MH  - Paresis/drug therapy/etiology
+PMC - PMC10586848
+EDAT- 2022/10/14 06:00
+MHDA- 2022/11/19 06:00
+CRDT- 2022/10/13 10:48
+PHST- 2022/03/30 00:00 [received]
+PHST- 2022/06/28 00:00 [accepted]
+PHST- 2022/10/14 06:00 [pubmed]
+PHST- 2022/11/19 06:00 [medline]
+PHST- 2022/10/13 10:48 [entrez]
+AID - 01787389-202212000-00023 [pii]
+AID - ONS-D-22-00230 [pii]
+AID - 10.1227/ons.0000000000000408 [doi]
+PST - ppublish
+SO  - Oper Neurosurg (Hagerstown). 2022 Dec 1;23(6):e387-e391. doi: 
+      10.1227/ons.0000000000000408. Epub 2022 Sep 14.
+
+PMID- 35901555
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20221004
+LR  - 20221202
+IS  - 1872-6968 (Electronic)
+IS  - 0303-8467 (Linking)
+VI  - 221
+DP  - 2022 Oct
+TI  - Worse cranial neurosurgical outcomes predicted by increasing frailty in patients 
+      with interhospital transfer status: Analysis of 47,736 patients from the National 
+      Surgical Quality Improvement Program (NSQIP) 2015-2019.
+PG  - 107383
+LID - S0303-8467(22)00264-5 [pii]
+LID - 10.1016/j.clineuro.2022.107383 [doi]
+AB  - INTRODUCTION: With limited healthcare resources and risks associated with 
+      unwarranted interhospital transfers (IHT), it is important to select patients 
+      most likely to have improved outcomes with IHT. The present study analyzed the 
+      effect of IHT and frailty on postoperative outcomes in a large database of 
+      patients who underwent cranial neurosurgical operations. METHODS: The National 
+      Surgical Quality Improvement Program (NSQIP) database was queried for patients 
+      who underwent cranial neurosurgical procedures (2015-2019, N = 47,736). Baseline 
+      demographics, clinical characteristics, and outcome variables were compared 
+      between IHT and n-IHT patients. Univariate and multivariable analyses analyzed 
+      the effect of IHT status on postoperative outcomes and the utility of frailty 
+      (modified frailty index-5 [mFI-5] stratified into "pre-frail, "frail", and 
+      "severely frail") as a preoperative risk factor. Effect sizes from regression 
+      analyses were presented as odds ratio (OR) with associated 95% confidence 
+      intervals (95% CI). RESULTS: Of 47,736 patients with cranial neurosurgical 
+      operations, 9612 (20.1%) were IHT. Patients with IHT were older, frailer, with a 
+      higher rate of functional dependence. In multivariable analysis adjusted for 
+      baseline covariates, IHT status was independent associated with 30-day mortality 
+      (OR: 2.0, 95% CI: 1.2-3.6), major complication (OR: 1.5, 95% CI: 1.1-2.1), 
+      extended hospital length of stay (eLOS) (OR: 3.8, 95% CI: 3.6-4.1), and 
+      non-routine discharge disposition (OR: 2.4, 95% CI: 1.8-3.2) (all p < 0.05). 
+      Within the IHT cohort, increasing frailty ("pre-frail", "frail", "severely 
+      frail") was independently associated with increasing odds of 30-day mortality 
+      (OR: 1.4, 1.9, 3.9), major complication (OR: 1.4, 1.9, 3.3), unplanned 
+      readmission (OR: 1.1, 1.4, 2.1), reoperation (OR: 1.3, 1.5, 1.9), eLOS (OR: 1.2, 
+      1.3, 1.5), and non-routine discharge (OR: 1.4, 1.9, 4.4) (all p < 0.05). All 
+      levels of frailty were more strongly associated with postoperative outcomes than 
+      chronological age. CONCLUSIONS: This novel analysis suggests that patients 
+      transferred for cranial neurosurgery operations are significantly more likely to 
+      have worse postoperative health outcomes. Furthermore, the analysis suggests that 
+      frailty (as measured by mFI-5) is a powerful independent predictor of outcomes in 
+      transferred cranial neurosurgery patients. The findings support the use of 
+      frailty scoring in the pre-transfer and preoperative setting for patient 
+      counseling and risk stratification.
+CI  - Copyright © 2022. Published by Elsevier B.V.
+FAU - Kassicieh, Alexander J
+AU  - Kassicieh AJ
+AD  - School of Medicine, University of New Mexico, Albuquerque, NM 87106, USA.
+FAU - Varela, Samantha
+AU  - Varela S
+AD  - School of Medicine, University of New Mexico, Albuquerque, NM 87106, USA.
+FAU - Rumalla, Kavelin
+AU  - Rumalla K
+AD  - Department of Neurosurgery, University of New Mexico, Albuquerque, NM 87106, USA.
+FAU - Kazim, Syed Faraz
+AU  - Kazim SF
+AD  - Department of Neurosurgery, University of New Mexico, Albuquerque, NM 87106, USA.
+FAU - Cole, Kyril L
+AU  - Cole KL
+AD  - School of Medicine, University of Utah, Salt Lake City, UT 84132, USA.
+FAU - Ghatalia, Desna V
+AU  - Ghatalia DV
+AD  - School of Medicine, University of New Mexico, Albuquerque, NM 87106, USA.
+FAU - Schmidt, Meic H
+AU  - Schmidt MH
+AD  - Department of Neurosurgery, University of New Mexico, Albuquerque, NM 87106, USA.
+FAU - Bowers, Christian A
+AU  - Bowers CA
+AD  - Department of Neurosurgery, University of New Mexico, Albuquerque, NM 87106, USA. 
+      Electronic address: CABowers@salud.unm.edu.
+LA  - eng
+PT  - Journal Article
+DEP - 20220722
+PL  - Netherlands
+TA  - Clin Neurol Neurosurg
+JT  - Clinical neurology and neurosurgery
+JID - 7502039
+SB  - IM
+MH  - *Frailty/complications
+MH  - Humans
+MH  - Length of Stay
+MH  - Neurosurgical Procedures/adverse effects
+MH  - Postoperative Complications/etiology
+MH  - Quality Improvement
+MH  - Reoperation/adverse effects
+MH  - Retrospective Studies
+MH  - Risk Factors
+OTO - NOTNLM
+OT  - Cranial surgery
+OT  - IHT
+OT  - Interhospital transfer
+OT  - National Surgical Quality Improvement (NSQIP)
+OT  - Neurosurgery
+OT  - Neurosurgical outcomes
+OT  - Postoperative outcomes
+OT  - Transfer
+COIS- Conflicts of interest The authors certify that there is no conflict of interest 
+      with any financial organization regarding the material discussed in the 
+      manuscript.
+EDAT- 2022/07/29 06:00
+MHDA- 2022/10/05 06:00
+CRDT- 2022/07/28 18:16
+PHST- 2022/05/25 00:00 [received]
+PHST- 2022/07/16 00:00 [revised]
+PHST- 2022/07/20 00:00 [accepted]
+PHST- 2022/07/29 06:00 [pubmed]
+PHST- 2022/10/05 06:00 [medline]
+PHST- 2022/07/28 18:16 [entrez]
+AID - S0303-8467(22)00264-5 [pii]
+AID - 10.1016/j.clineuro.2022.107383 [doi]
+PST - ppublish
+SO  - Clin Neurol Neurosurg. 2022 Oct;221:107383. doi: 10.1016/j.clineuro.2022.107383. 
+      Epub 2022 Jul 22.
+
+PMID- 36781309
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230328
+LR  - 20230427
+IS  - 1532-2157 (Electronic)
+IS  - 0748-7983 (Linking)
+VI  - 49
+IP  - 4
+DP  - 2023 Apr
+TI  - Clinically predictive baseline labs for post-operative outcomes of brain tumors 
+      using NSQIP database.
+PG  - 825-831
+LID - S0748-7983(23)00094-X [pii]
+LID - 10.1016/j.ejso.2023.01.028 [doi]
+AB  - PURPOSE: This study was performed to assess the effect of baseline Preoperative 
+      Laboratory Values (PLV) on post-operative Brain Tumor Resection (BTR) outcomes in 
+      a large national registry. METHODS: We extracted data from the National Surgical 
+      Quality Improvement Program (NSQIP) database for BTR patients 2015-2019 (n = 3 
+      0,951). Uni- and multivariate analyses were performed for PLV and key surgical 
+      outcomes. RESULTS: The most significant PLV predictors of 30-day mortality after 
+      BTR included hypernatremia (odds ratio, OR 4.184, 95% CI, 2.384-7.343, 
+      p < 0.001), high serum creatinine (OR 2.244, 95% CI 1.502-3.352, p < 0.001), 
+      thrombocytopenia (OR 1.997, 95% CI 1.438, 2.772, p < 0.001), and leukocytosis (OR 
+      1.635, 95% CI 1.264, 2.116, p < 0.001). The most significant predictors of 
+      Clavien IV complications were increased INR (OR 2.653, 95% CI 1.444, 4.875, 
+      p < 0.01), thrombocytopenia (OR 1.514, 95% CI 1.280, 1.792, p < 0.001), 
+      hypoalbuminemia (OR 1.480, 95% CI 1.274, 1.719, p < 0.001), and leukocytosis (OR 
+      1.467, 95% CI 1.306, 1.647, p < 0.001). The most robust predictors of eLOS were 
+      increased INR (OR 1.941, 95% CI 1.231, 3.060, p < 0.01) and hypoalbuminemia (OR 
+      1.993, 95% CI 1.823, 2.179, p < 0.001), and those for non-routine discharge 
+      included increased INR (OR 1.897, 95% CI 1.196, 3.008, p < 0.01) and 
+      hypernatremia (OR 1.565, 95% CI 1.217, 2.012, p < 0.001). CONCLUSIONS: Several 
+      PLV independently predicted worse outcomes in BTR patients. Baseline labs should 
+      be routinely used for the pre-operative risk stratification of these patients.
+CI  - Copyright © 2023 Elsevier Ltd, BASO ~ The Association for Cancer Surgery, and the 
+      European Society of Surgical Oncology. All rights reserved.
+FAU - Varela, Samantha
+AU  - Varela S
+AD  - School of Medicine, University of New Mexico (UNM), Albuquerque, NM, USA.
+FAU - Thommen, Rachel
+AU  - Thommen R
+AD  - School of Medicine, New York Medical College (NYMC), Valhalla, NY, USA.
+FAU - Kazim, Syed Faraz
+AU  - Kazim SF
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), 
+      Albuquerque, NM, USA.
+FAU - Dicpinigaitis, Alis J
+AU  - Dicpinigaitis AJ
+AD  - School of Medicine, New York Medical College (NYMC), Valhalla, NY, USA.
+FAU - McKee, Rohini G
+AU  - McKee RG
+AD  - Department of Surgery, University of New Mexico, Albuquerque, NM, USA.
+FAU - Schmidt, Meic H
+AU  - Schmidt MH
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), 
+      Albuquerque, NM, USA.
+FAU - Couldwell, William T
+AU  - Couldwell WT
+AD  - Department of Neurosurgery, Clinical Neuroscience Center, University of Utah, 
+      Salt Lake City, UT, USA.
+FAU - Bowers, Christian A
+AU  - Bowers CA
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), 
+      Albuquerque, NM, USA. Electronic address: CABowers@salud.unm.edu.
+LA  - eng
+PT  - Journal Article
+DEP - 20230201
+PL  - England
+TA  - Eur J Surg Oncol
+JT  - European journal of surgical oncology : the journal of the European Society of 
+      Surgical Oncology and the British Association of Surgical Oncology
+JID - 8504356
+SB  - IM
+MH  - Humans
+MH  - Postoperative Complications/epidemiology/etiology
+MH  - Quality Improvement
+MH  - Leukocytosis/epidemiology/complications
+MH  - *Hypoalbuminemia/complications
+MH  - *Hypernatremia/epidemiology/complications
+MH  - *Brain Neoplasms/surgery
+MH  - *Thrombocytopenia/epidemiology
+MH  - Risk Factors
+MH  - Retrospective Studies
+OTO - NOTNLM
+OT  - Brain tumors
+OT  - National surgical quality improvement program (NSQIP)
+OT  - Pre-operative labs
+OT  - Surgical outcomes
+COIS- Declaration of competing interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2023/02/14 06:00
+MHDA- 2023/03/28 17:13
+CRDT- 2023/02/13 21:57
+PHST- 2022/02/04 00:00 [received]
+PHST- 2023/01/15 00:00 [revised]
+PHST- 2023/01/25 00:00 [accepted]
+PHST- 2023/03/28 17:13 [medline]
+PHST- 2023/02/14 06:00 [pubmed]
+PHST- 2023/02/13 21:57 [entrez]
+AID - S0748-7983(23)00094-X [pii]
+AID - 10.1016/j.ejso.2023.01.028 [doi]
+PST - ppublish
+SO  - Eur J Surg Oncol. 2023 Apr;49(4):825-831. doi: 10.1016/j.ejso.2023.01.028. Epub 
+      2023 Feb 1.
+
+PMID- 36773534
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230307
+LR  - 20230307
+IS  - 1872-6968 (Electronic)
+IS  - 0303-8467 (Linking)
+VI  - 226
+DP  - 2023 Mar
+TI  - Preoperative frailty risk in deep brain stimulation patients: Risk analysis index 
+      predicts Clavien-Dindo IV complications.
+PG  - 107616
+LID - S0303-8467(23)00032-X [pii]
+LID - 10.1016/j.clineuro.2023.107616 [doi]
+AB  - OBJECTIVE: Deep brain stimulation (DBS) improves patients' quality of life in 
+      multiple movement disorders and chronic neurodegenerative diseases. There are no 
+      published studies assessing frailty's impact on DBS outcomes. We evaluated 
+      frailty's impacts on DBS outcomes, comparing discriminative thresholds of the 
+      risk analysis index (RAI) to modified frailty index-5 (mFI-5) for predicting 
+      Clavien-Dindo complications (CDIV). METHODS: Patients who underwent DBS between 
+      2015 and 2019 in the ACS-NSQIP registry were included. We employed receiver 
+      operating characteristic (ROC) curve to examine the discriminative thresholds of 
+      RAI and mFI-5 and multivariable analyses for postoperative outcomes. Our primary 
+      outcome was CDIV, and secondary outcomes were discharge to higher-level care 
+      facility, unplanned reoperation within 30 days, in any hospital, for any 
+      procedure related to the index procedure, and extended length of stay. RESULTS: A 
+      total of 3795 patients were included. In the ROC analysis for CDIV, RAI showed 
+      superior discriminative threshold (C-statistic = 0.70, 95% CI 0.61-0.80, <0.001) 
+      than mFI-5 (C-statistic = 0.60, 95% CI 0.49-0.70, P = 0.08). On multivariable 
+      analyses, frailty stratified by RAI, had independent associations with CDIV, 
+      i.e., pre-frail 2-fold increase OR 2.04 (95% CI: 1.94-2.14) p < 0.001, and frail 
+      39% increase OR 1.39 (95% CI: 1.27-1.53), p < 0.001. CONCLUSION: Frailty was an 
+      independent risk-factor for CDIV. The RAI had superior discriminative thresholds 
+      than mFI-5 in predicting CDIV after DBS. Our ability to identify frail patients 
+      prior to DBS presents a novel clinical opportunity for quality improvement 
+      strategies to target this specific patient population. RAI may be a useful 
+      primary frailty screening modality for potential DBS candidates.
+CI  - Copyright © 2023 Elsevier B.V. All rights reserved.
+FAU - Owodunni, Oluwafemi P
+AU  - Owodunni OP
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, NM, 
+      USA.
+FAU - Roster, Katie
+AU  - Roster K
+AD  - New York Medical College School of Medicine, Valhalla, NY, USA.
+FAU - Varela, Samantha
+AU  - Varela S
+AD  - University of New Mexico School of Medicine, Albuquerque, NM, USA.
+FAU - Kazim, Syed F
+AU  - Kazim SF
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, NM, 
+      USA.
+FAU - Okakpu, Uchenna
+AU  - Okakpu U
+AD  - West Virginia University School of Medicine, Morgantown, WV, USA.
+FAU - Tarawneh, Omar H
+AU  - Tarawneh OH
+AD  - New York Medical College School of Medicine, Valhalla, NY, USA.
+FAU - Thommen, Rachel
+AU  - Thommen R
+AD  - New York Medical College School of Medicine, Valhalla, NY, USA.
+FAU - Kogan, Michael
+AU  - Kogan M
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, NM, 
+      USA.
+FAU - Sheehan, Jason
+AU  - Sheehan J
+AD  - Department of Neurosurgery, University of Virginia, Charlottesville, VA, USA.
+FAU - Mckee, Rohini
+AU  - Mckee R
+AD  - Department of Surgery, University of New Mexico Hospital, Albuquerque, NM, USA.
+FAU - Deligtisch, Amanda
+AU  - Deligtisch A
+AD  - Department of Neurology, University of New Mexico Hospital, Albuquerque, NM, USA.
+FAU - Schmidt, Meic H
+AU  - Schmidt MH
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, NM, 
+      USA.
+FAU - Bowers, Christian A
+AU  - Bowers CA
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, NM, 
+      USA. Electronic address: CABowers@salud.unm.edu.
+LA  - eng
+PT  - Journal Article
+DEP - 20230208
+PL  - Netherlands
+TA  - Clin Neurol Neurosurg
+JT  - Clinical neurology and neurosurgery
+JID - 7502039
+SB  - IM
+MH  - Humans
+MH  - *Frailty/complications
+MH  - Quality of Life
+MH  - *Deep Brain Stimulation/adverse effects
+MH  - Postoperative Complications/epidemiology
+MH  - Risk Assessment/methods
+MH  - Risk Factors
+MH  - Retrospective Studies
+OTO - NOTNLM
+OT  - Clavien-Dindo IV complications
+OT  - Deep brain stimulation
+OT  - Frailty
+OT  - Modified frailty index
+OT  - Postoperative outcomes
+OT  - Risk analysis index
+COIS- Conflict of interest statement The authors confirm that there are no conflicts of 
+      interest regarding the content of this publication.
+EDAT- 2023/02/12 06:00
+MHDA- 2023/03/08 06:00
+CRDT- 2023/02/11 18:17
+PHST- 2022/12/07 00:00 [received]
+PHST- 2023/01/21 00:00 [revised]
+PHST- 2023/01/23 00:00 [accepted]
+PHST- 2023/02/12 06:00 [pubmed]
+PHST- 2023/03/08 06:00 [medline]
+PHST- 2023/02/11 18:17 [entrez]
+AID - S0303-8467(23)00032-X [pii]
+AID - 10.1016/j.clineuro.2023.107616 [doi]
+PST - ppublish
+SO  - Clin Neurol Neurosurg. 2023 Mar;226:107616. doi: 10.1016/j.clineuro.2023.107616. 
+      Epub 2023 Feb 8.
+
+PMID- 36692309
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230725
+LR  - 20230725
+IS  - 1827-1855 (Electronic)
+IS  - 0390-5616 (Linking)
+VI  - 67
+IP  - 4
+DP  - 2023 Aug
+TI  - Preoperative frailty status measured by Clinical Risk Analysis Index and adverse 
+      events after endoscopic endonasal transsphenoidal resection of pituitary adenoma: 
+      results of a single center prospective case series.
+PG  - 539-541
+LID - 10.23736/S0390-5616.22.05947-1 [doi]
+FAU - Marquez, Joshua
+AU  - Marquez J
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, NM, 
+      USA.
+AD  - Bowers Neurosurgical Frailty and Outcomes Data Science Lab, Albuquerque, NM, USA.
+FAU - Spangler, Benjamin Q
+AU  - Spangler BQ
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, NM, 
+      USA.
+FAU - Rumalla, Kavelin
+AU  - Rumalla K
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, NM, 
+      USA.
+AD  - Bowers Neurosurgical Frailty and Outcomes Data Science Lab, Albuquerque, NM, USA.
+FAU - Kazim, Syed F
+AU  - Kazim SF
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, NM, 
+      USA.
+AD  - Bowers Neurosurgical Frailty and Outcomes Data Science Lab, Albuquerque, NM, USA.
+FAU - Courville, Evan
+AU  - Courville E
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, NM, 
+      USA.
+AD  - Bowers Neurosurgical Frailty and Outcomes Data Science Lab, Albuquerque, NM, USA.
+FAU - Patel, Sagar A
+AU  - Patel SA
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, NM, 
+      USA.
+FAU - Lundquist, Dominic K
+AU  - Lundquist DK
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, NM, 
+      USA.
+FAU - Muka, Theodore N
+AU  - Muka TN
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, NM, 
+      USA.
+FAU - Varela, Samantha
+AU  - Varela S
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, NM, 
+      USA.
+AD  - Bowers Neurosurgical Frailty and Outcomes Data Science Lab, Albuquerque, NM, USA.
+FAU - Olson, Garth T
+AU  - Olson GT
+AD  - Department of Otolaryngology, University of New Mexico Hospital, Albuquerque, NM, 
+      USA.
+FAU - Shama, Liat
+AU  - Shama L
+AD  - Department of Otolaryngology, University of New Mexico Hospital, Albuquerque, NM, 
+      USA.
+FAU - McKee, Rohini G
+AU  - McKee RG
+AD  - Bowers Neurosurgical Frailty and Outcomes Data Science Lab, Albuquerque, NM, USA.
+AD  - Department of Surgery, University of New Mexico Hospital, Albuquerque, NM, USA.
+FAU - Schmidt, Meic H
+AU  - Schmidt MH
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, NM, 
+      USA.
+AD  - Bowers Neurosurgical Frailty and Outcomes Data Science Lab, Albuquerque, NM, USA.
+FAU - Bowers, Christian A
+AU  - Bowers CA
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, NM, 
+      USA - CABowers@salud.unm.edu.
+AD  - Bowers Neurosurgical Frailty and Outcomes Data Science Lab, Albuquerque, NM, USA.
+LA  - eng
+PT  - Comment
+PT  - Letter
+DEP - 20230124
+PL  - Italy
+TA  - J Neurosurg Sci
+JT  - Journal of neurosurgical sciences
+JID - 0432557
+SB  - IM
+CON - JAMA Surg. 2017 Feb 1;152(2):175-182. PMID: 27893030
+MH  - Humans
+MH  - *Pituitary Neoplasms/surgery
+MH  - *Frailty
+MH  - Endoscopy/methods
+MH  - *Adenoma/surgery
+MH  - Risk Assessment
+MH  - Treatment Outcome
+MH  - Retrospective Studies
+EDAT- 2023/01/25 06:00
+MHDA- 2023/07/25 06:43
+CRDT- 2023/01/24 09:05
+PHST- 2023/07/25 06:43 [medline]
+PHST- 2023/01/25 06:00 [pubmed]
+PHST- 2023/01/24 09:05 [entrez]
+AID - S0390-5616.22.05947-1 [pii]
+AID - 10.23736/S0390-5616.22.05947-1 [doi]
+PST - ppublish
+SO  - J Neurosurg Sci. 2023 Aug;67(4):539-541. doi: 10.23736/S0390-5616.22.05947-1. 
+      Epub 2023 Jan 24.
+
+PMID- 36585095
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230103
+LR  - 20230214
+IS  - 1878-8769 (Electronic)
+IS  - 1878-8750 (Linking)
+VI  - 169
+DP  - 2023 Jan
+TI  - Letter to Editor Regarding "Hospital Frailty Risk Score Predicts Adverse Events 
+      and Readmission Following Ventriculoperitoneal Shunt Surgery for Normal Pressure 
+      Hydrocephalus".
+PG  - 121-123
+LID - S1878-8750(22)01298-0 [pii]
+LID - 10.1016/j.wneu.2022.09.031 [doi]
+FAU - Varela, Samantha
+AU  - Varela S
+AD  - University of New Mexico School of Medicine, Albuquerque, New Mexico, USA.
+FAU - Rumalla, Kavelin
+AU  - Rumalla K
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, New 
+      Mexico, USA.
+FAU - Schmidt, Meic H
+AU  - Schmidt MH
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, New 
+      Mexico, USA.
+FAU - Bowers, Christian A
+AU  - Bowers CA
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, New 
+      Mexico, USA. Electronic address: CABowers@salud.unm.edu.
+LA  - eng
+PT  - Comment
+PT  - Letter
+PL  - United States
+TA  - World Neurosurg
+JT  - World neurosurgery
+JID - 101528275
+SB  - IM
+CON - World Neurosurg. 2022 Aug 12;:null. PMID: 35970293
+CIN - World Neurosurg. 2023 Jan;169:124. PMID: 36585096
+MH  - Humans
+MH  - *Hydrocephalus, Normal Pressure/surgery/etiology
+MH  - Ventriculoperitoneal Shunt/adverse effects
+MH  - Patient Readmission
+MH  - *Frailty/surgery
+MH  - *Hydrocephalus/surgery/etiology
+MH  - Risk Factors
+MH  - Retrospective Studies
+EDAT- 2022/12/31 06:00
+MHDA- 2023/01/04 06:00
+CRDT- 2022/12/30 20:57
+PHST- 2022/09/06 00:00 [received]
+PHST- 2022/09/07 00:00 [accepted]
+PHST- 2022/12/30 20:57 [entrez]
+PHST- 2022/12/31 06:00 [pubmed]
+PHST- 2023/01/04 06:00 [medline]
+AID - S1878-8750(22)01298-0 [pii]
+AID - 10.1016/j.wneu.2022.09.031 [doi]
+PST - ppublish
+SO  - World Neurosurg. 2023 Jan;169:121-123. doi: 10.1016/j.wneu.2022.09.031.
+
+PMID- 37439459
+OWN - NLM
+STAT- Publisher
+LR  - 20231001
+IS  - 1547-5646 (Electronic)
+IS  - 1547-5646 (Linking)
+VI  - 39
+IP  - 4
+DP  - 2023 Oct 1
+TI  - Superior discrimination of the Risk Analysis Index compared with the 5-item 
+      modified frailty index in 30-day outcome prediction after anterior cervical 
+      discectomy and fusion.
+PG  - 509-519
+LID - 10.3171/2023.5.SPINE221020 [doi]
+AB  - OBJECTIVE: The objective of this paper was to compare the predictive ability of 
+      the recalibrated Risk Analysis Index (RAI-rev) with the 5-item modified frailty 
+      index-5 (mFI-5) for postoperative outcomes of anterior cervical discectomy and 
+      fusion (ACDF). METHODS: This study was performed using data of adult (age > 18 
+      years) ACDF patients obtained from the National Surgical Quality Improvement 
+      Program database during the years 2015-2019. Multivariate modeling and receiver 
+      operating characteristic (ROC) curve analysis, including area under the 
+      curve/C-statistic calculation with the DeLong test, were performed to evaluate 
+      the comparative discriminative ability of the RAI-rev and mFI-5 for 5 
+      postoperative outcomes. RESULTS: Both the RAI-rev and mFI-5 were independent 
+      predictors of increased postoperative mortality and morbidity in a cohort of 
+      61,441 ACDF patients. In the ROC analysis for 30-day mortality prediction, 
+      C-statistics indicated a significantly better performance of the RAI-rev 
+      (C-statistic = 0.855, 95% CI 0.852-0.858) compared with the mFI-5 (C-statistic = 
+      0.684, 95% CI 0.680-0.688) (p < 0.001, DeLong test). The results were similar for 
+      postoperative ACDF morbidity, Clavien-Dindo grade IV complications, nonhome 
+      discharge, and reoperation, demonstrating the superior discriminative ability of 
+      the RAI-rev compared with the mFI-5. CONCLUSIONS: The RAI-rev demonstrates 
+      superior discrimination to the mFI-5 in predicting postoperative ACDF mortality 
+      and morbidity. To the authors' knowledge, this is the first study to document 
+      frailty as an independent risk factor for postoperative mortality after ACDF. The 
+      RAI-rev has conceptual fidelity to the frailty phenotype and may be more useful 
+      than the mFI-5 in preoperative ACDF risk stratification. Prospective validation 
+      of these findings is necessary, but patients with high RAI-rev scores may benefit 
+      from knowing that they might have an increased surgical risk for ACDF morbidity 
+      and mortality.
+FAU - Bowers, Christian A
+AU  - Bowers CA
+AD  - 1Department of Neurosurgery, University of New Mexico Hospital, Albuquerque.
+FAU - Varela, Samantha
+AU  - Varela S
+AD  - 2School of Medicine, University of New Mexico, Albuquerque, New Mexico.
+FAU - Naftchi, Alexandria F
+AU  - Naftchi AF
+AD  - 3School of Medicine, New York Medical College, Valhalla, New York.
+FAU - Kazim, Syed Faraz
+AU  - Kazim SF
+AD  - 1Department of Neurosurgery, University of New Mexico Hospital, Albuquerque.
+FAU - Hall, Daniel E
+AU  - Hall DE
+AD  - 4Department of Surgery, University of Pittsburgh School of Medicine, Pittsburgh.
+AD  - 5Wolff Center at UPMC, Pittsburgh.
+AD  - 6Center for Health Equity Research and Promotion, Veterans Affairs Pittsburgh 
+      Healthcare System, Pittsburgh.
+AD  - 7Geriatric Research Education and Clinical Center, Veterans Affairs Pittsburgh 
+      Healthcare System, Pittsburgh, Pennsylvania.
+FAU - Ng, Christina
+AU  - Ng C
+AD  - 3School of Medicine, New York Medical College, Valhalla, New York.
+FAU - Rawanduzy, Cameron
+AU  - Rawanduzy C
+AD  - 3School of Medicine, New York Medical College, Valhalla, New York.
+FAU - Spirollari, Eris
+AU  - Spirollari E
+AD  - 3School of Medicine, New York Medical College, Valhalla, New York.
+FAU - Vazquez, Sima
+AU  - Vazquez S
+AD  - 3School of Medicine, New York Medical College, Valhalla, New York.
+FAU - Das, Ankita
+AU  - Das A
+AD  - 3School of Medicine, New York Medical College, Valhalla, New York.
+FAU - Graifman, Gillian
+AU  - Graifman G
+AD  - 3School of Medicine, New York Medical College, Valhalla, New York.
+FAU - Asserson, Derek B
+AU  - Asserson DB
+AD  - 1Department of Neurosurgery, University of New Mexico Hospital, Albuquerque.
+FAU - Dominguez, Jose F
+AU  - Dominguez JF
+AD  - 8Department of Neurosurgery, Westchester Medical Center, Valhalla, New York.
+FAU - Kinon, Merritt D
+AU  - Kinon MD
+AD  - 8Department of Neurosurgery, Westchester Medical Center, Valhalla, New York.
+FAU - Schmidt, Meic H
+AU  - Schmidt MH
+AD  - 1Department of Neurosurgery, University of New Mexico Hospital, Albuquerque.
+LA  - eng
+PT  - Journal Article
+DEP - 20230707
+PL  - United States
+TA  - J Neurosurg Spine
+JT  - Journal of neurosurgery. Spine
+JID - 101223545
+SB  - IM
+OTO - NOTNLM
+OT  - 5-item modified frailty index
+OT  - age
+OT  - anterior cervical discectomy and fusion
+OT  - recalibrated Risk Analysis Index
+OT  - surgical outcomes
+EDAT- 2023/07/13 12:31
+MHDA- 2023/07/13 12:31
+CRDT- 2023/07/13 07:43
+PHST- 2022/09/09 00:00 [received]
+PHST- 2023/05/04 00:00 [accepted]
+PHST- 2023/07/13 12:31 [pubmed]
+PHST- 2023/07/13 12:31 [medline]
+PHST- 2023/07/13 07:43 [entrez]
+AID - 10.3171/2023.5.SPINE221020 [doi]
+PST - epublish
+SO  - J Neurosurg Spine. 2023 Jul 7;39(4):509-519. doi: 10.3171/2023.5.SPINE221020. 
+      Print 2023 Oct 1.
+
+PMID- 37029672
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230703
+LR  - 20240122
+IS  - 1547-5646 (Electronic)
+IS  - 1547-5646 (Linking)
+VI  - 39
+IP  - 1
+DP  - 2023 Jul 1
+TI  - Comparison of the Risk Analysis Index and the modified 5-factor frailty index in 
+      predicting 30-day morbidity and mortality after spine surgery.
+PG  - 136-145
+LID - 10.3171/2023.2.SPINE221019 [doi]
+AB  - OBJECTIVE: Frailty's role in preoperative risk assessment in spine surgery has 
+      increased in association with the increasing size of the aging population. 
+      However, previous frailty assessment tools have significant limitations. The aim 
+      of this study was to compare the predictive ability of the Risk Analysis Index 
+      (RAI) with the 5-factor modified frailty index (mFI-5) for postoperative spine 
+      surgery morbidity and mortality. METHODS: Data were collected from the American 
+      College of Surgeons National Surgical Quality Improvement Program database for 
+      adults > 18 years who underwent spine surgery between 2015 and 2019. Multivariate 
+      modeling and receiver operating characteristic curve analysis, including area 
+      under the curve/C-statistic calculations, were performed to evaluate the 
+      comparative discriminative ability of RAI and mFI-5 on postoperative outcomes. 
+      RESULTS: In a cohort of 292,225 spine surgery patients, multivariate modeling 
+      showed that increasing RAI scores, and not increasing mFI-5 scores, were 
+      independent predictors of increased postoperative mortality for the trauma, 
+      tumor, and infection subcohorts. In the overall spine cohort, both increasing RAI 
+      and increasing mFI-5 scores were associated with increased mortality, but 
+      C-statistics indicated that the RAI (C-statistic 0.802 [95% CI 0.800-0.803], p < 
+      0.0001, DeLong test) had superior discrimination compared with the mFI-5 
+      (C-statistic 0.677 [95% CI 0.675-0.679], p < 0.0001, DeLong test). In subgroup 
+      analyses, the RAI had superior discriminative ability to mFI-5 for mortality in 
+      the trauma and infection groups (p < 0.001 and p = 0.039, respectively). 
+      CONCLUSIONS: The RAI demonstrates superior discrimination to the mFI-5 for 
+      predicting postoperative mortality and morbidity after spine surgery and the RAI 
+      maintains conceptual fidelity to the frailty phenotype. Patients with high RAI 
+      scores may benefit from knowing the possibility of increased surgical risk with 
+      potential spine surgery.
+FAU - Bowers, Christian A
+AU  - Bowers CA
+AD  - 1Department of Neurosurgery, University of New Mexico Hospital (UNMH), 
+      Albuquerque.
+FAU - Varela, Samantha
+AU  - Varela S
+AD  - 2School of Medicine, University of New Mexico, Albuquerque, New Mexico.
+FAU - Conlon, Matthew
+AU  - Conlon M
+AD  - 3School of Medicine, New York Medical College, Valhalla, New York.
+FAU - Kazim, Syed Faraz
+AU  - Kazim SF
+AD  - 1Department of Neurosurgery, University of New Mexico Hospital (UNMH), 
+      Albuquerque.
+FAU - Thommen, Rachel
+AU  - Thommen R
+AD  - 3School of Medicine, New York Medical College, Valhalla, New York.
+FAU - Roster, Katie
+AU  - Roster K
+AD  - 3School of Medicine, New York Medical College, Valhalla, New York.
+FAU - Hall, Daniel E
+AU  - Hall DE
+AD  - 4Department of Surgery, University of Pittsburgh School of Medicine, Pittsburgh.
+AD  - 7Geriatric Research Education and Clinical Center, Veterans Affairs Pittsburgh 
+      Healthcare System, Pittsburgh, Pennsylvania.
+FAU - Schmidt, Meic H
+AU  - Schmidt MH
+AD  - 1Department of Neurosurgery, University of New Mexico Hospital (UNMH), 
+      Albuquerque.
+LA  - eng
+PT  - Journal Article
+DEP - 20230407
+PL  - United States
+TA  - J Neurosurg Spine
+JT  - Journal of neurosurgery. Spine
+JID - 101223545
+SB  - IM
+MH  - Humans
+MH  - *Frailty
+MH  - Postoperative Complications/epidemiology
+MH  - Risk Assessment
+MH  - Morbidity
+MH  - Risk Factors
+MH  - Retrospective Studies
+OTO - NOTNLM
+OT  - 5-factor modified frailty index
+OT  - Risk Analysis Index
+OT  - age
+OT  - spine surgery
+OT  - surgical outcomes
+EDAT- 2023/04/09 06:00
+MHDA- 2023/07/03 06:41
+CRDT- 2023/04/08 07:42
+PHST- 2022/09/09 00:00 [received]
+PHST- 2023/02/28 00:00 [accepted]
+PHST- 2023/07/03 06:41 [medline]
+PHST- 2023/04/09 06:00 [pubmed]
+PHST- 2023/04/08 07:42 [entrez]
+AID - 10.3171/2023.2.SPINE221019 [doi]
+PST - epublish
+SO  - J Neurosurg Spine. 2023 Apr 7;39(1):136-145. doi: 10.3171/2023.2.SPINE221019. 
+      Print 2023 Jul 1.
+
+PMID- 37659341
+OWN - NLM
+STAT- Publisher
+LR  - 20230930
+IS  - 1532-2157 (Electronic)
+IS  - 0748-7983 (Linking)
+VI  - 49
+IP  - 10
+DP  - 2023 Oct
+TI  - Baseline labs predict adverse postoperative outcomes following metastatic brain 
+      tumor resection: Analysis of 5943 patients from a prospective surgical registry 
+      (2015-2019).
+PG  - 107044
+LID - S0748-7983(23)00682-0 [pii]
+LID - 10.1016/j.ejso.2023.107044 [doi]
+AB  - INTRODUCTION: The present study sought to evaluate the predictive accuracy of 
+      preoperative lab values (PLV) on postoperative metastatic brain tumor resection 
+      (MBTR) outcomes using data queried from a large prospective international 
+      surgical registry, representing over 700 hospitals in 11 countries. METHODS: 
+      Adult metastatic brain tumor patients (N = 5943) were queried from the American 
+      College of Surgeons National Quality Improvement Program (ACS-NSQIP) database, 
+      from 2015 to 2019, using diagnostic and procedural coding. The relationship 
+      between preoperative lab values and key indicators of adverse postoperative 
+      outcomes following metastatic brain tumor resection were assessed with univariate 
+      and multivariate analyses. Adverse postoperative outcomes of interest included: 
+      30-day mortality, Clavien-Dindo Grade IV (CDIV) complications, extended length of 
+      stay (eLOS), and discharge to non-home destination (NHD), as well as secondary 
+      outcomes: non-Clavien-Dindo Grade IV complications, unplanned reoperation, and 
+      unplanned readmission. RESULTS: Independent PLV most strongly associated with 
+      30-day mortality were hypernatremia, increased serum creatinine, and 
+      thrombocytopenia. Significant predictors of CDIV complications were 
+      hypoalbuminemia and thrombocytopenia. eLOS was associated with hypoalbuminemia, 
+      anemia, and hyponatremia. The strongest independent predictors of NHD were 
+      anemia, hyperbilirubinemia, and hypoalbuminemia. CONCLUSION: Several 
+      pre-operative lab values independently predicted worse outcomes for metastatic 
+      brain tumor resection patients. Hypoalbuminemia, thrombocytopenia, and anemia had 
+      the strongest association with the study's adverse postoperative outcomes. These 
+      baseline lab values may be considered for preoperative risk stratification of 
+      metastatic brain tumor patients.
+CI  - © 2023 Elsevier Ltd, BASO ∼ The Association for Cancer Surgery, and the European 
+      Society of Surgical Oncology. All rights reserved.
+FAU - Covell, Michael M
+AU  - Covell MM
+AD  - School of Medicine, Georgetown University, Washington, D.C., USA.
+FAU - Bowers, Charles
+AU  - Bowers C
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), 
+      Albuquerque, NM, USA.
+FAU - Kazim, Syed Faraz
+AU  - Kazim SF
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), 
+      Albuquerque, NM, USA.
+FAU - Varela, Samantha
+AU  - Varela S
+AD  - School of Medicine, University of New Mexico (UNM), Albuquerque, NM, USA.
+FAU - Rumalla, Kavelin
+AU  - Rumalla K
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), 
+      Albuquerque, NM, USA.
+FAU - Schmidt, Meic H
+AU  - Schmidt MH
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), 
+      Albuquerque, NM, USA.
+FAU - Bowers, Christian A
+AU  - Bowers CA
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), 
+      Albuquerque, NM, USA. Electronic address: christianbowers4@gmail.com.
+LA  - eng
+PT  - Journal Article
+DEP - 20230823
+PL  - England
+TA  - Eur J Surg Oncol
+JT  - European journal of surgical oncology : the journal of the European Society of 
+      Surgical Oncology and the British Association of Surgical Oncology
+JID - 8504356
+SB  - IM
+OTO - NOTNLM
+OT  - Metastatic Brain tumors
+OT  - National Surgical Quality Improvement Program (NSQIP)
+OT  - Pre-operative labs
+OT  - Surgical outcomes
+COIS- Declaration of competing interest The authors certify that there is no conflict 
+      of interest with any financial organization regarding the material discussed in 
+      the manuscript.
+EDAT- 2023/09/03 00:41
+MHDA- 2023/09/03 00:41
+CRDT- 2023/09/02 18:15
+PHST- 2023/05/03 00:00 [received]
+PHST- 2023/08/04 00:00 [revised]
+PHST- 2023/08/20 00:00 [accepted]
+PHST- 2023/09/03 00:41 [pubmed]
+PHST- 2023/09/03 00:41 [medline]
+PHST- 2023/09/02 18:15 [entrez]
+AID - S0748-7983(23)00682-0 [pii]
+AID - 10.1016/j.ejso.2023.107044 [doi]
+PST - ppublish
+SO  - Eur J Surg Oncol. 2023 Oct;49(10):107044. doi: 10.1016/j.ejso.2023.107044. Epub 
+      2023 Aug 23.
+
+PMID- 36972900
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230809
+LR  - 20230809
+IS  - 1878-8769 (Electronic)
+IS  - 1878-8750 (Linking)
+VI  - 176
+DP  - 2023 Aug
+TI  - Preoperative Laboratory Values Are Predictive of Adverse Postoperative Outcomes 
+      in Patients Older Than 65 Years Undergoing Brain Tumor Resection: A National 
+      Surgical Quality Improvement Program Study.
+PG  - e49-e59
+LID - S1878-8750(23)00410-2 [pii]
+LID - 10.1016/j.wneu.2023.03.086 [doi]
+AB  - OBJECTIVE: In this study, we used a large national database to assess the effect 
+      of preoperative laboratory value (PLV) derangements on postoperative outcomes in 
+      patients older than 65 years undergoing brain tumor resection. METHODS: Data was 
+      collected for patients >65 years old undergoing brain tumor resection from 2015 
+      to 2019 (N = 10,525). Univariate and multivariate analysis were performed for 11 
+      PLVs and 6 postoperative outcomes. RESULTS: Hypernatremia (odds ratio [OR], 
+      4.707; 95% confidence interval [CI], 1.695-13.071; P < 0.01) and increased 
+      creatinine level (OR, 2.556; 95% CI, 1.291-5.060; P < 0.01) were the most 
+      significant predictors of 30-day mortality. The most significant predictor of 
+      Clavien-Dindo grade IV complications was increased creatinine level (OR, 1.667; 
+      95% CI, 1.064-2.613; P < 0.05), whereas, significant predictors of major 
+      complications were hypoalbuminemia (OR, 1.426; 95% CI, 1.132-1.796; P < 0.05) and 
+      leukocytosis (OR, 1.347; 95% CI, 1.075-1.688; P < 0.05). Predictors of 
+      readmission were anemia (OR, 1.326; 95% CI, 1.047-1.680; P < 0.05) and 
+      thrombocytopenia (OR, 1.387; 95% CI, 1.037-1.856; P < 0.05), whereas, 
+      hypoalbuminemia (OR, 1.787; 95% CI, 1.280-2.495; P < 0.001) was predictive of 
+      reoperation. Increased partial thromboplastin time and hypoalbuminemia were 
+      predictors of extended length of stay (OR, 2.283, 95% CI, 1.360-3.834, P < 0.01 
+      and OR, 1.553, 95% CI, 1.553-1.966, P < 0.001, respectively). Hypernatremia (OR, 
+      2.115; 95% CI, 1.181-3.788; P < 0.05) and hypoalbuminemia (OR, 1.472; 95% CI, 
+      1.239-1.748; P < 0.001) were the most significant predictors of NHD. Seven of 11 
+      PLVs were associated with adverse postoperative outcomes. CONCLUSIONS: PLV 
+      derangements were significantly associated with adverse postoperative outcomes in 
+      patients older than 65 years undergoing brain tumor resection. The most 
+      significant predictors of adverse postoperative outcomes were hypoalbuminemia and 
+      leukocytosis.
+CI  - Copyright © 2023 Elsevier Inc. All rights reserved.
+FAU - Varela, Samantha
+AU  - Varela S
+AD  - School of Medicine, University of New Mexico (UNM), Albuquerque, New Mexico, USA.
+FAU - Puentes, Hansell
+AU  - Puentes H
+AD  - Burrell College of Osteopathic Medicine, Las Cruces, New Mexico, USA.
+FAU - Moya, Addi
+AU  - Moya A
+AD  - School of Medicine, University of New Mexico (UNM), Albuquerque, New Mexico, USA.
+FAU - Kazim, Syed Faraz
+AU  - Kazim SF
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), 
+      Albuquerque, New Mexico, USA.
+FAU - Couldwell, William T
+AU  - Couldwell WT
+AD  - Department of Neurosurgery, Clinical Neurosciences Center, University of Utah, 
+      Salt Lake City, Utah, USA.
+FAU - Schmidt, Meic H
+AU  - Schmidt MH
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), 
+      Albuquerque, New Mexico, USA.
+FAU - Bowers, Christian A
+AU  - Bowers CA
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), 
+      Albuquerque, New Mexico, USA. Electronic address: CABowers@salud.unm.edu.
+LA  - eng
+PT  - Journal Article
+DEP - 20230325
+PL  - United States
+TA  - World Neurosurg
+JT  - World neurosurgery
+JID - 101528275
+RN  - AYI8EX34EU (Creatinine)
+SB  - IM
+MH  - Humans
+MH  - Aged
+MH  - *Hypoalbuminemia
+MH  - Postoperative Complications/epidemiology/etiology
+MH  - Quality Improvement
+MH  - *Hypernatremia/epidemiology
+MH  - Leukocytosis/epidemiology
+MH  - Creatinine
+MH  - *Brain Neoplasms/surgery/complications
+MH  - Risk Factors
+MH  - Retrospective Studies
+OTO - NOTNLM
+OT  - Geriatrics
+OT  - Postoperative outcomes
+OT  - Preoperative laboratory value
+EDAT- 2023/03/28 06:00
+MHDA- 2023/08/09 06:43
+CRDT- 2023/03/27 20:26
+PHST- 2023/01/11 00:00 [received]
+PHST- 2023/03/20 00:00 [revised]
+PHST- 2023/03/21 00:00 [accepted]
+PHST- 2023/08/09 06:43 [medline]
+PHST- 2023/03/28 06:00 [pubmed]
+PHST- 2023/03/27 20:26 [entrez]
+AID - S1878-8750(23)00410-2 [pii]
+AID - 10.1016/j.wneu.2023.03.086 [doi]
+PST - ppublish
+SO  - World Neurosurg. 2023 Aug;176:e49-e59. doi: 10.1016/j.wneu.2023.03.086. Epub 2023 
+      Mar 25.
+
+PMID- 37291408
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230815
+LR  - 20230901
+IS  - 2212-1358 (Electronic)
+IS  - 2212-134X (Linking)
+VI  - 11
+IP  - 5
+DP  - 2023 Sep
+TI  - The 5-item modified frailty index predicts spinal osteotomy outcomes better than 
+      age in adult spinal deformity patients: an ACS - NSQIP analysis.
+PG  - 1189-1197
+LID - 10.1007/s43390-023-00712-y [doi]
+AB  - PURPOSE: To evaluate the utility of 5-Item Modified Frailty Index (mFI-5) as 
+      compared to chronological age in predicting outcomes of spinal osteotomy in Adult 
+      Spinal Deformity (ASD) patients. METHODS: Using Current Procedural and 
+      Terminology (CPT) codes, the American College of Surgeons National Surgery 
+      Quality Improvement Program (ACS-NSQIP) database was queried for adult patients 
+      undergoing spinal osteotomy from 2015 to 2019. Multivariate regression analysis 
+      was performed to evaluate the effect of baseline frailty status, measured by 
+      mFI-5 score, and chronological age on postoperative outcomes. Receiver-operating 
+      characteristic (ROC) curve analysis was performed to analyze the discriminative 
+      performance of age versus mFI-5. RESULTS: A total of 1,789 spinal osteotomy 
+      patients (median age 62 years) were included in the analysis. Among the patients 
+      assessed, 38.5% (n = 689) were pre-frail, 14.6% frail (n = 262), and 2.2% 
+      (n = 39) severely frail using the mFI-5. Based on the multivariate analysis, 
+      increasing frailty tier was associated with worsening outcomes, and higher odds 
+      ratios (OR) for poor outcomes were found for increasing frailty tiers as compared 
+      to age. Severe frailty was associated with the worst outcomes, e.g., unplanned 
+      readmission (OR 9.618, [95% CI 4.054-22.818], p < 0.001) and major complications 
+      (OR 5.172, [95% CI 2.271-11.783], p < 0.001). In the ROC curve analysis, mFI-5 
+      score (AUC 0.838) demonstrated superior discriminative performance than age (AUC 
+      0.601) for mortality. CONCLUSIONS: The mFI5 frailty score was found to be a 
+      better predictor than age of worse postoperative outcomes in ASD patients. 
+      Incorporating frailty in preoperative risk stratification is recommended in ASD 
+      surgery.
+CI  - © 2023. The Author(s), under exclusive licence to Scoliosis Research Society.
+FAU - Tarawneh, Omar H
+AU  - Tarawneh OH
+AD  - School of Medicine, New York Medical College, Valhalla, NY, 10595, USA.
+FAU - Vellek, John
+AU  - Vellek J
+AD  - School of Medicine, New York Medical College, Valhalla, NY, 10595, USA.
+FAU - Kazim, Syed Faraz
+AU  - Kazim SF
+AUID- ORCID: 0000-0001-8723-4181
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), 
+      Albuquerque, NM, 87131, USA.
+FAU - Thommen, Rachel
+AU  - Thommen R
+AD  - School of Medicine, New York Medical College, Valhalla, NY, 10595, USA.
+FAU - Roster, Katie
+AU  - Roster K
+AD  - School of Medicine, New York Medical College, Valhalla, NY, 10595, USA.
+FAU - Conlon, Matthew
+AU  - Conlon M
+AD  - School of Medicine, New York Medical College, Valhalla, NY, 10595, USA.
+FAU - Alvarez-Crespo, Daniel J
+AU  - Alvarez-Crespo DJ
+AD  - School of Medicine, University of Panama, Simon Bolivar Avenue, Panama, Panama, 
+      07096, USA.
+FAU - Cole, Kyril L
+AU  - Cole KL
+AD  - School of Medicine, University of Utah, Salt Lake City, UT, USA.
+FAU - Varela, Samantha
+AU  - Varela S
+AD  - School of Medicine, University of New Mexico, Albuquerque, NM, 87131, USA.
+FAU - Dominguez, Jose F
+AU  - Dominguez JF
+AD  - Department of Neurosurgery, Westchester Medical Center and New York Medical 
+      College, Valhalla, NY, USA.
+FAU - Mckee, Rohini G
+AU  - Mckee RG
+AD  - Department of Surgery, University of New Mexico, Albuquerque, NM, USA.
+FAU - Schmidt, Meic H
+AU  - Schmidt MH
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), 
+      Albuquerque, NM, 87131, USA.
+FAU - Bowers, Christian A
+AU  - Bowers CA
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), 
+      Albuquerque, NM, 87131, USA. CABowers@salud.unm.edu.
+AD  - Department of Neurosurgery MSC10 5615, Albuquerque, NM, 81731, USA. 
+      CABowers@salud.unm.edu.
+LA  - eng
+PT  - Journal Article
+DEP - 20230608
+PL  - England
+TA  - Spine Deform
+JT  - Spine deformity
+JID - 101603979
+SB  - IM
+MH  - Humans
+MH  - Adult
+MH  - Middle Aged
+MH  - *Frailty/complications
+MH  - Quality Improvement
+MH  - Databases, Factual
+MH  - Osteotomy/adverse effects
+MH  - Postoperative Complications/epidemiology/etiology
+OTO - NOTNLM
+OT  - Adult spinal deformity
+OT  - Age
+OT  - Frailty
+OT  - Modified frailty index-5 (mFI-5)
+OT  - Osteotomy
+OT  - Postoperative outcomes
+EDAT- 2023/06/09 01:09
+MHDA- 2023/08/15 06:42
+CRDT- 2023/06/08 23:31
+PHST- 2022/04/01 00:00 [received]
+PHST- 2023/05/21 00:00 [accepted]
+PHST- 2023/08/15 06:42 [medline]
+PHST- 2023/06/09 01:09 [pubmed]
+PHST- 2023/06/08 23:31 [entrez]
+AID - 10.1007/s43390-023-00712-y [pii]
+AID - 10.1007/s43390-023-00712-y [doi]
+PST - ppublish
+SO  - Spine Deform. 2023 Sep;11(5):1189-1197. doi: 10.1007/s43390-023-00712-y. Epub 
+      2023 Jun 8.
+
+PMID- 38292022
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240201
+IS  - 2590-1397 (Electronic)
+IS  - 2590-1397 (Linking)
+VI  - 21
+DP  - 2024 Jan
+TI  - The risk analysis index demonstrates superior discriminative ability in 
+      predicting extended length of stay in pituitary adenoma resection patients when 
+      compared to the 5-point modified frailty index.
+PG  - 100259
+LID - 10.1016/j.wnsx.2023.100259 [doi]
+LID - 100259
+AB  - OBJECTIVE: To compare the predictive abilities of two frailty indices on 
+      post-operative morbidity and mortality in patients undergoing pituitary adenoma 
+      resection. METHODS: The National Surgical Quality Improvement Program (NSQIP) 
+      database was used to retrospectively collect data for patients undergoing 
+      pituitary adenoma resection between 2015-2019. To compare the predictive 
+      abilities of two of the most common frailty indices, the 5-point modified frailty 
+      index (mFI-5) and the risk analysis index (RAI), receiver operating curve 
+      analysis (ROC) and area under the curve (AUC)/Cstatistic were used. RESULTS: In 
+      our cohort of 1,454 patients, the RAI demonstrated superior discriminative 
+      ability to the mFI-5 in predicting extended length of stay (C-statistic 0.59, 95% 
+      CI 0.56-0.62 vs. C-statistic 0.51, 95% CI: 0.48-0.54, p = 0.0002). The RAI only 
+      descriptively appeared superior to mFI-5 in determining mortality (C-statistic 
+      0.89, 95% CI 0.74-0.99 vs. Cstatistic 0.63, 95% CI 0.61-0.66, p=0.11), and NHD 
+      (C-statistic 0.68, 95% CI 0.60-0.76 vs. C-statistic 0.60, 95% CI: 
+      0.57-0.62, p=0.15). CONCLUSIONS: Pituitary adenomas account for one of the most 
+      common brain tumors in the general population, with resection being the preferred 
+      treatment for patients with most hormone producing tumors or those causing 
+      compressive symptoms. Although pituitary adenoma resection is generally safe, 
+      patients who experience post-operative complications frequently share similar 
+      pre-operative characteristics and comorbidities. Therefore, appropriate 
+      pre-operative risk stratification is imperative for adequate patient counseling 
+      and informed consent in these patients. Here we present the first known report 
+      showing the superior discriminatory ability of the RAI in predicting eLOS when 
+      compared to the mFI-5.
+CI  - © 2023 Published by Elsevier Inc.
+FAU - Varela, Samantha
+AU  - Varela S
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), 
+      Albuquerque, NM, USA.
+FAU - Thommen, Rachel
+AU  - Thommen R
+AD  - School of Medicine, New York Medical College (NYMC), Valhalla, NY, USA.
+FAU - Rumalla, Kavelin
+AU  - Rumalla K
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), 
+      Albuquerque, NM, USA.
+FAU - Faraz Kazim, Syed
+AU  - Faraz Kazim S
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), 
+      Albuquerque, NM, USA.
+FAU - Couldwell, William T
+AU  - Couldwell WT
+AD  - Department of Neurosurgery, Clinical Neurosciences Center, University of Utah, 
+      Salt Lake City, UT, USA.
+FAU - Schmidt, Meic H
+AU  - Schmidt MH
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), 
+      Albuquerque, NM, USA.
+FAU - Bowers, Christian A
+AU  - Bowers CA
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), 
+      Albuquerque, NM, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20231210
+PL  - United States
+TA  - World Neurosurg X
+JT  - World neurosurgery: X
+JID - 101747743
+PMC - PMC10826816
+OTO - NOTNLM
+OT  - Frailty
+OT  - Modified frailty index-5 (mFI-5)
+OT  - Pituitary tumor
+OT  - Postoperative outcomes
+OT  - Risk analysis index-administrative (RAI-A)
+COIS- The authors declare that they have no known competing financial interests or 
+      personal relationships that could have appeared to influence the work reported in 
+      this paper
+EDAT- 2024/01/31 06:42
+MHDA- 2024/01/31 06:43
+CRDT- 2024/01/31 04:04
+PHST- 2022/12/31 00:00 [received]
+PHST- 2023/07/06 00:00 [revised]
+PHST- 2023/11/28 00:00 [accepted]
+PHST- 2024/01/31 06:43 [medline]
+PHST- 2024/01/31 06:42 [pubmed]
+PHST- 2024/01/31 04:04 [entrez]
+AID - S2590-1397(23)00108-4 [pii]
+AID - 100259 [pii]
+AID - 10.1016/j.wnsx.2023.100259 [doi]
+PST - epublish
+SO  - World Neurosurg X. 2023 Dec 10;21:100259. doi: 10.1016/j.wnsx.2023.100259. 
+      eCollection 2024 Jan.

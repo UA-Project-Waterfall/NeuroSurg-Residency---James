@@ -1,0 +1,2241 @@
+PMID- 30929900
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200115
+LR  - 20240216
+IS  - 1097-4172 (Electronic)
+IS  - 0092-8674 (Print)
+IS  - 0092-8674 (Linking)
+VI  - 177
+IP  - 3
+DP  - 2019 Apr 18
+TI  - A Common Embryonic Origin of Stem Cells Drives Developmental and Adult 
+      Neurogenesis.
+PG  - 654-668.e15
+LID - S0092-8674(19)30159-X [pii]
+LID - 10.1016/j.cell.2019.02.010 [doi]
+AB  - New neurons arise from quiescent adult neural progenitors throughout life in 
+      specific regions of the mammalian brain. Little is known about the embryonic 
+      origin and establishment of adult neural progenitors. Here, we show that Hopx(+) 
+      precursors in the mouse dentate neuroepithelium at embryonic day 11.5 give rise 
+      to proliferative Hopx(+) neural progenitors in the primitive dentate region, and 
+      they, in turn, generate granule neurons, but not other neurons, throughout 
+      development and then transition into Hopx(+) quiescent radial glial-like neural 
+      progenitors during an early postnatal period. RNA-seq and ATAC-seq analyses of 
+      Hopx(+) embryonic, early postnatal, and adult dentate neural progenitors further 
+      reveal common molecular and epigenetic signatures and developmental dynamics. 
+      Together, our findings support a "continuous" model wherein a common neural 
+      progenitor population exclusively contributes to dentate neurogenesis throughout 
+      development and adulthood. Adult dentate neurogenesis may therefore represent a 
+      lifelong extension of development that maintains heightened plasticity in the 
+      mammalian hippocampus.
+CI  - Copyright © 2019 Elsevier Inc. All rights reserved.
+FAU - Berg, Daniel A
+AU  - Berg DA
+AD  - Department of Neuroscience and Mahoney Institute for Neurosciences, University of 
+      Pennsylvania, Philadelphia, PA 19104, USA.
+FAU - Su, Yijing
+AU  - Su Y
+AD  - Department of Neuroscience and Mahoney Institute for Neurosciences, University of 
+      Pennsylvania, Philadelphia, PA 19104, USA.
+FAU - Jimenez-Cyrus, Dennisse
+AU  - Jimenez-Cyrus D
+AD  - Department of Neuroscience and Mahoney Institute for Neurosciences, University of 
+      Pennsylvania, Philadelphia, PA 19104, USA; The Cellular and Molecular Medicine 
+      Graduate Program, Johns Hopkins University School of Medicine, Baltimore, MD 
+      21205, USA.
+FAU - Patel, Aneek
+AU  - Patel A
+AD  - Institute for Cell Engineering, Johns Hopkins University School of Medicine, 
+      Baltimore, MD 21205, USA.
+FAU - Huang, Nancy
+AU  - Huang N
+AD  - Institute for Cell Engineering, Johns Hopkins University School of Medicine, 
+      Baltimore, MD 21205, USA.
+FAU - Morizet, David
+AU  - Morizet D
+AD  - Department of Neuroscience and Mahoney Institute for Neurosciences, University of 
+      Pennsylvania, Philadelphia, PA 19104, USA.
+FAU - Lee, Stephanie
+AU  - Lee S
+AD  - Department of Neuroscience and Mahoney Institute for Neurosciences, University of 
+      Pennsylvania, Philadelphia, PA 19104, USA.
+FAU - Shah, Reeti
+AU  - Shah R
+AD  - Department of Neuroscience and Mahoney Institute for Neurosciences, University of 
+      Pennsylvania, Philadelphia, PA 19104, USA.
+FAU - Ringeling, Francisca Rojas
+AU  - Ringeling FR
+AD  - Gene Center, Ludwig-Maximilians-Universität München, 81377 Munich, Germany.
+FAU - Jain, Rajan
+AU  - Jain R
+AD  - Department of Medicine, University of Pennsylvania, Philadelphia, PA 19104, USA; 
+      Department of Cell and Developmental Biology, University of Pennsylvania, 
+      Philadelphia, PA 19104, USA; Institute for Regenerative Medicine, University of 
+      Pennsylvania, Philadelphia, PA 19104, USA.
+FAU - Epstein, Jonathan A
+AU  - Epstein JA
+AD  - Department of Cell and Developmental Biology, University of Pennsylvania, 
+      Philadelphia, PA 19104, USA; Institute for Regenerative Medicine, University of 
+      Pennsylvania, Philadelphia, PA 19104, USA; The Epigenetics Institute, University 
+      of Pennsylvania, Philadelphia, PA 19104, USA.
+FAU - Wu, Qing-Feng
+AU  - Wu QF
+AD  - State Key Laboratory of Molecular Developmental Biology, Institute of Genetics 
+      and Developmental Biology, Chinese Academy of Sciences, Beijing 100101, China.
+FAU - Canzar, Stefan
+AU  - Canzar S
+AD  - Gene Center, Ludwig-Maximilians-Universität München, 81377 Munich, Germany.
+FAU - Ming, Guo-Li
+AU  - Ming GL
+AD  - Department of Neuroscience and Mahoney Institute for Neurosciences, University of 
+      Pennsylvania, Philadelphia, PA 19104, USA; Department of Cell and Developmental 
+      Biology, University of Pennsylvania, Philadelphia, PA 19104, USA; Institute for 
+      Regenerative Medicine, University of Pennsylvania, Philadelphia, PA 19104, USA; 
+      Department of Psychiatry, University of Pennsylvania, Philadelphia, PA 19104, 
+      USA. Electronic address: gming@pennmedicine.upenn.edu.
+FAU - Song, Hongjun
+AU  - Song H
+AD  - Department of Neuroscience and Mahoney Institute for Neurosciences, University of 
+      Pennsylvania, Philadelphia, PA 19104, USA; Department of Cell and Developmental 
+      Biology, University of Pennsylvania, Philadelphia, PA 19104, USA; Institute for 
+      Regenerative Medicine, University of Pennsylvania, Philadelphia, PA 19104, USA; 
+      The Epigenetics Institute, University of Pennsylvania, Philadelphia, PA 19104, 
+      USA. Electronic address: shongjun@pennmedicine.upenn.edu.
+FAU - Bond, Allison M
+AU  - Bond AM
+AD  - Department of Neuroscience and Mahoney Institute for Neurosciences, University of 
+      Pennsylvania, Philadelphia, PA 19104, USA.
+LA  - eng
+GR  - R37 NS047344/NS/NINDS NIH HHS/United States
+GR  - DP2 HL147123/HL/NHLBI NIH HHS/United States
+GR  - T32 GM135457/GM/NIGMS NIH HHS/United States
+GR  - P01 NS097206/NS/NINDS NIH HHS/United States
+GR  - R35 NS097370/NS/NINDS NIH HHS/United States
+GR  - R35 HL140018/HL/NHLBI NIH HHS/United States
+GR  - R35 NS116843/NS/NINDS NIH HHS/United States
+GR  - R01 MH105128/MH/NIMH NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20190328
+PL  - United States
+TA  - Cell
+JT  - Cell
+JID - 0413066
+RN  - 0 (Hod protein, mouse)
+RN  - 0 (Homeodomain Proteins)
+SB  - IM
+CIN - Cell Stem Cell. 2019 May 2;24(5):683-684. PMID: 31051131
+MH  - Animals
+MH  - Cell Differentiation
+MH  - Dentate Gyrus/metabolism
+MH  - Embryo, Mammalian/metabolism
+MH  - Embryonic Stem Cells/cytology/*metabolism
+MH  - Female
+MH  - Gene Expression Regulation, Developmental
+MH  - Hippocampus/metabolism
+MH  - Homeodomain Proteins/genetics/metabolism
+MH  - Male
+MH  - Mice
+MH  - Mice, Inbred C57BL
+MH  - Mice, Transgenic
+MH  - Neural Stem Cells/cytology/metabolism
+MH  - *Neurogenesis
+PMC - PMC6496946
+MID - NIHMS1521588
+OTO - NOTNLM
+OT  - Hopx
+OT  - brain development
+OT  - chromatin landscape profiling
+OT  - dentate gyrus
+OT  - gene expression profiling
+OT  - hippocampus
+OT  - lineage tracing
+OT  - neural stem cells
+OT  - neurogenesis
+COIS- DECLARATION OF INTERESTS The authors declare no competing interests.
+EDAT- 2019/04/02 06:00
+MHDA- 2020/01/16 06:00
+CRDT- 2019/04/02 06:00
+PHST- 2018/08/17 00:00 [received]
+PHST- 2018/12/20 00:00 [revised]
+PHST- 2019/02/08 00:00 [accepted]
+PHST- 2019/04/02 06:00 [pubmed]
+PHST- 2020/01/16 06:00 [medline]
+PHST- 2019/04/02 06:00 [entrez]
+AID - S0092-8674(19)30159-X [pii]
+AID - 10.1016/j.cell.2019.02.010 [doi]
+PST - ppublish
+SO  - Cell. 2019 Apr 18;177(3):654-668.e15. doi: 10.1016/j.cell.2019.02.010. Epub 2019 
+      Mar 28.
+
+PMID- 36229136
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20221017
+LR  - 20221207
+IS  - 1558-1349 (Electronic)
+IS  - 1042-3680 (Linking)
+VI  - 33
+IP  - 4
+DP  - 2022 Oct
+TI  - Endoscopic Techniques in Vascular Neurosurgery.
+PG  - 491-503
+LID - S1042-3680(22)00053-5 [pii]
+LID - 10.1016/j.nec.2022.06.005 [doi]
+AB  - This section reviews the selection criteria and best practices for endoscopic 
+      cerebrovascular surgery, focusing on purely endoscopic endonasal approaches. 
+      Although these approaches still play a limited role in open vascular 
+      neurosurgery, they offer a robust and potentially safer technique for 
+      establishing visualization and vascular control of particular, well-selected 
+      pathologies, such as aneurysms of the proximal circulation; this requires strong, 
+      multidisciplinary experience with endoscopic anatomy and surgical technique, 
+      advanced reconstruction techniques, and instruments designed to be maneuvered 
+      within this relatively novel corridor and application.
+CI  - Copyright © 2022 Elsevier Inc. All rights reserved.
+FAU - Patel, Aneek
+AU  - Patel A
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 200 
+      Lothrop Street, PUH B-400, Pittsburgh, PA, 15213, USA.
+FAU - Abou-Al-Shaar, Hussam
+AU  - Abou-Al-Shaar H
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 200 
+      Lothrop Street, PUH B-400, Pittsburgh, PA, 15213, USA.
+FAU - Mallela, Arka N
+AU  - Mallela AN
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 200 
+      Lothrop Street, PUH B-400, Pittsburgh, PA, 15213, USA.
+FAU - Algattas, Hanna
+AU  - Algattas H
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 200 
+      Lothrop Street, PUH B-400, Pittsburgh, PA, 15213, USA.
+FAU - McDowell, Michael M
+AU  - McDowell MM
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 200 
+      Lothrop Street, PUH B-400, Pittsburgh, PA, 15213, USA.
+FAU - Zenonos, Georgios A
+AU  - Zenonos GA
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 200 
+      Lothrop Street, PUH B-400, Pittsburgh, PA, 15213, USA.
+FAU - Wang, Eric W
+AU  - Wang EW
+AD  - Department of Otolaryngology, University of Pittsburgh Medical Center, 200 
+      Lothrop Street, EEINS Suite 500, Pittsburgh, PA, 15213, USA.
+FAU - Snyderman, Carl H
+AU  - Snyderman CH
+AD  - Department of Otolaryngology, University of Pittsburgh Medical Center, 200 
+      Lothrop Street, EEINS Suite 500, Pittsburgh, PA, 15213, USA.
+FAU - Gardner, Paul A
+AU  - Gardner PA
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 200 
+      Lothrop Street, PUH B-400, Pittsburgh, PA, 15213, USA. Electronic address: 
+      gardpa@upmc.edu.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20220911
+PL  - United States
+TA  - Neurosurg Clin N Am
+JT  - Neurosurgery clinics of North America
+JID - 9008004
+SB  - IM
+MH  - Endoscopy/methods
+MH  - Humans
+MH  - *Neurosurgery
+MH  - Neurosurgical Procedures/methods
+MH  - *Plastic Surgery Procedures/methods
+MH  - Skull Base/surgery
+OTO - NOTNLM
+OT  - Aneurysm clipping
+OT  - Endoscopic endonasal approach
+OT  - Multidisciplinary
+OT  - Nasoseptal flap
+OT  - Paraclinoid
+OT  - Reconstruction
+OT  - Skull base
+COIS- Disclosure The authors have nothing to disclose.
+EDAT- 2022/10/14 06:00
+MHDA- 2022/10/18 06:00
+CRDT- 2022/10/13 21:05
+PHST- 2022/10/13 21:05 [entrez]
+PHST- 2022/10/14 06:00 [pubmed]
+PHST- 2022/10/18 06:00 [medline]
+AID - S1042-3680(22)00053-5 [pii]
+AID - 10.1016/j.nec.2022.06.005 [doi]
+PST - ppublish
+SO  - Neurosurg Clin N Am. 2022 Oct;33(4):491-503. doi: 10.1016/j.nec.2022.06.005. Epub 
+      2022 Sep 11.
+
+PMID- 35832682
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20221130
+IS  - 2193-6358 (Print)
+IS  - 2193-6366 (Electronic)
+IS  - 2193-6358 (Linking)
+VI  - 83
+IP  - 3
+DP  - 2022 Jul
+TI  - Sinonasal Glomangiopericytoma with Prolonged Postsurgical Follow-Up.
+PG  - e87-e89
+LID - 10.1055/a-1865-6801 [doi]
+AB  - Sinonasal glomangiopericytoma is a rare vascular tumor of the respiratory 
+      epithelium. Treatment consists mainly of surgical resection, though there is no 
+      consensus regarding the use of adjuvant therapies or preoperative endovascular 
+      embolization. The postsurgical prognosis is favorable, though there is a high 
+      risk of delayed recurrence. Here, we present the case of a patient who underwent 
+      endoscopic resection of a sinonasal glomangiopericytoma and a review of the 
+      literature.
+CI  - The Author(s). This is an open access article published by Thieme under the terms 
+      of the Creative Commons Attribution-NonDerivative-NonCommercial License, 
+      permitting copying and reproduction so long as the original work is given 
+      appropriate credit. Contents may not be used for commercial purposes, or adapted, 
+      remixed, transformed or built upon. ( 
+      https://creativecommons.org/licenses/by-nc-nd/4.0/ ).
+FAU - Gordon, Alex J
+AU  - Gordon AJ
+AD  - Grossman School of Medicine, New York University (NYU) Langone Health, New York, 
+      New York, United States.
+FAU - Papazian, Michael R
+AU  - Papazian MR
+AD  - Grossman School of Medicine, New York University (NYU) Langone Health, New York, 
+      New York, United States.
+FAU - Chow, Michael
+AU  - Chow M
+AD  - Department of Otolaryngology-Head and Neck Surgery, New York University (NYU) 
+      Langone Health, New York, New York, United States.
+FAU - Patel, Aneek
+AU  - Patel A
+AUID- ORCID: 0000-0002-4323-3782
+AD  - Grossman School of Medicine, New York University (NYU) Langone Health, New York, 
+      New York, United States.
+FAU - Placantonakis, Dimitris G
+AU  - Placantonakis DG
+AD  - Department of Neurosurgery, New York University (NYU) Langone Health, New York, 
+      New York, United States.
+FAU - Lieberman, Seth
+AU  - Lieberman S
+AD  - Department of Otolaryngology-Head and Neck Surgery, New York University (NYU) 
+      Langone Health, New York, New York, United States.
+FAU - Givi, Babak
+AU  - Givi B
+AUID- ORCID: 0000-0002-8221-5077
+AD  - Department of Otolaryngology-Head and Neck Surgery, New York University (NYU) 
+      Langone Health, New York, New York, United States.
+LA  - eng
+GR  - R01 NS102665/NS/NINDS NIH HHS/United States
+GR  - R01 NS124920/NS/NINDS NIH HHS/United States
+PT  - Journal Article
+DEP - 20220710
+PL  - Germany
+TA  - J Neurol Surg Rep
+JT  - Journal of neurological surgery reports
+JID - 101601540
+PMC - PMC9272016
+OTO - NOTNLM
+OT  - endoscopic surgery
+OT  - literature review
+OT  - sinonasal glomangiopericytoma
+OT  - surveillance
+COIS- Conflict of Interest None declared.
+EDAT- 2022/07/15 06:00
+MHDA- 2022/07/15 06:01
+CRDT- 2022/07/14 02:27
+PHST- 2022/04/14 00:00 [received]
+PHST- 2022/05/25 00:00 [accepted]
+PHST- 2022/07/14 02:27 [entrez]
+PHST- 2022/07/15 06:00 [pubmed]
+PHST- 2022/07/15 06:01 [medline]
+AID - 220040 [pii]
+AID - 10.1055/a-1865-6801 [doi]
+PST - epublish
+SO  - J Neurol Surg Rep. 2022 Jul 10;83(3):e87-e89. doi: 10.1055/a-1865-6801. 
+      eCollection 2022 Jul.
+
+PMID- 34171841
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20230619
+IS  - 1933-0715 (Electronic)
+IS  - 1933-0707 (Linking)
+VI  - 28
+IP  - 3
+DP  - 2021 Jun 25
+TI  - Neuroophthalmological manifestations of congenital aqueductal stenosis.
+PG  - 320-325
+LID - 10.3171/2021.2.PEDS20824 [doi]
+AB  - OBJECTIVE: Congenital aqueductal stenosis (CAS) is a common etiology of 
+      hydrocephalus that occurs in a subset of infants and may be linked to an 
+      increased incidence of ophthalmological abnormalities and delayed developmental 
+      milestones. Although hydrocephalus is common and widely studied, sparse 
+      literature exists on patients with isolated (no identifiable genetic link) CAS 
+      along with analysis of ophthalmological manifestations. In this study, the 
+      authors sought to describe the ophthalmological abnormalities and delayed 
+      developmental milestones of patients with isolated CAS. METHODS: Data of patients 
+      with CAS were prospectively entered and monitored in a surgical database 
+      maintained by the Department of Neurological Surgery at Children's Hospital of 
+      Pittsburgh from January 2005 to October 2016. Patients with a family history of 
+      congenital hydrocephalus, positive testing for genetic forms of aqueductal 
+      stenosis, other congenital abnormalities suggesting an underlying genetic 
+      syndrome, and stenosis/obstruction due to secondary causes were excluded from 
+      this study. Prenatal and perinatal history, CSF diversion history, and a variety 
+      of outcomes, including ophthalmological deficits and developmental milestones, 
+      were collected and analyzed. RESULTS: A total of 41 patients with isolated CAS 
+      were identified, with a mean follow-up duration of 6 years. Among that cohort, 26 
+      patients (63.4%) developed neuroophthalmological complications, which were 
+      further stratified. Fourteen patients (34.1%) developed strabismus and 11 (26.8%) 
+      developed astigmatism, and 1 patient (2.4%) with papilledema was recorded. Among 
+      patients with ophthalmological abnormalities, 76.9% had delayed developmental 
+      milestones (p = 0.045). CONCLUSIONS: Patients with CAS were found to have 
+      increased risk of ophthalmological abnormalities requiring correction, along with 
+      an increased risk of delayed developmental milestones. Importantly, there was a 
+      significant correlation between the development of ophthalmological abnormalities 
+      and delayed developmental milestones that was independent of CSF diversion 
+      history. Larger patient cohort studies are required to explore whether earlier 
+      development of hydrocephalus, as is the case in CAS, causes elevated rates of 
+      neurological and ophthalmological complications, and if earlier CSF diversion 
+      correlates with improved outcomes.
+FAU - Patel, Aneek
+AU  - Patel A
+AD  - 1Department of Neurosurgery, New York University School of Medicine, New York, 
+      New York.
+FAU - Abou-Al-Shaar, Hussam
+AU  - Abou-Al-Shaar H
+AD  - Departments of2Neurological Surgery and.
+FAU - Chiang, Michael C
+AU  - Chiang MC
+AD  - Departments of2Neurological Surgery and.
+FAU - Algattas, Hanna N
+AU  - Algattas HN
+AD  - Departments of2Neurological Surgery and.
+FAU - McDowell, Michael M
+AU  - McDowell MM
+AD  - Departments of2Neurological Surgery and.
+FAU - Stone, Jeremy G
+AU  - Stone JG
+AD  - Departments of2Neurological Surgery and.
+FAU - Mitchell, Ellen B
+AU  - Mitchell EB
+AD  - 3Ophthalmology, Children's Hospital of Pittsburgh, and.
+FAU - Emery, Stephen P
+AU  - Emery SP
+AD  - 4Department of Obstetrics, Gynecology and Reproductive Sciences, Magee-Womens 
+      Hospital, University of Pittsburgh Medical Center, Pittsburgh, Pennsylvania.
+FAU - Greene, Stephanie
+AU  - Greene S
+AD  - Departments of2Neurological Surgery and.
+LA  - eng
+PT  - Journal Article
+DEP - 20210625
+PL  - United States
+TA  - J Neurosurg Pediatr
+JT  - Journal of neurosurgery. Pediatrics
+JID - 101463759
+SB  - IM
+OTO - NOTNLM
+OT  - aqueductal stenosis
+OT  - astigmatism
+OT  - cerebrospinal fluid diversion
+OT  - congenital
+OT  - delayed developmental milestones
+OT  - hydrocephalus
+OT  - ocular abnormalities
+OT  - papilledema
+OT  - strabismus
+OT  - visual deficits
+EDAT- 2021/06/26 06:00
+MHDA- 2021/06/26 06:01
+CRDT- 2021/06/25 20:31
+PHST- 2020/10/04 00:00 [received]
+PHST- 2021/02/11 00:00 [accepted]
+PHST- 2021/06/26 06:01 [medline]
+PHST- 2021/06/26 06:00 [pubmed]
+PHST- 2021/06/25 20:31 [entrez]
+AID - 2021.2.PEDS20824 [pii]
+AID - 10.3171/2021.2.PEDS20824 [doi]
+PST - epublish
+SO  - J Neurosurg Pediatr. 2021 Jun 25;28(3):320-325. doi: 10.3171/2021.2.PEDS20824.
+
+PMID- 36372321
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230215
+LR  - 20230215
+IS  - 1878-8769 (Electronic)
+IS  - 1878-8750 (Linking)
+VI  - 170
+DP  - 2023 Feb
+TI  - Prevalence of Long-Term Low Back Pain After Symptomatic Lumbar Disc Herniation.
+PG  - 163-173.e1
+LID - S1878-8750(22)01571-6 [pii]
+LID - 10.1016/j.wneu.2022.11.029 [doi]
+AB  - OBJECTIVE: Lumbar disc herniation (LDH) is a global issue associated with 
+      potentially debilitating long-term consequences, including chronic low back pain 
+      (LBP). Short-term outcomes (<2 years) of patients with LDH have been extensively 
+      studied and demonstrate improvements in back and leg pain for both operative and 
+      conservative management. However, these improvements may not be sustained 
+      long-term (>2 years); patients with LDH may develop recurrent disc herniations, 
+      progressive degenerative disc disease, and LBP regardless of management strategy. 
+      Therefore, our objective is to determine the prevalence of chronic LBP after LDH, 
+      understand the relationship between LDH and chronic LBP, and investigate the 
+      relationship between radiological findings and postoperative pain outcomes. 
+      METHODS: We performed a literature review on the PubMed database via a 
+      combination medical subject heading and keyword-based approach for long-term LBP 
+      outcomes in patients with LDH. RESULTS: Fifteen studies (2019 patients) evaluated 
+      surgical and/or nonoperative outcomes of patients with LDH . Regardless of 
+      surgical or nonoperative management, 46.2% of patients with LDH experienced some 
+      degree of LBP long-term (range 2-27 years) as compared to a point prevalence of 
+      LBP in the general population of only 11.9%. CONCLUSIONS: Patients with LDH are 
+      more likely to experience long-term LBP compared to the general population (46.2% 
+      vs. 11.9%). Additionally, understanding the relationship between radiological 
+      findings and pain outcomes remains a major challenge as the presence of 
+      radiological changes and the degree of LBP do not always correlate. Therefore, 
+      higher quality studies are needed to better understand the relationship between 
+      radiological findings and pain outcomes.
+CI  - Copyright © 2022. Published by Elsevier Inc.
+FAU - Wong, Taylor
+AU  - Wong T
+AD  - Department of Neurological Surgery, Weill Cornell Brain and Spine Center, Weill 
+      Cornell Medicine, New York Presbyterian Hospital, New York, New York, USA.
+FAU - Patel, Aneek
+AU  - Patel A
+AD  - Department of Neurological Surgery, Weill Cornell Brain and Spine Center, Weill 
+      Cornell Medicine, New York Presbyterian Hospital, New York, New York, USA.
+FAU - Golub, Danielle
+AU  - Golub D
+AD  - Department of Neurological Surgery, Weill Cornell Brain and Spine Center, Weill 
+      Cornell Medicine, New York Presbyterian Hospital, New York, New York, USA.
+FAU - Kirnaz, Sertac
+AU  - Kirnaz S
+AD  - Department of Neurological Surgery, Weill Cornell Brain and Spine Center, Weill 
+      Cornell Medicine, New York Presbyterian Hospital, New York, New York, USA.
+FAU - Goldberg, Jacob L
+AU  - Goldberg JL
+AD  - Department of Neurological Surgery, Weill Cornell Brain and Spine Center, Weill 
+      Cornell Medicine, New York Presbyterian Hospital, New York, New York, USA.
+FAU - Sommer, Fabian
+AU  - Sommer F
+AD  - Department of Neurological Surgery, Weill Cornell Brain and Spine Center, Weill 
+      Cornell Medicine, New York Presbyterian Hospital, New York, New York, USA.
+FAU - Schmidt, Franziska A
+AU  - Schmidt FA
+AD  - Department of Neurological Surgery, Weill Cornell Brain and Spine Center, Weill 
+      Cornell Medicine, New York Presbyterian Hospital, New York, New York, USA.
+FAU - Nangunoori, Raj
+AU  - Nangunoori R
+AD  - Department of Neurological Surgery, Weill Cornell Brain and Spine Center, Weill 
+      Cornell Medicine, New York Presbyterian Hospital, New York, New York, USA.
+FAU - Hussain, Ibrahim
+AU  - Hussain I
+AD  - Department of Neurological Surgery, Weill Cornell Brain and Spine Center, Weill 
+      Cornell Medicine, New York Presbyterian Hospital, New York, New York, USA.
+FAU - Härtl, Roger
+AU  - Härtl R
+AD  - Department of Neurological Surgery, Weill Cornell Brain and Spine Center, Weill 
+      Cornell Medicine, New York Presbyterian Hospital, New York, New York, USA. 
+      Electronic address: roh9005@med.cornell.edu.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20221111
+PL  - United States
+TA  - World Neurosurg
+JT  - World neurosurgery
+JID - 101528275
+SB  - IM
+MH  - Humans
+MH  - *Intervertebral Disc Displacement/complications/diagnostic imaging/epidemiology
+MH  - *Low Back Pain/diagnostic imaging/epidemiology/etiology
+MH  - Prevalence
+MH  - Treatment Outcome
+MH  - Pain, Postoperative/etiology
+MH  - Lumbar Vertebrae/diagnostic imaging/surgery
+MH  - Diskectomy/adverse effects
+OTO - NOTNLM
+OT  - Back pain
+OT  - Conservative management
+OT  - Disc herniation
+OT  - Discectomy
+OT  - Lumbar disc herniation
+EDAT- 2022/11/14 06:00
+MHDA- 2023/02/16 06:00
+CRDT- 2022/11/13 19:35
+PHST- 2022/10/04 00:00 [received]
+PHST- 2022/11/09 00:00 [accepted]
+PHST- 2022/11/14 06:00 [pubmed]
+PHST- 2023/02/16 06:00 [medline]
+PHST- 2022/11/13 19:35 [entrez]
+AID - S1878-8750(22)01571-6 [pii]
+AID - 10.1016/j.wneu.2022.11.029 [doi]
+PST - ppublish
+SO  - World Neurosurg. 2023 Feb;170:163-173.e1. doi: 10.1016/j.wneu.2022.11.029. Epub 
+      2022 Nov 11.
+
+PMID- 36393881
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20230929
+IS  - 2193-6331 (Print)
+IS  - 2193-634X (Electronic)
+IS  - 2193-634X (Linking)
+VI  - 83
+IP  - 6
+DP  - 2022 Dec
+TI  - The Value of Intraoperative Magnetic Resonance Imaging in Endoscopic Endonasal 
+      Resection of Pituitary Adenoma.
+PG  - 646-652
+LID - 10.1055/a-1924-8166 [doi]
+AB  - Background  Intraoperative magnetic resonance images (iMRIs) have been variably 
+      adopted by some centers to help increase the rate of gross total resection (GTR) 
+      of pituitary adenomas. In this comparative study, we report our institution's 
+      experience with using iMRIs for endoscopic endonasal approach (EEA) pituitary 
+      adenoma resection to better elucidate its role and potential value for pituitary 
+      surgery. Methods  All adult patients who underwent EEA for a pituitary adenoma 
+      from January 2013 to September 2021 were retrospectively reviewed. GTR was 
+      defined as no residual tumor or recurrence on postoperative imaging within 6 
+      months. Univariate analysis followed by multivariate analysis was performed with 
+      GTR as the categorical endpoint. To measure the independent effect of iMRI on 
+      GTR, propensity score matching was then performed. Results  A total of 351 
+      pituitary adenoma patients who underwent EEA were identified. The mean age was 
+      51.2 (range: 18-90) years and 196 (55.8%) patients were female. iMRI was utilized 
+      in 87 (24.8%) cases. The overall rate of GTR was 69.2%. On multivariate analysis, 
+      low Knosp grade, low tumor volume, and the use of iMRI were predictive of GTR. 
+      There was no difference in the need for desmopressin or hydrocortisone at 90 days 
+      postoperatively. Conclusion  At our institution, we report a significant absolute 
+      increase in GTR rates of 16.4% for patients undergoing an iMRI. Among iMRI 
+      patients who did not have GTR, the majority of residuals were intentionally left 
+      behind after being deemed too risky to pursue. Overall, this study suggests the 
+      high value that iMRI adds to endoscopic pituitary adenoma surgery.
+CI  - Thieme. All rights reserved.
+FAU - Patel, Aneek
+AU  - Patel A
+AUID- ORCID: 0000-0002-4323-3782
+AD  - Department of Neurosurgery, New York University Langone Health, New York, New 
+      York, United States.
+FAU - Dastagirzada, Yosef
+AU  - Dastagirzada Y
+AD  - Department of Neurosurgery, New York University Langone Health, New York, New 
+      York, United States.
+FAU - Benjamin, Carolina
+AU  - Benjamin C
+AD  - Department of Neurosurgery, University of Miami Health System, Miami, Florida, 
+      United States.
+FAU - Lieberman, Seth
+AU  - Lieberman S
+AD  - Department of Otolaryngology, New York University Langone Health, New York, New 
+      York, United States.
+FAU - Lebowitz, Richard
+AU  - Lebowitz R
+AD  - Department of Otolaryngology, New York University Langone Health, New York, New 
+      York, United States.
+FAU - Golfinos, John G
+AU  - Golfinos JG
+AUID- ORCID: 0000-0003-4221-0180
+AD  - Department of Neurosurgery, New York University Langone Health, New York, New 
+      York, United States.
+FAU - Pacione, Donato
+AU  - Pacione D
+AD  - Department of Neurosurgery, New York University Langone Health, New York, New 
+      York, United States.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20220928
+PL  - Germany
+TA  - J Neurol Surg B Skull Base
+JT  - Journal of neurological surgery. Part B, Skull base
+JID - 101580780
+PMC - PMC9653285
+OTO - NOTNLM
+OT  - cavernous sinus
+OT  - endoscopic endonasal approach
+OT  - intraoperative MRI
+OT  - pituitary adenoma
+OT  - suprasellar cistern
+COIS- Conflict of Interest None declared.
+EDAT- 2022/11/18 06:00
+MHDA- 2022/11/18 06:01
+CRDT- 2022/11/17 13:10
+PHST- 2022/05/19 00:00 [received]
+PHST- 2022/08/03 00:00 [accepted]
+PHST- 2022/11/17 13:10 [entrez]
+PHST- 2022/11/18 06:00 [pubmed]
+PHST- 2022/11/18 06:01 [medline]
+AID - 22may0330 [pii]
+AID - 10.1055/a-1924-8166 [doi]
+PST - epublish
+SO  - J Neurol Surg B Skull Base. 2022 Sep 28;83(6):646-652. doi: 10.1055/a-1924-8166. 
+      eCollection 2022 Dec.
+
+PMID- 35832683
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220716
+IS  - 2193-6358 (Print)
+IS  - 2193-6366 (Electronic)
+IS  - 2193-6358 (Linking)
+VI  - 83
+IP  - 3
+DP  - 2022 Jul
+TI  - Sinonasal Undifferentiated Carcinoma with Failed Response to Induction 
+      Chemotherapy.
+PG  - e83-e86
+LID - 10.1055/a-1871-3586 [doi]
+AB  - Sinonasal undifferentiated carcinoma (SNUC) is a rapidly growing malignancy with 
+      a propensity for extensive local invasion. Multimodal therapy, including surgery, 
+      radiotherapy, and chemotherapy, is the standard approach to treatment, but the 
+      optimal sequence and combination of these modalities are uncertain. Induction 
+      chemotherapy is being increasingly utilized based on recent reports that show 
+      better outcomes for patients who respond to chemotherapy and the ability to 
+      determine further course of treatment. We present a unique case of a patient with 
+      locally advanced SNUC that did not respond to induction chemotherapy and a review 
+      of the available literature relating to the management of this rare malignancy.
+CI  - The Author(s). This is an open access article published by Thieme under the terms 
+      of the Creative Commons Attribution-NonDerivative-NonCommercial License, 
+      permitting copying and reproduction so long as the original work is given 
+      appropriate credit. Contents may not be used for commercial purposes, or adapted, 
+      remixed, transformed or built upon. ( 
+      https://creativecommons.org/licenses/by-nc-nd/4.0/ ).
+FAU - Papazian, Michael R
+AU  - Papazian MR
+AD  - Department of Otolaryngology-Head and Neck Surgery, NYU Langone Medical Center, 
+      New York, New York, United States.
+FAU - Gordon, Alex J
+AU  - Gordon AJ
+AD  - Department of Otolaryngology-Head and Neck Surgery, NYU Langone Medical Center, 
+      New York, New York, United States.
+FAU - Chow, Michael
+AU  - Chow M
+AD  - Department of Otolaryngology-Head and Neck Surgery, NYU Langone Medical Center, 
+      New York, New York, United States.
+FAU - Patel, Aneek
+AU  - Patel A
+AUID- ORCID: 0000-0002-4323-3782
+AD  - Department of Otolaryngology-Head and Neck Surgery, NYU Langone Medical Center, 
+      New York, New York, United States.
+FAU - Pacione, Donato
+AU  - Pacione D
+AD  - Department of Neurosurgery, NYU Langone Medical Center, New York, New York, 
+      United States.
+FAU - Lieberman, Seth
+AU  - Lieberman S
+AD  - Department of Otolaryngology-Head and Neck Surgery, NYU Langone Medical Center, 
+      New York, New York, United States.
+FAU - Givi, Babak
+AU  - Givi B
+AUID- ORCID: 0000-0002-8221-5077
+AD  - Department of Otolaryngology-Head and Neck Surgery, NYU Langone Medical Center, 
+      New York, New York, United States.
+LA  - eng
+PT  - Journal Article
+DEP - 20220710
+PL  - Germany
+TA  - J Neurol Surg Rep
+JT  - Journal of neurological surgery reports
+JID - 101601540
+PMC - PMC9272013
+OTO - NOTNLM
+OT  - endoscopic craniofacial resection
+OT  - induction chemotherapy
+OT  - review
+OT  - sinonasal undifferentiated carcinoma
+COIS- Conflict of Interest None declared.
+EDAT- 2022/07/15 06:00
+MHDA- 2022/07/15 06:01
+CRDT- 2022/07/14 02:27
+PHST- 2022/04/14 00:00 [received]
+PHST- 2022/06/02 00:00 [accepted]
+PHST- 2022/07/14 02:27 [entrez]
+PHST- 2022/07/15 06:00 [pubmed]
+PHST- 2022/07/15 06:01 [medline]
+AID - 220039 [pii]
+AID - 10.1055/a-1871-3586 [doi]
+PST - epublish
+SO  - J Neurol Surg Rep. 2022 Jul 10;83(3):e83-e86. doi: 10.1055/a-1871-3586. 
+      eCollection 2022 Jul.
+
+PMID- 35909442
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220802
+IS  - 2473-974X (Electronic)
+IS  - 2473-974X (Linking)
+VI  - 6
+IP  - 3
+DP  - 2022 Jul-Sep
+TI  - Minor Salivary Gland Biopsy in Diagnosis of Sjögren's Syndrome.
+PG  - 2473974X221116107
+LID - 10.1177/2473974X221116107 [doi]
+LID - 2473974X221116107
+AB  - OBJECTIVE: Previous studies have questioned the safety and efficacy of minor 
+      salivary gland biopsy in the diagnosis of Sjögren's syndrome, citing 
+      complications and difficulty of pathologic evaluation. This study aims to 
+      determine the rate of biopsy specimen adequacy and the risk of complications 
+      after minor salivary gland biopsy. STUDY DESIGN: Case series. SETTING: Single 
+      tertiary care center. METHODS: We reviewed the records of all patients who 
+      underwent minor salivary gland biopsy at our institution from October 1, 2016, to 
+      September 1, 2021. Demographics, comorbidities, symptoms, and serologic results 
+      were recorded. The primary outcome was adequacy of the tissue sample. 
+      Complications of the procedure were recorded. Biopsies with at least one focus of 
+      ≥50 lymphocytes per 4-mm(2) sample were considered positive. RESULTS: We 
+      identified 110 patients who underwent minor salivary gland biopsy. Ninety-three 
+      (85%) were female, and the median age was 49.1 years (range, 18.7-80.5). 
+      Seventy-seven procedures (70%) were performed in the office setting, and 33 (30%) 
+      were performed in the operating room. Nearly all biopsy samples (n = 108, 98%) 
+      were adequate, and 33 (31%) were interpreted as positive. Four patients (4%) 
+      experienced temporary lip numbness, which resolved with conservative management. 
+      No permanent complications were reported after lip biopsy. Nineteen (58%) 
+      patients with positive biopsy results had no Sjögren's-specific antibodies. Most 
+      patients with positive biopsy results (n = 20, 61%) subsequently started 
+      immunomodulatory therapy. CONCLUSION: Minor salivary gland biopsy can be 
+      performed safely and effectively in both the office and the operating room. This 
+      procedure provides clinically meaningful information and can be reasonably 
+      recommended in patients suspected to have Sjögren's syndrome.
+CI  - © The Authors 2022.
+FAU - Gordon, Alex J
+AU  - Gordon AJ
+AUID- ORCID: 0000-0001-9312-8166
+AD  - Department of Otolaryngology-Head and Neck Surgery, NYU Langone Health, New York, 
+      New York, USA.
+FAU - Patel, Aneek
+AU  - Patel A
+AD  - Department of Otolaryngology-Head and Neck Surgery, NYU Langone Health, New York, 
+      New York, USA.
+FAU - Zhou, Fang
+AU  - Zhou F
+AD  - Department of Pathology, NYU Langone Health, New York, New York, USA.
+FAU - Liu, Cheng
+AU  - Liu C
+AD  - Department of Pathology, NYU Langone Health, New York, New York, USA.
+FAU - Saxena, Amit
+AU  - Saxena A
+AD  - Division of Rheumatology, Department of Medicine, NYU Langone Health, New York, 
+      New York, USA.
+FAU - Rackoff, Paula
+AU  - Rackoff P
+AD  - Division of Rheumatology, Department of Medicine, NYU Langone Health, New York, 
+      New York, USA.
+FAU - Givi, Babak
+AU  - Givi B
+AD  - Department of Otolaryngology-Head and Neck Surgery, NYU Langone Health, New York, 
+      New York, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20220725
+PL  - United States
+TA  - OTO Open
+JT  - OTO open
+JID - 101717942
+PMC - PMC9326841
+OTO - NOTNLM
+OT  - Sjögren’s syndrome
+OT  - minor salivary biopsy
+OT  - safety
+OT  - salivary gland
+COIS- Disclosures: Competing interests: None. Sponsorships: None. Funding source: None.
+EDAT- 2022/08/02 06:00
+MHDA- 2022/08/02 06:01
+CRDT- 2022/08/01 03:15
+PHST- 2022/06/30 00:00 [received]
+PHST- 2022/07/03 00:00 [accepted]
+PHST- 2022/08/01 03:15 [entrez]
+PHST- 2022/08/02 06:00 [pubmed]
+PHST- 2022/08/02 06:01 [medline]
+AID - 10.1177_2473974X221116107 [pii]
+AID - 10.1177/2473974X221116107 [doi]
+PST - epublish
+SO  - OTO Open. 2022 Jul 25;6(3):2473974X221116107. doi: 10.1177/2473974X221116107. 
+      eCollection 2022 Jul-Sep.
+
+PMID- 35191115
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220407
+LR  - 20220508
+IS  - 1097-0347 (Electronic)
+IS  - 1043-3074 (Linking)
+VI  - 44
+IP  - 5
+DP  - 2022 May
+TI  - Qualitative assessment of online information available on accredited head and 
+      neck surgery fellowship programs.
+PG  - 1136-1141
+LID - 10.1002/hed.27009 [doi]
+AB  - BACKGROUND: The present study aims to assess the quality and availability of 
+      online information about fellowships accredited by the American Head & Neck 
+      Society (AHNS). METHODS: AHNS directory pages and institutional web sites of 50 
+      AHNS-accredited fellowships were identified. Web pages were scored using 20 
+      standardized criteria including general information, application information, 
+      alumni, surgical training, research, and quality-of-life. RESULTS: Median scores 
+      for AHNS directory pages and institutional web sites were 11 (range: 7-14) and 10 
+      (4-15), respectively. Faculty listings, contact information, program location, 
+      number of positions, and breadth of surgical exposure were the most commonly 
+      listed criteria. Less common criteria included didactic schedule, protected 
+      academic time, previous research projects, year of accreditation, work-life 
+      balance, fellow selection criteria, interview information, and salary. 
+      CONCLUSIONS: The AHNS directory and institutional web sites are most 
+      comprehensive in general program information and details about surgical training. 
+      Information about the application process, work-life balance, and research 
+      opportunities were less common.
+CI  - © 2022 Wiley Periodicals LLC.
+FAU - Gordon, Alex J
+AU  - Gordon AJ
+AUID- ORCID: 0000-0001-9312-8166
+AD  - Department of Otolaryngology-Head and Neck Surgery, NYU Grossman School of 
+      Medicine, New York, New York, USA.
+FAU - Patel, Aneek
+AU  - Patel A
+AD  - Department of Otolaryngology-Head and Neck Surgery, NYU Grossman School of 
+      Medicine, New York, New York, USA.
+FAU - Weed, Donald
+AU  - Weed D
+AUID- ORCID: 0000-0002-8551-7142
+AD  - Department of Otolaryngology, University of Miami Miller School of Medicine, 
+      Miami, Florida, USA.
+FAU - Bewley, Arnaud F
+AU  - Bewley AF
+AD  - Department of Otolaryngology, University of California Davis School of Medicine, 
+      Sacramento, California, USA.
+FAU - Moore, Michael G
+AU  - Moore MG
+AD  - Department of Otolaryngology-Head and Neck Surgery, Indiana University School of 
+      Medicine, Indianapolis, Indiana, USA.
+FAU - Givi, Babak
+AU  - Givi B
+AUID- ORCID: 0000-0002-8221-5077
+AD  - Department of Otolaryngology-Head and Neck Surgery, NYU Grossman School of 
+      Medicine, New York, New York, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20220222
+PL  - United States
+TA  - Head Neck
+JT  - Head & neck
+JID - 8902541
+SB  - IM
+MH  - *Fellowships and Scholarships
+MH  - Humans
+MH  - *Internship and Residency
+MH  - United States
+OTO - NOTNLM
+OT  - endocrine surgery fellowship
+OT  - fellowship web site
+OT  - head and neck surgery fellowship
+OT  - program directory
+OT  - qualitative evaluation
+EDAT- 2022/02/23 06:00
+MHDA- 2022/04/08 06:00
+CRDT- 2022/02/22 06:11
+PHST- 2022/02/08 00:00 [received]
+PHST- 2022/02/11 00:00 [accepted]
+PHST- 2022/02/23 06:00 [pubmed]
+PHST- 2022/04/08 06:00 [medline]
+PHST- 2022/02/22 06:11 [entrez]
+AID - 10.1002/hed.27009 [doi]
+PST - ppublish
+SO  - Head Neck. 2022 May;44(5):1136-1141. doi: 10.1002/hed.27009. Epub 2022 Feb 22.
+
+PMID- 36245302
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20221216
+LR  - 20221221
+IS  - 1097-0347 (Electronic)
+IS  - 1043-3074 (Linking)
+VI  - 45
+IP  - 1
+DP  - 2023 Jan
+TI  - Adoption of adjuvant chemotherapy in high-risk salivary gland malignancies.
+PG  - 167-177
+LID - 10.1002/hed.27222 [doi]
+AB  - BACKGROUND: The present study characterizes national trends in the utilization of 
+      adjuvant chemotherapy to treat salivary gland malignancies. METHODS: The National 
+      Cancer Database was queried for salivary gland malignancies treated by surgery 
+      with radiation in 2004-2019. Proportions of patients receiving adjuvant 
+      chemotherapy over the study period were analyzed by linear regression. The impact 
+      of chemotherapy on overall survival was assessed using Kaplan-Meier and Cox 
+      proportional hazards analyses. RESULTS: Among 15 965 patients meeting inclusion 
+      criteria, 2355 (14.8%) received adjuvant chemotherapy. Chemotherapy utilization 
+      significantly increased from 4.9% to 16.5% over the study period (p < 0.001). No 
+      survival benefit was observed with adjuvant chemotherapy on propensity 
+      score-matched Kaplan-Meier analysis (HR: 0.98; 95% CI: 0.86-1.11; p = 0.72) or 
+      multivariable Cox regression (HR: 0.92; 95% CI: 0.78-1.09; p = 0.34). 
+      CONCLUSIONS: Adjuvant chemotherapy has been increasingly utilized to treat 
+      salivary gland malignancies in recent years. Our findings highlight the 
+      importance of obtaining high-quality prospective data regarding the benefit of 
+      chemotherapy.
+CI  - © 2022 Wiley Periodicals LLC.
+FAU - Gordon, Alex J
+AU  - Gordon AJ
+AUID- ORCID: 0000-0001-9312-8166
+AD  - Department of Otolaryngology - Head and Neck Surgery, NYU Langone Health, New 
+      York, New York, USA.
+FAU - Chow, Michael S
+AU  - Chow MS
+AD  - Department of Otolaryngology - Head and Neck Surgery, NYU Langone Health, New 
+      York, New York, USA.
+FAU - Patel, Aneek
+AU  - Patel A
+AD  - Department of Otolaryngology - Head and Neck Surgery, NYU Langone Health, New 
+      York, New York, USA.
+FAU - Hu, Kenneth S
+AU  - Hu KS
+AD  - Department of Radiation Oncology, NYU Langone Health, New York, New York, USA.
+FAU - Li, Zujun
+AU  - Li Z
+AD  - Department of Hematology and Medical Oncology, NYU Langone Health, New York, New 
+      York, USA.
+FAU - Jacobson, Adam S
+AU  - Jacobson AS
+AD  - Department of Otolaryngology - Head and Neck Surgery, NYU Langone Health, New 
+      York, New York, USA.
+FAU - Vaezi, Alec E
+AU  - Vaezi AE
+AD  - Department of Otolaryngology - Head and Neck Surgery, NYU Langone Health, New 
+      York, New York, USA.
+FAU - Tam, Moses M
+AU  - Tam MM
+AD  - Department of Radiation Oncology, NYU Langone Health, New York, New York, USA.
+FAU - Givi, Babak
+AU  - Givi B
+AUID- ORCID: 0000-0002-8221-5077
+AD  - Department of Otolaryngology - Head and Neck Surgery, NYU Langone Health, New 
+      York, New York, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20221017
+PL  - United States
+TA  - Head Neck
+JT  - Head & neck
+JID - 8902541
+SB  - IM
+MH  - Humans
+MH  - Radiotherapy, Adjuvant
+MH  - Prospective Studies
+MH  - Proportional Hazards Models
+MH  - Retrospective Studies
+MH  - *Salivary Gland Neoplasms/pathology
+MH  - Chemotherapy, Adjuvant
+MH  - Neoplasm Staging
+OTO - NOTNLM
+OT  - chemotherapy
+OT  - practice patterns
+OT  - radiotherapy
+OT  - salivary gland
+OT  - salivary malignancy
+EDAT- 2022/10/18 06:00
+MHDA- 2022/12/15 06:00
+CRDT- 2022/10/17 03:43
+PHST- 2022/09/09 00:00 [revised]
+PHST- 2022/06/09 00:00 [received]
+PHST- 2022/10/04 00:00 [accepted]
+PHST- 2022/10/18 06:00 [pubmed]
+PHST- 2022/12/15 06:00 [medline]
+PHST- 2022/10/17 03:43 [entrez]
+AID - 10.1002/hed.27222 [doi]
+PST - ppublish
+SO  - Head Neck. 2023 Jan;45(1):167-177. doi: 10.1002/hed.27222. Epub 2022 Oct 17.
+
+PMID- 35398713
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220517
+LR  - 20220716
+IS  - 2211-0356 (Electronic)
+IS  - 2211-0348 (Print)
+IS  - 2211-0348 (Linking)
+VI  - 60
+DP  - 2022 Apr
+TI  - Risk of COVID-19 infection and severe disease in MS patients on different 
+      disease-modifying therapies.
+PG  - 103735
+LID - S2211-0348(22)00250-4 [pii]
+LID - 10.1016/j.msard.2022.103735 [doi]
+AB  - BACKGROUND: The risk of SARS-CoV-2 infection and severity with disease modifying 
+      therapies (DMTs) in multiple sclerosis (MS) remains unclear, with some studies 
+      demonstrating increased risks of infection with B-cell-depleting (anti-CD20) 
+      therapies and severity, while others fail to observe an association. Most 
+      existing studies are limited by a reliance on 'numerator' data (i.e., COVID-19 
+      cases) only. OBJECTIVE: To assess the risks of COVID-19 by DMT, this study aimed 
+      to assess both 'numerator' (patients with SARS-CoV-2 infection) and 'denominator' 
+      data (all patients treated with DMTs of interest) to determine if any DMTs impart 
+      an increased risk of SARS-CoV-2 infection or disease severity. METHODS: We 
+      systematically reviewed charts and queried patients during clinic encounters in 
+      the NYU MS Comprehensive Care Center (MSCCC) for evidence of COVID-19 in all 
+      patients who were on the most commonly used DMTs in our clinic 
+      (sphingosine-1-phosphate receptor (S1P) modulators (fingolimod/siponimod), 
+      rituximab, ocrelizumab, fumarates (dimethyl fumarate/diroximel fumarate), and 
+      natalizumab). COVID-19 status was determined by clinical symptoms (CDC case 
+      definition) and laboratory testing where available (SARS-CoV-2 PCR, SARS-CoV-2 
+      IgG). Multivariable analyses were conducted to determine predictors of infection 
+      and severe disease (hospitalization or death) using SARS-CoV-2 infected 
+      individuals per DMT group and all individuals on a given DMT as denominator. 
+      RESULTS: We identified 1,439 MS patients on DMTs of interest, of which 230 had 
+      lab-confirmed (n = 173; 75.2%) or suspected (n = 57; 24.8%) COVID-19. Infection 
+      was most frequent in those on rituximab (35/138; 25.4%), followed by fumarates 
+      (39/217; 18.0%), S1P modulators (43/250; 17.2%), natalizumab (36/245; 14.7%), and 
+      ocrelizumab (77/589; 13.1%). There were 14 hospitalizations and 2 deaths. No DMT 
+      was found to be significantly associated with increased risk of SARS-CoV-2 
+      infection. Rituximab was a predictor of severe SARS-CoV-2 infection among 
+      patients with SARS-CoV-2 infection (OR 6.7; 95% CI 1.1-41.7) but did not reach 
+      statistical significance when the entire patient population on DMT was used (OR 
+      2.8; 95% CI 0.6-12.2). No other DMT was associated with an increased risk of 
+      severe COVID-19. CONCLUSIONS: Analysis of COVID-19 risk among all patients on the 
+      commonly used DMTs did not demonstrate increased risk of infection with any DMT. 
+      Rituximab was associated with increased risk for severe disease.
+CI  - Copyright © 2022 Elsevier B.V. All rights reserved.
+FAU - Smith, Tyler E
+AU  - Smith TE
+AD  - NYU Langone Multiple Sclerosis Care Center, 240 E 38(th) St, 13(th) Floor, New 
+      York City, New York, 10016. Electronic address: Tyler.Smith@nyulangone.org.
+FAU - Madhavan, Maya
+AU  - Madhavan M
+AD  - NYU Langone Health Department of Neurology, 222 E 41(st) St, 9(th) Floor, New 
+      York City, New York, 10017.
+FAU - Gratch, Daniel
+AU  - Gratch D
+AD  - NYU Langone Health Department of Neurology, 222 E 41(st) St, 9(th) Floor, New 
+      York City, New York, 10017.
+FAU - Patel, Aneek
+AU  - Patel A
+AD  - NYU Langone Health Department of Neurology, 222 E 41(st) St, 9(th) Floor, New 
+      York City, New York, 10017.
+FAU - Saha, Valerie
+AU  - Saha V
+AD  - NYU Langone Multiple Sclerosis Care Center, 240 E 38(th) St, 13(th) Floor, New 
+      York City, New York, 10016.
+FAU - Sammarco, Carrie
+AU  - Sammarco C
+AD  - NYU Langone Multiple Sclerosis Care Center, 240 E 38(th) St, 13(th) Floor, New 
+      York City, New York, 10016.
+FAU - Rimler, Zoe
+AU  - Rimler Z
+AD  - NYU Langone Multiple Sclerosis Care Center, 240 E 38(th) St, 13(th) Floor, New 
+      York City, New York, 10016.
+FAU - Zuniga, Guadalupe
+AU  - Zuniga G
+AD  - NYU Langone Multiple Sclerosis Care Center, 240 E 38(th) St, 13(th) Floor, New 
+      York City, New York, 10016.
+FAU - Gragui, Dunia
+AU  - Gragui D
+AD  - NYU Langone Multiple Sclerosis Care Center, 240 E 38(th) St, 13(th) Floor, New 
+      York City, New York, 10016.
+FAU - Charvet, Leigh
+AU  - Charvet L
+AD  - NYU Langone Multiple Sclerosis Care Center, 240 E 38(th) St, 13(th) Floor, New 
+      York City, New York, 10016.
+FAU - Cutter, Gary
+AU  - Cutter G
+AD  - University of Alabama School of Public Health Department of Biostatistics, 403B 
+      Ryals Public Health Building, 1665 University Boulevard, Birmingham AL, 35294.
+FAU - Krupp, Lauren
+AU  - Krupp L
+AD  - NYU Langone Multiple Sclerosis Care Center, 240 E 38(th) St, 13(th) Floor, New 
+      York City, New York, 10016.
+FAU - Kister, Ilya
+AU  - Kister I
+AD  - NYU Langone Multiple Sclerosis Care Center, 240 E 38(th) St, 13(th) Floor, New 
+      York City, New York, 10016.
+FAU - Ryerson, Lana Zhovtis
+AU  - Ryerson LZ
+AD  - NYU Langone Multiple Sclerosis Care Center, 240 E 38(th) St, 13(th) Floor, New 
+      York City, New York, 10016.
+LA  - eng
+PT  - Journal Article
+PT  - Systematic Review
+DEP - 20220311
+PL  - Netherlands
+TA  - Mult Scler Relat Disord
+JT  - Multiple sclerosis and related disorders
+JID - 101580247
+RN  - 0 (Natalizumab)
+RN  - 4F4X42SYQ6 (Rituximab)
+RN  - FO2303MNI2 (Dimethyl Fumarate)
+SB  - IM
+MH  - *COVID-19
+MH  - Dimethyl Fumarate/therapeutic use
+MH  - Humans
+MH  - *Multiple Sclerosis/complications/drug therapy/epidemiology
+MH  - Natalizumab/therapeutic use
+MH  - Rituximab/therapeutic use
+MH  - SARS-CoV-2
+PMC - PMC8915504
+OTO - NOTNLM
+OT  - COVID-19
+OT  - Multiple Sclerosis
+OT  - disease severity
+OT  - disease-modifying therapy
+EDAT- 2022/04/11 06:00
+MHDA- 2022/05/18 06:00
+CRDT- 2022/04/10 20:29
+PHST- 2021/12/08 00:00 [received]
+PHST- 2022/01/26 00:00 [revised]
+PHST- 2022/03/10 00:00 [accepted]
+PHST- 2022/04/11 06:00 [pubmed]
+PHST- 2022/05/18 06:00 [medline]
+PHST- 2022/04/10 20:29 [entrez]
+AID - S2211-0348(22)00250-4 [pii]
+AID - 103735 [pii]
+AID - 10.1016/j.msard.2022.103735 [doi]
+PST - ppublish
+SO  - Mult Scler Relat Disord. 2022 Apr;60:103735. doi: 10.1016/j.msard.2022.103735. 
+      Epub 2022 Mar 11.
+
+PMID- 35467273
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220608
+LR  - 20220614
+IS  - 1573-7403 (Electronic)
+IS  - 1386-341X (Linking)
+VI  - 25
+IP  - 3
+DP  - 2022 Jun
+TI  - The role of endoscopic endonasal surgery in the management of prolactinomas based 
+      on their invasiveness into the cavernous sinus.
+PG  - 508-519
+LID - 10.1007/s11102-022-01221-3 [doi]
+AB  - PURPOSE: To review our institutional experience with the surgical management of 
+      prolactinomas through the endoscopic endonasal approach with specific focus on 
+      cavernous sinus invasion. METHODS: Clinical and radiographic data were collected 
+      retrospectively from the electronic medical record of 78 consecutive patients 
+      with prolactinomas undergoing endoscopic endonasal resection from 2002 to 2019. 
+      Immediate and late post-operative remission were defined as prolactin < 20 ng/mL 
+      within 14 days and 1-year of surgery without adjuvant therapy, respectively. 
+      Cavernous sinus invasion was quantified by Knosp score. RESULTS: A total of 78 
+      patients with prolactinoma, 59% being male, underwent surgical resection with a 
+      mean age of 37 ± 13 years. Indications for surgery were medication resistance in 
+      38 patients (48.7%), medication intolerance in 11 (14.1%), and patient preference 
+      in 29 (37.2%). Patients with Knosp 0-2 achieved higher immediate remission rates 
+      (83.8%) compared to patients with Knosp 3 (58.8%) and Knosp 4 (41.7%) patients 
+      (p = 0.003). Long-term remission rates were 48.7% and increased to 71.8% when 
+      combined with adjuvant treatments. Knosp 4 prolactinomas had significantly higher 
+      tumor volumes, higher preoperative prolactin levels, higher recurrence rates, 
+      higher rates of adjuvant therapy utilization, and were more likely to have failed 
+      dopamine agonist therapy compared to other tumor grades (p < 0.05). We 
+      encountered 18 complications in our series, and no cerebrospinal fluid leaks. 
+      CONCLUSION: The endoscopic endonasal approach is a safe and effective modality 
+      that can be employed in properly selected patients with invasive prolactinomas. 
+      It is associated with improved control and remission rates despite cavernous 
+      sinus invasion, though at a lower rate than without invasion.
+CI  - © 2022. The Author(s), under exclusive licence to Springer Science+Business 
+      Media, LLC, part of Springer Nature.
+FAU - Abou-Al-Shaar, Hussam
+AU  - Abou-Al-Shaar H
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 
+      Pittsburgh, PA, USA.
+FAU - Mallela, Arka N
+AU  - Mallela AN
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 
+      Pittsburgh, PA, USA.
+FAU - Patel, Aneek
+AU  - Patel A
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 
+      Pittsburgh, PA, USA.
+FAU - Shariff, Rimsha K
+AU  - Shariff RK
+AD  - Neuroendocrinology Unit, Division of Endocrinology and Metabolism, University of 
+      Pittsburgh Medical Center, Pittsburgh, PA, USA.
+FAU - Shin, Samuel S
+AU  - Shin SS
+AD  - Department of Neurology, University of Pennsylvania, Philadelphia, PA, USA.
+FAU - Choi, Phillip A
+AU  - Choi PA
+AD  - Department of Neurosurgery, The University of Texas Health Science Center at 
+      Houston, Houston, TX, USA.
+FAU - Faraji, Amir H
+AU  - Faraji AH
+AD  - Department of Neurosurgery, Houston Methodist, Houston, TX, USA.
+FAU - Fazeli, Pouneh K
+AU  - Fazeli PK
+AD  - Neuroendocrinology Unit, Division of Endocrinology and Metabolism, University of 
+      Pittsburgh Medical Center, Pittsburgh, PA, USA.
+FAU - Costacou, Tina
+AU  - Costacou T
+AD  - Department of Epidemiology, Graduate School of Public Health, University of 
+      Pittsburgh, Pittsburgh, PA, USA.
+FAU - Wang, Eric W
+AU  - Wang EW
+AD  - Department of Otolaryngology, University of Pittsburgh Medical Center, 
+      Pittsburgh, PA, USA.
+FAU - Fernandez-Miranda, Juan C
+AU  - Fernandez-Miranda JC
+AD  - Department of Neurosurgery, Stanford University, Palo Alto, CA, USA.
+FAU - Snyderman, Carl H
+AU  - Snyderman CH
+AD  - Department of Otolaryngology, University of Pittsburgh Medical Center, 
+      Pittsburgh, PA, USA.
+FAU - Gardner, Paul A
+AU  - Gardner PA
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 
+      Pittsburgh, PA, USA.
+FAU - Zenonos, Georgios A
+AU  - Zenonos GA
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 
+      Pittsburgh, PA, USA. zenonosg2@upmc.edu.
+LA  - eng
+PT  - Journal Article
+DEP - 20220425
+PL  - United States
+TA  - Pituitary
+JT  - Pituitary
+JID - 9814578
+RN  - 9002-62-4 (Prolactin)
+SB  - IM
+MH  - Adult
+MH  - *Cavernous Sinus/pathology/surgery
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - *Pituitary Neoplasms/pathology/surgery
+MH  - Prolactin
+MH  - *Prolactinoma/drug therapy/pathology/surgery
+MH  - Retrospective Studies
+MH  - Treatment Outcome
+MH  - Young Adult
+OTO - NOTNLM
+OT  - Cavernous sinus
+OT  - Endoscopic endonasal approach
+OT  - Knosp score
+OT  - Pituitary adenoma
+OT  - Prolactinoma
+EDAT- 2022/04/26 06:00
+MHDA- 2022/06/09 06:00
+CRDT- 2022/04/25 12:10
+PHST- 2022/03/30 00:00 [accepted]
+PHST- 2022/04/26 06:00 [pubmed]
+PHST- 2022/06/09 06:00 [medline]
+PHST- 2022/04/25 12:10 [entrez]
+AID - 10.1007/s11102-022-01221-3 [pii]
+AID - 10.1007/s11102-022-01221-3 [doi]
+PST - ppublish
+SO  - Pituitary. 2022 Jun;25(3):508-519. doi: 10.1007/s11102-022-01221-3. Epub 2022 Apr 
+      25.
+
+PMID- 33728130
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20210318
+IS  - 2168-8184 (Print)
+IS  - 2168-8184 (Electronic)
+IS  - 2168-8184 (Linking)
+VI  - 13
+IP  - 2
+DP  - 2021 Feb 3
+TI  - Spontaneous Cerebrospinal Fluid Rhinorrhea from a Prolactin-Secreting Pituitary 
+      Macroadenoma.
+PG  - e13111
+LID - 10.7759/cureus.13111 [doi]
+LID - e13111
+AB  - Cerebrospinal fluid (CSF) rhinorrhea is a rare complication of macroprolactinomas 
+      that, in the vast majority of cases, is subsequent to either medical or surgical 
+      intervention. Here, we present the successful management of a rare case of 
+      spontaneous, noniatrogenic CSF rhinorrhea in a patient with an untreated 
+      macroprolactinoma. A 27-year-old man with no significant medical history 
+      presented with six months of persistent CSF rhinorrhea, which was confirmed by 
+      testing for beta-2-transferrin. He had had decreased libido since adolescence and 
+      impaired growth of secondary sexual characteristics. Workup revealed an elevated 
+      prolactin level, and imaging demonstrated erosion of the anterior sellar floor 
+      and soft tissue within the sphenoid sinus, concerning for tumor. The patient 
+      underwent surgical repair of the CSF leak via a transnasal transsphenoidal 
+      approach, with resection and biopsy of tumor material within the sinus. No tumor 
+      was noted within the sella itself. The patient tolerated the procedure well and 
+      had subsequent normalization of his prolactin level with no further CSF egress. 
+      Spontaneous noniatrogenic CSF rhinorrhea, although rare, should be considered in 
+      the differential diagnosis of invasive pituitary macroadenomas, especially 
+      prolactinomas. The mechanism of CSF leak from a prolactinoma is not completely 
+      understood, but the CSF leak should be urgently repaired through a transnasal 
+      transsphenoidal approach. Concurrently, tumor resection should be performed and a 
+      postoperative lumbar puncture or lumbar drain should be considered to reinforce 
+      the skull base reconstruction.
+CI  - Copyright © 2021, Patel et al.
+FAU - Patel, Aneek
+AU  - Patel A
+AD  - Neurosurgery, New York University, New York, USA.
+FAU - Gozal, Yair M
+AU  - Gozal YM
+AD  - Neurosurgery, Mayfield Clinic, Cincinnati, USA.
+FAU - Abou-Al-Shaar, Hussam
+AU  - Abou-Al-Shaar H
+AD  - Neurological Surgery, University of Pittsburgh Medical Center, Pittsburgh, USA.
+FAU - Taussky, Philipp
+AU  - Taussky P
+AD  - Neurosurgery, University of Utah, Salt Lake City, USA.
+FAU - Couldwell, William
+AU  - Couldwell W
+AD  - Neurosurgery, University of Utah, Salt Lake City, USA.
+LA  - eng
+PT  - Case Reports
+DEP - 20210203
+PL  - United States
+TA  - Cureus
+JT  - Cureus
+JID - 101596737
+PMC - PMC7935238
+OTO - NOTNLM
+OT  - cerebrospinal fluid leak
+OT  - cerebrospinal fluid rhinorrhea
+OT  - pituitary adenoma
+OT  - prolactinoma
+OT  - transsphenoidal surgery
+COIS- The authors have declared financial relationships, which are detailed in the next 
+      section.
+EDAT- 2021/03/18 06:00
+MHDA- 2021/03/18 06:01
+CRDT- 2021/03/17 06:50
+PHST- 2021/03/17 06:50 [entrez]
+PHST- 2021/03/18 06:00 [pubmed]
+PHST- 2021/03/18 06:01 [medline]
+AID - 10.7759/cureus.13111 [doi]
+PST - epublish
+SO  - Cureus. 2021 Feb 3;13(2):e13111. doi: 10.7759/cureus.13111.
+
+PMID- 37397049
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20230704
+IS  - 1793-5482 (Print)
+IS  - 2248-9614 (Electronic)
+VI  - 18
+IP  - 2
+DP  - 2023 Jun
+TI  - Idiopathic De Novo Arteriovenous Malformation: A Rare Acquired Intracranial 
+      Lesion.
+PG  - 400-403
+LID - 10.1055/s-0043-1769893 [doi]
+AB  - The de novo development of cerebral arteriovenous malformations (AVMs) in adults 
+      is an exceedingly rare event that has prompted the theory that a "second hit" is 
+      required to induce AVM formation. The authors document development of an 
+      occipital AVM in an adult a decade and a half after a brain magnetic resonance 
+      imaging (MRI) disclosed no abnormality. A 31-year-old male with a family history 
+      of AVMs and a 14-year history of migraines with visual auras and seizures 
+      presented to our service. Because of the onset of a first seizure and migraine 
+      headaches at age 17, the patient underwent high-resolution MRI that showed no 
+      intracranial lesion. After 14 years of progressively worsening symptoms, he 
+      underwent a repeat MRI that demonstrated a new de novo Spetzler-Martin grade 3 
+      left occipital AVM. The patient received anticonvulsants and underwent Gamma 
+      Knife radiosurgery for his AVM. This case suggests that patients with seizures or 
+      persistent migraine headaches should have periodic repeat neuroimaging to exclude 
+      the development of a vascular cause despite an initial negative MRI.
+CI  - Asian Congress of Neurological Surgeons. This is an open access article published 
+      by Thieme under the terms of the Creative Commons 
+      Attribution-NonDerivative-NonCommercial License, permitting copying and 
+      reproduction so long as the original work is given appropriate credit. Contents 
+      may not be used for commercial purposes, or adapted, remixed, transformed or 
+      built upon. ( https://creativecommons.org/licenses/by-nc-nd/4.0/ ).
+FAU - Plute, Tritan
+AU  - Plute T
+AD  - University of Pittsburgh School of Medicine, Pittsburgh, Pennsylvania, United 
+      States.
+FAU - Agarwal, Prateek
+AU  - Agarwal P
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 
+      Pittsburgh, Pennsylvania, United States.
+FAU - Patel, Aneek
+AU  - Patel A
+AD  - Department of Neurological Surgery, New York University Langone Health, New York, 
+      New York, United States.
+FAU - Mallela, Arka N
+AU  - Mallela AN
+AUID- ORCID: 0000-0003-0993-198X
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 
+      Pittsburgh, Pennsylvania, United States.
+FAU - Lunsford, L Dade
+AU  - Lunsford LD
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 
+      Pittsburgh, Pennsylvania, United States.
+FAU - Abou-Al-Shaar, Hussam
+AU  - Abou-Al-Shaar H
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 
+      Pittsburgh, Pennsylvania, United States.
+LA  - eng
+PT  - Case Reports
+DEP - 20230616
+PL  - India
+TA  - Asian J Neurosurg
+JT  - Asian journal of neurosurgery
+JID - 101564712
+PMC - PMC10313434
+OTO - NOTNLM
+OT  - Gamma Knife radiosurgery
+OT  - arteriovenous malformations
+OT  - de novo
+OT  - genetic
+OT  - seizures
+COIS- Conflict of Interest None declared.
+EDAT- 2023/07/03 13:06
+MHDA- 2023/07/03 13:07
+CRDT- 2023/07/03 11:29
+PHST- 2023/07/03 13:07 [medline]
+PHST- 2023/07/03 13:06 [pubmed]
+PHST- 2023/07/03 11:29 [entrez]
+AID - AJNS-22-10-0012 [pii]
+AID - 10.1055/s-0043-1769893 [doi]
+PST - epublish
+SO  - Asian J Neurosurg. 2023 Jun 16;18(2):400-403. doi: 10.1055/s-0043-1769893. 
+      eCollection 2023 Jun.
+
+PMID- 33305645
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231023
+LR  - 20231023
+IS  - 1360-046X (Electronic)
+IS  - 0268-8697 (Linking)
+VI  - 37
+IP  - 5
+DP  - 2023 Oct
+TI  - Iatrogenic haemoperitoneum requiring transfusion after ventriculoperitoneal shunt 
+      placement: case report.
+PG  - 1285-1288
+LID - 10.1080/02688697.2020.1858025 [doi]
+AB  - Cerebrospinal fluid (CSF) diversion for hydrocephalus via ventriculoperitoneal 
+      (VP) shunting is one of the most commonly performed neurosurgical procedures. 
+      Unfortunately, VP shunting also carries a high complication rate. While long-term 
+      complications of VP shunting are generally well-described, the literature on more 
+      acute, iatrogenic injury during shunt placement is essentially limited to easily 
+      identifiable intracranial bleeds. Herein is presented the first reported case of 
+      iatrogenic abdominal wall vessel injury as a consequence of blind distal VP shunt 
+      catheter placement causing a critical haemoperitoneum that necessitated multiple 
+      transfusions. Presentation and recognition of this bleed was delayed as it 
+      occurred over a number of days. Injury to the inferior epigastric artery, or 
+      potentially a distal branch of the superficial epigastric artery, is suspected to 
+      have occurred during either blind subcutaneous tunnelling of the shunt catheter 
+      passage or during penetration of the peritoneum. Haemoperitoneum as a potential 
+      complication of procedures involving manipulation or penetration of the abdominal 
+      wall (i.e. paracentesis) is well-described in the medical and general surgical 
+      literature, and ultrasound-guidance has been widely adopted to mitigate bleeding 
+      in these cases. Familiarity with intra-abdominal haemorrhage as a potential 
+      complication of VP shunting and an understanding of its presentation is critical 
+      for timely identification of this phenomenon. Furthermore, the use of real-time 
+      ultrasound-guidance for tunnelling and distal shunt catheter placement may 
+      decrease the incidence of intrabdominal complications after shunt placement more 
+      generally and should be considered an area of future study.
+FAU - Patel, Aneek
+AU  - Patel A
+AD  - Department of Neurosurgery, New York University School of Medicine, NYU Langone 
+      Health, New York, NY, USA.
+FAU - Golub, Danielle
+AU  - Golub D
+AUID- ORCID: 0000-0001-8732-796X
+AD  - Department of Neurosurgery, New York University School of Medicine, NYU Langone 
+      Health, New York, NY, USA.
+FAU - Guerrero Zuniga, Adler
+AU  - Guerrero Zuniga A
+AD  - Department of Neurosurgery, New York University School of Medicine, NYU Langone 
+      Health, New York, NY, USA.
+FAU - Kaufman, Brian
+AU  - Kaufman B
+AD  - Department of Neurosurgery, New York University School of Medicine, NYU Langone 
+      Health, New York, NY, USA.
+AD  - Departments of Medicine, Anaesthesiology and Neurology, New York University 
+      School of Medicine, NYU Langone Health, New York, NY, USA.
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+DEP - 20201211
+PL  - England
+TA  - Br J Neurosurg
+JT  - British journal of neurosurgery
+JID - 8800054
+SB  - IM
+MH  - Humans
+MH  - *Ventriculoperitoneal Shunt/adverse effects/methods
+MH  - Hemoperitoneum/etiology/surgery
+MH  - Retrospective Studies
+MH  - *Hydrocephalus/surgery/etiology
+MH  - Iatrogenic Disease
+OTO - NOTNLM
+OT  - Ventriculoperitoneal shunt
+OT  - abdominal haematoma
+OT  - complication
+OT  - haemoperitoneum
+OT  - hydrocephalus
+EDAT- 2020/12/12 06:00
+MHDA- 2023/10/23 00:42
+CRDT- 2020/12/11 08:37
+PHST- 2023/10/23 00:42 [medline]
+PHST- 2020/12/12 06:00 [pubmed]
+PHST- 2020/12/11 08:37 [entrez]
+AID - 10.1080/02688697.2020.1858025 [doi]
+PST - ppublish
+SO  - Br J Neurosurg. 2023 Oct;37(5):1285-1288. doi: 10.1080/02688697.2020.1858025. 
+      Epub 2020 Dec 11.
+
+PMID- 34373057
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211019
+LR  - 20211019
+IS  - 1532-2653 (Electronic)
+IS  - 0967-5868 (Linking)
+VI  - 91
+DP  - 2021 Sep
+TI  - Intraparenchymal hematoma and intraventricular catheter placement using robotic 
+      stereotactic assistance (ROSA): A single center preliminary experience.
+PG  - 391-395
+LID - S0967-5868(21)00169-7 [pii]
+LID - 10.1016/j.jocn.2021.04.006 [doi]
+AB  - BACKGROUND: Large supratentorial intraparenchymal hemorrhages are managed 
+      emergently with image-guided catheters that aim to minimize injury to surrounding 
+      parenchyma. Robotic assistance may offer advantages for stereotactic guidance and 
+      placement of such catheters. We describe our center's experience with minimally 
+      invasive ROSA-assisted intraventricular and intraparenchymal hemorrhage catheter 
+      placement and delineate its safety and outcomes. METHODS: A retrospective 
+      analysis was performed including all patients with intraparenchymal hematoma that 
+      underwent ROSA-assisted intraparenchymal and intraventricular catheter placement 
+      at the University of Pittsburgh Medical Center between 2017 and 2019. All 
+      patients received tissue plasminogen activator (tPA) through the intraparenchymal 
+      catheter. We performed a manual chart review of these patients. Pertinent 
+      clinical and radiological characteristics and patient outcomes were recorded and 
+      analyzed. Catheter trajectory was independently quantified and analyzed by two 
+      independent reviewers. Error between the planned trajectory and final position 
+      was calculated and analyzed. RESULTS: Four patients (2 males and 2 females, mean 
+      age of 64 years) with deep brain large volume intraparenchymal hemorrhages were 
+      treated with catheter evacuation with robotic assistance. For 2 of the 4 
+      patients, thin-cut CT imaging allowed for the real trajectory of the catheter to 
+      be compared to the targeted trajectory to calculate error. The mean error of 
+      catheter placement was 3.48 mm. ROSA-assisted catheter placement achieved up to 
+      95% reduction of intraparenchymal hematoma volume with a statistically 
+      significant decrease following catheter drainage (pre- 51.8 ± 19.1 cc vs. post- 
+      13.0 ± 14.4; p < 0.01). CONCLUSION: Robotic stereotactic assistance offers a safe 
+      and sufficiently accurate technique for intraparenchymal hematoma and 
+      intraventricular catheter placement.
+CI  - Copyright © 2021. Published by Elsevier Ltd.
+FAU - Alan, Nima
+AU  - Alan N
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 
+      Pittsburgh, PA, United States.
+FAU - Patel, Aneek
+AU  - Patel A
+AD  - Department of Neurosurgery, New York University School of Medicine, New York, NY, 
+      United States.
+FAU - Abou-Al-Shaar, Hussam
+AU  - Abou-Al-Shaar H
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 
+      Pittsburgh, PA, United States.
+FAU - Agarwal, Nitin
+AU  - Agarwal N
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 
+      Pittsburgh, PA, United States.
+FAU - Zenonos, Georgios A
+AU  - Zenonos GA
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 
+      Pittsburgh, PA, United States.
+FAU - Jankowitz, Brian T
+AU  - Jankowitz BT
+AD  - Department of Neurosurgery, Hospital of the University of Pennsylvania, Perelman 
+      School of Medicine, Philadelphia, PA, United States. Electronic address: 
+      brian.jankowitz@pennmedicine.upenn.edu.
+FAU - Gross, Bradley A
+AU  - Gross BA
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 
+      Pittsburgh, PA, United States.
+LA  - eng
+PT  - Journal Article
+DEP - 20210802
+PL  - Scotland
+TA  - J Clin Neurosci
+JT  - Journal of clinical neuroscience : official journal of the Neurosurgical Society 
+      of Australasia
+JID - 9433352
+RN  - EC 3.4.21.68 (Tissue Plasminogen Activator)
+SB  - IM
+MH  - Catheters
+MH  - Female
+MH  - Hematoma/diagnostic imaging/etiology
+MH  - Humans
+MH  - Infant, Newborn
+MH  - Male
+MH  - Retrospective Studies
+MH  - *Robotic Surgical Procedures
+MH  - *Tissue Plasminogen Activator
+OTO - NOTNLM
+OT  - Hydrocephalus
+OT  - Intraparenchymal Hematoma
+OT  - Minimally Invasive Evacuation
+OT  - ROSA
+OT  - Robotic Stereotactic Assistance
+COIS- Declaration of Competing Interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2021/08/11 06:00
+MHDA- 2021/10/21 06:00
+CRDT- 2021/08/10 05:43
+PHST- 2021/01/19 00:00 [received]
+PHST- 2021/04/04 00:00 [accepted]
+PHST- 2021/08/10 05:43 [entrez]
+PHST- 2021/08/11 06:00 [pubmed]
+PHST- 2021/10/21 06:00 [medline]
+AID - S0967-5868(21)00169-7 [pii]
+AID - 10.1016/j.jocn.2021.04.006 [doi]
+PST - ppublish
+SO  - J Clin Neurosci. 2021 Sep;91:391-395. doi: 10.1016/j.jocn.2021.04.006. Epub 2021 
+      Aug 2.
+
+PMID- 36041718
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230217
+LR  - 20230217
+IS  - 1878-8769 (Electronic)
+IS  - 1878-8750 (Linking)
+VI  - 167
+DP  - 2022 Nov
+TI  - Comparing Rates of Postoperative Meningitis After Endoscopic Endonasal Procedures 
+      Based on Methicillin-Resistant Staphylococcus aureus/Methicillin-Sensitive 
+      Staphylococcus aureus Colonization and Antibiotic Prophylaxis.
+PG  - e858-e864
+LID - S1878-8750(22)01201-3 [pii]
+LID - 10.1016/j.wneu.2022.08.091 [doi]
+AB  - BACKGROUND: Endoscopic endonasal approach (EEA) procedures are inherently 
+      contaminated due to direct access through the nasopharyngeal mucosa. The reported 
+      rate of postoperative meningitis in EEA procedures is 0.7%-3%. A variety of 
+      methods exist to minimize the risk of meningitis with antibiotic prophylaxis, 
+      although their value is not completely understood. This study investigated 
+      whether there is a difference in rates of postoperative meningitis based on 
+      Staphylococcus aureus colonization and use of preoperative antibiotic 
+      prophylaxis. METHODS: All adult patients who underwent EEA resection at our 
+      institution from 2013 to 2021 were retrospectively reviewed. Patients with 
+      preoperative cerebrospinal fluid infections were excluded. Data including recent 
+      preoperative infections, preoperative colonization status, antibiotic 
+      administration, and postoperative outcomes were recorded for each patient. 
+      RESULTS: Of 483 patients identified (mean age, 51 years; range, 18-90 years; 274 
+      [56.7%] female), 80 (16.6%) had a positive preoperative methicillin-resistant 
+      Staphylococcus aureus (MRSA)/methicillin-sensitive Staphylococcus aureus (MSSA) 
+      screening swab. Twenty-one (26.3%) colonized patients were treated with 
+      preoperative decolonizing antibiotics. Within 30 days of surgery, 13 (2.7%) 
+      patients developed culture-positive meningitis. There was no significant 
+      difference in meningitis rates based on MRSA/MSSA colonization status. Among 
+      colonized patients, there was no significant difference in rates of MRSA/MSSA 
+      meningitis based on preoperative antibiotic decolonization. CONCLUSIONS: 
+      Postoperative rates of meningitis after EEA surgery were not significantly 
+      changed based on MRSA/MSSA colonization status of the patient or preoperative 
+      decolonization. The utility of preoperative testing of MRSA/MSSA status and 
+      antibiotics for decolonization to prevent postoperative meningitis should be 
+      further investigated.
+CI  - Copyright © 2022 Elsevier Inc. All rights reserved.
+FAU - Orillac, Cordelia
+AU  - Orillac C
+AD  - Department of Neurosurgery, NYU Langone Health, New York, New York, USA.
+FAU - Patel, Aneek
+AU  - Patel A
+AD  - Department of Neurosurgery, NYU Langone Health, New York, New York, USA.
+FAU - Dastagirzada, Yosef
+AU  - Dastagirzada Y
+AD  - Department of Neurosurgery, NYU Langone Health, New York, New York, USA.
+FAU - Benjamin, Carolina
+AU  - Benjamin C
+AD  - Department of Neurosurgery, University of Miami Health System, Miami, Florida, 
+      USA.
+FAU - Lieberman, Seth
+AU  - Lieberman S
+AD  - Department of Otolaryngology, NYU Langone Health, New York, New York, USA.
+FAU - Lebowitz, Richard
+AU  - Lebowitz R
+AD  - Department of Otolaryngology, NYU Langone Health, New York, New York, USA.
+FAU - Golfinos, John G
+AU  - Golfinos JG
+AD  - Department of Neurosurgery, NYU Langone Health, New York, New York, USA.
+FAU - Pacione, Donato
+AU  - Pacione D
+AD  - Department of Neurosurgery, NYU Langone Health, New York, New York, USA. 
+      Electronic address: donato.pacione@nyulangone.org.
+LA  - eng
+PT  - Journal Article
+DEP - 20220828
+PL  - United States
+TA  - World Neurosurg
+JT  - World neurosurgery
+JID - 101528275
+RN  - Q91FH1328A (Methicillin)
+RN  - 0 (Anti-Bacterial Agents)
+SB  - IM
+MH  - Adult
+MH  - Humans
+MH  - Female
+MH  - Middle Aged
+MH  - Male
+MH  - *Methicillin-Resistant Staphylococcus aureus
+MH  - Staphylococcus aureus
+MH  - Methicillin/therapeutic use
+MH  - Retrospective Studies
+MH  - Antibiotic Prophylaxis
+MH  - Anti-Bacterial Agents/therapeutic use
+MH  - *Staphylococcal Infections/epidemiology/prevention & control/diagnosis
+MH  - *Meningitis/drug therapy
+MH  - Disease Progression
+OTO - NOTNLM
+OT  - Antibiotic prophylaxis
+OT  - Colonization screening
+OT  - Endoscopic endonasal approach
+OT  - MRSA
+OT  - MSSA
+OT  - Mupirocin
+OT  - Postoperative meningitis
+EDAT- 2022/08/31 06:00
+MHDA- 2023/02/18 06:00
+CRDT- 2022/08/30 19:27
+PHST- 2022/05/30 00:00 [received]
+PHST- 2022/08/19 00:00 [revised]
+PHST- 2022/08/20 00:00 [accepted]
+PHST- 2022/08/31 06:00 [pubmed]
+PHST- 2023/02/18 06:00 [medline]
+PHST- 2022/08/30 19:27 [entrez]
+AID - S1878-8750(22)01201-3 [pii]
+AID - 10.1016/j.wneu.2022.08.091 [doi]
+PST - ppublish
+SO  - World Neurosurg. 2022 Nov;167:e858-e864. doi: 10.1016/j.wneu.2022.08.091. Epub 
+      2022 Aug 28.
+
+PMID- 35142245
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231023
+LR  - 20231023
+IS  - 1360-046X (Electronic)
+IS  - 0268-8697 (Linking)
+VI  - 37
+IP  - 5
+DP  - 2023 Oct
+TI  - Bibliometric analysis of the top 100 cited articles on stereotactic radiosurgery 
+      of intracranial meningiomas.
+PG  - 1088-1093
+LID - 10.1080/02688697.2022.2034745 [doi]
+AB  - BACKGROUND: Sterotactic radiosurgery is becoming an integral modality in the 
+      management of intracranial meningiomas, both as the primary treatment or as 
+      adjuvant therapy. This study analyzes the scholarly impact of the top 100 cited 
+      articles on the stereotactic radiosurgical management of intracranial 
+      meningiomas. METHODS: A ranked list of the 100 most-cited articles was generated 
+      using the Scopus database by searching the keywords 'intracranial meningioma' and 
+      'stereotactic radiosurgery'. All articles were then evaluated on multiple 
+      criteria regarding both the publication of the articles (year of publication, 
+      journal, country of origin, and authors) as well as their methods and foci (type 
+      of study, location of studied meningiomas, and type of radiosurgical modality). 
+      Quantitaitve and qualitative analyses were then performed from the collected 
+      data. RESULTS: The most frequently cited articles on stereotactic radiosurgical 
+      management of intracranial meningiomas were published between 1990 and 2016. The 
+      average citation-per-year across all papers in the list was 6.1. The most studied 
+      anatomic area of intracranial meningiomas was the skull base, with the cavernous 
+      sinus being the most well-studied specific site. The most utilized stereotactic 
+      radiosurgical modality was Gamma Knife radiosurgery. The country with the highest 
+      number of publications was the United States. Twenty-six percent of the articles 
+      were published in the journal Neurosurgery; Lunsford, Kondziolka, Flickinger, 
+      Sheehan, and Pollock were respectively the most frequent listed authors among 
+      this list. The most active academic institute publishing on this topic was the 
+      University of Pittsburgh Medical Center. CONCLUSION: Stereotactic radiosurgery is 
+      an integral modality in the management of intracranial meningiomas. This 
+      bibliometric analysis sheds the light on the ways in which intracranial 
+      meningiomas have been studied in the past two decades in order to identify trends 
+      among neurosurgeons and radiation oncologists and to reveal areas of rising and 
+      declining focus.
+FAU - Patel, Aneek
+AU  - Patel A
+AD  - Department of Neurosurgery, New York University School of Medicine, New York, NY, 
+      USA.
+FAU - Abdelsalam, Ahmed
+AU  - Abdelsalam A
+AD  - Department of Neurology, Saint Louis University Hospital, St. Louis, MO, USA.
+FAU - Shariff, Rimsha K
+AU  - Shariff RK
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 
+      Pittsburgh, PA, USA.
+FAU - Mallela, Arka N
+AU  - Mallela AN
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 
+      Pittsburgh, PA, USA.
+FAU - Andrews, Edward G
+AU  - Andrews EG
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 
+      Pittsburgh, PA, USA.
+FAU - Tonetti, Daniel A
+AU  - Tonetti DA
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 
+      Pittsburgh, PA, USA.
+FAU - Lunsford, L Dade
+AU  - Lunsford LD
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 
+      Pittsburgh, PA, USA.
+FAU - Abou-Al-Shaar, Hussam
+AU  - Abou-Al-Shaar H
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 
+      Pittsburgh, PA, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20220210
+PL  - England
+TA  - Br J Neurosurg
+JT  - British journal of neurosurgery
+JID - 8800054
+SB  - IM
+MH  - Humans
+MH  - *Meningioma/radiotherapy/surgery
+MH  - *Radiosurgery/methods
+MH  - *Meningeal Neoplasms/radiotherapy/surgery
+MH  - Neurosurgical Procedures
+MH  - Bibliometrics
+MH  - Treatment Outcome
+OTO - NOTNLM
+OT  - CyberKnife
+OT  - Gamma Knife
+OT  - LINAC
+OT  - Meningioma
+OT  - cavernous sinus
+OT  - citation analysis
+OT  - skull base
+OT  - stereotactic radiosurgery
+EDAT- 2022/02/11 06:00
+MHDA- 2023/10/23 00:41
+CRDT- 2022/02/10 08:37
+PHST- 2023/10/23 00:41 [medline]
+PHST- 2022/02/11 06:00 [pubmed]
+PHST- 2022/02/10 08:37 [entrez]
+AID - 10.1080/02688697.2022.2034745 [doi]
+PST - ppublish
+SO  - Br J Neurosurg. 2023 Oct;37(5):1088-1093. doi: 10.1080/02688697.2022.2034745. 
+      Epub 2022 Feb 10.
+
+PMID- 37056872
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20230415
+IS  - 1793-5482 (Print)
+IS  - 2248-9614 (Electronic)
+VI  - 18
+IP  - 1
+DP  - 2023 Mar
+TI  - Bibliometric Analysis of the Top 100 Cited Articles on Stereotactic Radiosurgery 
+      for Trigeminal Neuralgia.
+PG  - 101-107
+LID - 10.1055/s-0043-1761240 [doi]
+AB  - Background  Stereotactic radiosurgical rhizolysis of the trigeminal nerve is an 
+      established modality increasingly employed to alleviate the symptoms of 
+      refractory trigeminal neuralgia. This study analyzes the academic impact of the 
+      top 100 cited articles on the radiosurgical management of trigeminal neuralgia. 
+      Methods  The Scopus database was searched for articles containing "radiosurgery" 
+      and one or more of "trigeminal neuralgia," "trigeminus neuralgia," and "tic 
+      douloureux." The top 100 articles written in English were arranged in descending 
+      order by citation count. Documents were evaluated for authors, publication year, 
+      journal and impact factor, total citations, nationality, study type, 
+      radiosurgical modality, and the affiliated institution. Quantitative and 
+      qualitative analyses were performed on the data. Results  The most cited articles 
+      were published between 1971 and 2019. The average citation per year was 4.3. The 
+      most targeted anatomic area was the "root entry zone" or proximal portion of the 
+      cisternal segment of the trigeminal nerve. The most utilized modality was Gamma 
+      Knife radiosurgery. The country with the highest number of publications was the 
+      United States. Thirty-six percent of the articles were published in the Journal 
+      of Neurosurgery . Lunsford, Kondziolka, Flickinger, and Régis, respectively, were 
+      the most frequently listed co-authors. The most prolific institute was the 
+      University of Pittsburgh Medical Center. Conclusion  Stereotactic radiosurgery is 
+      an important modality in the management of medically or surgically refractory 
+      trigeminal neuralgia. This analysis assesses its contributions over the past five 
+      decades to identify trends in treatment practices for neurosurgeons and to 
+      highlight areas where further study is needed.
+CI  - Asian Congress of Neurological Surgeons. This is an open access article published 
+      by Thieme under the terms of the Creative Commons 
+      Attribution-NonDerivative-NonCommercial License, permitting copying and 
+      reproduction so long as the original work is given appropriate credit. Contents 
+      may not be used for commercial purposes, or adapted, remixed, transformed or 
+      built upon. ( https://creativecommons.org/licenses/by-nc-nd/4.0/ ).
+FAU - Parikh, Parth
+AU  - Parikh P
+AD  - Mayo Clinic Alix School of Medicine, Scottsdale, Arizona, United States.
+FAU - Abdallah, Hussein M
+AU  - Abdallah HM
+AUID- ORCID: 0000-0003-3860-3598
+AD  - University of Pittsburgh School of Medicine, Pittsburgh, Pennsylvania, United 
+      States.
+FAU - Patel, Aneek
+AU  - Patel A
+AUID- ORCID: 0000-0002-4323-3782
+AD  - New York University School of Medicine, New York, New York, United States.
+FAU - Shariff, Rimsha K
+AU  - Shariff RK
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 
+      Pittsburgh, Pennsylvania, United States.
+FAU - Nowicki, Kamil W
+AU  - Nowicki KW
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 
+      Pittsburgh, Pennsylvania, United States.
+FAU - Mallela, Arka N
+AU  - Mallela AN
+AUID- ORCID: 0000-0003-0993-198X
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 
+      Pittsburgh, Pennsylvania, United States.
+FAU - Tonetti, Daniel A
+AU  - Tonetti DA
+AD  - Cooper Neurological Institute, Cooper Medical School of Rowan University, Camden, 
+      New Jersey, United States.
+FAU - Sekula, Raymond F Jr
+AU  - Sekula RF Jr
+AD  - Department of Neurological Surgery, Columbia University Medical Center, New York, 
+      New York, United States.
+AD  - Vagelos College of Physicians and Surgeons, Columbia University, New York, New 
+      York, United States.
+FAU - Lunsford, L Dade
+AU  - Lunsford LD
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 
+      Pittsburgh, Pennsylvania, United States.
+FAU - Abou-Al-Shaar, Hussam
+AU  - Abou-Al-Shaar H
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 
+      Pittsburgh, Pennsylvania, United States.
+LA  - eng
+PT  - Journal Article
+DEP - 20230327
+PL  - India
+TA  - Asian J Neurosurg
+JT  - Asian journal of neurosurgery
+JID - 101564712
+PMC - PMC10089752
+OTO - NOTNLM
+OT  - CyberKnife
+OT  - Gamma Knife
+OT  - LINAC
+OT  - bibliometric analysis
+OT  - stereotactic radiosurgery
+OT  - tic douloureux
+OT  - trigeminal neuralgia
+COIS- Conflict of Interest None declared.
+EDAT- 2023/04/15 06:00
+MHDA- 2023/04/15 06:01
+CRDT- 2023/04/14 02:34
+PHST- 2023/04/15 06:01 [medline]
+PHST- 2023/04/14 02:34 [entrez]
+PHST- 2023/04/15 06:00 [pubmed]
+AID - AJNS-22-10-0018 [pii]
+AID - 10.1055/s-0043-1761240 [doi]
+PST - epublish
+SO  - Asian J Neurosurg. 2023 Mar 27;18(1):101-107. doi: 10.1055/s-0043-1761240. 
+      eCollection 2023 Mar.
+
+PMID- 36519863
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20221219
+LR  - 20230209
+IS  - 1524-4040 (Electronic)
+IS  - 0148-396X (Linking)
+VI  - 92
+IP  - 1
+DP  - 2023 Jan 1
+TI  - Chronic Encapsulated Expanding Hematomas After Stereotactic Radiosurgery for 
+      Intracranial Arteriovenous Malformations: An International Multicenter Case 
+      Series.
+PG  - 195-204
+LID - 10.1227/neu.0000000000002175 [doi]
+AB  - BACKGROUND: Stereotactic radiosurgery (SRS) offers a minimally invasive treatment 
+      modality for appropriately selected intracranial arteriovenous malformations 
+      (AVMs). Recent reports have described the development of rare, delayed chronic 
+      encapsulated expanding hematomas (CEEHs) at the site of an angiographically 
+      confirmed obliterated AVM. OBJECTIVE: To elucidate the incidence, 
+      characteristics, and management of CEEH in patients with AVM after SRS. METHODS: 
+      The records of all patients who underwent SRS for an intracranial AVM at 4 
+      institutions participating in the International Radiosurgery Research Foundation 
+      between 1987 and 2021 were retrospectively reviewed. Data regarding 
+      characteristics of the AVM, SRS treatment parameters, CEEH presentation, 
+      management, and outcomes were collected and analyzed. RESULTS: Among 5430 
+      patients, 15 developed a CEEH at a crude incidence of 0.28%. Nine patients were 
+      female, and the mean age was 43 ± 14.6 years. Nine patients underwent surgical 
+      evacuation, while 6 were managed conservatively. The median CEEH development 
+      latency was 106 months after SRS. The patients were followed for a median of 32 
+      months, and 9 patients improved clinically, while 6 patients remained stable. No 
+      intraoperative complications were reported after CEEH resection, although 1 
+      patient recovered from postoperative meningitis requiring intravenous 
+      antibiotics. CONCLUSION: CEEH is a rare, late complication of AVM SRS with an 
+      incidence of 0.28% and a median latency of 106 months. In the presence of a 
+      delayed and symptomatic expanding hematoma in the bed of an angiographically 
+      obliterated AVM, surgical resection resulted in clinical improvement in most 
+      patients. Conservative management is possible in asymptomatic patients with 
+      stable, small-sized hematomas in deeply seated locations.
+CI  - Copyright © Congress of Neurological Surgeons 2022. All rights reserved.
+FAU - Abou-Al-Shaar, Hussam
+AU  - Abou-Al-Shaar H
+AUID- ORCID: 0000-0002-9120-5970
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 
+      Pittsburgh, Pennsylvania, USA.
+FAU - Patel, Aneek
+AU  - Patel A
+AUID- ORCID: 0000-0002-4323-3782
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 
+      Pittsburgh, Pennsylvania, USA.
+FAU - Mallela, Arka N
+AU  - Mallela AN
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 
+      Pittsburgh, Pennsylvania, USA.
+FAU - Bin-Alamer, Othman
+AU  - Bin-Alamer O
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 
+      Pittsburgh, Pennsylvania, USA.
+FAU - Niranjan, Ajay
+AU  - Niranjan A
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 
+      Pittsburgh, Pennsylvania, USA.
+FAU - Peker, Selcuk
+AU  - Peker S
+AD  - Department of Neurosurgery, Koc University School of Medicine, Istanbul, Turkey.
+FAU - Samanci, Yavuz
+AU  - Samanci Y
+AD  - Department of Neurosurgery, Koc University School of Medicine, Istanbul, Turkey.
+FAU - Liscak, Roman
+AU  - Liscak R
+AD  - Department of Radiation and Stereotactic Neurosurgery, Na Homolce Hospital, 
+      Prague, Czech Republic.
+FAU - May, Jaromir
+AU  - May J
+AD  - Department of Radiation and Stereotactic Neurosurgery, Na Homolce Hospital, 
+      Prague, Czech Republic.
+FAU - Kumar, Jeyan Sathia
+AU  - Kumar JS
+AD  - Department of Neurological Surgery, University of Virginia, Charlottesville, 
+      Virginia, USA.
+FAU - Sheehan, Jason P
+AU  - Sheehan JP
+AD  - Department of Neurological Surgery, University of Virginia, Charlottesville, 
+      Virginia, USA.
+FAU - Lunsford, L Dade
+AU  - Lunsford LD
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 
+      Pittsburgh, Pennsylvania, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Multicenter Study
+DEP - 20221025
+PL  - United States
+TA  - Neurosurgery
+JT  - Neurosurgery
+JID - 7802914
+SB  - IM
+CIN - Neurosurgery. 2023 Feb 1;92(2):e23-e24. PMID: 36637279
+MH  - Humans
+MH  - Female
+MH  - Adult
+MH  - Middle Aged
+MH  - Male
+MH  - *Radiosurgery/adverse effects/methods
+MH  - Retrospective Studies
+MH  - Treatment Outcome
+MH  - *Intracranial Arteriovenous Malformations/complications
+MH  - Hematoma/surgery/complications
+MH  - Follow-Up Studies
+EDAT- 2022/12/16 06:00
+MHDA- 2022/12/20 06:00
+CRDT- 2022/12/15 09:03
+PHST- 2022/04/08 00:00 [received]
+PHST- 2022/08/04 00:00 [accepted]
+PHST- 2022/12/16 06:00 [pubmed]
+PHST- 2022/12/20 06:00 [medline]
+PHST- 2022/12/15 09:03 [entrez]
+AID - 00006123-202301000-00022 [pii]
+AID - 10.1227/neu.0000000000002175 [doi]
+PST - ppublish
+SO  - Neurosurgery. 2023 Jan 1;92(1):195-204. doi: 10.1227/neu.0000000000002175. Epub 
+      2022 Oct 25.
+
+PMID- 36402302
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230215
+LR  - 20230215
+IS  - 1878-8769 (Electronic)
+IS  - 1878-8750 (Linking)
+VI  - 170
+DP  - 2023 Feb
+TI  - United States Neurosurgery Department Program Directors: A Cross-Sectional 
+      Evaluation of Current and Future Trends and Attributes.
+PG  - e550-e557
+LID - S1878-8750(22)01615-1 [pii]
+LID - 10.1016/j.wneu.2022.11.063 [doi]
+AB  - BACKGROUND: While United States (U.S.) neurosurgery residency programs have been 
+      subject to many studies, none have focused solely on the program directors (PDs). 
+      We aim to analyze the demographic, educational, and academic attributes of this 
+      cohort to understand current and future trends of PDs. METHODS: One hundred 
+      sixteen neurosurgeons listed as PDs at U.S. accredited neurosurgical residency 
+      training programs as of August 2022 were assessed. Descriptive data including age 
+      upon acceptance of role, gender, and h-index were collected from publicly 
+      available sources. RESULTS: Most PDs matriculated to their positions before the 
+      age of 45 years, were male, and had been hired internally. Approximately 25% of 
+      PDs had earned an additional degree. Departments with higher aggregate h-indexes 
+      were more likely to hire PDs with higher average publications per year (P < 
+      0.001) and have a higher h-index (P < 0.001). PD subspecialty influenced h-index 
+      (P < 0.05) and total average publications per year (P < 0.05) with neuro-oncology 
+      subspecialists having higher averages in both. More recently hired PDs had a 
+      higher average number of publications per year (P < 0.05) and were more likely to 
+      hold an additional degree (odds ratio 1.14, P < 0.05). Female PDs were hired at a 
+      younger age (P < 0.05). CONCLUSIONS: Neurosurgery PDs typically rise to their 
+      position after 10 years of practice and more recent PD hires are more likely to 
+      have additional degrees and more publications. As academic neurosurgery becomes 
+      more competitive, increased academic productivity and acquisition of additional 
+      degrees will become increasingly necessary.
+CI  - Copyright © 2022 Elsevier Inc. All rights reserved.
+FAU - Plute, Tritan
+AU  - Plute T
+AD  - University of Pittsburgh School of Medicine, Pittsburgh, Pennsylvania, USA.
+FAU - Patel, Aneek
+AU  - Patel A
+AD  - Department of Neurosurgery, NYU Langone Health, New York, New York, USA.
+FAU - Mallela, Arka N
+AU  - Mallela AN
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 
+      Pittsburgh, Pennsylvania, USA.
+FAU - Sefcik, Roberta K
+AU  - Sefcik RK
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 
+      Pittsburgh, Pennsylvania, USA.
+FAU - Hamilton, D Kojo
+AU  - Hamilton DK
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 
+      Pittsburgh, Pennsylvania, USA.
+FAU - Lunsford, L Dade
+AU  - Lunsford LD
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 
+      Pittsburgh, Pennsylvania, USA.
+FAU - Friedlander, Robert M
+AU  - Friedlander RM
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 
+      Pittsburgh, Pennsylvania, USA.
+FAU - Abou-Al-Shaar, Hussam
+AU  - Abou-Al-Shaar H
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 
+      Pittsburgh, Pennsylvania, USA. Electronic address: aboualshaarh@upmc.edu.
+LA  - eng
+PT  - Journal Article
+DEP - 20221117
+PL  - United States
+TA  - World Neurosurg
+JT  - World neurosurgery
+JID - 101528275
+SB  - IM
+MH  - Humans
+MH  - United States
+MH  - Male
+MH  - Female
+MH  - Middle Aged
+MH  - *Neurosurgery/education
+MH  - Cross-Sectional Studies
+MH  - Neurosurgeons
+MH  - *Internship and Residency
+MH  - Neurosurgical Procedures
+OTO - NOTNLM
+OT  - Demographics
+OT  - Funding
+OT  - Neurosurgery
+OT  - Program director
+OT  - Residency
+OT  - h-index
+EDAT- 2022/11/20 06:00
+MHDA- 2023/02/16 06:00
+CRDT- 2022/11/19 19:26
+PHST- 2022/10/05 00:00 [received]
+PHST- 2022/11/13 00:00 [revised]
+PHST- 2022/11/14 00:00 [accepted]
+PHST- 2022/11/20 06:00 [pubmed]
+PHST- 2023/02/16 06:00 [medline]
+PHST- 2022/11/19 19:26 [entrez]
+AID - S1878-8750(22)01615-1 [pii]
+AID - 10.1016/j.wneu.2022.11.063 [doi]
+PST - ppublish
+SO  - World Neurosurg. 2023 Feb;170:e550-e557. doi: 10.1016/j.wneu.2022.11.063. Epub 
+      2022 Nov 17.

@@ -1,0 +1,228 @@
+PMID- 35453114
+TI  - Assessing the differences in operative and patient-reported outcomes between lateral approaches for lumbar fusion: a systematic review and indirect meta-analysis.
+FAU - Bhatti, Atiq Ur Rehman
+AU  - Bhatti AUR
+AD  - 1Mayo Clinic Neuro-Informatics Laboratory, Mayo Clinic, Rochester, Minnesota.
+AD  - 2Department of Neurologic Surgery, Mayo Clinic, Rochester, Minnesota.
+FAU - Cesare, Joseph
+AU  - Cesare J
+AD  - 1Mayo Clinic Neuro-Informatics Laboratory, Mayo Clinic, Rochester, Minnesota.
+AD  - 2Department of Neurologic Surgery, Mayo Clinic, Rochester, Minnesota.
+AD  - 4University of Wisconsin, Madison, Wisconsin.
+FAU - Wahood, Waseem
+AU  - Wahood W
+AD  - 5Dr. Kiran C. Patel College of Allopathic Medicine, Nova Southeastern University, Davie, Florida; and.
+FAU - Alvi, Mohammed Ali
+AU  - Alvi MA
+AD  - 1Mayo Clinic Neuro-Informatics Laboratory, Mayo Clinic, Rochester, Minnesota.
+AD  - 2Department of Neurologic Surgery, Mayo Clinic, Rochester, Minnesota.
+FAU - Onyedimma, Chiduziem E
+AU  - Onyedimma CE
+AD  - 1Mayo Clinic Neuro-Informatics Laboratory, Mayo Clinic, Rochester, Minnesota.
+AD  - 2Department of Neurologic Surgery, Mayo Clinic, Rochester, Minnesota.
+FAU - Ghaith, Abdul Karim
+AU  - Ghaith AK
+AD  - 1Mayo Clinic Neuro-Informatics Laboratory, Mayo Clinic, Rochester, Minnesota.
+AD  - 2Department of Neurologic Surgery, Mayo Clinic, Rochester, Minnesota.
+FAU - Akinnusotu, Oluwatoyin
+AU  - Akinnusotu O
+AD  - 6Meharry Medical College, Nashville, Tennessee.
+FAU - El Sammak, Sally
+AU  - El Sammak S
+AD  - 1Mayo Clinic Neuro-Informatics Laboratory, Mayo Clinic, Rochester, Minnesota.
+AD  - 2Department of Neurologic Surgery, Mayo Clinic, Rochester, Minnesota.
+FAU - Freedman, Brett A
+AU  - Freedman BA
+AD  - 3Department of Orthopedic Surgery, Mayo Clinic, Rochester, Minnesota.
+FAU - Sebastian, Arjun S
+AU  - Sebastian AS
+AD  - 3Department of Orthopedic Surgery, Mayo Clinic, Rochester, Minnesota.
+FAU - Bydon, Mohamad
+AU  - Bydon M
+AD  - 1Mayo Clinic Neuro-Informatics Laboratory, Mayo Clinic, Rochester, Minnesota.
+AD  - 2Department of Neurologic Surgery, Mayo Clinic, Rochester, Minnesota.
+TA  - J Neurosurg Spine
+JT  - Journal of neurosurgery. Spine
+
+
+PMID- 37779135
+TI  - Outcomes following surgical and endovascular treatment of extracranial vertebral artery aneurysms (VAA): a systematic evaluation of the literature.
+FAU - Akinnusotu, Oluwatoyin
+AU  - Akinnusotu O
+AD  - Meharry Medical College, Nashville, TN, USA.
+FAU - Bhatti, Atiq Ur Rehman
+AU  - Bhatti AUR
+AD  - Neuro-Informatics Laboratory, Mayo Clinic College of Medicine and Science, Rochester, MN, USA.
+AD  - Department of Neurological Surgery, Mayo Clinic, Rochester, MN, USA.
+FAU - Ghaith, Abdul Karim
+AU  - Ghaith AK
+AD  - Neuro-Informatics Laboratory, Mayo Clinic College of Medicine and Science, Rochester, MN, USA.
+AD  - Department of Neurological Surgery, Mayo Clinic, Rochester, MN, USA.
+FAU - Nieves, Antonio Bon
+AU  - Nieves AB
+AD  - Neuro-Informatics Laboratory, Mayo Clinic College of Medicine and Science, Rochester, MN, USA.
+AD  - Department of Neurological Surgery, Mayo Clinic, Rochester, MN, USA.
+FAU - Jarrah, Ryan
+AU  - Jarrah R
+AD  - Neuro-Informatics Laboratory, Mayo Clinic College of Medicine and Science, Rochester, MN, USA.
+AD  - Department of Neurological Surgery, Mayo Clinic, Rochester, MN, USA.
+FAU - Wahood, Waseem
+AU  - Wahood W
+AD  - Nova Southeastern University Dr. Kiran C. Patel College of Allopathic Medicine, Davie, FL, 33328, USA.
+FAU - Bydon, Mohamad
+AU  - Bydon M
+AD  - Neuro-Informatics Laboratory, Mayo Clinic College of Medicine and Science, Rochester, MN, USA. bydon.mohamad@mayo.edu.
+AD  - Department of Neurological Surgery, Mayo Clinic, Rochester, MN, USA. bydon.mohamad@mayo.edu.
+FAU - Bendok, Bernard R
+AU  - Bendok BR
+AD  - Department of Neurological Surgery, Mayo Clinic, Phoenix, AZ, USA.
+TA  - Neurosurg Rev
+JT  - Neurosurgical review
+
+
+PMID- 34098570
+TI  - Genome-Wide Association Study Identifies Genetic Risk Factors for Spastic Cerebral Palsy.
+FAU - Hale, Andrew T
+AU  - Hale AT
+AD  - Vanderbilt University School of Medicine, Medical Scientist Training Program, Nashville, Tennessee, USA.
+AD  - Surgical Outcomes Center for Kids, Monroe Carell Jr Children's Hospital of Vanderbilt University, Nashville, Tennessee, USA.
+AD  - Division of Genetic Medicine, Vanderbilt University Medical Center, Nashville, Tennessee, USA.
+FAU - Akinnusotu, Oluwatoyin
+AU  - Akinnusotu O
+AD  - Surgical Outcomes Center for Kids, Monroe Carell Jr Children's Hospital of Vanderbilt University, Nashville, Tennessee, USA.
+FAU - He, Jing
+AU  - He J
+AD  - Department of Bioinformatics, Vanderbilt University Medical Center, Nashville, Tennessee, USA.
+FAU - Wang, Janey
+AU  - Wang J
+AD  - Department of Bioinformatics, Vanderbilt University Medical Center, Nashville, Tennessee, USA.
+FAU - Hibshman, Natalie
+AU  - Hibshman N
+AD  - Surgical Outcomes Center for Kids, Monroe Carell Jr Children's Hospital of Vanderbilt University, Nashville, Tennessee, USA.
+FAU - Shannon, Chevis N
+AU  - Shannon CN
+AD  - Surgical Outcomes Center for Kids, Monroe Carell Jr Children's Hospital of Vanderbilt University, Nashville, Tennessee, USA.
+AD  - Division of Pediatric Neurosurgery, Monroe Carell Jr Children's Hospital of Vanderbilt University, Nashville, Tennessee, USA.
+FAU - Naftel, Robert P
+AU  - Naftel RP
+AD  - Surgical Outcomes Center for Kids, Monroe Carell Jr Children's Hospital of Vanderbilt University, Nashville, Tennessee, USA.
+AD  - Division of Pediatric Neurosurgery, Monroe Carell Jr Children's Hospital of Vanderbilt University, Nashville, Tennessee, USA.
+TA  - Neurosurgery
+JT  - Neurosurgery
+
+
+PMID- 33794495
+TI  - Sport participation and related head injuries following craniosynostosis correction: a survey study.
+FAU - Yengo-Kahn, Aaron M
+AU  - Yengo-Kahn AM
+AD  - Departments of1Neurological Surgery and.
+AD  - 2Surgical Outcomes Center for Kids, Monroe Carell Jr. Children's Hospital at Vanderbilt University; and.
+FAU - Akinnusotu, Oluwatoyin
+AU  - Akinnusotu O
+AD  - 2Surgical Outcomes Center for Kids, Monroe Carell Jr. Children's Hospital at Vanderbilt University; and.
+AD  - 3Meharry Medical College School of Medicine, Nashville, Tennessee.
+FAU - Wiseman, Alyssa L
+AU  - Wiseman AL
+AD  - 2Surgical Outcomes Center for Kids, Monroe Carell Jr. Children's Hospital at Vanderbilt University; and.
+FAU - Owais Abdul Ghani, Muhammad
+AU  - Owais Abdul Ghani M
+AD  - 2Surgical Outcomes Center for Kids, Monroe Carell Jr. Children's Hospital at Vanderbilt University; and.
+AD  - 4Plastic Surgery, Vanderbilt University Medical Center.
+FAU - Shannon, Chevis N
+AU  - Shannon CN
+AD  - Departments of1Neurological Surgery and.
+AD  - 2Surgical Outcomes Center for Kids, Monroe Carell Jr. Children's Hospital at Vanderbilt University; and.
+FAU - Golinko, Michael S
+AU  - Golinko MS
+AD  - 4Plastic Surgery, Vanderbilt University Medical Center.
+FAU - Bonfield, Christopher M
+AU  - Bonfield CM
+AD  - Departments of1Neurological Surgery and.
+AD  - 2Surgical Outcomes Center for Kids, Monroe Carell Jr. Children's Hospital at Vanderbilt University; and.
+TA  - Neurosurg Focus
+JT  - Neurosurgical focus
+
+
+PMID- 37728398
+TI  - Neurosurgical management of cervicomedullary compression, spinal stenosis, and hydrocephalus in pediatric achondroplasia: a systematic review.
+FAU - Akinnusotu, Oluwatoyin
+AU  - Akinnusotu O
+AD  - 1Meharry Medical College, Nashville, Tennessee; and.
+FAU - Isaacs, Albert M
+AU  - Isaacs AM
+AD  - 2Department of Neurosurgery, Vanderbilt University Medical Center, Nashville, Tennessee.
+FAU - Stone, Michelle
+AU  - Stone M
+AD  - 2Department of Neurosurgery, Vanderbilt University Medical Center, Nashville, Tennessee.
+FAU - Bonfield, Christopher M
+AU  - Bonfield CM
+AD  - 2Department of Neurosurgery, Vanderbilt University Medical Center, Nashville, Tennessee.
+TA  - J Neurosurg Pediatr
+JT  - Journal of neurosurgery. Pediatrics
+
+
+PMID- 36849469
+TI  - Supporting Mental Health and Psychological Resilience Among the Health Care Workforce: Gaps in the Evidence and Urgency for Action.
+FAU - Akinnusotu, Oluwatoyin
+AU  - Akinnusotu O
+AD  - Department of Neurosurgery, Mayo Clinic Rochester, Minnesota oakinnusotu19@email.mmc.edu.
+FAU - Bhatti, Atiq
+AU  - Bhatti A
+AD  - Department of Neurosurgery, Mayo Clinic Rochester, Minnesota.
+FAU - Doubeni, Chyke A
+AU  - Doubeni CA
+AD  - Center for Health Equity, The Ohio State University Wexner Medical Center, Columbus, Ohio.
+FAU - Williams, Mark
+AU  - Williams M
+AD  - Department of Psychiatry and Psychology, Mayo Clinic Rochester, Minnesota.
+TA  - Ann Fam Med
+JT  - Annals of family medicine
+
+
+PMID- 33325582
+TI  - Conversion of left atrial volume to diameter for automated estimation of sudden cardiac death risk in hypertrophic cardiomyopathy.
+FAU - Bhopalwala, Huzefa
+AU  - Bhopalwala H
+AD  - Department of Cardiovascular Medicine, Mayo Clinic, Rochester, MN, USA.
+FAU - Dewaswala, Nakeya
+AU  - Dewaswala N
+AD  - Department of Cardiovascular Medicine, Mayo Clinic, Rochester, MN, USA.
+FAU - Liu, Sijia
+AU  - Liu S
+AD  - Department of Health Sciences Research, Mayo Clinic, Rochester, MN, USA.
+FAU - Scott, Christopher G
+AU  - Scott CG
+AD  - Department of Health Sciences Research, Mayo Clinic, Rochester, MN, USA.
+FAU - Welper, James M
+AU  - Welper JM
+AD  - Department of Cardiovascular Medicine, Mayo Clinic, Rochester, MN, USA.
+FAU - Akinnusotu, Oluwatoyin
+AU  - Akinnusotu O
+AD  - Department of Cardiovascular Medicine, Mayo Clinic, Rochester, MN, USA.
+FAU - Bos, Johan Martijn
+AU  - Bos JM
+AD  - Department of Cardiovascular Medicine, Mayo Clinic, Rochester, MN, USA.
+FAU - Ommen, Steve R
+AU  - Ommen SR
+AD  - Department of Cardiovascular Medicine, Mayo Clinic, Rochester, MN, USA.
+FAU - Ackerman, Michael J
+AU  - Ackerman MJ
+AD  - Department of Cardiovascular Medicine, Mayo Clinic, Rochester, MN, USA.
+AD  - Department of Pediatric and Adolescent Medicine, Mayo Clinic, Rochester, MN, USA.
+AD  - Department of Molecular Pharmacology & Experimental Therapeutics, Mayo Clinic, Rochester, MN, USA.
+FAU - Pellikka, Patricia A
+AU  - Pellikka PA
+AD  - Department of Cardiovascular Medicine, Mayo Clinic, Rochester, MN, USA.
+FAU - Geske, Jeffrey B
+AU  - Geske JB
+AD  - Department of Cardiovascular Medicine, Mayo Clinic, Rochester, MN, USA.
+FAU - Noseworthy, Peter
+AU  - Noseworthy P
+AD  - Department of Cardiovascular Medicine, Mayo Clinic, Rochester, MN, USA.
+AD  - Robert D. and Patricia E. Kern Center for the Science of Health Care Delivery, Mayo Clinic, Rochester, MN, USA.
+FAU - Arruda-Olson, Adelaide M
+AU  - Arruda-Olson AM
+AD  - Department of Cardiovascular Medicine, Mayo Clinic, Rochester, MN, USA.
+AD  - Robert D. and Patricia E. Kern Center for the Science of Health Care Delivery, Mayo Clinic, Rochester, MN, USA.
+TA  - Echocardiography
+JT  - Echocardiography (Mount Kisco, N.Y.)

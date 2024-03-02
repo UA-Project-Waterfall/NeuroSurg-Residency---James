@@ -1,0 +1,289 @@
+PMID- 36552186
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20221225
+IS  - 2076-3425 (Print)
+IS  - 2076-3425 (Electronic)
+IS  - 2076-3425 (Linking)
+VI  - 12
+IP  - 12
+DP  - 2022 Dec 16
+TI  - Review of the Treatments for Central Neuropathic Pain.
+LID - 10.3390/brainsci12121727 [doi]
+LID - 1727
+AB  - Central neuropathic pain (CNP) affects millions worldwide, with an estimated 
+      prevalence of around 10% globally. Although there are a wide variety of treatment 
+      options available, due to the complex and multidimensional nature in which CNP 
+      arises and presents symptomatically, many patients still experience painful 
+      symptoms. Pharmaceutical, surgical, non-invasive, cognitive and combination 
+      treatment options offer a generalized starting point for alleviating symptoms; 
+      however, a more customized approach may provide greater benefit. Here, we comment 
+      on the current treatment options that exist for CNP and further suggest the need 
+      for additional research regarding the use of biomarkers to help individualize 
+      treatment options for patients.
+FAU - Sheldon, Breanna L
+AU  - Sheldon BL
+AD  - Department of Neuroscience and Experimental Therapeutics, Albany Medical College, 
+      Albany, NY 12208, USA.
+FAU - Olmsted, Zachary T
+AU  - Olmsted ZT
+AD  - Department of Neuroscience and Experimental Therapeutics, Albany Medical College, 
+      Albany, NY 12208, USA.
+FAU - Sabourin, Shelby
+AU  - Sabourin S
+AD  - Department of Neuroscience and Experimental Therapeutics, Albany Medical College, 
+      Albany, NY 12208, USA.
+FAU - Heydari, Ehsaun
+AU  - Heydari E
+AD  - Department of Neuroscience and Experimental Therapeutics, Albany Medical College, 
+      Albany, NY 12208, USA.
+FAU - Harland, Tessa A
+AU  - Harland TA
+AD  - Department of Neurosurgery, Albany Medical College, Albany, NY 12208, USA.
+FAU - Pilitsis, Julie G
+AU  - Pilitsis JG
+AD  - Department of Neuroscience and Experimental Therapeutics, Albany Medical College, 
+      Albany, NY 12208, USA.
+AD  - Department of Clinical Neuroscience, Charles E. Schmidt College of Medicine, 
+      Florida Atlantic University, Boca Raton, FL 33431, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20221216
+PL  - Switzerland
+TA  - Brain Sci
+JT  - Brain sciences
+JID - 101598646
+PMC - PMC9775950
+OTO - NOTNLM
+OT  - central neuropathic pain (CNP)
+OT  - pharmacological treatment
+OT  - surgical treatment
+COIS- Julie G. Pilitsis receives grant support from Medtronic, Boston Scientific, 
+      Abbott, NIH 2R01CA166379, NIH R01EB030324, NIH Blueprint 3U54EB015408, and NIH 
+      U44NS115111. She is the medical advisor for Aim Medical Robotics and has stock 
+      equity. All other authors have no further or distinct disclosures.
+EDAT- 2022/12/24 06:00
+MHDA- 2022/12/24 06:01
+CRDT- 2022/12/23 01:14
+PHST- 2022/10/24 00:00 [received]
+PHST- 2022/12/08 00:00 [revised]
+PHST- 2022/12/12 00:00 [accepted]
+PHST- 2022/12/23 01:14 [entrez]
+PHST- 2022/12/24 06:00 [pubmed]
+PHST- 2022/12/24 06:01 [medline]
+AID - brainsci12121727 [pii]
+AID - brainsci-12-01727 [pii]
+AID - 10.3390/brainsci12121727 [doi]
+PST - epublish
+SO  - Brain Sci. 2022 Dec 16;12(12):1727. doi: 10.3390/brainsci12121727.
+
+PMID- 35944492
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230118
+LR  - 20230127
+IS  - 1423-0372 (Electronic)
+IS  - 1011-6125 (Linking)
+VI  - 100
+IP  - 5-6
+DP  - 2022
+TI  - Botulinum Toxin as an Effective Treatment for Trigeminal Neuralgia in Surgical 
+      Practices.
+PG  - 314-320
+LID - 10.1159/000526053 [doi]
+AB  - BACKGROUND: Trigeminal neuralgia (TN) is a common cause of craniofacial pain with 
+      many medical and surgical therapies, all of which are imperfect. We examine the 
+      use of botulinum toxin type-A (BTX-A) as an intermediary approach in surgical 
+      practices. METHODS: We retrospectively identified TN patients seen by both pain 
+      neurology and neurosurgery at our center. Demographics were collected. Pain 
+      intensity was assessed using the numerical rating scale (NRS) and compared from 
+      baseline to after BTX-A treatment via paired t test. Responder status was 
+      assessed, and success of BTX-A was determined for each cohort. Doses of common 
+      medications were compared between baseline visit and the most recent BTX-A 
+      administration visit. RESULTS: Thirty-one patients underwent BTX-A therapy for 
+      TN, 24 (77%) female and 7 (23%) male. Mean age was 62.5 ± 3.1 years and 29 (94%) 
+      identified as white. When divided into cohorts according to indication, 11 (35%) 
+      failed prior TN surgery, 9 (29%) either declined surgery or were poor surgical 
+      candidates, 4 (13%) had multiple sclerosis, 4 (13%) had trigeminal neuropathic 
+      pain, and 3 (10%) had atypical TN with pain in additional dermatomes outside the 
+      trigeminal distribution. Significant reductions in NRS from baseline to following 
+      initial BTX-A treatment were seen in the declined/high risk for surgery (p = 
+      0.004) and those who failed prior TN surgery (p = 0.035) groups. No significant 
+      variation in demographics was found between any two groups (p > 0.05 for all). 
+      Finally, there was no significant reduction in total daily dose of gabapentin, 
+      carbamazepine, oxcarbazepine, baclofen, or lamotrigine in BTX-A responders (p > 
+      0.05 for all). DISCUSSION: Indication is an important predictor for BTX-A, with 
+      classical TN patients exhibiting the highest response rates. This research 
+      highlights the viability of BTX-A as an important tool in the arsenal of 
+      providers seeking to treat TN in a minimally invasive manner.
+CI  - © 2022 S. Karger AG, Basel.
+FAU - Tangney, Thomas
+AU  - Tangney T
+AD  - Department of Neuroscience and Experimental Therapeutics, Albany Medical College, 
+      Albany, New York, USA.
+FAU - Heydari, Ehsaun S
+AU  - Heydari ES
+AD  - Department of Neuroscience and Experimental Therapeutics, Albany Medical College, 
+      Albany, New York, USA.
+FAU - Sheldon, Breanna L
+AU  - Sheldon BL
+AD  - Department of Neuroscience and Experimental Therapeutics, Albany Medical College, 
+      Albany, New York, USA.
+FAU - Shetty, Amit
+AU  - Shetty A
+AD  - Department of Neurology, Albany Medical College, Comprehensive Pain Center, 
+      Albany Medical Center, Albany, New York, USA.
+FAU - Argoff, Charles E
+AU  - Argoff CE
+AD  - Department of Neurology, Albany Medical College, Comprehensive Pain Center, 
+      Albany Medical Center, Albany, New York, USA.
+FAU - Khazen, Olga
+AU  - Khazen O
+AD  - Department of Neuroscience and Experimental Therapeutics, Albany Medical College, 
+      Albany, New York, USA.
+FAU - Pilitsis, Julie G
+AU  - Pilitsis JG
+AD  - Department of Neuroscience and Experimental Therapeutics, Albany Medical College, 
+      Albany, New York, USA.
+AD  - Department of Neurosurgery, Albany Medical Center, Albany, New York, USA.
+LA  - eng
+GR  - R01 CA166379/CA/NCI NIH HHS/United States
+GR  - U44 NS115111/NS/NINDS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20220809
+PL  - Switzerland
+TA  - Stereotact Funct Neurosurg
+JT  - Stereotactic and functional neurosurgery
+JID - 8902881
+RN  - EC 3.4.24.69 (Botulinum Toxins, Type A)
+SB  - IM
+MH  - Humans
+MH  - Male
+MH  - Female
+MH  - Middle Aged
+MH  - Aged
+MH  - *Trigeminal Neuralgia/drug therapy/surgery
+MH  - Retrospective Studies
+MH  - *Botulinum Toxins, Type A/therapeutic use
+MH  - *Neuralgia
+MH  - Treatment Outcome
+OTO - NOTNLM
+OT  - Botulinum toxin
+OT  - Facial pain
+OT  - Functional neurosurgery
+OT  - Multiple sclerosis
+OT  - Neuropathic pain
+OT  - Trigeminal neuralgia
+EDAT- 2022/08/10 06:00
+MHDA- 2023/01/19 06:00
+CRDT- 2022/08/09 18:29
+PHST- 2022/04/18 00:00 [received]
+PHST- 2022/06/29 00:00 [accepted]
+PHST- 2022/08/10 06:00 [pubmed]
+PHST- 2023/01/19 06:00 [medline]
+PHST- 2022/08/09 18:29 [entrez]
+AID - 000526053 [pii]
+AID - 10.1159/000526053 [doi]
+PST - ppublish
+SO  - Stereotact Funct Neurosurg. 2022;100(5-6):314-320. doi: 10.1159/000526053. Epub 
+      2022 Aug 9.
+
+PMID- 35648585
+OWN - NLM
+STAT- Publisher
+LR  - 20240216
+IS  - 2385-2011 (Electronic)
+IS  - 1591-0199 (Linking)
+DP  - 2022 Jun 1
+TI  - Developing a fast-track discharge protocol for patients with cerebral aneurysms 
+      treated via neuroendovascular techniques.
+PG  - 15910199221104616
+LID - 10.1177/15910199221104616 [doi]
+AB  - INTRODUCTION: As we emerge from the current pandemic, hospitals, staff, and 
+      resources will need to continue to adjust to meet ongoing healthcare demands. 
+      Lessons learned during past shortages can be used to optimize peri-procedural 
+      protocols to safely improve the utilization of hospital resources. METHODS: 
+      Retrospective review of patients who underwent elective endovascular intracranial 
+      aneurysm treatment was performed. Multivariable logistic regression was used to 
+      identify factors associated with patients who were able to be discharged within 
+      24 h of elective procedures. Rates of complications (particularly readmission) 
+      were determined. RESULTS: 330 patients underwent elective endovascular aneurysm 
+      treatment with 86 (26.1%) discharged within 24 h. Factors associated with earlier 
+      discharge included procedure years (2019-2021) and male sex. Patients were more 
+      likely to be discharged later (after 24 h) if they underwent stent-coil 
+      embolization or flow-diversion. There was no association between discharge timing 
+      and likelihood of readmission. DISCUSSION: Our review highlights the safety of 
+      earlier discharge and allowed us to prepare a fast-track protocol for same-day 
+      discharge in these patients. This protocol will be studied prospectively in the 
+      next phase of this study. As we gain more comfort with emerging, minimally 
+      invasive endovascular therapies, we hope to safely achieve same-day discharge on 
+      a protocolized and routine basis, reducing the demand of elective aneurysm 
+      treatments on our healthcare system. CONCLUSION: We retrospectively demonstrate 
+      that early discharge following elective aneurysm treatment is safe in our cohort 
+      and provide a fast-track pathway based on these findings for other centers 
+      developing similar protocols.
+FAU - Entezami, Pouya
+AU  - Entezami P
+AUID- ORCID: 0000-0003-0208-049X
+AD  - Department of Neurosurgery, 138207Albany Medical Center, Albany, NY, USA.
+FAU - Rock, Andrew K
+AU  - Rock AK
+AD  - Department of Neurosurgery, 138207Albany Medical Center, Albany, NY, USA.
+FAU - Topp, Gregory P
+AU  - Topp GP
+AD  - Department of Neurosurgery, 138207Albany Medical Center, Albany, NY, USA.
+FAU - Heydari, Ehsaun S
+AU  - Heydari ES
+AD  - Department of Neurosurgery, 138207Albany Medical Center, Albany, NY, USA.
+FAU - Field, Nicholas C
+AU  - Field NC
+AUID- ORCID: 0000-0003-4735-196X
+AD  - Department of Neurosurgery, 138207Albany Medical Center, Albany, NY, USA.
+FAU - Boulos, Alan S
+AU  - Boulos AS
+AD  - Department of Neurosurgery, 138207Albany Medical Center, Albany, NY, USA.
+FAU - Dalfino, John C
+AU  - Dalfino JC
+AD  - Department of Neurosurgery, 138207Albany Medical Center, Albany, NY, USA.
+FAU - Yamamoto, Junichi
+AU  - Yamamoto J
+AD  - Department of Neurosurgery, 138207Albany Medical Center, Albany, NY, USA.
+FAU - Pilitsis, Julie G
+AU  - Pilitsis JG
+AD  - Department of Neuroscience, 1782Florida Atlantic University, Boca Raton, FL, USA.
+FAU - Cherukupalli, Divya
+AU  - Cherukupalli D
+AD  - Department of Anesthesiology, 138207Albany Medical Center, Albany, NY, USA.
+FAU - McCallum, Sarah E
+AU  - McCallum SE
+AD  - Department of Neuroscience and Experimental Therapeutics, 1092Albany Medical 
+      College, Albany, NY, USA.
+FAU - Paul, Alexandra R
+AU  - Paul AR
+AD  - Department of Neurosurgery, 138207Albany Medical Center, Albany, NY, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20220601
+PL  - United States
+TA  - Interv Neuroradiol
+JT  - Interventional neuroradiology : journal of peritherapeutic neuroradiology, 
+      surgical procedures and related neurosciences
+JID - 9602695
+SB  - IM
+OTO - NOTNLM
+OT  - Aneurysm
+OT  - embolization
+OT  - enhanced recovery after surgery
+OT  - neuroendovascular
+OT  - stent
+EDAT- 2022/06/02 06:00
+MHDA- 2022/06/02 06:00
+CRDT- 2022/06/01 12:31
+PHST- 2022/06/01 12:31 [entrez]
+PHST- 2022/06/02 06:00 [pubmed]
+PHST- 2022/06/02 06:00 [medline]
+AID - 10.1177/15910199221104616 [doi]
+PST - aheadofprint
+SO  - Interv Neuroradiol. 2022 Jun 1:15910199221104616. doi: 10.1177/15910199221104616.

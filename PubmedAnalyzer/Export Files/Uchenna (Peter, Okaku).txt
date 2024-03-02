@@ -1,0 +1,543 @@
+PMID- 37466685
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240103
+LR  - 20240106
+IS  - 1433-0350 (Electronic)
+IS  - 0256-7040 (Linking)
+VI  - 40
+IP  - 1
+DP  - 2024 Jan
+TI  - Global pediatric craniopharyngioma management modalities and outcomes.
+PG  - 47-56
+LID - 10.1007/s00381-023-06088-8 [doi]
+AB  - INTRODUCTION: Pediatric craniopharyngioma is a complex pathology, with optimal 
+      management involving a multidisciplinary approach and thoughtful care 
+      coordination. To date, no studies have compared various treatment modalities and 
+      outcomes described in different global regions. We conducted a comprehensive 
+      systematic review to compare demographics, clinical presentation, treatment 
+      approach and outcomes of children diagnosed with craniopharyngioma globally. 
+      METHODS: A systematic review was conducted in accordance with the Preferred 
+      Reporting Item for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. 
+      Search terms included "craniopharyngioma" and country-specific terms. Inclusion 
+      criteria included full-text studies published between 2000-2022, primarily 
+      examining pediatric patients 18-years old or younger diagnosed with 
+      craniopharyngioma, and reporting management and outcomes of interest. Data 
+      extracted included country of origin, demographical data, initial presentation 
+      and treatment modality, and outcomes. Descriptive statistics and between-group 
+      comparisons based on country of origin were performed. RESULTS: Of 797 search 
+      results, 35 articles were included, mostly originating from high-income countries 
+      (HIC) (n = 25, 71.4%). No studies originated from low-income countries (LIC). 
+      When comparing HIC to middle-income countries (MIC), no differences in patient 
+      demographics were observed. No differences in symptomatology at initial 
+      presentation, tumor type, surgical approach or extent of surgical resection were 
+      observed. HIC patients undergoing intracystic therapy were more likely to receive 
+      bleomycin (n = 48, 85.7%), while the majority of MIC patients received interferon 
+      therapy (n = 10, 62.5%). All MIC patients undergoing radiation therapy underwent 
+      photon therapy (n = 102). No statistically significant differences were observed 
+      in postoperative complications or mean follow-up duration between HIC and MIC 
+      (78.1 ± 32.2 vs. 58.5 ± 32.1 months, p = 0.241). CONCLUSION: Pediatric 
+      craniopharyngioma presents and is managed similarly across the globe. However, no 
+      studies originating from LICs and resource-poor regions examine presentation and 
+      management to date, representing a significant knowledge gap that must be 
+      addressed to complete the global picture of pediatric craniopharyngioma burden 
+      and management.
+CI  - © 2023. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+      part of Springer Nature.
+FAU - Tang, Alan R
+AU  - Tang AR
+AD  - Vanderbilt University School of Medicine, TN, Nashville, USA.
+FAU - Haizel-Cobbina, Joseline
+AU  - Haizel-Cobbina J
+AD  - Department of Neurological Surgery, Division of Pediatric Neurological Surgery, 
+      Vanderbilt University Medical Center, 2200 Children's Way, 9226 Doctors Office 
+      Tower, TN, 37232-9557, Nashville, USA.
+AD  - Vanderbilt Institute for Global Health, Vanderbilt University Medical Center, 
+      Nashville, TN, USA.
+FAU - Khalid, Muhammad Usman
+AU  - Khalid MU
+AD  - Department of Neurological Surgery, University of Kentucky College of Medicine, 
+      Lexington, KY, USA.
+FAU - Peter-Okaka, Uchenna I
+AU  - Peter-Okaka UI
+AD  - Department of Neurosurgery, Rutgers University, New Brunswick, NJ, USA.
+FAU - Prosak, Olivia L
+AU  - Prosak OL
+AD  - Vanderbilt University School of Medicine, TN, Nashville, USA.
+FAU - Mushtaq, Naureen
+AU  - Mushtaq N
+AD  - Department of Oncology, Section of Pediatric Oncology, Aga Khan University 
+      Hospital, Karachi, Pakistan.
+FAU - Dewan, Michael C
+AU  - Dewan MC
+AD  - Department of Neurological Surgery, Division of Pediatric Neurological Surgery, 
+      Vanderbilt University Medical Center, 2200 Children's Way, 9226 Doctors Office 
+      Tower, TN, 37232-9557, Nashville, USA. michael.dewan@vumc.org.
+AD  - Vanderbilt Institute for Global Health, Vanderbilt University Medical Center, 
+      Nashville, TN, USA. michael.dewan@vumc.org.
+LA  - eng
+PT  - Journal Article
+PT  - Systematic Review
+DEP - 20230719
+PL  - Germany
+TA  - Childs Nerv Syst
+JT  - Child's nervous system : ChNS : official journal of the International Society for 
+      Pediatric Neurosurgery
+JID - 8503227
+SB  - IM
+MH  - Humans
+MH  - Child
+MH  - Adolescent
+MH  - *Craniopharyngioma/therapy/diagnosis
+MH  - Postoperative Complications
+MH  - Immunotherapy
+MH  - *Pituitary Neoplasms/therapy/diagnosis
+OTO - NOTNLM
+OT  - High-income countries
+OT  - Low-income countries
+OT  - Low-middle income countries
+OT  - Outcomes
+OT  - Pediatric craniopharyngioma
+OT  - Treatment
+OT  - Upper-middle countries
+EDAT- 2023/07/19 13:06
+MHDA- 2024/01/03 09:43
+CRDT- 2023/07/19 11:05
+PHST- 2023/06/26 00:00 [received]
+PHST- 2023/07/17 00:00 [accepted]
+PHST- 2024/01/03 09:43 [medline]
+PHST- 2023/07/19 13:06 [pubmed]
+PHST- 2023/07/19 11:05 [entrez]
+AID - 10.1007/s00381-023-06088-8 [pii]
+AID - 10.1007/s00381-023-06088-8 [doi]
+PST - ppublish
+SO  - Childs Nerv Syst. 2024 Jan;40(1):47-56. doi: 10.1007/s00381-023-06088-8. Epub 
+      2023 Jul 19.
+
+PMID- 38383364
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240223
+LR  - 20240224
+IS  - 1471-2474 (Electronic)
+IS  - 1471-2474 (Linking)
+VI  - 25
+IP  - 1
+DP  - 2024 Feb 21
+TI  - Are there any benefits for post-operative splinting after carpal tunnel release? 
+      A systematic review and meta-analysis.
+PG  - 163
+LID - 10.1186/s12891-024-07230-6 [doi]
+LID - 163
+AB  - BACKGROUND: There is a controversy on the effectiveness of post-operating 
+      splinting in patients with carpal tunnel release (CTR) surgery. This study aimed 
+      to systematically evaluate various outcomes regarding the effectiveness of 
+      post-operating splinting in CTR surgery. METHODS: Multiple databases, including 
+      PubMed, EMBASE, CINAHL, Web of Science, and Cochrane, were searched for terms 
+      related to carpal tunnel syndrome. A total of eight studies involving 596 
+      patients were included in this meta-analysis. The quality of studies was 
+      evaluated, and their risk of bias was calculated using the methodological index 
+      for non-randomized studies (MINORS) and Cochrane's collaboration tool for 
+      assessing the risk of bias in randomized controlled trials. Data including the 
+      visual analogue scale (VAS), pinch strength, grip strength, two-point 
+      discrimination, symptom severity score (SSS), and functional status scale (FSS) 
+      were extracted. RESULTS: Our analysis showed no significant differences between 
+      the splinted and non-splinted groups based on the VAS, SSS, FSS, grip strength, 
+      pinch strength, and two-point discrimination. The calculated values of the 
+      standardized mean difference (SMD) or the weighted mean difference (WMD) and a 
+      95% confidence interval (CI) for different variables were as follows: VAS 
+      [SMD = 0.004, 95% CI (-0.214, 0.222)], pinch strength [WMD = 1.061, 95% CI 
+      (-0.559, 2.681)], grip strength [SMD = 0.178, 95% CI (-0.014, 0.369)], SSS 
+      [WMD = 0.026, 95% CI (- 0.191, 0.242)], FSS [SMD = 0.089, 95% CI (-0.092, 
+      0.269)], and the two-point discrimination [SMD = 0.557, 95% CI (-0.140, 1.253)]. 
+      CONCLUSIONS: Our findings revealed no statistically significant differences 
+      between the splinted and non-splinted groups in terms of the VAS, SSS, FSS, grip 
+      strength, pinch strength, and two-point discrimination. These results indicate 
+      that there is no substantial evidence supporting a significant advantage of 
+      post-operative splinting after CTR.
+CI  - © 2024. The Author(s).
+FAU - Peter-Okaka, Uchenna I
+AU  - Peter-Okaka UI
+AD  - Department of Neurosurgery, Rutgers University New-Brunswick, Moncton, NJ, USA.
+FAU - Shiri, Samira
+AU  - Shiri S
+AD  - Clinical Research Development Center, Taleghani and Imam Ali Hospital, Kermanshah 
+      University of Medical Sciences, Kermanshah, Iran.
+FAU - Owodunni, Oluwafemi
+AU  - Owodunni O
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, NM, 
+      USA.
+FAU - Bagheri, Seyed Reza
+AU  - Bagheri SR
+AD  - Department of Neurosurgery, Kermanshah University of Medical Sciences, 
+      Kermanshah, Iran.
+FAU - Jalilian, Amir
+AU  - Jalilian A
+AD  - Kermanshah University of Medical Sciences, Kermanshah, Iran.
+FAU - Uzoukwu, Cynthia
+AU  - Uzoukwu C
+AD  - Northeast Ohio Medical University, Rootstown, OH, USA.
+FAU - Eden, Sonia
+AU  - Eden S
+AD  - Semmes Murphey Clinic and University of Tennessee Health Science Center, Memphis, 
+      TN, USA.
+FAU - Alimohammadi, Ehsan
+AU  - Alimohammadi E
+AD  - Department of Neurosurgery, Kermanshah University of Medical Sciences, 
+      Kermanshah, Iran. hafez125@gmail.com.
+LA  - eng
+PT  - Journal Article
+PT  - Meta-Analysis
+PT  - Systematic Review
+DEP - 20240221
+PL  - England
+TA  - BMC Musculoskelet Disord
+JT  - BMC musculoskeletal disorders
+JID - 100968565
+SB  - IM
+MH  - Humans
+MH  - *Carpal Tunnel Syndrome/diagnosis/surgery
+MH  - Hand Strength
+MH  - Pinch Strength
+MH  - Splints
+MH  - Pain Measurement
+PMC - PMC10880356
+OTO - NOTNLM
+OT  - Carpal tunnel release
+OT  - Functional status scale
+OT  - Postoperative care
+OT  - Splinting
+OT  - Symptom severity score
+COIS- The authors declare no competing interests.
+EDAT- 2024/02/22 00:42
+MHDA- 2024/02/23 06:43
+CRDT- 2024/02/21 23:35
+PHST- 2023/05/27 00:00 [received]
+PHST- 2024/01/24 00:00 [accepted]
+PHST- 2024/02/23 06:43 [medline]
+PHST- 2024/02/22 00:42 [pubmed]
+PHST- 2024/02/21 23:35 [entrez]
+AID - 10.1186/s12891-024-07230-6 [pii]
+AID - 7230 [pii]
+AID - 10.1186/s12891-024-07230-6 [doi]
+PST - epublish
+SO  - BMC Musculoskelet Disord. 2024 Feb 21;25(1):163. doi: 10.1186/s12891-024-07230-6.
+
+PMID- 37246860
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230719
+LR  - 20231011
+IS  - 1524-4040 (Electronic)
+IS  - 0148-396X (Linking)
+VI  - 93
+IP  - 2
+DP  - 2023 Aug 1
+TI  - Letter: A Pathway to Safe Spine Surgery in Underweight Frail Patients: The 
+      Revised Risk Analysis Index Displays Remarkable Discrimination for 30-Day 
+      Postoperative Mortality and Nonhome Discharge.
+PG  - e42-e45
+LID - 10.1227/neu.0000000000002550 [doi]
+FAU - Owodunni, Oluwafemi P
+AU  - Owodunni OP
+AUID- ORCID: 0000-0003-4610-2574
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque , New 
+      Mexico , USA.
+AD  - Department of Surgery, Bowers Neurosurgical Frailty and Outcomes Data Science 
+      Lab, Albuquerque , New Mexico , USA.
+FAU - Peter-Okaka, Uchenna
+AU  - Peter-Okaka U
+AD  - Department of Surgery, Bowers Neurosurgical Frailty and Outcomes Data Science 
+      Lab, Albuquerque , New Mexico , USA.
+AD  - Department of Surgery, West Virginia University School of Medicine, Morgantown , 
+      West Virginia , USA.
+FAU - Courville, Evan N
+AU  - Courville EN
+AUID- ORCID: 0000-0002-9605-0146
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque , New 
+      Mexico , USA.
+AD  - Department of Surgery, Bowers Neurosurgical Frailty and Outcomes Data Science 
+      Lab, Albuquerque , New Mexico , USA.
+FAU - Schmidt, Meic H
+AU  - Schmidt MH
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque , New 
+      Mexico , USA.
+AD  - Department of Surgery, Bowers Neurosurgical Frailty and Outcomes Data Science 
+      Lab, Albuquerque , New Mexico , USA.
+FAU - Bowers, Christian A
+AU  - Bowers CA
+AUID- ORCID: 0000-0001-6299-503
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque , New 
+      Mexico , USA.
+AD  - Department of Surgery, Bowers Neurosurgical Frailty and Outcomes Data Science 
+      Lab, Albuquerque , New Mexico , USA.
+LA  - eng
+PT  - Letter
+DEP - 20230529
+PL  - United States
+TA  - Neurosurgery
+JT  - Neurosurgery
+JID - 7802914
+SB  - IM
+MH  - Humans
+MH  - Aged
+MH  - *Patient Discharge
+MH  - *Frail Elderly
+MH  - Thinness
+MH  - Risk Assessment
+MH  - Risk Factors
+MH  - Postoperative Complications/epidemiology
+MH  - Retrospective Studies
+EDAT- 2023/05/29 13:05
+MHDA- 2023/07/19 06:42
+CRDT- 2023/05/29 09:03
+PHST- 2023/04/19 00:00 [received]
+PHST- 2023/04/19 00:00 [accepted]
+PHST- 2023/07/19 06:42 [medline]
+PHST- 2023/05/29 13:05 [pubmed]
+PHST- 2023/05/29 09:03 [entrez]
+AID - 00006123-202308000-00041 [pii]
+AID - 10.1227/neu.0000000000002550 [doi]
+PST - ppublish
+SO  - Neurosurgery. 2023 Aug 1;93(2):e42-e45. doi: 10.1227/neu.0000000000002550. Epub 
+      2023 May 29.
+
+PMID- 37625550
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231204
+LR  - 20240123
+IS  - 1878-1632 (Electronic)
+IS  - 1529-9430 (Linking)
+VI  - 23
+IP  - 12
+DP  - 2023 Dec
+TI  - A comprehensive analysis of the triad of frailty, aging, and obesity in spine 
+      surgery: the risk analysis index predicted 30-day mortality with superior 
+      discrimination.
+PG  - 1778-1789
+LID - S1529-9430(23)03348-X [pii]
+LID - 10.1016/j.spinee.2023.08.008 [doi]
+AB  - BACKGROUND CONTEXT: The United States has experienced substantial shifts in its 
+      population dynamics due to an aging population and increasing obesity rates. 
+      Nonetheless, there is limited data about the interplay between the triad of 
+      frailty, aging, and obesity. PURPOSE: To investigate discriminative thresholds 
+      and independent associations of the Risk Analysis Index (RAI), Modified Frailty 
+      Index-5 (mFI-5), and greater patient age. STUDY DESIGN: An observational 
+      retrospective cohort study. PATIENT SAMPLE: We analyzed 49,754 spine surgery 
+      patients from the American College of Surgeons National Surgical Quality 
+      Improvement Program database from 2012 to 2020. OUTCOME MEASURE: A total of 
+      30-day postoperative mortality. METHODS: Using receiver operating characteristic 
+      (ROC) and multivariable (odds ratios [OR] and 95% confidence intervals [CI]) 
+      analyses, we compared the discriminative thresholds and independent associations 
+      of RAI, mFI-5, and greater patient age in elderly obese patients who underwent 
+      spine surgery. RESULTS: There were 49,754 spine surgery patients, with a median 
+      age of 71 years (IQR: 68-75), largely white (82.6%) and male (51.9%). The ROC 
+      analysis for 30-day postoperative mortality demonstrated superior discrimination 
+      for RAI (C-statistic 0.779, 95%CI 0.54-0.805) compared to mFI-5 (C-statistic 
+      0.623, 95% CI 0.594-0.651) and greater patient age (C-statistic 0.627, 95% CI 
+      0.598-0.656). Multivariable analyses revealed a dose-dependent association and a 
+      larger effect magnitude for RAI: frail patients OR: 19.52 (95% CI 18.29-20.82) 
+      and very frail patients OR: 65.81 (95% CI 62.32-69.50). A similar trend was 
+      observed in the interaction evaluating RAI-age-obesity (p<.001). CONCLUSION: Our 
+      study highlights a strong association between frailty and 30-day postoperative 
+      mortality in elderly obese spine patients, revealing a dose-dependent 
+      relationship. The RAI has superior discrimination than the mFI-5 and greater 
+      patient age in predicting 30-day postoperative mortality after spine surgery. 
+      Using the RAI in preoperative assessments may improve outcomes and help 
+      healthcare providers effectively communicate accurate surgical risks and 
+      potential benefits, set realistic recovery expectations, and enhances patient 
+      satisfaction.
+CI  - Copyright © 2023. Published by Elsevier Inc.
+FAU - Owodunni, Oluwafemi P
+AU  - Owodunni OP
+AD  - Department of Emergency Medicine, University of New Mexico Hospital, MSC11 6025, 
+      1 University of New Mexico, Albuquerque, NM 87131, USA; Bowers Neurosurgical 
+      Frailty and Outcomes Data Science Lab, Albuquerque, NM, USA. Electronic address: 
+      oowodunni@salud.unm.edu.
+FAU - Yocky, Alyssa G
+AU  - Yocky AG
+AD  - Bowers Neurosurgical Frailty and Outcomes Data Science Lab, Albuquerque, NM, USA; 
+      University of New Mexico School of Medicine, 2501 Frontier Ave NE, Albuquerque, 
+      NM 87106, USA.
+FAU - Courville, Evan N
+AU  - Courville EN
+AD  - Bowers Neurosurgical Frailty and Outcomes Data Science Lab, Albuquerque, NM, USA; 
+      Department of Neurosurgical Surgery, University of New Mexico Hospital, MSC08 
+      4720 1 UNM, Albuquerque, NM 87131, USA.
+FAU - Peter-Okaka, Uchenna
+AU  - Peter-Okaka U
+AD  - Bowers Neurosurgical Frailty and Outcomes Data Science Lab, Albuquerque, NM, USA; 
+      West Virginia University School of Medicine, 64 Medical Center Dr, Morgantown, WV 
+      26506, USA.
+FAU - Alare, Kehinde P
+AU  - Alare KP
+AD  - Bowers Neurosurgical Frailty and Outcomes Data Science Lab, Albuquerque, NM, USA.
+FAU - Schmidt, Meic
+AU  - Schmidt M
+AD  - Bowers Neurosurgical Frailty and Outcomes Data Science Lab, Albuquerque, NM, USA; 
+      Department of Neurosurgical Surgery, University of New Mexico Hospital, MSC08 
+      4720 1 UNM, Albuquerque, NM 87131, USA.
+FAU - Alunday, Robert
+AU  - Alunday R
+AD  - Department of Emergency Medicine, University of New Mexico Hospital, MSC11 6025, 
+      1 University of New Mexico, Albuquerque, NM 87131, USA; Department of 
+      Neurosurgical Surgery, University of New Mexico Hospital, MSC08 4720 1 UNM, 
+      Albuquerque, NM 87131, USA; Center for Adult Critical Care, University of New 
+      Mexico Hospital, 2211 Lomas Blvd NE, Albuquerque, NM 8710, USA.
+FAU - Greene-Chandos, Diana
+AU  - Greene-Chandos D
+AD  - Center for Adult Critical Care, University of New Mexico Hospital, 2211 Lomas 
+      Blvd NE, Albuquerque, NM 8710, USA; Department of Neurology, University of New 
+      Mexico Hospital, MSC08 4720 1 UNM, Albuquerque, NM 87131, USA.
+FAU - Bowers, Christian A
+AU  - Bowers CA
+AD  - Bowers Neurosurgical Frailty and Outcomes Data Science Lab, Albuquerque, NM, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Observational Study
+DEP - 20230823
+PL  - United States
+TA  - Spine J
+JT  - The spine journal : official journal of the North American Spine Society
+JID - 101130732
+SB  - IM
+MH  - Aged
+MH  - Humans
+MH  - Male
+MH  - Aging
+MH  - *Frailty/complications
+MH  - Obesity/complications/epidemiology
+MH  - Postoperative Complications/epidemiology
+MH  - Retrospective Studies
+MH  - Risk Assessment
+MH  - Risk Factors
+MH  - United States
+MH  - Female
+OTO - NOTNLM
+OT  - 30-day mortality
+OT  - Aging
+OT  - Frailty
+OT  - Modified frailty index-5
+OT  - Obesity
+OT  - Risk analysis index
+COIS- Declaration of Competing Interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2023/08/26 05:41
+MHDA- 2023/11/27 12:44
+CRDT- 2023/08/25 19:26
+PHST- 2023/04/25 00:00 [received]
+PHST- 2023/08/09 00:00 [revised]
+PHST- 2023/08/13 00:00 [accepted]
+PHST- 2023/11/27 12:44 [medline]
+PHST- 2023/08/26 05:41 [pubmed]
+PHST- 2023/08/25 19:26 [entrez]
+AID - S1529-9430(23)03348-X [pii]
+AID - 10.1016/j.spinee.2023.08.008 [doi]
+PST - ppublish
+SO  - Spine J. 2023 Dec;23(12):1778-1789. doi: 10.1016/j.spinee.2023.08.008. Epub 2023 
+      Aug 23.
+
+PMID- 38110501
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240228
+LR  - 20240229
+IS  - 1476-5497 (Electronic)
+IS  - 0307-0565 (Linking)
+VI  - 48
+IP  - 3
+DP  - 2024 Mar
+TI  - Multiplicative effect of frailty and obesity on postoperative mortality following 
+      spine surgery: a deep dive into the frailty, obesity, and Clavien-Dindo dynamic.
+PG  - 360-369
+LID - 10.1038/s41366-023-01423-0 [doi]
+AB  - BACKGROUND/OBJECTIVES: Obesity is a global health challenge that affects a large 
+      proportion of adults worldwide. Obesity and frailty pose considerable health 
+      risks due to their potential to interact and amplify one another's negative 
+      effects. Therefore, we sought to compare the discriminatory thresholds of the 
+      risk analysis index (RAI), 5-factor modified frailty index (m-FI-5) and patient 
+      age for the primary endpoint of postoperative mortality. SUBJECTS/METHODS: We 
+      included spine surgery patients ≥18 years old, from the American College of 
+      Surgeons National Quality Improvement program database from 2012-2020, that were 
+      classified as obese. We performed receiver operating characteristic curve 
+      analysis to compare the discrimination threshold of RAI, mFI-5, and patient age 
+      for postoperative mortality. Proportional hazards risk-adjusted regressions were 
+      performed, and Hazard ratios and corresponding 95% Confidence intervals (CI) are 
+      reported. RESULTS: Overall, there were 149 163 patients evaluated, and in the ROC 
+      analysis for postoperative mortality, RAI showed superior discrimination 
+      C-statistic 0.793 (95%CI: 0.773-0.813), compared to mFI-5 C-statistic 0.671 
+      (95%CI 0.650-0.691), and patient age C-statistic 0.686 (95%CI 0.666-0.707). 
+      Risk-adjusted analyses were performed, and the RAI had a stepwise increasing 
+      effect size across frailty strata: typical patients HR 2.55 (95%CI 2.03-3.19), 
+      frail patients HR 3.48 (95%CI 2.49-4.86), and very frail patients HR 4.90 (95%CI 
+      2.87-8.37). We found increasing postoperative mortality effect sizes within 
+      Clavein-Dindo complication strata, consistent across obesity categories, 
+      exponentially increasing with frailty, and multiplicatively enhanced within CD, 
+      frailty and obesity strata. CONCLUSION: In this study of 149 163 patients 
+      classified as obese and undergoing spine procedures in an international 
+      prospective surgical database, the RAI demonstrated superior discrimination 
+      compared to the mFI-5 and patient age in predicting postoperative mortality risk. 
+      The deleterious effects of frailty and obesity were synergistic as their combined 
+      effect predicted worse outcomes.
+CI  - © 2023. The Author(s), under exclusive licence to Springer Nature Limited.
+FAU - Owodunni, Oluwafemi P
+AU  - Owodunni OP
+AUID- ORCID: 0000-0003-4610-2574
+AD  - Department of Emergency Medicine, University of New Mexico Hospital, Albuquerque, 
+      NM, USA. oowodunni@salud.unm.edu.
+AD  - Bowers Neurosurgical Frailty and Outcomes Data Science Lab, Albuquerque, NM, USA. 
+      oowodunni@salud.unm.edu.
+FAU - Courville, Evan N
+AU  - Courville EN
+AD  - Bowers Neurosurgical Frailty and Outcomes Data Science Lab, Albuquerque, NM, USA.
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, NM, 
+      USA.
+FAU - Peter-Okaka, Uchenna
+AU  - Peter-Okaka U
+AD  - Bowers Neurosurgical Frailty and Outcomes Data Science Lab, Albuquerque, NM, USA.
+FAU - Ricks, Christian B
+AU  - Ricks CB
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, NM, 
+      USA.
+FAU - Schmidt, Meic H
+AU  - Schmidt MH
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, NM, 
+      USA.
+FAU - Bowers, Christian A
+AU  - Bowers CA
+AD  - Bowers Neurosurgical Frailty and Outcomes Data Science Lab, Albuquerque, NM, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20231218
+PL  - England
+TA  - Int J Obes (Lond)
+JT  - International journal of obesity (2005)
+JID - 101256108
+SB  - IM
+MH  - Adult
+MH  - Humans
+MH  - Adolescent
+MH  - *Frailty/complications
+MH  - Prospective Studies
+MH  - Risk Assessment/methods
+MH  - Obesity/complications
+MH  - ROC Curve
+MH  - Postoperative Complications
+MH  - Retrospective Studies
+MH  - Risk Factors
+EDAT- 2023/12/19 00:41
+MHDA- 2024/02/28 06:44
+CRDT- 2023/12/18 23:56
+PHST- 2023/02/20 00:00 [received]
+PHST- 2023/11/22 00:00 [accepted]
+PHST- 2023/11/10 00:00 [revised]
+PHST- 2024/02/28 06:44 [medline]
+PHST- 2023/12/19 00:41 [pubmed]
+PHST- 2023/12/18 23:56 [entrez]
+AID - 10.1038/s41366-023-01423-0 [pii]
+AID - 10.1038/s41366-023-01423-0 [doi]
+PST - ppublish
+SO  - Int J Obes (Lond). 2024 Mar;48(3):360-369. doi: 10.1038/s41366-023-01423-0. Epub 
+      2023 Dec 18.

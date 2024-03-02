@@ -1,0 +1,2119 @@
+PMID- 35121209
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220401
+LR  - 20221217
+IS  - 1878-5883 (Electronic)
+IS  - 0022-510X (Print)
+IS  - 0022-510X (Linking)
+VI  - 434
+DP  - 2022 Mar 15
+TI  - Mid and long-term neurological and neuropsychiatric manifestations of 
+      post-COVID-19 syndrome: A meta-analysis.
+PG  - 120162
+LID - S0022-510X(22)00021-1 [pii]
+LID - 10.1016/j.jns.2022.120162 [doi]
+AB  - IMPORTANCE: Neurological and neuropsychiatric symptoms that persist or develop 
+      three months after the onset of COVID-19 pose a significant threat to the global 
+      healthcare system. These symptoms are yet to be synthesized and quantified via 
+      meta-analysis. OBJECTIVE: To determine the prevalence of neurological and 
+      neuropsychiatric symptoms reported 12 weeks (3 months) or more after acute 
+      COVID-19 onset in adults. DATA SOURCES: A systematic search of PubMed, EMBASE, 
+      Web of Science, Google Scholar and Scopus was conducted for studies published 
+      between January 1st, 2020 and August 1st, 2021. The systematic review was guided 
+      by Preferred Reporting Items for Systematic Review and Meta-Analyses. STUDY 
+      SELECTION: Studies were included if the length of follow-up satisfied the 
+      National Institute for Healthcare Excellence (NICE) definition of post-COVID-19 
+      syndrome (symptoms that develop or persist ≥3 months after the onset of 
+      COVID-19). Additional criteria included the reporting of neurological or 
+      neuropsychiatric symptoms in individuals with COVID-19. DATA EXTRACTION AND 
+      SYNTHESIS: Two authors independently extracted data on patient characteristics, 
+      hospital and/or ICU admission, acute-phase COVID-19 symptoms, length of 
+      follow-up, and neurological and neuropsychiatric symptoms. MAIN OUTCOME(S) AND 
+      MEASURE(S): The primary outcome was the prevalence of neurological and 
+      neuropsychiatric symptoms reported ≥3 months post onset of COVID-19. We also 
+      compared post-COVID-19 syndrome in hospitalised vs. non-hospitalised patients, 
+      with vs. without ICU admission during the acute phase of infection, and with 
+      mid-term (3 to 6 months) and long-term (>6 months) follow-up. RESULTS: Of 1458 
+      articles, 19 studies, encompassing a total of 11,324 patients, were analysed. 
+      Overall prevalence for neurological post-COVID-19 symptoms were: fatigue (37%, 
+      95% CI: 24%-50%), brain fog (32%, 9%-55%), memory issues (27%, 18%-36%), 
+      attention disorder (22%, 10%-34%), myalgia (18%, 4%-32%), anosmia (12%, 7%-17%), 
+      dysgeusia (11%, 4%-17%) and headache (10%, 1%-21%). Neuropsychiatric conditions 
+      included sleep disturbances (31%, 18%-43%), anxiety (23%, 13%-33%) and depression 
+      (12%, 7%-21%). Neuropsychiatric symptoms substantially increased in prevalence 
+      between mid- and long-term follow-up. Compared to non-hospitalised patients, 
+      patients hospitalised for acute COVID-19 had reduced frequency of anosmia, 
+      anxiety, depression, dysgeusia, fatigue, headache, myalgia, and sleep disturbance 
+      at three (or more) months post-infection. Conversely, hospital admission was 
+      associated with higher frequency of memory issues (OR: 1.9, 95% CI: 1.4-2.3). 
+      Cohorts with >20% of patients admitted to the ICU during acute COVID-19 
+      experienced higher prevalence of fatigue, anxiety, depression, and sleep 
+      disturbances than cohorts with <20% of ICU admission. CONCLUSIONS AND RELEVANCE: 
+      Fatigue, cognitive dysfunction (brain fog, memory issues, attention disorder) and 
+      sleep disturbances appear to be key features of post-COVID-19 syndrome. 
+      Psychiatric manifestations (sleep disturbances, anxiety, and depression) are 
+      common and increase significantly in prevalence over time. Randomised controlled 
+      trials are necessary to develop intervention strategy to reduce disease burden.
+CI  - Copyright © 2022 Elsevier B.V. All rights reserved.
+FAU - Premraj, Lavienraj
+AU  - Premraj L
+AD  - Griffith University School of Medicine, Gold Coast, Australia; Critical Care 
+      Research Group, The Prince Charles Hospital, Brisbane, Australia.
+FAU - Kannapadi, Nivedha V
+AU  - Kannapadi NV
+AD  - Division of Neurosciences Critical Care, Department of Neurology, Neurosurgery, 
+      Anaesthesiology and Critical Care Medicine and Neurosurgery, Johns Hopkins 
+      University School of Medicine, Baltimore, United States of America.
+FAU - Briggs, Jack
+AU  - Briggs J
+AD  - Griffith University School of Medicine, Gold Coast, Australia.
+FAU - Seal, Stella M
+AU  - Seal SM
+AD  - William H. Welch Medical Library, Johns Hopkins University School of Medicine, 
+      Baltimore, United States of America.
+FAU - Battaglini, Denise
+AU  - Battaglini D
+AD  - Anaesthesia and Intensive Care, San Martino Policlinico Hospital, IRCCS for 
+      Oncology and Neuroscience, Genoa, Italy; Department of Medicine, University of 
+      Barcelona, Barcelona, Spain.
+FAU - Fanning, Jonathon
+AU  - Fanning J
+AD  - Critical Care Research Group, The Prince Charles Hospital, Brisbane, Australia; 
+      Faculty of Medicine University of Queensland, Brisbane, QLD, Australia; St 
+      Andrew's War Memorial Hospital, UnitingCare, Spring Hill, QLD, Australia; 
+      Nuffield Department of Population Health, University of Oxford, UK.
+FAU - Suen, Jacky
+AU  - Suen J
+AD  - Critical Care Research Group, The Prince Charles Hospital, Brisbane, Australia; 
+      Faculty of Medicine University of Queensland, Brisbane, QLD, Australia.
+FAU - Robba, Chiara
+AU  - Robba C
+AD  - Anaesthesia and Intensive Care, San Martino Policlinico Hospital, IRCCS for 
+      Oncology and Neuroscience, Genoa, Italy; Department of Surgical Science and 
+      Integrated Diagnostic, San Martino Policlinico Hospital, IRCCS for Oncology and 
+      Neuroscience, University of Genoa, Genoa, Italy.
+FAU - Fraser, John
+AU  - Fraser J
+AD  - Critical Care Research Group, The Prince Charles Hospital, Brisbane, Australia; 
+      Faculty of Medicine University of Queensland, Brisbane, QLD, Australia; St 
+      Andrew's War Memorial Hospital, UnitingCare, Spring Hill, QLD, Australia.
+FAU - Cho, Sung-Min
+AU  - Cho SM
+AD  - Division of Neurosciences Critical Care, Department of Neurology, Neurosurgery, 
+      Anaesthesiology and Critical Care Medicine and Neurosurgery, Johns Hopkins 
+      University School of Medicine, Baltimore, United States of America. Electronic 
+      address: csungmi1@jhmi.edu.
+LA  - eng
+PT  - Journal Article
+PT  - Meta-Analysis
+PT  - Review
+DEP - 20220129
+PL  - Netherlands
+TA  - J Neurol Sci
+JT  - Journal of the neurological sciences
+JID - 0375403
+SB  - IM
+CIN - J Neurol Sci. 2022 May 15;436:120232. PMID: 35339066
+MH  - Adult
+MH  - Anxiety/epidemiology/etiology/psychology
+MH  - *COVID-19/complications/epidemiology
+MH  - Fatigue/diagnosis
+MH  - Headache/epidemiology
+MH  - Humans
+MH  - Post-Acute COVID-19 Syndrome
+PMC - PMC8798975
+OTO - NOTNLM
+OT  - *COVID-19
+OT  - *ICU
+OT  - *Long-COVID
+OT  - *Long-Haulers
+OT  - *Neuro-COVID-19
+OT  - *PCNS
+OT  - *Post-COVID-19 neurological syndrome
+OT  - *Post-COVID-19 syndrome
+OT  - *SARS-CoV-2
+EDAT- 2022/02/06 06:00
+MHDA- 2022/04/02 06:00
+CRDT- 2022/02/05 05:39
+PHST- 2021/10/11 00:00 [received]
+PHST- 2021/11/30 00:00 [revised]
+PHST- 2022/01/18 00:00 [accepted]
+PHST- 2022/02/06 06:00 [pubmed]
+PHST- 2022/04/02 06:00 [medline]
+PHST- 2022/02/05 05:39 [entrez]
+AID - S0022-510X(22)00021-1 [pii]
+AID - 120162 [pii]
+AID - 10.1016/j.jns.2022.120162 [doi]
+PST - ppublish
+SO  - J Neurol Sci. 2022 Mar 15;434:120162. doi: 10.1016/j.jns.2022.120162. Epub 2022 
+      Jan 29.
+
+PMID- 35712492
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220716
+IS  - 2234-943X (Print)
+IS  - 2234-943X (Electronic)
+IS  - 2234-943X (Linking)
+VI  - 12
+DP  - 2022
+TI  - Synthesizing Molecular and Immune Characteristics to Move Beyond WHO Grade in 
+      Meningiomas: A Focused Review.
+PG  - 892004
+LID - 10.3389/fonc.2022.892004 [doi]
+LID - 892004
+AB  - No portion of this manuscript has previously been presented. Meningiomas, the 
+      most common primary intracranial tumors, are histologically categorized by the 
+      World Health Organization (WHO) grading system. While higher WHO grade is 
+      generally associated with poor clinical outcomes, a significant subset of grade I 
+      tumors recur or progress, indicating a need for more reliable models of 
+      meningioma behavior. Several groups have developed risk scores based on molecular 
+      or immunologic characteristics. These classification schemes show promise, with 
+      several models preliminarily demonstrating similar or superior accuracy to WHO 
+      grading. Improved understanding of immune system recognition and targeting of 
+      meningioma subtypes is necessary to advance the predictive power, as well as 
+      develop new therapies. Here, we characterize meningioma molecular drivers, 
+      predictive of recurrence and progression, and describe specific aspects of the 
+      immune response to meningiomas while highlighting critical questions and ongoing 
+      research. Relevant manuscripts of interest were identified using a systematic 
+      approach and synthesized into this focused review. Finally, we summarize the 
+      ongoing and completed clinical trials for immunotherapy in meningiomas and offer 
+      perspective on future directions.
+CI  - Copyright © 2022 Kannapadi, Shah, Mathios and Jackson.
+FAU - Kannapadi, Nivedha V
+AU  - Kannapadi NV
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, MD, United States.
+FAU - Shah, Pavan P
+AU  - Shah PP
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, MD, United States.
+FAU - Mathios, Dimitrios
+AU  - Mathios D
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, MD, United States.
+FAU - Jackson, Christopher M
+AU  - Jackson CM
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, MD, United States.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20220531
+PL  - Switzerland
+TA  - Front Oncol
+JT  - Frontiers in oncology
+JID - 101568867
+PMC - PMC9194503
+OTO - NOTNLM
+OT  - immune microenvironment
+OT  - immunotherapy
+OT  - meningioma
+OT  - meningioma WHO grade I
+OT  - prognostic model
+OT  - risk score
+COIS- CJ is the co-founder and owns equity interest in Egret Therapeutics. This 
+      arrangement has been reviewed and approved by the Johns Hopkins University in 
+      accordance with its conflict of interest policies. The remaining authors declare 
+      that the research was conducted in the absence of any commercial or financial 
+      relationships that could be construed as a potential conflict of interest.
+EDAT- 2022/06/18 06:00
+MHDA- 2022/06/18 06:01
+CRDT- 2022/06/17 02:42
+PHST- 2022/03/08 00:00 [received]
+PHST- 2022/05/02 00:00 [accepted]
+PHST- 2022/06/17 02:42 [entrez]
+PHST- 2022/06/18 06:00 [pubmed]
+PHST- 2022/06/18 06:01 [medline]
+AID - 10.3389/fonc.2022.892004 [doi]
+PST - epublish
+SO  - Front Oncol. 2022 May 31;12:892004. doi: 10.3389/fonc.2022.892004. eCollection 
+      2022.
+
+PMID- 38070624
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240122
+LR  - 20240202
+IS  - 1090-2139 (Electronic)
+IS  - 0889-1591 (Linking)
+VI  - 116
+DP  - 2024 Feb
+TI  - Soluble PD-L1 reprograms blood monocytes to prevent cerebral edema and facilitate 
+      recovery after ischemic stroke.
+PG  - 160-174
+LID - S0889-1591(23)00378-1 [pii]
+LID - 10.1016/j.bbi.2023.12.007 [doi]
+AB  - Acute cerebral ischemia triggers a profound inflammatory response. While 
+      macrophages polarized to an M2-like phenotype clear debris and facilitate tissue 
+      repair, aberrant or prolonged macrophage activation is counterproductive to 
+      recovery. The inhibitory immune checkpoint Programmed Cell Death Protein 1 (PD-1) 
+      is upregulated on macrophage precursors (monocytes) in the blood after acute 
+      cerebrovascular injury. To investigate the therapeutic potential of PD-1 
+      activation, we immunophenotyped circulating monocytes from patients and found 
+      that PD-1 expression was upregulated in the acute period after stroke. Murine 
+      studies using a temporary middle cerebral artery (MCA) occlusion (MCAO) model 
+      showed that intraperitoneal administration of soluble Programmed Death Ligand-1 
+      (sPD-L1) significantly decreased brain edema and improved overall survival. Mice 
+      receiving sPD-L1 also had higher performance scores short-term, and more closely 
+      resembled sham animals on assessments of long-term functional recovery. These 
+      clinical and radiographic benefits were abrogated in global and myeloid-specific 
+      PD-1 knockout animals, confirming PD-1+ monocytes as the therapeutic target of 
+      sPD-L1. Single-cell RNA sequencing revealed that treatment skewed monocyte 
+      maturation to a non-classical Ly6C(lo), CD43(hi), PD-L1+ phenotype. These data 
+      support peripheral activation of PD-1 on inflammatory monocytes as a therapeutic 
+      strategy to treat neuroinflammation after acute ischemic stroke.
+CI  - Copyright © 2023 The Author(s). Published by Elsevier Inc. All rights reserved.
+FAU - Kim, Jennifer E
+AU  - Kim JE
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, MD, the United States of America.
+FAU - Lee, Ryan P
+AU  - Lee RP
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, MD, the United States of America.
+FAU - Yazigi, Eli
+AU  - Yazigi E
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, MD, the United States of America.
+FAU - Atta, Lyla
+AU  - Atta L
+AD  - Department of Biomedical Engineering, Johns Hopkins University, Baltimore, MD, 
+      the United States of America; Center for Computational Biology, Whiting School of 
+      Engineering, Johns Hopkins University, Baltimore, MD, the United States of 
+      America; Medical Scientist Training Program, Johns Hopkins University School of 
+      Medicine, Baltimore, MD, the United States of America.
+FAU - Feghali, James
+AU  - Feghali J
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, MD, the United States of America.
+FAU - Pant, Ayush
+AU  - Pant A
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, MD, the United States of America; Medical Scientist Training Program, 
+      Johns Hopkins University School of Medicine, Baltimore, MD, the United States of 
+      America.
+FAU - Jain, Aanchal
+AU  - Jain A
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, MD, the United States of America.
+FAU - Levitan, Idan
+AU  - Levitan I
+AD  - Department of Neurosurgery, Rabin Medical Center, Sackler Medical School, Petah 
+      Tikva, Israel.
+FAU - Kim, Eileen
+AU  - Kim E
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, MD, the United States of America.
+FAU - Patel, Kisha
+AU  - Patel K
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, MD, the United States of America.
+FAU - Kannapadi, Nivedha
+AU  - Kannapadi N
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, MD, the United States of America.
+FAU - Shah, Pavan
+AU  - Shah P
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, MD, the United States of America.
+FAU - Bibic, Adnan
+AU  - Bibic A
+AD  - F.M. Kirby Research Center for Functional Brain Imaging, Kennedy Krieger 
+      Institute, Baltimore, MD, the United States of America; The Russell H. Morgan 
+      Department of Radiology and Radiological Science, Johns Hopkins University School 
+      of Medicine, Baltimore, MD, the United States of America.
+FAU - Hou, Zhipeng
+AU  - Hou Z
+AD  - Department of Radiology, School of Medicine, Johns Hopkins University, Baltimore, 
+      MD, the United States of America.
+FAU - Caplan, Justin M
+AU  - Caplan JM
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, MD, the United States of America.
+FAU - Gonzalez, L Fernando
+AU  - Gonzalez LF
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, MD, the United States of America.
+FAU - Huang, Judy
+AU  - Huang J
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, MD, the United States of America.
+FAU - Xu, Risheng
+AU  - Xu R
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, MD, the United States of America.
+FAU - Fan, Jean
+AU  - Fan J
+AD  - Department of Biomedical Engineering, Johns Hopkins University, Baltimore, MD, 
+      the United States of America.
+FAU - Tyler, Betty
+AU  - Tyler B
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, MD, the United States of America.
+FAU - Brem, Henry
+AU  - Brem H
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, MD, the United States of America.
+FAU - Boussiotis, Vassiliki A
+AU  - Boussiotis VA
+AD  - Division of Hematology-Oncology, Beth Israel Deaconess Medical Center, Harvard 
+      Medical School, Boston, MA, the United States of America.
+FAU - Jantzie, Lauren
+AU  - Jantzie L
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, MD, the United States of America; Departments of Pediatrics, Johns 
+      Hopkins University School of Medicine, Maryland, the United States of America; 
+      Kennedy Krieger Institute, Maryland, the United States of America; Department of 
+      Neurology, Johns Hopkins University School of Medicine, Maryland, the United 
+      States of America.
+FAU - Robinson, Shenandoah
+AU  - Robinson S
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, MD, the United States of America; Departments of Pediatrics, Johns 
+      Hopkins University School of Medicine, Maryland, the United States of America; 
+      Kennedy Krieger Institute, Maryland, the United States of America; Department of 
+      Neurology, Johns Hopkins University School of Medicine, Maryland, the United 
+      States of America.
+FAU - Koehler, Raymond C
+AU  - Koehler RC
+AD  - Departments of Anesthesiology and Critical Care Medicine, Johns Hopkins 
+      University, School of Medicine, Baltimore, MD, the United States of America.
+FAU - Lim, Michael
+AU  - Lim M
+AD  - Department of Neurosurgery, Stanford University School of Medicine, Stanford, CA, 
+      the United States of America.
+FAU - Tamargo, Rafael J
+AU  - Tamargo RJ
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, MD, the United States of America.
+FAU - Jackson, Christopher M
+AU  - Jackson CM
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, MD, the United States of America. Electronic address: 
+      cjacks53@jhmi.edu.
+LA  - eng
+PT  - Journal Article
+DEP - 20231207
+PL  - Netherlands
+TA  - Brain Behav Immun
+JT  - Brain, behavior, and immunity
+JID - 8800478
+RN  - 0 (Programmed Cell Death 1 Receptor)
+RN  - 0 (B7-H1 Antigen)
+SB  - IM
+MH  - Humans
+MH  - Mice
+MH  - Animals
+MH  - Monocytes/metabolism
+MH  - *Ischemic Stroke
+MH  - *Brain Edema/metabolism
+MH  - Programmed Cell Death 1 Receptor/metabolism
+MH  - B7-H1 Antigen/metabolism
+MH  - Infarction, Middle Cerebral Artery/metabolism
+OTO - NOTNLM
+OT  - Immune checkpoints
+OT  - Inflammation
+OT  - Ischemic stroke
+OT  - Large vessel occlusion
+OT  - MCAO
+OT  - Monocytes
+OT  - sPD-L1
+COIS- Declaration of Competing Interest The authors declare the following financial 
+      interests/personal relationships which may be considered as potential competing 
+      interests: HB has received research funding from the National Institutes of 
+      Health, Khatib Foundation, NICO Myriad Corporation, and philanthropy. He is the 
+      Chairman of the Medical Advisory Board for Insightec, which is developing focused 
+      ultrasound treatments for brain tumors. This arrangement has been reviewed and 
+      approved by Johns Hopkins University in accordance with its conflict-of-interest 
+      policies. He has consultation agreements with Accelerating Combination Therapies, 
+      Insightec, Candel Therapeutics, Inc., Catalio Nexus Fund II, LLC, LikeMinds, 
+      Inc*, Galen Robotics, Inc.*, CraniUS*, and Nurami Medical* (Includes equity or 
+      options). ML has received research funding from Arbor, Bristol Myers Squibb, 
+      Accuray, Biohaven, and Urogen. He is a consultant for VBI, InCephalo 
+      Therapeutics, Merck, Pyramid Bio, Insightec, Biohaven. Sanianoia, Novocure, 
+      Noxxon, Hemispherian, InCando, Century Therapeutics, CraniUs, MediFlix, and 
+      XSense. He is a shareholder in Egret Therapeutics. He is an inventor on patents 
+      for focused radiation + checkpoint inhibitors, local chemotherapy + checkpoint 
+      inhibitors, and checkpoints and Neuro-inflammation. He is a non-research 
+      consultant for Stryker and on the DSMB for Cellularity. RJT is an inventor on 
+      patents for immune checkpoints and neuroinflammation. CMJ has received research 
+      support from Biohaven, InCephalo, the Goldhirsh-Yellin Foundation, the Brain 
+      Aneurysm Foundation, and philanthropy. He is an inventor on patents for immune 
+      checkpoints and neuroinflammation. He is the co-founder and owns equity interest 
+      in Egret Therapeutics. This arrangement has been reviewed and approved by Johns 
+      Hopkins University in accordance with its conflict-of-interest policies.
+EDAT- 2023/12/10 06:43
+MHDA- 2024/01/22 06:42
+CRDT- 2023/12/09 19:24
+PHST- 2023/07/25 00:00 [received]
+PHST- 2023/11/20 00:00 [revised]
+PHST- 2023/12/04 00:00 [accepted]
+PHST- 2024/01/22 06:42 [medline]
+PHST- 2023/12/10 06:43 [pubmed]
+PHST- 2023/12/09 19:24 [entrez]
+AID - S0889-1591(23)00378-1 [pii]
+AID - 10.1016/j.bbi.2023.12.007 [doi]
+PST - ppublish
+SO  - Brain Behav Immun. 2024 Feb;116:160-174. doi: 10.1016/j.bbi.2023.12.007. Epub 
+      2023 Dec 7.
+
+PMID- 36190782
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230103
+LR  - 20240102
+IS  - 2325-6621 (Electronic)
+IS  - 2329-6933 (Print)
+IS  - 2325-6621 (Linking)
+VI  - 20
+IP  - 1
+DP  - 2023 Jan
+TI  - Neuropathology Associated with Acute Respiratory Distress Syndrome: An Autopsy 
+      Study.
+PG  - 155-159
+LID - 10.1513/AnnalsATS.202205-453RL [doi]
+FAU - Zhang, Lucy Q
+AU  - Zhang LQ
+AUID- ORCID: 0000-0002-1877-7972
+AD  - Johns Hopkins University School of Medicine Baltimore, Maryland.
+FAU - Zaikos, Thomas D
+AU  - Zaikos TD
+AD  - Johns Hopkins University School of Medicine Baltimore, Maryland.
+FAU - Kannapadi, Nivedha
+AU  - Kannapadi N
+AD  - Johns Hopkins University School of Medicine Baltimore, Maryland.
+FAU - Laws, Lindsay
+AU  - Laws L
+AD  - Johns Hopkins University School of Medicine Baltimore, Maryland.
+FAU - Shah, Pavan
+AU  - Shah P
+AD  - Johns Hopkins University School of Medicine Baltimore, Maryland.
+FAU - Troncoso, Juan C
+AU  - Troncoso JC
+AD  - Johns Hopkins University School of Medicine Baltimore, Maryland.
+FAU - Stephens, R Scott
+AU  - Stephens RS
+AD  - Johns Hopkins University School of Medicine Baltimore, Maryland.
+FAU - Nyquist, Paul
+AU  - Nyquist P
+AD  - Johns Hopkins University School of Medicine Baltimore, Maryland.
+FAU - Cho, Sung-Min
+AU  - Cho SM
+AUID- ORCID: 0000-0002-5132-0958
+AD  - Johns Hopkins University School of Medicine Baltimore, Maryland.
+LA  - eng
+GR  - K23 HL157610/HL/NHLBI NIH HHS/United States
+PT  - Letter
+PT  - Research Support, N.I.H., Extramural
+PL  - United States
+TA  - Ann Am Thorac Soc
+JT  - Annals of the American Thoracic Society
+JID - 101600811
+SB  - IM
+MH  - Humans
+MH  - Autopsy
+MH  - *Respiratory Distress Syndrome
+MH  - Pulmonary Alveoli/pathology
+MH  - *Nervous System Diseases
+MH  - Research Design
+PMC - PMC9819270
+EDAT- 2022/10/04 06:00
+MHDA- 2023/01/04 06:00
+CRDT- 2022/10/03 12:03
+PHST- 2022/10/04 06:00 [pubmed]
+PHST- 2023/01/04 06:00 [medline]
+PHST- 2022/10/03 12:03 [entrez]
+AID - 10.1513/AnnalsATS.202205-453RL [doi]
+PST - ppublish
+SO  - Ann Am Thorac Soc. 2023 Jan;20(1):155-159. doi: 10.1513/AnnalsATS.202205-453RL.
+
+PMID- 35523261
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230103
+LR  - 20230111
+IS  - 1933-0693 (Electronic)
+IS  - 0022-3085 (Linking)
+VI  - 138
+IP  - 1
+DP  - 2023 Jan 1
+TI  - Internal neurolysis versus intraoperative glycerin rhizotomy for trigeminal 
+      neuralgia.
+PG  - 270-275
+LID - 10.3171/2022.3.JNS212956 [doi]
+AB  - OBJECTIVE: Internal neurolysis (IN) and intraoperative glycerin rhizotomy (ioGR) 
+      are emerging surgical options for patients with trigeminal neuralgia without 
+      neurovascular contact. The objective of this study was to compare the 
+      neurological outcomes of patients who underwent IN with those of patients who 
+      underwent ioGR. METHODS: The authors retrospectively reviewed all patients who 
+      underwent IN or ioGR for trigeminal neuralgia at our institution. Patient 
+      demographic characteristics and immediate postoperative outcomes, as well as 
+      long-term neurological outcomes, were compared. RESULTS: Of 1044 patients who 
+      underwent open surgical treatment for trigeminal neuralgia, 56 patients underwent 
+      IN and 91 underwent ioGR. Of these 147 patients, 37 had no evidence of 
+      intraoperative neurovascular conflict. All patients who underwent IN and 96.7% of 
+      patients who underwent ioGR had immediate postoperative pain relief. At last 
+      follow-up, patients who underwent IN had lower Barrow Neurological Institute 
+      (BNI) pain intensity scores (p = 0.05), better BNI facial numbness scores (p < 
+      0.01), and a greater degree of pain improvement (p = 0.05) compared with those 
+      who underwent ioGR. Patients who underwent IN also had significantly lower rates 
+      of symptomatic pain recurrence (p < 0.01) at last follow-up over an average of 
+      9.5 months. CONCLUSIONS: IN appears to provide patients with a greater degree of 
+      pain relief, lower rates of facial numbness, and lower rates of pain recurrence 
+      compared with ioGR. Future prospective studies will better characterize long-term 
+      pain recurrence and outcomes.
+FAU - Xu, Risheng
+AU  - Xu R
+AD  - 1Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, Maryland; and.
+FAU - Materi, Joshua
+AU  - Materi J
+AD  - 1Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, Maryland; and.
+FAU - Raj, Divyaansh
+AU  - Raj D
+AD  - 1Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, Maryland; and.
+FAU - Alomari, Safwan
+AU  - Alomari S
+AD  - 1Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, Maryland; and.
+FAU - Xia, Yuanxuan
+AU  - Xia Y
+AD  - 1Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, Maryland; and.
+FAU - Nair, Sumil K
+AU  - Nair SK
+AD  - 1Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, Maryland; and.
+FAU - Shah, Pavan P
+AU  - Shah PP
+AD  - 1Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, Maryland; and.
+FAU - Kannapadi, Nivedha
+AU  - Kannapadi N
+AD  - 1Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, Maryland; and.
+FAU - Kim, Timothy
+AU  - Kim T
+AD  - 1Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, Maryland; and.
+FAU - Huang, Judy
+AU  - Huang J
+AD  - 1Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, Maryland; and.
+FAU - Bettegowda, Chetan
+AU  - Bettegowda C
+AD  - 1Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, Maryland; and.
+FAU - Lim, Michael
+AU  - Lim M
+AD  - 2Department of Neurosurgery, Stanford University School of Medicine, Stanford, 
+      California.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20220506
+PL  - United States
+TA  - J Neurosurg
+JT  - Journal of neurosurgery
+JID - 0253357
+RN  - PDC6A3C0OX (Glycerol)
+SB  - IM
+CIN - J Neurosurg. 2022 Aug 26;138(1):294-295. PMID: 36029258
+MH  - Humans
+MH  - *Trigeminal Neuralgia/surgery
+MH  - Glycerol
+MH  - Treatment Outcome
+MH  - Retrospective Studies
+MH  - Rhizotomy
+MH  - Prospective Studies
+MH  - Hypesthesia
+MH  - *Radiosurgery
+MH  - Pain/surgery
+OTO - NOTNLM
+OT  - facial pain
+OT  - intraoperative glycerin rhizotomy
+OT  - peripheral sensory rhizotomy
+OT  - trigeminal neuralgia
+EDAT- 2022/05/07 06:00
+MHDA- 2023/01/04 06:00
+CRDT- 2022/05/06 19:12
+PHST- 2021/12/26 00:00 [received]
+PHST- 2022/03/21 00:00 [accepted]
+PHST- 2022/05/07 06:00 [pubmed]
+PHST- 2023/01/04 06:00 [medline]
+PHST- 2022/05/06 19:12 [entrez]
+AID - 2022.3.JNS212956 [pii]
+AID - 10.3171/2022.3.JNS212956 [doi]
+PST - epublish
+SO  - J Neurosurg. 2022 May 6;138(1):270-275. doi: 10.3171/2022.3.JNS212956. Print 2023 
+      Jan 1.
+
+PMID- 35686911
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220822
+LR  - 20220921
+IS  - 1530-0293 (Electronic)
+IS  - 0090-3493 (Linking)
+VI  - 50
+IP  - 9
+DP  - 2022 Sep 1
+TI  - Reexamining the Role of Postoperative ICU Admission for Patients Undergoing 
+      Elective Craniotomy: A Systematic Review.
+PG  - 1380-1393
+LID - 10.1097/CCM.0000000000005588 [doi]
+AB  - OBJECTIVES: The standard-of-care for postoperative care following elective 
+      craniotomy has historically been ICU admission. However, recent literature 
+      interrogating complications and interventions during this postoperative ICU stay 
+      suggests that all patients may not require this level of care. Thus, hospitals 
+      began implementing non-ICU postoperative care pathways for elective craniotomy. 
+      This systematic review aims to summarize and evaluate the existing literature 
+      regarding outcomes and costs for patients receiving non-ICU care after elective 
+      craniotomy. DATA SOURCES: A systematic review of the PubMed database was 
+      performed following PRISMA guidelines from database inception to August 2021. 
+      STUDY SELECTION: Included studies were published in peer-reviewed journals, in 
+      English, and described outcomes for patients undergoing elective craniotomies 
+      without postoperative ICU care. DATA EXTRACTION: Data regarding study design, 
+      patient characteristics, and postoperative care pathways were extracted 
+      independently by two authors. Quality and risk of bias were evaluated using the 
+      Oxford Centre for Evidence-Based Medicine Levels of Evidence tool and Risk Of 
+      Bias In Non-Randomized Studies-of Interventions tool, respectively. DATA 
+      SYNTHESIS: In total, 1,131 unique articles were identified through the database 
+      search, with 27 meeting inclusion criteria. Included articles were published from 
+      2001 to 2021 and included non-ICU inpatient care and same-day discharge pathways. 
+      Overall, the studies demonstrated that postoperative non-ICU care for elective 
+      craniotomies led to length of stay reduction ranging from 6 hours to 4 days and 
+      notable cost reductions. Across 13 studies, 53 of the 2,469 patients (2.1%) 
+      intended for postoperative management in a non-ICU setting required subsequent 
+      care escalation. CONCLUSIONS: Overall, these studies suggest that non-ICU care 
+      pathways for appropriately selected postcraniotomy patients may represent a 
+      meaningful opportunity to improve care value. However, included studies varied 
+      greatly in patient selection, postoperative care protocol, and outcomes 
+      reporting. Standardization and multi-institutional collaboration are needed to 
+      draw definitive conclusions regarding non-ICU postoperative care for elective 
+      craniotomy.
+CI  - Copyright © 2022 by the Society of Critical Care Medicine and Wolters Kluwer 
+      Health, Inc. All Rights Reserved.
+FAU - Azad, Tej D
+AU  - Azad TD
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, MD.
+FAU - Shah, Pavan P
+AU  - Shah PP
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, MD.
+FAU - Kannapadi, Nivedha V
+AU  - Kannapadi NV
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, MD.
+FAU - Rincon-Torroella, Jordina
+AU  - Rincon-Torroella J
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, MD.
+FAU - Xia, Yuanxuan
+AU  - Xia Y
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, MD.
+FAU - Bernhardt, Lydia J
+AU  - Bernhardt LJ
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, MD.
+FAU - Hansen, Landon J
+AU  - Hansen LJ
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, MD.
+FAU - Materi, Joshua
+AU  - Materi J
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, MD.
+FAU - Raj, Divyaansh
+AU  - Raj D
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, MD.
+FAU - Jackson, Christopher M
+AU  - Jackson CM
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, MD.
+FAU - Mukherjee, Debraj
+AU  - Mukherjee D
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, MD.
+FAU - Gallia, Gary L
+AU  - Gallia GL
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, MD.
+FAU - Weingart, Jon
+AU  - Weingart J
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, MD.
+FAU - Suarez, Jose I
+AU  - Suarez JI
+AD  - Division of Neurosciences Critical Care, Department of Anesthesiology and 
+      Critical Care Medicine, Johns Hopkins University School of Medicine, Baltimore, 
+      MD.
+FAU - Brem, Henry
+AU  - Brem H
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, MD.
+FAU - Bettegowda, Chetan
+AU  - Bettegowda C
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, MD.
+LA  - eng
+GR  - R25 NS065729/NS/NINDS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Systematic Review
+DEP - 20220610
+PL  - United States
+TA  - Crit Care Med
+JT  - Critical care medicine
+JID - 0355501
+SB  - IM
+CIN - Crit Care Med. 2022 Sep 1;50(9):1408-1411. PMID: 35984057
+MH  - *Craniotomy
+MH  - Elective Surgical Procedures
+MH  - Humans
+MH  - *Intensive Care Units
+MH  - Length of Stay
+MH  - Postoperative Care
+MH  - Postoperative Complications/epidemiology
+MH  - Postoperative Period
+COIS- Dr. Rincon-Torroella’s institution received funding from the National Institute 
+      of Neurological Disorders and Stroke (R25 grant holder [5R25NS065729]); she 
+      received support for article research from the National Institutes of Health 
+      (NIH). Dr. Jackson received funding from Boehringer Laboratories and Egret 
+      Therapeutics. Dr. Brem received funding from the NIH, Johns Hopkins University, 
+      Arbor Pharmaceuticals, and Bristol-Myers Squibb; he disclosed that he is a 
+      consultant for AcuityBio Corp., InSightec, Accelerating Combination Therapies, 
+      Catalio Nexus Fund II, CraniUS, Candel Therapeutics, LikeMinds, Galen Robotics, 
+      Nurami Medical, AsclepiX Therapeutics, and StemGen. Dr. Bettegowda disclosed that 
+      he is a consultant for Depuy-Synthes, Bionaut Labs, and Galectin Therapeutics. 
+      The remaining authors have disclosed that they do not have any potential 
+      conflicts of interest.
+EDAT- 2022/06/11 06:00
+MHDA- 2022/08/23 06:00
+CRDT- 2022/06/10 09:13
+PHST- 2022/06/11 06:00 [pubmed]
+PHST- 2022/08/23 06:00 [medline]
+PHST- 2022/06/10 09:13 [entrez]
+AID - 00003246-202209000-00010 [pii]
+AID - 10.1097/CCM.0000000000005588 [doi]
+PST - ppublish
+SO  - Crit Care Med. 2022 Sep 1;50(9):1380-1393. doi: 10.1097/CCM.0000000000005588. 
+      Epub 2022 Jun 10.
+
+PMID- 33935164
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211004
+LR  - 20230812
+IS  - 1530-0293 (Electronic)
+IS  - 0090-3493 (Linking)
+VI  - 49
+IP  - 10
+DP  - 2021 Oct 1
+TI  - Duration of Hyperoxia and Neurologic Outcomes in Patients Undergoing 
+      Extracorporeal Membrane Oxygenation.
+PG  - e968-e977
+LID - 10.1097/CCM.0000000000005069 [doi]
+AB  - OBJECTIVES: To evaluate the impact of duration of hyperoxia on neurologic outcome 
+      and mortality in patients undergoing venoarterial extracorporeal membrane 
+      oxygenation. DESIGN: A retrospective analysis of venoarterial extracorporeal 
+      membrane oxygenation patients admitted to the Johns Hopkins Hospital. The primary 
+      outcome was neurologic function at discharge defined by modified Rankin Scale, 
+      with a score of 0-3 defined as a good neurologic outcome, and a score of 4-6 
+      defined as a poor neurologic outcome. Multivariable logistic regression analysis 
+      was performed to evaluate the association between hyperoxia and neurologic 
+      outcomes. SETTING: The Johns Hopkins Hospital Cardiovascular ICU and Cardiac 
+      Critical Care Unit. INTERVENTIONS: None. MEASUREMENTS AND MAIN RESULTS: We 
+      measured first and maximum Pao2 values, area under the curve per minute over the 
+      first 24 hours, and duration of mild, moderate, and severe hyperoxia. Of 132 
+      patients on venoarterial extracorporeal membrane oxygenation, 127 (96.5%) were 
+      exposed to mild hyperoxia in the first 24 hours. Poor neurologic outcomes were 
+      observed in 105 patients (79.6%) (102 with vs 3 without hyperoxia; p = 0.14). 
+      Patients with poor neurologic outcomes had longer exposure to mild (19.1 vs 
+      15.2 hr; p = 0.01), moderate (14.6 vs 9.2 hr; p = 0.003), and severe hyperoxia 
+      (9.1 vs 4.0 hr; p = 0.003). In a multivariable analysis, patients with worse 
+      neurologic outcome experienced longer durations of mild (adjusted odds ratio, 
+      1.10; 95% CI, 1.01-1.19; p = 0.02), moderate (adjusted odds ratio, 1.12; 95% CI, 
+      1.04-1.22; p = 0.002), and severe (adjusted odds ratio, 1.19; 95% CI, 1.06-1.35; 
+      p = 0.003) hyperoxia. Additionally, duration of severe hyperoxia was 
+      independently associated with inhospital mortality (adjusted odds ratio, 1.18; 
+      95% CI, 1.08-1.29; p < 0.001). CONCLUSIONS: In patients undergoing venoarterial 
+      extracorporeal membrane oxygenation, duration and severity of early hyperoxia 
+      were independently associated with poor neurologic outcomes at discharge and 
+      mortality.
+CI  - Copyright © 2021 by the Society of Critical Care Medicine and Wolters Kluwer 
+      Health, Inc. All Rights Reserved.
+FAU - Al-Kawaz, Mais N
+AU  - Al-Kawaz MN
+AD  - Neurosciences Critical Care Division, Department of Neurology, Johns Hopkins 
+      University School of Medicine, Baltimore, MD.
+AD  - Neurosciences Critical Care Division, Department of Neurosurgery, Johns Hopkins 
+      University School of Medicine, Baltimore, MD.
+AD  - Neurosciences Critical Care Division, Department of Anesthesiology and Critical 
+      Care Medicine, Johns Hopkins University School of Medicine, Baltimore, MD.
+AD  - Department of Surgery, Johns Hopkins Surgery Center for Outcomes Research, Johns 
+      Hopkins University School of Medicine, Baltimore, MD.
+AD  - Department of Anesthesia and Critical Care Medicine, Johns Hopkins School of 
+      Medicine, Baltimore, MD.
+AD  - Division of Pulmonary and Critical Care Medicine, Johns Hopkins University School 
+      of Medicine, Baltimore, MD.
+AD  - Division of Cardiac Surgery, Heart and Vascular Institute, Johns Hopkins 
+      University School of Medicine, Baltimore, MD.
+FAU - Canner, Joseph
+AU  - Canner J
+AD  - Department of Surgery, Johns Hopkins Surgery Center for Outcomes Research, Johns 
+      Hopkins University School of Medicine, Baltimore, MD.
+FAU - Caturegli, Giorgio
+AU  - Caturegli G
+AD  - Department of Anesthesia and Critical Care Medicine, Johns Hopkins School of 
+      Medicine, Baltimore, MD.
+FAU - Kannapadi, Nivedha
+AU  - Kannapadi N
+AD  - Department of Anesthesia and Critical Care Medicine, Johns Hopkins School of 
+      Medicine, Baltimore, MD.
+FAU - Balucani, Clotilde
+AU  - Balucani C
+AD  - Neurosciences Critical Care Division, Department of Neurology, Johns Hopkins 
+      University School of Medicine, Baltimore, MD.
+AD  - Neurosciences Critical Care Division, Department of Neurosurgery, Johns Hopkins 
+      University School of Medicine, Baltimore, MD.
+AD  - Neurosciences Critical Care Division, Department of Anesthesiology and Critical 
+      Care Medicine, Johns Hopkins University School of Medicine, Baltimore, MD.
+AD  - Department of Surgery, Johns Hopkins Surgery Center for Outcomes Research, Johns 
+      Hopkins University School of Medicine, Baltimore, MD.
+AD  - Department of Anesthesia and Critical Care Medicine, Johns Hopkins School of 
+      Medicine, Baltimore, MD.
+AD  - Division of Pulmonary and Critical Care Medicine, Johns Hopkins University School 
+      of Medicine, Baltimore, MD.
+AD  - Division of Cardiac Surgery, Heart and Vascular Institute, Johns Hopkins 
+      University School of Medicine, Baltimore, MD.
+FAU - Shelley, Leah
+AU  - Shelley L
+AD  - Neurosciences Critical Care Division, Department of Neurology, Johns Hopkins 
+      University School of Medicine, Baltimore, MD.
+AD  - Neurosciences Critical Care Division, Department of Neurosurgery, Johns Hopkins 
+      University School of Medicine, Baltimore, MD.
+AD  - Neurosciences Critical Care Division, Department of Anesthesiology and Critical 
+      Care Medicine, Johns Hopkins University School of Medicine, Baltimore, MD.
+AD  - Department of Surgery, Johns Hopkins Surgery Center for Outcomes Research, Johns 
+      Hopkins University School of Medicine, Baltimore, MD.
+AD  - Department of Anesthesia and Critical Care Medicine, Johns Hopkins School of 
+      Medicine, Baltimore, MD.
+AD  - Division of Pulmonary and Critical Care Medicine, Johns Hopkins University School 
+      of Medicine, Baltimore, MD.
+AD  - Division of Cardiac Surgery, Heart and Vascular Institute, Johns Hopkins 
+      University School of Medicine, Baltimore, MD.
+FAU - Kim, Bo Soo
+AU  - Kim BS
+AD  - Division of Pulmonary and Critical Care Medicine, Johns Hopkins University School 
+      of Medicine, Baltimore, MD.
+FAU - Choi, Chun Woo
+AU  - Choi CW
+AD  - Division of Cardiac Surgery, Heart and Vascular Institute, Johns Hopkins 
+      University School of Medicine, Baltimore, MD.
+FAU - Geocadin, Romergryko G
+AU  - Geocadin RG
+AD  - Neurosciences Critical Care Division, Department of Neurology, Johns Hopkins 
+      University School of Medicine, Baltimore, MD.
+AD  - Neurosciences Critical Care Division, Department of Neurosurgery, Johns Hopkins 
+      University School of Medicine, Baltimore, MD.
+AD  - Neurosciences Critical Care Division, Department of Anesthesiology and Critical 
+      Care Medicine, Johns Hopkins University School of Medicine, Baltimore, MD.
+AD  - Department of Surgery, Johns Hopkins Surgery Center for Outcomes Research, Johns 
+      Hopkins University School of Medicine, Baltimore, MD.
+AD  - Department of Anesthesia and Critical Care Medicine, Johns Hopkins School of 
+      Medicine, Baltimore, MD.
+AD  - Division of Pulmonary and Critical Care Medicine, Johns Hopkins University School 
+      of Medicine, Baltimore, MD.
+AD  - Division of Cardiac Surgery, Heart and Vascular Institute, Johns Hopkins 
+      University School of Medicine, Baltimore, MD.
+FAU - Whitman, Glenn
+AU  - Whitman G
+AD  - Division of Cardiac Surgery, Heart and Vascular Institute, Johns Hopkins 
+      University School of Medicine, Baltimore, MD.
+FAU - Cho, Sung-Min
+AU  - Cho SM
+AD  - Neurosciences Critical Care Division, Department of Neurology, Johns Hopkins 
+      University School of Medicine, Baltimore, MD.
+AD  - Neurosciences Critical Care Division, Department of Neurosurgery, Johns Hopkins 
+      University School of Medicine, Baltimore, MD.
+AD  - Neurosciences Critical Care Division, Department of Anesthesiology and Critical 
+      Care Medicine, Johns Hopkins University School of Medicine, Baltimore, MD.
+AD  - Department of Surgery, Johns Hopkins Surgery Center for Outcomes Research, Johns 
+      Hopkins University School of Medicine, Baltimore, MD.
+AD  - Department of Anesthesia and Critical Care Medicine, Johns Hopkins School of 
+      Medicine, Baltimore, MD.
+AD  - Division of Pulmonary and Critical Care Medicine, Johns Hopkins University School 
+      of Medicine, Baltimore, MD.
+AD  - Division of Cardiac Surgery, Heart and Vascular Institute, Johns Hopkins 
+      University School of Medicine, Baltimore, MD.
+LA  - eng
+GR  - UG3 HL145269/HL/NHLBI NIH HHS/United States
+GR  - R01 HL071568/HL/NHLBI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Crit Care Med
+JT  - Critical care medicine
+JID - 0355501
+SB  - IM
+CIN - Crit Care Med. 2022 Jan 1;50(1):e97-e98. PMID: 34914656
+CIN - Crit Care Med. 2022 Jan 1;50(1):e98-e99. PMID: 34914657
+CIN - Crit Care Med. 2022 Jan 1;50(1):e99-e100. PMID: 34914658
+MH  - Adult
+MH  - Blood Gas Analysis/methods
+MH  - Extracorporeal Membrane Oxygenation/methods/*statistics & numerical data
+MH  - Female
+MH  - Humans
+MH  - Hyperoxia/*complications/epidemiology
+MH  - Intensive Care Units/organization & administration/statistics & numerical data
+MH  - Male
+MH  - Middle Aged
+MH  - Odds Ratio
+MH  - Organ Dysfunction Scores
+MH  - Outcome Assessment, Health Care/methods/*statistics & numerical data
+MH  - Retrospective Studies
+MH  - Risk Factors
+MH  - *Time Factors
+COIS- Dr. Geocadin is supported, in part, by the National Institutes of Health grants 
+      UG3 HL145269 and R01 HL071568 and medico-legal consulting, and unrestricted fund 
+      from the Wenzel Family Foundation. The remaining authors have disclosed that they 
+      do not have any potential conflicts of interest.
+EDAT- 2021/05/04 06:00
+MHDA- 2021/10/05 06:00
+CRDT- 2021/05/03 06:02
+PHST- 2021/05/04 06:00 [pubmed]
+PHST- 2021/10/05 06:00 [medline]
+PHST- 2021/05/03 06:02 [entrez]
+AID - 00003246-202110000-00038 [pii]
+AID - 10.1097/CCM.0000000000005069 [doi]
+PST - ppublish
+SO  - Crit Care Med. 2021 Oct 1;49(10):e968-e977. doi: 10.1097/CCM.0000000000005069.
+
+PMID- 33545678
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220224
+LR  - 20230617
+IS  - 1933-0715 (Electronic)
+IS  - 1933-0707 (Linking)
+VI  - 27
+IP  - 4
+DP  - 2021 Feb 5
+TI  - Preclinical efficacy of ribavirin in SHH and group 3 medulloblastoma.
+PG  - 482-488
+LID - 10.3171/2020.8.PEDS20561 [doi]
+AB  - OBJECTIVE: Medulloblastoma, the most common pediatric brain malignancy, has Sonic 
+      Hedgehog (SHH) and group 3 (Myc driven) subtypes that are associated with the 
+      activity of eukaryotic initiation factor 4E (eIF4E), a critical mediator of 
+      translation, and enhancer of zeste homolog 2 (EZH2), a histone methyltransferase 
+      and master regulator of transcription. Recent drug repurposing efforts in 
+      multiple solid and hematologic malignancies have demonstrated that eIF4E and EZH2 
+      are both pharmacologically inhibited by the FDA-approved antiviral drug 
+      ribavirin. Given the molecular overlap between medulloblastoma biology and known 
+      ribavirin activity, the authors investigated the preclinical efficacy of 
+      repurposing ribavirin as a targeted therapeutic in cell and animal models of 
+      medulloblastoma. METHODS: Multiple in vitro assays were performed using human 
+      ONS-76 (a primitive SHH model) and D425 (an aggressive group 3 model) cells. The 
+      impacts of ribavirin on cellular growth, death, migration, and invasion were 
+      quantified using proliferation and Cell Counting Kit-8 (CCK-8) assays, flow 
+      cytometry with annexin V (AnnV) staining, scratch wound assays, and Matrigel 
+      invasion chambers, respectively. Survival following daily ribavirin treatment 
+      (100 mg/kg) was assessed in vivo in immunodeficient mice intracranially implanted 
+      with D425 cells. RESULTS: Compared to controls, ribavirin treatment led to a 
+      significant reduction in medulloblastoma cell growth (ONS-76 proliferation assay, 
+      p = 0.0001; D425 CCK-8 assay, p < 0.0001) and a significant increase in cell 
+      death (flow cytometry for AnnV, ONS-76, p = 0.0010; D425, p = 0.0284). In ONS-76 
+      cells, compared to controls, ribavirin significantly decreased cell migration and 
+      invasion (Matrigel invasion chamber assay, p = 0.0012). In vivo, ribavirin 
+      significantly extended survival in an aggressive group 3 medulloblastoma mouse 
+      model compared to vehicle-treated controls (p = 0.0004). CONCLUSIONS: The authors 
+      demonstrate that ribavirin, a clinically used drug known to inhibit eIF4E and 
+      EZH2, has significant antitumor effects in multiple preclinical models of 
+      medulloblastoma, including an aggressive group 3 animal model. Ribavirin may 
+      represent a promising targeted therapeutic in medulloblastoma.
+FAU - Huq, Sakibul
+AU  - Huq S
+FAU - Kannapadi, Nivedha V
+AU  - Kannapadi NV
+FAU - Casaos, Joshua
+AU  - Casaos J
+FAU - Lott, Tarik
+AU  - Lott T
+FAU - Felder, Raphael
+AU  - Felder R
+FAU - Serra, Riccardo
+AU  - Serra R
+FAU - Gorelick, Noah L
+AU  - Gorelick NL
+FAU - Ruiz-Cardozo, Miguel A
+AU  - Ruiz-Cardozo MA
+FAU - Ding, Andy S
+AU  - Ding AS
+FAU - Cecia, Arba
+AU  - Cecia A
+FAU - Medikonda, Ravi
+AU  - Medikonda R
+FAU - Ehresman, Jeff
+AU  - Ehresman J
+FAU - Brem, Henry
+AU  - Brem H
+FAU - Skuli, Nicolas
+AU  - Skuli N
+FAU - Tyler, Betty M
+AU  - Tyler BM
+LA  - eng
+PT  - Journal Article
+DEP - 20210205
+PL  - United States
+TA  - J Neurosurg Pediatr
+JT  - Journal of neurosurgery. Pediatrics
+JID - 101463759
+RN  - 0 (EIF4E protein, human)
+RN  - 0 (Eukaryotic Initiation Factor-4E)
+RN  - 0 (Hedgehog Proteins)
+RN  - 0 (SHH protein, human)
+RN  - 49717AWG6K (Ribavirin)
+RN  - EC 2.1.1.43 (EZH2 protein, human)
+RN  - EC 2.1.1.43 (Enhancer of Zeste Homolog 2 Protein)
+SB  - IM
+MH  - Animals
+MH  - Cell Line, Tumor
+MH  - Cell Movement/drug effects
+MH  - Cell Proliferation/drug effects
+MH  - Cerebellar Neoplasms/genetics/metabolism/*pathology
+MH  - Enhancer of Zeste Homolog 2 Protein/drug effects/metabolism
+MH  - Eukaryotic Initiation Factor-4E/drug effects/metabolism
+MH  - Hedgehog Proteins/genetics
+MH  - Humans
+MH  - Medulloblastoma/genetics/metabolism/*pathology
+MH  - Mice
+MH  - Ribavirin/*pharmacology
+MH  - Xenograft Model Antitumor Assays
+OTO - NOTNLM
+OT  - brain tumor
+OT  - cancer
+OT  - medulloblastoma
+OT  - oncology
+OT  - repurposing
+OT  - ribavirin
+OT  - targeted therapy
+EDAT- 2021/02/06 06:00
+MHDA- 2022/02/25 06:00
+CRDT- 2021/02/05 20:17
+PHST- 2020/06/26 00:00 [received]
+PHST- 2020/08/24 00:00 [accepted]
+PHST- 2021/02/06 06:00 [pubmed]
+PHST- 2022/02/25 06:00 [medline]
+PHST- 2021/02/05 20:17 [entrez]
+AID - 10.3171/2020.8.PEDS20561 [doi]
+PST - epublish
+SO  - J Neurosurg Pediatr. 2021 Feb 5;27(4):482-488. doi: 10.3171/2020.8.PEDS20561.
+
+PMID- 35315836
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220419
+LR  - 20220603
+IS  - 2332-4260 (Electronic)
+IS  - 2332-4252 (Linking)
+VI  - 22
+IP  - 5
+DP  - 2022 May 1
+TI  - Case Series in the Utility of Invasive Blood Pressure Monitoring in Microvascular 
+      Decompression.
+PG  - 262-268
+LID - 10.1227/ons.0000000000000130 [doi]
+AB  - BACKGROUND: The utility of arterial lines in microvascular decompression (MVD) is 
+      not well described. OBJECTIVE: To examine the safety and costs of arterial lines 
+      compared with noninvasive blood pressure (NIBP) monitoring in MVDs. METHODS: We 
+      retrospectively reviewed patients undergoing MVD from 2012 to 2020. Patients were 
+      grouped by procedure date from 2012 to 2014 and 2015 to 2020, reflecting our 
+      institution's decreasing trend in arterial line placement around 2014 to 2015. 
+      Patient features, intraoperative characteristics, and postoperative complications 
+      were collected for all cases. Statistical differences were evaluated using 
+      chi-squared analyses and t-tests. RESULTS: Eight hundred fifty-eight patients 
+      underwent MVDs, with 204 between 2012 and 2014 and 654 between 2015 and 2020. 
+      Over time, the frequency of arterial line placement decreased from 64.2% to 
+      30.1%, P < .001. Arterial lines involved 11 additional minutes of preincision 
+      time, P < .001. Patients with arterial lines required both increased doses and 
+      costs of vasoactive medications intraoperatively. Patients receiving arterial 
+      lines demonstrated no significant differences in complications compared with 
+      patients with NIBP monitoring. On average, patients with arterial lines incurred 
+      $802 increased costs per case compared with NIBP monitoring. CONCLUSION: NIBP 
+      monitoring in MVDs provides neurologically and hemodynamically safe outcomes 
+      compared with invasive blood pressure monitoring. For patients without 
+      significant cardiopulmonary risk factors, NIBP monitoring may be a cost-effective 
+      alternative in MVDs.
+CI  - Copyright © Congress of Neurological Surgeons 2022. All rights reserved.
+FAU - Xu, Risheng
+AU  - Xu R
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, Maryland, USA.
+FAU - Nair, Sumil K
+AU  - Nair SK
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, Maryland, USA.
+FAU - Materi, Josh
+AU  - Materi J
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, Maryland, USA.
+FAU - Raj, Divyaansh
+AU  - Raj D
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, Maryland, USA.
+FAU - Medikonda, Ravi
+AU  - Medikonda R
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, Maryland, USA.
+FAU - Shah, Pavan P
+AU  - Shah PP
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, Maryland, USA.
+FAU - Kannapadi, Nivedha V
+AU  - Kannapadi NV
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, Maryland, USA.
+FAU - Wang, Andrew
+AU  - Wang A
+AD  - Department of Anesthesiology and Critical Care Medicine, Johns Hopkins University 
+      School of Medicine, Baltimore, Maryland, USA.
+FAU - Mintz, David
+AU  - Mintz D
+AD  - Department of Anesthesiology and Critical Care Medicine, Johns Hopkins University 
+      School of Medicine, Baltimore, Maryland, USA.
+FAU - Gottschalk, Allan
+AU  - Gottschalk A
+AD  - Department of Anesthesiology and Critical Care Medicine, Johns Hopkins University 
+      School of Medicine, Baltimore, Maryland, USA.
+FAU - Antonik, Laurie J
+AU  - Antonik LJ
+AD  - Department of Anesthesiology and Critical Care Medicine, Johns Hopkins University 
+      School of Medicine, Baltimore, Maryland, USA.
+FAU - Huang, Judy
+AU  - Huang J
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, Maryland, USA.
+FAU - Bettegowda, Chetan
+AU  - Bettegowda C
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, Maryland, USA.
+FAU - Lim, Michael
+AU  - Lim M
+AD  - Department of Neurosurgery, Stanford University School of Medicine, Stanford, 
+      California, USA.
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Oper Neurosurg (Hagerstown)
+JT  - Operative neurosurgery (Hagerstown, Md.)
+JID - 101635417
+SB  - IM
+MH  - Blood Pressure/physiology
+MH  - Blood Pressure Determination/methods
+MH  - Humans
+MH  - *Microvascular Decompression Surgery
+MH  - Monitoring, Physiologic/methods
+MH  - Retrospective Studies
+EDAT- 2022/03/23 06:00
+MHDA- 2022/04/20 06:00
+CRDT- 2022/03/22 12:11
+PHST- 2021/08/09 00:00 [received]
+PHST- 2021/11/28 00:00 [accepted]
+PHST- 2022/03/23 06:00 [pubmed]
+PHST- 2022/04/20 06:00 [medline]
+PHST- 2022/03/22 12:11 [entrez]
+AID - 01787389-202205000-00002 [pii]
+AID - 10.1227/ons.0000000000000130 [doi]
+PST - ppublish
+SO  - Oper Neurosurg (Hagerstown). 2022 May 1;22(5):262-268. doi: 
+      10.1227/ons.0000000000000130.
+
+PMID- 34756659
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220117
+LR  - 20220430
+IS  - 1444-2892 (Electronic)
+IS  - 1443-9506 (Print)
+IS  - 1443-9506 (Linking)
+VI  - 31
+IP  - 2
+DP  - 2022 Feb
+TI  - Neurological Complications in COVID-19 Patients With ECMO Support: A Systematic 
+      Review and Meta-Analysis.
+PG  - 292-298
+LID - S1443-9506(21)01292-0 [pii]
+LID - 10.1016/j.hlc.2021.10.007 [doi]
+AB  - BACKGROUND: Patients with Coronavirus disease 2019 (COVID-19)-related acute 
+      respiratory disease (ARDS) increasingly receive extracorporeal membrane 
+      oxygenation (ECMO) support. While ECMO has been shown to increase risk of stroke, 
+      few studies have examined this association in COVID-19 patients. OBJECTIVE: We 
+      conducted a systematic review to characterise neurological events during ECMO 
+      support in COVID-19 patients. DESIGN: Systematic review of cohort and large case 
+      series of COVID-19 patients who received ECMO support. DATA SOURCES: Studies 
+      retrieved from PubMed, EMBASE, Cochrane, Cochrane COVID-19 Study Register, Web of 
+      Science, Scopus, Clinicaltrials.gov, and medRχiv from inception to November 
+      11, 2020. ELIGIBILITY CRITERIA: Inclusion criteria were a) Adult population (>18 
+      year old); b) Positive PCR test for SARS-CoV-2 with active COVID-19 disease; c) 
+      ECMO therapy due to COVID-19 ARDS; and d) Neurological events and outcome 
+      described while on ECMO support. We excluded articles when no details of 
+      neurologic events were available. RESULTS: 1,322 patients from 12 case series and 
+      retrospective cohort studies were included in our study. The median age was 49.2, 
+      and 75% (n=985) of the patients were male. Diabetes mellitus and dyslipidaemia 
+      were the most common comorbidities (24% and 20%, respectively). Most (95%, 
+      n=1,241) patients were on venovenous ECMO with a median P:F ratio at the time of 
+      ECMO cannulation of 69.1. The prevalence of intracranial haemorrhage (ICH), 
+      ischaemic stroke, and hypoxic ischaemic brain injury (HIBI) was 5.9% (n=78), 1.1% 
+      (n=15), and 0.3% (n=4), respectively. The overall mortality of the 1,296 ECMO 
+      patients in the 10 studies that reported death was 36% (n=477), and the mortality 
+      of the subset of patients who had a neurological event was 92%. CONCLUSIONS: 
+      Neurological injury is a concern for COVID-19 patients who receive ECMO. Further 
+      research is required to explore how neuromonitoring protocols can inform tailored 
+      anticoagulation management and improve survival in COVID-19 patients with ECMO 
+      support.
+CI  - Copyright © 2021 Australian and New Zealand Society of Cardiac and Thoracic 
+      Surgeons (ANZSCTS) and the Cardiac Society of Australia and New Zealand (CSANZ). 
+      Published by Elsevier B.V. All rights reserved.
+FAU - Kannapadi, Nivedha V
+AU  - Kannapadi NV
+AD  - Division of Neurosciences Critical Care, Department of Neurology, Neurosurgery, 
+      Anesthesiology and Critical Care Medicine and Neurosurgery, Johns Hopkins 
+      University School of Medicine, Baltimore, MD, USA.
+FAU - Jami, Meghana
+AU  - Jami M
+AD  - Division of Neurosciences Critical Care, Department of Neurology, Neurosurgery, 
+      Anesthesiology and Critical Care Medicine and Neurosurgery, Johns Hopkins 
+      University School of Medicine, Baltimore, MD, USA.
+FAU - Premraj, Lavienraj
+AU  - Premraj L
+AD  - Griffith University School of Medicine, Gold Coast, Qld, Australia.
+FAU - Etchill, Eric W
+AU  - Etchill EW
+AD  - Division of Cardiac Surgery, Department of Surgery, Johns Hopkins University 
+      School of Medicine, Baltimore, MD, USA.
+FAU - Giuliano, Katherine
+AU  - Giuliano K
+AD  - Division of Cardiac Surgery, Department of Surgery, Johns Hopkins University 
+      School of Medicine, Baltimore, MD, USA.
+FAU - Bush, Errol L
+AU  - Bush EL
+AD  - Division of Cardiac Surgery, Department of Surgery, Johns Hopkins University 
+      School of Medicine, Baltimore, MD, USA.
+FAU - Kim, Bo Soo
+AU  - Kim BS
+AD  - Division of Pulmonary and Critical Care Medicine, Department of Medicine, Johns 
+      Hopkins University School of Medicine, MD, USA.
+FAU - Seal, Stella
+AU  - Seal S
+AD  - Department of Hospital, Health and Community Services, Johns Hopkins University 
+      School of Medicine, MD, USA.
+FAU - Whitman, Glenn
+AU  - Whitman G
+AD  - Division of Cardiac Surgery, Department of Surgery, Johns Hopkins University 
+      School of Medicine, Baltimore, MD, USA.
+FAU - Cho, Sung-Min
+AU  - Cho SM
+AD  - Division of Neurosciences Critical Care, Department of Neurology, Neurosurgery, 
+      Anesthesiology and Critical Care Medicine and Neurosurgery, Johns Hopkins 
+      University School of Medicine, Baltimore, MD, USA. Electronic address: 
+      csungmi1@jhmi.edu.
+LA  - eng
+PT  - Journal Article
+PT  - Meta-Analysis
+PT  - Systematic Review
+DEP - 20211028
+PL  - Australia
+TA  - Heart Lung Circ
+JT  - Heart, lung & circulation
+JID - 100963739
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - *Brain Ischemia
+MH  - *COVID-19
+MH  - *Extracorporeal Membrane Oxygenation/adverse effects
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Retrospective Studies
+MH  - SARS-CoV-2
+MH  - *Stroke/epidemiology/etiology
+PMC - PMC8553269
+OTO - NOTNLM
+OT  - COVID-19
+OT  - ECMO
+OT  - Intracranial haemorrhage
+OT  - Stroke
+EDAT- 2021/11/11 06:00
+MHDA- 2022/01/18 06:00
+CRDT- 2021/11/10 14:05
+PHST- 2021/07/19 00:00 [received]
+PHST- 2021/09/11 00:00 [revised]
+PHST- 2021/10/07 00:00 [accepted]
+PHST- 2021/11/11 06:00 [pubmed]
+PHST- 2022/01/18 06:00 [medline]
+PHST- 2021/11/10 14:05 [entrez]
+AID - S1443-9506(21)01292-0 [pii]
+AID - 10.1016/j.hlc.2021.10.007 [doi]
+PST - ppublish
+SO  - Heart Lung Circ. 2022 Feb;31(2):292-298. doi: 10.1016/j.hlc.2021.10.007. Epub 
+      2021 Oct 28.
+
+PMID- 34119413
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211014
+LR  - 20221221
+IS  - 1532-8422 (Electronic)
+IS  - 1053-0770 (Print)
+IS  - 1053-0770 (Linking)
+VI  - 35
+IP  - 11
+DP  - 2021 Nov
+TI  - Neurologic Injury in Patients With COVID-19 Who Receive VV-ECMO Therapy: A Cohort 
+      Study.
+PG  - 3456-3461
+LID - S1053-0770(21)00428-6 [pii]
+LID - 10.1053/j.jvca.2021.05.017 [doi]
+FAU - Kannapadi, Nivedha V
+AU  - Kannapadi NV
+AD  - Division of Neurosciences Critical Care, Department of Neurology, Neurosurgery, 
+      Anesthesiology and Critical Care Medicine and Neurosurgery, Johns Hopkins 
+      University School of Medicine, Baltimore, MD.
+FAU - Jami, Meghana
+AU  - Jami M
+AD  - Division of Neurosciences Critical Care, Department of Neurology, Neurosurgery, 
+      Anesthesiology and Critical Care Medicine and Neurosurgery, Johns Hopkins 
+      University School of Medicine, Baltimore, MD.
+FAU - Premraj, Lavienraj
+AU  - Premraj L
+AD  - Griffith University School of Medicine, Gold Coast, Australia.
+FAU - Etchill, Eric W
+AU  - Etchill EW
+AD  - Division of Cardiac Surgery, Department of Surgery, Johns Hopkins University 
+      School of Medicine, Baltimore, MD.
+FAU - Giuliano, Katherine
+AU  - Giuliano K
+AD  - Division of Cardiac Surgery, Department of Surgery, Johns Hopkins University 
+      School of Medicine, Baltimore, MD.
+FAU - Bush, Errol L
+AU  - Bush EL
+AD  - Division of Cardiac Surgery, Department of Surgery, Johns Hopkins University 
+      School of Medicine, Baltimore, MD.
+FAU - Kim, Bo Soo
+AU  - Kim BS
+AD  - Division of Pulmonary and Critical Care Medicine, Department of Medicine, Johns 
+      Hopkins University School of Medicine, Baltimore, MD.
+FAU - Seal, Stella
+AU  - Seal S
+AD  - Department of Hospital, Health, and Community Services, Johns Hopkins University 
+      School of Medicine, Baltimore, MD.
+FAU - Whitman, Glenn
+AU  - Whitman G
+AD  - Division of Cardiac Surgery, Department of Surgery, Johns Hopkins University 
+      School of Medicine, Baltimore, MD.
+FAU - Cho, Sung-Min
+AU  - Cho SM
+AD  - Division of Neurosciences Critical Care, Department of Neurology, Neurosurgery, 
+      Anesthesiology and Critical Care Medicine and Neurosurgery, Johns Hopkins 
+      University School of Medicine, Baltimore, MD.
+LA  - eng
+PT  - Letter
+DEP - 20210513
+PL  - United States
+TA  - J Cardiothorac Vasc Anesth
+JT  - Journal of cardiothoracic and vascular anesthesia
+JID - 9110208
+SB  - IM
+MH  - *COVID-19
+MH  - Cohort Studies
+MH  - *Extracorporeal Membrane Oxygenation/adverse effects
+MH  - Humans
+MH  - *Respiratory Distress Syndrome
+MH  - Retrospective Studies
+MH  - SARS-CoV-2
+PMC - PMC8117479
+COIS- Conflict of Interest None.
+EDAT- 2021/06/14 06:00
+MHDA- 2021/10/15 06:00
+CRDT- 2021/06/13 20:34
+PHST- 2021/02/12 00:00 [received]
+PHST- 2021/05/03 00:00 [revised]
+PHST- 2021/05/06 00:00 [accepted]
+PHST- 2021/06/14 06:00 [pubmed]
+PHST- 2021/10/15 06:00 [medline]
+PHST- 2021/06/13 20:34 [entrez]
+AID - S1053-0770(21)00428-6 [pii]
+AID - 10.1053/j.jvca.2021.05.017 [doi]
+PST - ppublish
+SO  - J Cardiothorac Vasc Anesth. 2021 Nov;35(11):3456-3461. doi: 
+      10.1053/j.jvca.2021.05.017. Epub 2021 May 13.
+
+PMID- 36113711
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230217
+LR  - 20230217
+IS  - 1878-8769 (Electronic)
+IS  - 1878-8750 (Linking)
+VI  - 167
+DP  - 2022 Nov
+TI  - A Potential Role for Steroids in Acute Pain Management in Patients with 
+      Trigeminal Neuralgia.
+PG  - e1291-e1298
+LID - S1878-8750(22)01291-8 [pii]
+LID - 10.1016/j.wneu.2022.09.025 [doi]
+AB  - OBJECTIVE: Effective therapies for acute pain management in trigeminal neuralgia 
+      (TN) are limited. We aimed to investigate the role of steroids in TN patients 
+      experiencing acute pain flares. METHODS: We retrospectively reviewed patients 
+      presenting to the emergency department of a tertiary care institution between 
+      2014 and 2020 for acute TN pain flares. Patients were divided into those who 
+      received steroids versus those who did not. Presenting characteristics, admission 
+      and surgical intervention rates, Barrow Neurological Institute pain scores, pain 
+      recurrence rates, and surgical intervention within 6 months of discharge were 
+      obtained for each patient. RESULTS: Our cohort comprised 151 patients, of whom 40 
+      (26.5%) received steroids before admission and/or discharge. These patients were 
+      less likely to undergo surgical intervention to treat acute pain (P = 0.023). 
+      Specifically, patients receiving steroids were less likely to undergo combined 
+      glycerin and radiofrequency rhizotomy compared with patients not receiving 
+      steroids (P = 0.012). Frequency and dosage of opioid administration did not 
+      differ between groups. The steroids group demonstrated a lower average Barrow 
+      Neurological Institute pain score on discharge compared with the no steroids 
+      group (P = 0.013). Patients receiving steroids for acute pain management were 
+      less likely to undergo surgical intervention within 6 months of discharge than 
+      patients who did not receive steroids (P = 0.033). CONCLUSIONS: Steroid 
+      administration in patients with acute TN pain flares may reduce the likelihood of 
+      surgical intervention both during admission and within 6 months of discharge. 
+      Future prospective studies should examine the efficacy of steroids as an 
+      adjunctive medication in acute TN pain management.
+CI  - Copyright © 2022 Elsevier Inc. All rights reserved.
+FAU - Xu, Risheng
+AU  - Xu R
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, Maryland, USA.
+FAU - Nair, Sumil K
+AU  - Nair SK
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, Maryland, USA.
+FAU - Shah, Pavan P
+AU  - Shah PP
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, Maryland, USA.
+FAU - Kannapadi, Nivedha
+AU  - Kannapadi N
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, Maryland, USA.
+FAU - Materi, Joshua
+AU  - Materi J
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, Maryland, USA.
+FAU - Alomari, Safwan
+AU  - Alomari S
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, Maryland, USA.
+FAU - Kim, Timothy
+AU  - Kim T
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, Maryland, USA.
+FAU - Kalluri, Anita
+AU  - Kalluri A
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, Maryland, USA.
+FAU - Xia, Yuanxuan
+AU  - Xia Y
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, Maryland, USA.
+FAU - So, Raymond J
+AU  - So RJ
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, Maryland, USA.
+FAU - Lim, Michael
+AU  - Lim M
+AD  - Department of Neurosurgery, Stanford University School of Medicine, Stanford, 
+      California, USA.
+FAU - Bettegowda, Chetan
+AU  - Bettegowda C
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, Maryland, USA. Electronic address: cbetteg1@jhmi.edu.
+LA  - eng
+PT  - Journal Article
+DEP - 20220914
+PL  - United States
+TA  - World Neurosurg
+JT  - World neurosurgery
+JID - 101528275
+RN  - 0 (Steroids)
+SB  - IM
+MH  - Humans
+MH  - Pain Management
+MH  - *Trigeminal Neuralgia/drug therapy/surgery
+MH  - Treatment Outcome
+MH  - Prospective Studies
+MH  - Retrospective Studies
+MH  - *Acute Pain
+MH  - Steroids/therapeutic use
+MH  - *Radiosurgery
+OTO - NOTNLM
+OT  - Acute pain management
+OT  - Steroids
+OT  - Trigeminal neuralgia
+EDAT- 2022/09/17 06:00
+MHDA- 2023/02/18 06:00
+CRDT- 2022/09/16 19:25
+PHST- 2022/05/17 00:00 [received]
+PHST- 2022/09/03 00:00 [revised]
+PHST- 2022/09/05 00:00 [accepted]
+PHST- 2022/09/17 06:00 [pubmed]
+PHST- 2023/02/18 06:00 [medline]
+PHST- 2022/09/16 19:25 [entrez]
+AID - S1878-8750(22)01291-8 [pii]
+AID - 10.1016/j.wneu.2022.09.025 [doi]
+PST - ppublish
+SO  - World Neurosurg. 2022 Nov;167:e1291-e1298. doi: 10.1016/j.wneu.2022.09.025. Epub 
+      2022 Sep 14.
+
+PMID- 38187146
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240109
+IS  - 1664-2295 (Print)
+IS  - 1664-2295 (Electronic)
+IS  - 1664-2295 (Linking)
+VI  - 14
+DP  - 2023
+TI  - Neuropathological findings in COVID-19 vs. non-COVID-19 acute respiratory 
+      distress syndrome-A case-control study.
+PG  - 1283698
+LID - 10.3389/fneur.2023.1283698 [doi]
+LID - 1283698
+AB  - Acute brain injury (ABI) and neuroinflammation is reported in COVID-19 and acute 
+      respiratory distress syndrome (ARDS). It remains unclear if COVID-19 plays an 
+      independent role in development of ABI compared to those with non-COVID-19 ARDS. 
+      We aimed to evaluate if COVID-19 ARDS is associated with higher risk and specific 
+      patterns of ABI compared to non-COVID-19 ARDS. We conducted an age and sex 
+      matched case-control autopsy study at a tertiary academic center. Ten patients 
+      with COVID-19 ARDS were matched to 20 non-COVID-19 ARDS patients. Baseline 
+      demographics were comparable between the two groups including severity of ARDS (p 
+      = 0.3). The frequency of overall ABI (70 vs. 60%), infratentorial ABI (40 vs. 
+      25%), ischemic infarct (40 vs. 25%), intracranial hemorrhage (30 vs. 35%), and 
+      hypoxic-ischemic brain injury (30 vs. 35%) was similar between COVID-19 and 
+      non-COVID-19 ARDS patients, respectively (p > 0.05). Intracapillary 
+      megakaryocytes were exclusively seen in 30% of COVID-19 patients. Overall, 
+      frequency and pattern of ABI in COVID-19 ARDS was comparable to non-COVID-19.
+CI  - Copyright © 2023 Humayun, Zhang, Zaikos, Kannapadi, Suarez, Hager, Troncoso and 
+      Cho.
+FAU - Humayun, Mariyam
+AU  - Humayun M
+AD  - Division of Neuroscience Critical Care, Departments of Neurology, Neurosurgery, 
+      Anesthesiology and Critical Care Medicine, Johns Hopkins University School of 
+      Medicine, Baltimore, MD, United States.
+FAU - Zhang, Lucy
+AU  - Zhang L
+AD  - Inova Health System, Falls Church, VA, United States.
+FAU - Zaikos, Thomas D
+AU  - Zaikos TD
+AD  - Neuropathology Division, Department of Pathology, Johns Hopkins University School 
+      of Medicine, Baltimore, MD, United States.
+FAU - Kannapadi, Nivedha
+AU  - Kannapadi N
+AD  - Division of Neuroscience Critical Care, Departments of Neurology, Neurosurgery, 
+      Anesthesiology and Critical Care Medicine, Johns Hopkins University School of 
+      Medicine, Baltimore, MD, United States.
+FAU - Suarez, Jose I
+AU  - Suarez JI
+AD  - Division of Neuroscience Critical Care, Departments of Neurology, Neurosurgery, 
+      Anesthesiology and Critical Care Medicine, Johns Hopkins University School of 
+      Medicine, Baltimore, MD, United States.
+FAU - Hager, David N
+AU  - Hager DN
+AD  - Division of Pulmonary and Critical Care Medicine, Department of Medicine, Johns 
+      Hopkins University School of Medicine, Baltimore, MD, United States.
+FAU - Troncoso, Juan C
+AU  - Troncoso JC
+AD  - Neuropathology Division, Department of Pathology, Johns Hopkins University School 
+      of Medicine, Baltimore, MD, United States.
+FAU - Cho, Sung-Min
+AU  - Cho SM
+AD  - Division of Neuroscience Critical Care, Departments of Neurology, Neurosurgery, 
+      Anesthesiology and Critical Care Medicine, Johns Hopkins University School of 
+      Medicine, Baltimore, MD, United States.
+LA  - eng
+PT  - Journal Article
+DEP - 20231222
+PL  - Switzerland
+TA  - Front Neurol
+JT  - Frontiers in neurology
+JID - 101546899
+PMC - PMC10771840
+OTO - NOTNLM
+OT  - COVID-19
+OT  - acute brain injury
+OT  - acute respiratory distress syndrome
+OT  - brain autopsy
+OT  - neuropathology
+COIS- LZ was employed by Inova Health System. The remaining authors declare that the 
+      research was conducted in the absence of any commercial or financial 
+      relationships that could be construed as a potential conflict of interest.
+EDAT- 2024/01/08 06:42
+MHDA- 2024/01/08 06:43
+CRDT- 2024/01/08 04:35
+PHST- 2023/08/26 00:00 [received]
+PHST- 2023/12/05 00:00 [accepted]
+PHST- 2024/01/08 06:43 [medline]
+PHST- 2024/01/08 06:42 [pubmed]
+PHST- 2024/01/08 04:35 [entrez]
+AID - 10.3389/fneur.2023.1283698 [doi]
+PST - epublish
+SO  - Front Neurol. 2023 Dec 22;14:1283698. doi: 10.3389/fneur.2023.1283698. 
+      eCollection 2023.
+
+PMID- 36628944
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230306
+LR  - 20230605
+IS  - 1559-0879 (Electronic)
+IS  - 1556-9845 (Print)
+IS  - 1556-9845 (Linking)
+VI  - 18
+IP  - 1
+DP  - 2023 Jan-Feb
+TI  - Management of Anticoagulation Therapy in ECMO-Associated Ischemic Stroke and 
+      Intracranial Hemorrhage.
+PG  - 49-57
+LID - 10.1177/15569845221141702 [doi]
+AB  - OBJECTIVE: Despite the common occurrence of extracorporeal membrane oxygenation 
+      (ECMO)-associated acute ischemic stroke (AIS) and intracranial hemorrhage (ICH), 
+      there are little data to guide optimal anticoagulation management. We sought to 
+      describe antithrombotic therapy management after stroke and outcomes. METHODS: A 
+      retrospective analysis was conducted of venoarterial (VA) and venovenous (VV) 
+      ECMO patients treated at a tertiary care center from June 2016 to February 2021. 
+      Patients with image-confirmed diagnosis of AIS or ICH while receiving ECMO were 
+      included for study with data collected regarding anticoagulation management and 
+      clinical outcomes. RESULTS: Overall, 216 patients (153 VA-ECMO, 63 VV-ECMO) were 
+      included in this study. Of the 153 patients on VA-ECMO, 13 (8.4%) had AIS and 6 
+      (3.9%) had ICH. Of the 63 patients on VV-ECMO, none had AIS and 5 (7.9%) had ICH. 
+      One patient (9%) received anticoagulation reversal after ICH. Anticoagulation was 
+      discontinued and later resumed in all 5 ICH survivors (median cessation time, 30 
+      h) and 1 of 2 (50%) AIS survivors (median cessation time, 96 h). While off 
+      anticoagulation, 2 of 11 patients (18%) had thromboembolic events and none had 
+      new AIS. Upon resumption, there were no cases of hemorrhagic transformation of 
+      AIS or ICH expansion. There was no difference in in-hospital mortality between 
+      patients with ICH and those without in both the VA-ECMO and VV-ECMO cohorts nor 
+      between VA-ECMO patients with AIS and those without. CONCLUSIONS: Early cessation 
+      and judicious resumption of anticoagulation appeared feasible in the cohort of 
+      patients with ECMO-associated AIS and ICH.
+FAU - Prokupets, Rochelle
+AU  - Prokupets R
+AD  - Neuroscience Critical Care Division, Departments of Neurology, Neurosurgery, and 
+      Anesthesiology and Critical Care Medicine, Johns Hopkins University School of 
+      Medicine, Baltimore, MD, USA.
+FAU - Kannapadi, Nivedha
+AU  - Kannapadi N
+AD  - Neuroscience Critical Care Division, Departments of Neurology, Neurosurgery, and 
+      Anesthesiology and Critical Care Medicine, Johns Hopkins University School of 
+      Medicine, Baltimore, MD, USA.
+FAU - Chang, Henry
+AU  - Chang H
+AD  - Neuroscience Critical Care Division, Departments of Neurology, Neurosurgery, and 
+      Anesthesiology and Critical Care Medicine, Johns Hopkins University School of 
+      Medicine, Baltimore, MD, USA.
+FAU - Caturegli, Giorgio
+AU  - Caturegli G
+AD  - Neuroscience Critical Care Division, Departments of Neurology, Neurosurgery, and 
+      Anesthesiology and Critical Care Medicine, Johns Hopkins University School of 
+      Medicine, Baltimore, MD, USA.
+FAU - Bush, Errol L
+AU  - Bush EL
+AD  - Division of Thoracic Surgery, Department of Surgery, Johns Hopkins University 
+      School of Medicine, Baltimore, MD, USA.
+FAU - Kim, Bo Soo
+AU  - Kim BS
+AD  - Division of Cardiac Surgery, Department of Surgery, Johns Hopkins University 
+      School of Medicine, Baltimore, MD, USA.
+FAU - Keller, Steven
+AU  - Keller S
+AD  - Division of Pulmonary and Critical Care Medicine, Department of Medicine, Johns 
+      Hopkins University School of Medicine, Baltimore, MD, USA.
+AD  - Department of Biomedical Engineering, Johns Hopkins University School of 
+      Medicine, Baltimore, MD, USA.
+FAU - Geocadin, Romergryko G
+AU  - Geocadin RG
+AD  - Neuroscience Critical Care Division, Departments of Neurology, Neurosurgery, and 
+      Anesthesiology and Critical Care Medicine, Johns Hopkins University School of 
+      Medicine, Baltimore, MD, USA.
+FAU - Whitman, Glenn J R
+AU  - Whitman GJR
+AD  - Division of Cardiac Surgery, Department of Surgery, Johns Hopkins University 
+      School of Medicine, Baltimore, MD, USA.
+FAU - Cho, Sung-Min
+AU  - Cho SM
+AUID- ORCID: 0000-0002-5132-0958
+AD  - Neuroscience Critical Care Division, Departments of Neurology, Neurosurgery, and 
+      Anesthesiology and Critical Care Medicine, Johns Hopkins University School of 
+      Medicine, Baltimore, MD, USA.
+AD  - Division of Cardiac Surgery, Department of Surgery, Johns Hopkins University 
+      School of Medicine, Baltimore, MD, USA.
+CN  - HERALD Investigators
+LA  - eng
+GR  - K08 HL143342/HL/NHLBI NIH HHS/United States
+GR  - K23 HL157610/HL/NHLBI NIH HHS/United States
+GR  - L30 HL165486/HL/NHLBI NIH HHS/United States
+PT  - Journal Article
+DEP - 20230111
+PL  - United States
+TA  - Innovations (Phila)
+JT  - Innovations (Philadelphia, Pa.)
+JID - 101257528
+RN  - 0 (Anticoagulants)
+SB  - IM
+MH  - Humans
+MH  - *Ischemic Stroke/chemically induced
+MH  - *Extracorporeal Membrane Oxygenation/adverse effects
+MH  - Retrospective Studies
+MH  - Intracranial Hemorrhages/chemically induced/therapy
+MH  - Anticoagulants/adverse effects
+PMC - PMC10236353
+MID - NIHMS1892421
+OTO - NOTNLM
+OT  - ECMO
+OT  - anticoagulation
+OT  - stroke
+COIS- Conflict of Interest Statement: All other authors declare that the research was 
+      conducted in the absence of any commercial or financial relationships that could 
+      be construed as a potential conflict of interest.
+FIR - Acton, Matthew
+IR  - Acton M
+FIR - Rando, Hannah
+IR  - Rando H
+FIR - Alejo, Diane
+IR  - Alejo D
+FIR - Calligy, Kate
+IR  - Calligy K
+FIR - Anderson, Scott
+IR  - Anderson S
+FIR - Shou, Benjamin
+IR  - Shou B
+FIR - Sussman, Marc
+IR  - Sussman M
+FIR - Wilcox, Christopher
+IR  - Wilcox C
+FIR - Zhang, Lucy
+IR  - Zhang L
+FIR - Brown, Patricia
+IR  - Brown P
+FIR - Peeler, Anna
+IR  - Peeler A
+EDAT- 2023/01/12 06:00
+MHDA- 2023/03/07 06:00
+CRDT- 2023/01/11 04:52
+PHST- 2023/01/12 06:00 [pubmed]
+PHST- 2023/03/07 06:00 [medline]
+PHST- 2023/01/11 04:52 [entrez]
+AID - 10.1177/15569845221141702 [doi]
+PST - ppublish
+SO  - Innovations (Phila). 2023 Jan-Feb;18(1):49-57. doi: 10.1177/15569845221141702. 
+      Epub 2023 Jan 11.
+
+PMID- 35831274
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220715
+LR  - 20230713
+IS  - 2058-6124 (Electronic)
+IS  - 2058-6124 (Linking)
+VI  - 8
+IP  - 1
+DP  - 2022 Jul 12
+TI  - Spinal cord untethering and midline myelotomy for delayed, symptomatic 
+      post-traumatic syringomyelia due to retained ballistic fragments: case report.
+PG  - 66
+LID - 10.1038/s41394-022-00533-7 [doi]
+LID - 66
+AB  - INTRODUCTION: Post-traumatic syringomyelia is an uncommon complication after 
+      traumatic spinal cord injury. This case study details our decision-making and 
+      surgical approach for a patient with symptomatic post-traumatic syringomyelia 
+      after sustaining a gunshot wound. CASE PRESENTATION: A 24-year-old man with past 
+      medical history of distant American Spinal Injury Association Impairment Grade B 
+      spinal cord injury due to ballistic injury developed delayed post-traumatic 
+      syringomyelia, resulting in unilateral sensory loss and left upper extremity 
+      weakness. CT and MR imaging revealed a syrinx spanning his cervical and thoracic 
+      spine causing significant spinal cord compression. To relieve achieve 
+      decompression and restore CSF flow dynamics, we performed a bony extradural 
+      decompression, bullet fragment extraction, spinal cord untethering, and midline 
+      myelotomy. Postoperatively, the patient demonstrated clinical and radiographical 
+      improvement. DISCUSSION: Post-traumatic syringomyelia is potentially morbid 
+      sequalae of spinal cord injuries. Suspicion for post-traumatic syringomyelia 
+      should be maintained in patients with delayed, progressive neurologic deficits. 
+      In this setting, surgical intervention may require extradural and intradural 
+      procedures to mitigate neural compression along the dilated central canal by the 
+      syrinx.
+CI  - © 2022. The Author(s), under exclusive licence to International Spinal Cord 
+      Society.
+FAU - Azad, Tej D
+AU  - Azad TD
+AD  - Department of Neurosurgery, Johns Hopkins School of Medicine, Baltimore, MD, USA. 
+      tazad1@jhmi.edu.
+FAU - Materi, Joshua
+AU  - Materi J
+AUID- ORCID: 0000-0001-9786-9068
+AD  - Department of Neurosurgery, Johns Hopkins School of Medicine, Baltimore, MD, USA.
+FAU - Hwang, Brian Y
+AU  - Hwang BY
+AD  - Department of Neurosurgery, Johns Hopkins School of Medicine, Baltimore, MD, USA.
+FAU - Mathios, Dimitrios
+AU  - Mathios D
+AD  - Department of Neurosurgery, Johns Hopkins School of Medicine, Baltimore, MD, USA.
+FAU - Lehner, Kurt R
+AU  - Lehner KR
+AD  - Department of Neurosurgery, Johns Hopkins School of Medicine, Baltimore, MD, USA.
+FAU - Hansen, Landon
+AU  - Hansen L
+AD  - Department of Neurosurgery, Johns Hopkins School of Medicine, Baltimore, MD, USA.
+FAU - Bernhardt, Lydia J
+AU  - Bernhardt LJ
+AD  - Department of Neurosurgery, Johns Hopkins School of Medicine, Baltimore, MD, USA.
+FAU - Xia, Yuanxuan
+AU  - Xia Y
+AD  - Department of Neurosurgery, Johns Hopkins School of Medicine, Baltimore, MD, USA.
+FAU - Shah, Pavan P
+AU  - Shah PP
+AD  - Department of Neurosurgery, Johns Hopkins School of Medicine, Baltimore, MD, USA.
+FAU - Kannapadi, Nivedha V
+AU  - Kannapadi NV
+AD  - Department of Neurosurgery, Johns Hopkins School of Medicine, Baltimore, MD, USA.
+FAU - Theodore, Nicholas
+AU  - Theodore N
+AD  - Department of Neurosurgery, Johns Hopkins School of Medicine, Baltimore, MD, USA.
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+DEP - 20220712
+PL  - England
+TA  - Spinal Cord Ser Cases
+JT  - Spinal cord series and cases
+JID - 101680856
+SB  - IM
+MH  - Adult
+MH  - Humans
+MH  - Male
+MH  - *Spinal Cord Injuries/complications/surgery
+MH  - *Spinal Injuries/complications
+MH  - *Syringomyelia/diagnostic imaging/etiology/surgery
+MH  - *Wounds, Gunshot/complications/surgery
+MH  - Young Adult
+PMC - PMC9279308
+COIS- The authors declare no competing interests.
+EDAT- 2022/07/14 06:00
+MHDA- 2022/07/16 06:00
+CRDT- 2022/07/13 23:12
+PHST- 2022/01/24 00:00 [received]
+PHST- 2022/06/28 00:00 [accepted]
+PHST- 2022/06/05 00:00 [revised]
+PHST- 2022/07/13 23:12 [entrez]
+PHST- 2022/07/14 06:00 [pubmed]
+PHST- 2022/07/16 06:00 [medline]
+AID - 10.1038/s41394-022-00533-7 [pii]
+AID - 533 [pii]
+AID - 10.1038/s41394-022-00533-7 [doi]
+PST - epublish
+SO  - Spinal Cord Ser Cases. 2022 Jul 12;8(1):66. doi: 10.1038/s41394-022-00533-7.
+
+PMID- 33229972
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211015
+LR  - 20211015
+IS  - 1538-943X (Electronic)
+IS  - 1058-2916 (Linking)
+VI  - 67
+IP  - 8
+DP  - 2021 Aug 1
+TI  - Clinically Silent Brain Injury and Perioperative Neurological Events in Patients 
+      With Left Ventricular Assist Device: A Brain Autopsy Study.
+PG  - 917-922
+LID - 10.1097/MAT.0000000000001317 [doi]
+AB  - Current studies underestimate the prevalence of brain injury in patients with 
+      left ventricular assist devices (LVADs), as CT scans are not sensitive in 
+      detecting cerebral ischemia. Using postmortem neuropathological evaluation, we 
+      sought to characterize the types and risk factors of brain injury in LVAD 
+      patients. We reviewed 24 LVAD patients who underwent brain autopsy with gross and 
+      microscopic examinations from 1993 through 2019 at a single tertiary center. 
+      Patients who expired less than 7 days after implantation or who underwent 
+      explantation more than 7 days before death were excluded. Our study demonstrated 
+      that all LVAD nonsurvivors developed brain injury. The most common brain injury 
+      was hemorrhage (71%), followed by infarct (42%) and hypoxic ischemic brain injury 
+      (HIBI) (33%), and 10 patients (42%) presented with more than 1 brain injury. 
+      Cerebral microbleeds (CMBs) and intracranial hemorrhage were present in 33% and 
+      42%, respectively. In those with intracranial hemorrhage, subarachnoid hemorrhage 
+      (25%) and intracerebral hemorrhage (25%) were more common than subdural hematoma 
+      (4%). Intracranial hemorrhage was associated with driveline infection (P = 
+      0.047), and HIBI was associated with prior history of chronic obstructive 
+      pulmonary disease (P = 0.037). Fourteen (60%) had clinically silent brain injury 
+      with 65% of hemorrhages and 70% of infarcts being silent. However, the impact of 
+      silent brain injury on neurologic outcome and mortality remains unclear. 
+      Standardized neurologic monitoring and surveillance are recommended to better 
+      detect these clinically silent brain injury.
+CI  - Copyright © ASAIO 2020.
+FAU - Kannapadi, Nivedha V
+AU  - Kannapadi NV
+AD  - Neurosciences Critical Care Division, Departments of Neurology, Neurosurgery, 
+      Anesthesiology and Critical Care Medicine and Neurosurgery, Johns Hopkins 
+      University School of Medicine, Baltimore, Maryland.
+FAU - White, Bartholomew
+AU  - White B
+AD  - Neuropathology Division, Department of Pathology, Johns Hopkins University School 
+      of Medicine, Baltimore, Maryland.
+FAU - Woo Choi, Chun
+AU  - Woo Choi C
+AD  - Division of Cardiac Surgery, Heart and Vascular Institute, Johns Hopkins 
+      University School of Medicine, Baltimore, Maryland.
+FAU - Chen, Liam L
+AU  - Chen LL
+AD  - Neuropathology Division, Department of Pathology, Johns Hopkins University School 
+      of Medicine, Baltimore, Maryland.
+FAU - Cho, Sung-Min
+AU  - Cho SM
+AD  - Neurosciences Critical Care Division, Departments of Neurology, Neurosurgery, 
+      Anesthesiology and Critical Care Medicine and Neurosurgery, Johns Hopkins 
+      University School of Medicine, Baltimore, Maryland.
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - ASAIO J
+JT  - ASAIO journal (American Society for Artificial Internal Organs : 1992)
+JID - 9204109
+SB  - IM
+MH  - Autopsy
+MH  - Brain/diagnostic imaging
+MH  - *Brain Injuries
+MH  - *Heart-Assist Devices/adverse effects
+MH  - Humans
+MH  - Retrospective Studies
+MH  - Subarachnoid Hemorrhage
+COIS- Disclosure: The authors have no conflicts of interest to report.
+EDAT- 2020/11/25 06:00
+MHDA- 2021/10/16 06:00
+CRDT- 2020/11/24 05:58
+PHST- 2020/11/25 06:00 [pubmed]
+PHST- 2021/10/16 06:00 [medline]
+PHST- 2020/11/24 05:58 [entrez]
+AID - 00002480-202108000-00014 [pii]
+AID - 10.1097/MAT.0000000000001317 [doi]
+PST - ppublish
+SO  - ASAIO J. 2021 Aug 1;67(8):917-922. doi: 10.1097/MAT.0000000000001317.
+
+PMID- 33863527
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210622
+LR  - 20210622
+IS  - 1532-2653 (Electronic)
+IS  - 0967-5868 (Linking)
+VI  - 87
+DP  - 2021 May
+TI  - Management of syringomyelia associated with tuberculous meningitis: A case report 
+      and systematic review of the literature.
+PG  - 20-25
+LID - S0967-5868(21)00069-2 [pii]
+LID - 10.1016/j.jocn.2021.01.052 [doi]
+AB  - Determinants of tuberculosis (TB) syringomyelia, its management options and 
+      outcomes are still under investigation. The aim of this study is to present a 
+      case of TB syringomyelia with markedly improved symptoms status-post surgery and 
+      to understand the clinical characteristics and outcomes of 33 TB syringomyelia 
+      cases reported in the literature. Specifically, we examined the differences 
+      between patients who were managed medically and those who underwent surgical 
+      intervention. Inclusion criteria for the cases were (1) syringomyelia caused by 
+      TB infection rather than co-occurrence of these conditions, (2) management 
+      protocol described, and (3) post-treatment outcome described. The median age was 
+      30 years (interquartile range (IQR): 23-40) with 55% males. The median time 
+      between TB onset to syringomyelia diagnosis was 2 years. Nineteen patients were 
+      surgically treated, 11 were medically treated, and 3 received no treatment. 
+      Twenty-one patients showed improvement in at least one prior symptom, but no 
+      patient experienced a full recovery. Those that underwent surgical intervention 
+      were more likely to have TB meningitis (95% vs. 64%, p < 0.05) upon initial TB 
+      presentation and have a greater interval between TB onset and syringomyelia 
+      presentation (median of 2.6 vs. 0.33 years, ns). A greater proportion of the 
+      surgically managed patients experienced improvement in any symptom (74% vs. 45%, 
+      ns). Future case-controlled studies with larger sample sizes are required to 
+      validate and further understand the outcomes of surgically-managed TB 
+      syringomyelia.
+CI  - Copyright © 2021 Elsevier Ltd. All rights reserved.
+FAU - Kannapadi, Nivedha V
+AU  - Kannapadi NV
+AD  - Division of Neurosciences Critical Care, Department of Neurology, Neurosurgery, 
+      Anesthesiology and Critical Care Medicine and Neurosurgery, Johns Hopkins 
+      University School of Medicine, Baltimore, MD, United States.
+FAU - Alomari, Safwan O
+AU  - Alomari SO
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, MD, United States.
+FAU - Caturegli, Giorgio
+AU  - Caturegli G
+AD  - Division of Neurosciences Critical Care, Department of Neurology, Neurosurgery, 
+      Anesthesiology and Critical Care Medicine and Neurosurgery, Johns Hopkins 
+      University School of Medicine, Baltimore, MD, United States.
+FAU - Bydon, Ali
+AU  - Bydon A
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+      Baltimore, MD, United States.
+FAU - Cho, Sung-Min
+AU  - Cho SM
+AD  - Division of Neurosciences Critical Care, Department of Neurology, Neurosurgery, 
+      Anesthesiology and Critical Care Medicine and Neurosurgery, Johns Hopkins 
+      University School of Medicine, Baltimore, MD, United States. Electronic address: 
+      csungmi1@jhmi.edu.
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+PT  - Systematic Review
+DEP - 20210305
+PL  - Scotland
+TA  - J Clin Neurosci
+JT  - Journal of clinical neuroscience : official journal of the Neurosurgical Society 
+      of Australasia
+JID - 9433352
+SB  - IM
+MH  - Adult
+MH  - Case-Control Studies
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Syringomyelia/*etiology/*surgery
+MH  - Treatment Outcome
+MH  - Tuberculosis, Meningeal/*complications
+MH  - Young Adult
+OTO - NOTNLM
+OT  - Arachnoiditis
+OT  - Meta-analysis
+OT  - Systematic review
+OT  - TB meningitis
+OT  - TB syringomyelia
+OT  - Tuberculosis
+COIS- Declaration of Competing Interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2021/04/18 06:00
+MHDA- 2021/06/23 06:00
+CRDT- 2021/04/17 05:32
+PHST- 2020/12/15 00:00 [received]
+PHST- 2021/01/26 00:00 [revised]
+PHST- 2021/01/29 00:00 [accepted]
+PHST- 2021/04/17 05:32 [entrez]
+PHST- 2021/04/18 06:00 [pubmed]
+PHST- 2021/06/23 06:00 [medline]
+AID - S0967-5868(21)00069-2 [pii]
+AID - 10.1016/j.jocn.2021.01.052 [doi]
+PST - ppublish
+SO  - J Clin Neurosci. 2021 May;87:20-25. doi: 10.1016/j.jocn.2021.01.052. Epub 2021 
+      Mar 5.

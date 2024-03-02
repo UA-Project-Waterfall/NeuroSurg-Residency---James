@@ -1,4 +1,4 @@
-import os
+from pathlib import Path
 import csv
 
 class PubmedReader:
@@ -64,19 +64,19 @@ def extractInstitutions(pmIter):
             pmIter.next()
     return institutions if len(institutions) > 0 else [""]
 
-fileDir = os.path.join(os.getcwd(), "Export Files")
-fileList = os.listdir(fileDir)
+fileDir = Path.joinpath(Path(__file__).parent.resolve(), "Export Files")
+fileList = list(fileDir.glob('*.txt'))
 
 table = [["Author Name", "Authorship position", "Total number of authors", "Title", "PMID",
           "Journal", "NS Journal", "NS pub", "Year", "Affiliation", "Last Author", "Last Author Affiliation"]]
 
 for fileIndex in range(len(fileList)):
-    fileName = fileList[fileIndex]
-    author = fileName[:-4].strip()
+    filePath = fileList[fileIndex]
+    author = filePath.stem
     parenIndex = author.find("(")
     authorKeys = [author[:parenIndex-1].strip()] if parenIndex >= 0 else [author]
     authorKeys += author[parenIndex + 1 : -1].split(",") if parenIndex >= 0 else []
-    pmReader = PubmedReader(os.path.join(fileDir, fileName))
+    pmReader = PubmedReader(filePath)
 
     while(pmReader.moveToID(["PMID- "])):
         paperIndex = len(table)
@@ -111,7 +111,7 @@ for fileIndex in range(len(fileList)):
 
     table += [[""]*len(table[0])];
 
-with open(os.path.join(os.getcwd(), "compiled.csv"), "w", newline = "", encoding = 'utf-8') as file:
+with open(Path.joinpath(Path(__file__).parent.resolve(), "compiled.csv"), "w", newline = "", encoding = 'utf-8') as file:
     writer = csv.writer(file, delimiter = ',')
     for line in table:
         writer.writerow(line)

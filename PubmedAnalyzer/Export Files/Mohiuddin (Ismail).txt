@@ -1,0 +1,496 @@
+PMID- 31380275
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20201112
+IS  - 2234-943X (Print)
+IS  - 2234-943X (Electronic)
+IS  - 2234-943X (Linking)
+VI  - 9
+DP  - 2019
+TI  - DNA-PK as an Emerging Therapeutic Target in Cancer.
+PG  - 635
+LID - 10.3389/fonc.2019.00635 [doi]
+LID - 635
+AB  - The DNA-dependent protein kinase (DNA-PK) plays an instrumental role in the 
+      overall survival and proliferation of cells. As a member of the 
+      phosphatidylinositol 3-kinase-related kinase (PIKK) family, DNA-PK is best known 
+      as a mediator of the cellular response to DNA damage. In this context, DNA-PK has 
+      emerged as an intriguing therapeutic target in the treatment of a variety of 
+      cancers, especially when used in conjunction with genotoxic chemotherapy or 
+      ionizing radiation. Beyond the DNA damage response, DNA-PK activity is necessary 
+      for multiple cellular functions, including the regulation of transcription, 
+      progression of the cell cycle, and in the maintenance of telomeres. Here, we 
+      review what is currently known about DNA-PK regarding its structure and 
+      established roles in DNA repair. We also discuss its lesser-known functions, the 
+      pharmacotherapies inhibiting its function in DNA repair, and its potential as a 
+      therapeutic target in a broader context.
+FAU - Mohiuddin, Ismail S
+AU  - Mohiuddin IS
+AD  - Cancer Center, Department of Pediatrics, Pharmacology and Neuroscience, School of 
+      Medicine, Texas Tech University Health Sciences Center, Lubbock, TX, United 
+      States.
+FAU - Kang, Min H
+AU  - Kang MH
+AD  - Cancer Center, Department of Pediatrics, Pharmacology and Neuroscience, School of 
+      Medicine, Texas Tech University Health Sciences Center, Lubbock, TX, United 
+      States.
+LA  - eng
+GR  - R01 CA232591/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Review
+DEP - 20190717
+PL  - Switzerland
+TA  - Front Oncol
+JT  - Frontiers in oncology
+JID - 101568867
+PMC - PMC6650781
+OTO - NOTNLM
+OT  - DNA repair
+OT  - DNA-PK
+OT  - DNA-PKcs
+OT  - PRKDC
+OT  - chemotherapeutic target
+EDAT- 2019/08/06 06:00
+MHDA- 2019/08/06 06:01
+CRDT- 2019/08/06 06:00
+PHST- 2019/04/23 00:00 [received]
+PHST- 2019/06/27 00:00 [accepted]
+PHST- 2019/08/06 06:00 [entrez]
+PHST- 2019/08/06 06:00 [pubmed]
+PHST- 2019/08/06 06:01 [medline]
+AID - 10.3389/fonc.2019.00635 [doi]
+PST - epublish
+SO  - Front Oncol. 2019 Jul 17;9:635. doi: 10.3389/fonc.2019.00635. eCollection 2019.
+
+PMID- 30904611
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200803
+LR  - 20200921
+IS  - 1879-260X (Electronic)
+IS  - 0925-4439 (Print)
+IS  - 0925-4439 (Linking)
+VI  - 1866
+IP  - 4
+DP  - 2020 Apr 1
+TI  - Role of OCT4 in cancer stem-like cells and chemotherapy resistance.
+PG  - 165432
+LID - S0925-4439(19)30079-1 [pii]
+LID - 10.1016/j.bbadis.2019.03.005 [doi]
+AB  - Cancer stem-like cells (CSCs) contribute to the tumorigenicity, progression, and 
+      chemoresistance of cancers. It is not known whether CSCs arise from normal stem 
+      cells or if they arise from differentiated cancer cells by acquiring self-renewal 
+      features. These CSCs share stem cell markers that normal stem cells express. 
+      There is a rising interest in octamer-binding transcription factor 4 (OCT4), one 
+      of the stem cell factors that are essential in embryogenesis and pluripotency. 
+      OCT4 is also overexpressed in CSCs of various cancers. Although the majority of 
+      the studies in CSCs reported a positive association between the expression of 
+      OCT4 and chemoresistance and an inverse correlation between OCT4 and clinical 
+      prognosis, there are studies rebuking these findings, possibly due to the 
+      sparsity of stem cells within tumors and the heterogeneity of tumors. In 
+      addition, post-translational modification of OCT4 affects its activity and 
+      warrants further investigation for its association with chemoresistance and 
+      prognosis.
+CI  - Copyright © 2019 Elsevier B.V. All rights reserved.
+FAU - Mohiuddin, Ismail S
+AU  - Mohiuddin IS
+AD  - Cancer Center, Department of Pediatrics, Pharmacology & Neuroscience, School of 
+      Medicine, Texas Tech University Health Sciences Center, Lubbock, TX 79430, USA.
+FAU - Wei, Sung-Jen
+AU  - Wei SJ
+AD  - Cancer Center, Department of Pediatrics, Pharmacology & Neuroscience, School of 
+      Medicine, Texas Tech University Health Sciences Center, Lubbock, TX 79430, USA.
+FAU - Kang, Min H
+AU  - Kang MH
+AD  - Cancer Center, Department of Pediatrics, Pharmacology & Neuroscience, School of 
+      Medicine, Texas Tech University Health Sciences Center, Lubbock, TX 79430, USA. 
+      Electronic address: min.kang@ttuhsc.edu.
+LA  - eng
+GR  - R01 CA168699/CA/NCI NIH HHS/United States
+GR  - R01 CA232591/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20190321
+PL  - Netherlands
+TA  - Biochim Biophys Acta Mol Basis Dis
+JT  - Biochimica et biophysica acta. Molecular basis of disease
+JID - 101731730
+RN  - 0 (Neoplasm Proteins)
+RN  - 0 (Octamer Transcription Factor-3)
+RN  - 0 (POU5F1 protein, human)
+SB  - IM
+MH  - Animals
+MH  - *Drug Resistance, Neoplasm
+MH  - *Gene Expression Regulation, Neoplastic
+MH  - Humans
+MH  - Neoplasm Proteins/*biosynthesis/genetics
+MH  - Neoplasms/genetics/*metabolism/pathology
+MH  - Neoplastic Stem Cells/*metabolism/pathology
+MH  - Octamer Transcription Factor-3/*biosynthesis/genetics
+MH  - *Protein Processing, Post-Translational
+PMC - PMC6754810
+MID - NIHMS1525615
+OTO - NOTNLM
+OT  - Cancer stem-like cells
+OT  - Chemoresistance
+OT  - OCT4
+OT  - POU5F1
+OT  - Prognosis
+OT  - Stem cells
+COIS- Competing Interests Statement: The authors certify that they have no affiliations 
+      with or involvement in any organization or entity with any financial interest or 
+      non-financial interest in the subject matter or materials discussed in this 
+      manuscript.
+EDAT- 2019/03/25 06:00
+MHDA- 2020/08/04 06:00
+CRDT- 2019/03/25 06:00
+PHST- 2018/12/21 00:00 [received]
+PHST- 2019/02/07 00:00 [revised]
+PHST- 2019/03/17 00:00 [accepted]
+PHST- 2019/03/25 06:00 [pubmed]
+PHST- 2020/08/04 06:00 [medline]
+PHST- 2019/03/25 06:00 [entrez]
+AID - S0925-4439(19)30079-1 [pii]
+AID - 10.1016/j.bbadis.2019.03.005 [doi]
+PST - ppublish
+SO  - Biochim Biophys Acta Mol Basis Dis. 2020 Apr 1;1866(4):165432. doi: 
+      10.1016/j.bbadis.2019.03.005. Epub 2019 Mar 21.
+
+PMID- 37116859
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230530
+LR  - 20230703
+IS  - 1876-4320 (Electronic)
+IS  - 1874-9399 (Print)
+IS  - 1874-9399 (Linking)
+VI  - 1866
+IP  - 2
+DP  - 2023 Jun
+TI  - DNA-PKcs as an upstream mediator of OCT4-induced MYC activation in small cell 
+      lung cancer.
+PG  - 194939
+LID - S1874-9399(23)00034-2 [pii]
+LID - 10.1016/j.bbagrm.2023.194939 [doi]
+AB  - Small cell lung cancer (SCLC) is a neuroendocrine tumor noted for the rapid 
+      development of both metastases and resistance to chemotherapy. High mutation 
+      burden, ubiquitous loss of TP53 and RB1, and a mutually exclusive amplification 
+      of MYC gene family members contribute to genomic instability and make the 
+      development of new targeted agents a challenge. Previously, we reported a novel 
+      OCT4-induced MYC transcriptional activation pathway involving c-MYC, pOCT4(S111), 
+      and MAPKAPK2 in progressive neuroblastoma, also a neuroendocrine tumor. Using 
+      tumor microarray analysis of clinical samples and preclinical models, we now 
+      report a correlation in expression between these proteins in SCLC. In correlating 
+      c-MYC protein expression with genomic amplification, we determined that some SCLC 
+      cell lines exhibited high c-MYC without genomic amplification, implying 
+      amplification-independent MYC activation. We then confirmed direct interaction 
+      between OCT4 and DNA-PKcs and identified specific OCT4 and DNA-PKcs binding 
+      sites. Knock-down of both POU5F1 (encoding OCT4) and PRKDC (encoding DNA-PKcs) 
+      resulted in decreased c-MYC expression. Further, we confirmed binding of OCT4 to 
+      the promoter/enhancer region of MYC. Together, these data establish the presence 
+      of a DNA-PKcs/OCT4/c-MYC pathway in SCLCs. We then disruptively targeted this 
+      pathway and demonstrated anticancer activity in SCLC cell lines and xenografts 
+      using both DNA-PKcs inhibitors and a protein-protein interaction inhibitor of 
+      DNA-PKcs and OCT4. In conclusion, we demonstrate here that DNA-PKcs can mediate 
+      high c-MYC expression in SCLCs, and that this pathway may represent a new 
+      therapeutic target for SCLCs with high c-MYC expression.
+CI  - Copyright © 2023 The Authors. Published by Elsevier B.V. All rights reserved.
+FAU - Wei, Sung-Jen
+AU  - Wei SJ
+AD  - Cancer Center, Texas Tech University Health Sciences Center, Lubbock, TX 79430, 
+      USA; Department of Pediatrics, Texas Tech University Health Sciences Center, 
+      Lubbock, TX 79430, USA.
+FAU - Yang, In-Hyoung
+AU  - Yang IH
+AD  - Cancer Center, Texas Tech University Health Sciences Center, Lubbock, TX 79430, 
+      USA; Department of Pediatrics, Texas Tech University Health Sciences Center, 
+      Lubbock, TX 79430, USA.
+FAU - Mohiuddin, Ismail S
+AU  - Mohiuddin IS
+AD  - Cancer Center, Texas Tech University Health Sciences Center, Lubbock, TX 79430, 
+      USA; Graduate School of Biomedical Sciences, Texas Tech University Health 
+      Sciences Center, Lubbock, TX 79430, USA.
+FAU - Kshirsagar, Ganesh J
+AU  - Kshirsagar GJ
+AD  - Cancer Center, Texas Tech University Health Sciences Center, Lubbock, TX 79430, 
+      USA; Graduate School of Biomedical Sciences, Texas Tech University Health 
+      Sciences Center, Lubbock, TX 79430, USA.
+FAU - Nguyen, Thinh H
+AU  - Nguyen TH
+AD  - Cancer Center, Texas Tech University Health Sciences Center, Lubbock, TX 79430, 
+      USA; Graduate School of Biomedical Sciences, Texas Tech University Health 
+      Sciences Center, Lubbock, TX 79430, USA.
+FAU - Trasti, Scott
+AU  - Trasti S
+AD  - Laboratory Animal Resources Center, Texas Tech University Health Sciences Center, 
+      Lubbock, TX 79430, USA.
+FAU - Maurer, Barry J
+AU  - Maurer BJ
+AD  - Cancer Center, Texas Tech University Health Sciences Center, Lubbock, TX 79430, 
+      USA; Department of Pediatrics, Texas Tech University Health Sciences Center, 
+      Lubbock, TX 79430, USA; Department of Internal Medicine, School of Medicine, 
+      Texas Tech University Health Sciences Center, Lubbock, TX 79430, USA.
+FAU - Kang, Min H
+AU  - Kang MH
+AD  - Cancer Center, Texas Tech University Health Sciences Center, Lubbock, TX 79430, 
+      USA; Department of Pediatrics, Texas Tech University Health Sciences Center, 
+      Lubbock, TX 79430, USA; Department of Internal Medicine, School of Medicine, 
+      Texas Tech University Health Sciences Center, Lubbock, TX 79430, USA. Electronic 
+      address: min.kang@ttuhsc.edu.
+LA  - eng
+GR  - R01 CA168699/CA/NCI NIH HHS/United States
+GR  - R01 CA221957/CA/NCI NIH HHS/United States
+GR  - R01 CA232591/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20230426
+PL  - Netherlands
+TA  - Biochim Biophys Acta Gene Regul Mech
+JT  - Biochimica et biophysica acta. Gene regulatory mechanisms
+JID - 101731723
+RN  - 0 (Proto-Oncogene Proteins c-myc)
+RN  - 9007-49-2 (DNA)
+SB  - IM
+MH  - Humans
+MH  - *Small Cell Lung Carcinoma/genetics
+MH  - *Lung Neoplasms/genetics/metabolism
+MH  - Proto-Oncogene Proteins c-myc/genetics/metabolism
+MH  - DNA
+MH  - *Neuroendocrine Tumors
+PMC - PMC10243594
+MID - NIHMS1897557
+OTO - NOTNLM
+OT  - DNA-PKcs
+OT  - Narciclasine
+OT  - Small cell lung cancer
+OT  - Transcriptional activation
+OT  - c-MYC
+COIS- Declaration of competing interest The authors declare no competing interests.
+EDAT- 2023/04/29 06:04
+MHDA- 2023/05/30 06:42
+CRDT- 2023/04/28 19:30
+PHST- 2022/11/05 00:00 [received]
+PHST- 2023/04/18 00:00 [revised]
+PHST- 2023/04/19 00:00 [accepted]
+PHST- 2023/05/30 06:42 [medline]
+PHST- 2023/04/29 06:04 [pubmed]
+PHST- 2023/04/28 19:30 [entrez]
+AID - S1874-9399(23)00034-2 [pii]
+AID - 10.1016/j.bbagrm.2023.194939 [doi]
+PST - ppublish
+SO  - Biochim Biophys Acta Gene Regul Mech. 2023 Jun;1866(2):194939. doi: 
+      10.1016/j.bbagrm.2023.194939. Epub 2023 Apr 26.
+
+PMID- 33565603
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220328
+LR  - 20220328
+IS  - 1097-0290 (Electronic)
+IS  - 0006-3592 (Print)
+IS  - 0006-3592 (Linking)
+VI  - 118
+IP  - 5
+DP  - 2021 May
+TI  - Development of cell-based high throughput luminescence assay for drug discovery 
+      in inhibiting OCT4/DNA-PKcs and OCT4-MK2 interactions.
+PG  - 1987-2000
+LID - 10.1002/bit.27712 [doi]
+AB  - Amplification-independent c-MYC overexpression is suggested in multiple cancers. 
+      Targeting c-MYC activity has therapeutic potential, but efforts thus far have 
+      been mostly unsuccessful. To find a druggable target to modulate c-MYC activity 
+      in cancer, we identified two kinases, MAPKAPK2 (MK2) and the DNA-dependent 
+      protein kinase catalytic subunit (DNA-PKcs), which phosphorylate the Ser111 and 
+      the Ser93 residues of OCT4, respectively, to transcriptionally activate c-MYC. 
+      Using these observations, we present here a novel cell-based luminescence assay 
+      to identify compounds that inhibit the interaction between these kinases and 
+      OCT4. After screening approximately 80,000 compounds, we identified 56 compounds 
+      ("hits") that inhibited the luminescence reaction between DNA-PKcs and OCT4, and 
+      65 hits inhibiting the MK2-OCT4 interaction. Using custom antibodies specific for 
+      pOCT4(S93) and pOCT4(S111) , the "hits" were validated for their effect on OCT4 
+      phosphorylation and activation. Using a two-step method for validation, we 
+      identified two candidate compounds from the DNA-PKcs assay and three from the MK2 
+      assay. All five compounds demonstrate a significant ability to kill cancer cells 
+      in the nanomolar range. In conclusion, we developed a cell-based luminescence 
+      assay to identify novel inhibitors targeting c-MYC transcriptional activation, 
+      and have found five compounds that may function as lead compounds for further 
+      development.
+CI  - © 2021 Wiley Periodicals LLC.
+FAU - Mohiuddin, Ismail S
+AU  - Mohiuddin IS
+AD  - Cancer Center, School of Medicine, Texas Tech University Health Sciences Center, 
+      Lubbock, Texas, USA.
+AD  - Department of Pediatrics, School of Medicine, Texas Tech University Health 
+      Sciences Center, Lubbock, Texas, USA.
+FAU - Wei, Sung-Jen
+AU  - Wei SJ
+AD  - Cancer Center, School of Medicine, Texas Tech University Health Sciences Center, 
+      Lubbock, Texas, USA.
+AD  - Department of Pediatrics, School of Medicine, Texas Tech University Health 
+      Sciences Center, Lubbock, Texas, USA.
+FAU - Yang, In-Hyoung
+AU  - Yang IH
+AD  - Cancer Center, School of Medicine, Texas Tech University Health Sciences Center, 
+      Lubbock, Texas, USA.
+AD  - Department of Pediatrics, School of Medicine, Texas Tech University Health 
+      Sciences Center, Lubbock, Texas, USA.
+FAU - Martinez, Gloria M
+AU  - Martinez GM
+AD  - Cancer Center, School of Medicine, Texas Tech University Health Sciences Center, 
+      Lubbock, Texas, USA.
+AD  - Department of Pediatrics, School of Medicine, Texas Tech University Health 
+      Sciences Center, Lubbock, Texas, USA.
+FAU - Yang, Shengping
+AU  - Yang S
+AD  - Department of Biostatistics, Pennington Biomedical Research Center, Baton Rouge, 
+      Louisiana, USA.
+FAU - Cho, Eun J
+AU  - Cho EJ
+AD  - Division of Chemical Biology and Medicinal Chemistry, College of Pharmacy, The 
+      University of Texas at Austin, Austin, Texas, USA.
+FAU - Dalby, Kevin N
+AU  - Dalby KN
+AD  - Division of Chemical Biology and Medicinal Chemistry, College of Pharmacy, The 
+      University of Texas at Austin, Austin, Texas, USA.
+FAU - Kang, Min H
+AU  - Kang MH
+AUID- ORCID: 0000-0003-3603-7035
+AD  - Cancer Center, School of Medicine, Texas Tech University Health Sciences Center, 
+      Lubbock, Texas, USA.
+AD  - Department of Pediatrics, School of Medicine, Texas Tech University Health 
+      Sciences Center, Lubbock, Texas, USA.
+LA  - eng
+GR  - R01 CA168699/CA/NCI NIH HHS/United States
+GR  - R01 CA232591/CA/NCI NIH HHS/United States
+GR  - R01CA168699/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20210301
+PL  - United States
+TA  - Biotechnol Bioeng
+JT  - Biotechnology and bioengineering
+JID - 7502021
+RN  - 0 (Intracellular Signaling Peptides and Proteins)
+RN  - 0 (Octamer Transcription Factor-3)
+RN  - 0 (Protein Kinase Inhibitors)
+RN  - EC 2.7.1.- (MAP-kinase-activated kinase 2)
+RN  - EC 2.7.11.1 (DNA-Activated Protein Kinase)
+RN  - EC 2.7.11.1 (Protein Serine-Threonine Kinases)
+SB  - IM
+MH  - Cell Line, Tumor
+MH  - Cytological Techniques/*methods
+MH  - DNA-Activated Protein Kinase/metabolism
+MH  - Drug Discovery/*methods
+MH  - HEK293 Cells
+MH  - High-Throughput Screening Assays/*methods
+MH  - Humans
+MH  - Intracellular Signaling Peptides and Proteins/metabolism
+MH  - Luminescent Measurements/*methods
+MH  - Octamer Transcription Factor-3/metabolism
+MH  - Protein Binding
+MH  - Protein Kinase Inhibitors
+MH  - Protein Serine-Threonine Kinases/metabolism
+PMC - PMC8597627
+MID - NIHMS1706052
+OTO - NOTNLM
+OT  - DNA-PKcs
+OT  - MK2
+OT  - c-MYC
+OT  - drug discovery
+OT  - kinase modulation
+OT  - protein-protein interaction
+COIS- CONFLICT OF INTERESTS The authors declare that there are no conflict of 
+      interests.
+EDAT- 2021/02/11 06:00
+MHDA- 2022/03/29 06:00
+CRDT- 2021/02/10 08:38
+PHST- 2021/01/19 00:00 [revised]
+PHST- 2020/11/09 00:00 [received]
+PHST- 2021/02/06 00:00 [accepted]
+PHST- 2021/02/11 06:00 [pubmed]
+PHST- 2022/03/29 06:00 [medline]
+PHST- 2021/02/10 08:38 [entrez]
+AID - 10.1002/bit.27712 [doi]
+PST - ppublish
+SO  - Biotechnol Bioeng. 2021 May;118(5):1987-2000. doi: 10.1002/bit.27712. Epub 2021 
+      Mar 1.
+
+PMID- 33136863
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210401
+LR  - 20230712
+IS  - 1536-3732 (Electronic)
+IS  - 1049-2275 (Linking)
+VI  - 31
+IP  - 8
+DP  - 2020 Nov/Dec
+TI  - Analysis of Frontal Sinus Fracture Management and Resource Utilization.
+PG  - 2240-2242
+LID - 10.1097/SCS.0000000000006706 [doi]
+AB  - Frontal sinus fractures require a large amount of force and often occur in the 
+      context of a major trauma. Many patients with these fractures are assessed in an 
+      emergent setting where stabilization takes precedence. Delayed diagnosis and 
+      treatment of a sinus fracture can result in life-threatening conditions, such as 
+      a cerebrospinal fluid (CSF) leak. A number of different treatment algorithms have 
+      been proposed, highlighting the complexity of frontal sinus fracture management. 
+      The goal of this study is to determine how patients with frontal sinus fractures 
+      were treated at Texas Tech University Health Sciences Center and what 
+      complications arose as a result of the fracture and subsequent management 
+      strategy. Over 9 years, there were 69 reported cases. A total of 63 of these 
+      occurred in males (91.3%) versus 6 (8.7%) in females. The majority occurred after 
+      a motor vehicle collision (MVC) or a motorcycle collision (MCC). A total of 51 
+      cases were unilateral fractures and 18 were bilateral fractures. Five patients 
+      (7.2%) had CSF leakage and 64 (92.8%) did not have CSF leakage. One patient with 
+      CSF leakage (20.0%) was managed operatively. Of the 64 patients without CSF 
+      leakage, 4 (6.3%) were managed operatively. All operative patients were managed 
+      by cranialization. Complications included vision changes, facial pressure, 
+      anosmia, facial paresthesia, pneumocephalus, and mucus retention cysts. Vision 
+      changes were the most common complication. There did not appear to be any 
+      significant difference in complications between the CSF leakage groups, 
+      indicating that non-operative management remains a viable option in the 
+      management of frontal sinus fractures.
+FAU - Firouzbakht, Peter K
+AU  - Firouzbakht PK
+AD  - Department of Otolaryngology, Texas Tech University Health Sciences Center School 
+      of Medicine, Lubbock, TX.
+FAU - Mohiuddin, Ismail S
+AU  - Mohiuddin IS
+FAU - Varman, Rahul M
+AU  - Varman RM
+FAU - Heinrich, Matthew P
+AU  - Heinrich MP
+FAU - Saa, Lisa
+AU  - Saa L
+FAU - Cordero, Joehassin
+AU  - Cordero J
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Craniofac Surg
+JT  - The Journal of craniofacial surgery
+JID - 9010410
+MH  - Accidents, Traffic
+MH  - Algorithms
+MH  - Cerebrospinal Fluid Leak/etiology
+MH  - Female
+MH  - Frontal Sinus/*surgery
+MH  - Humans
+MH  - Male
+MH  - Retrospective Studies
+MH  - Skull Fractures/complications/*surgery
+EDAT- 2020/11/03 06:00
+MHDA- 2021/04/02 06:00
+CRDT- 2020/11/02 17:13
+PHST- 2020/11/02 17:13 [entrez]
+PHST- 2020/11/03 06:00 [pubmed]
+PHST- 2021/04/02 06:00 [medline]
+AID - 00001665-202012000-00030 [pii]
+AID - 10.1097/SCS.0000000000006706 [doi]
+PST - ppublish
+SO  - J Craniofac Surg. 2020 Nov/Dec;31(8):2240-2242. doi: 
+      10.1097/SCS.0000000000006706.

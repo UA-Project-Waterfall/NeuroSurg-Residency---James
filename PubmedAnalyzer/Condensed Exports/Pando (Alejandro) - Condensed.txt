@@ -1,0 +1,493 @@
+PMID- 29190514
+TI  - Extracellular vesicles in leukemia.
+FAU - Pando, Alejandro
+AU  - Pando A
+AD  - Division of Hematology and Oncology, Rhode Island Hospital, The Warren Alpert Medical School of Brown University, Providence, RI, USA.
+FAU - Reagan, John L
+AU  - Reagan JL
+AD  - Division of Hematology and Oncology, Rhode Island Hospital, The Warren Alpert Medical School of Brown University, Providence, RI, USA.
+FAU - Quesenberry, Peter
+AU  - Quesenberry P
+AD  - Division of Hematology and Oncology, Rhode Island Hospital, The Warren Alpert Medical School of Brown University, Providence, RI, USA.
+FAU - Fast, Loren D
+AU  - Fast LD
+AD  - Division of Hematology and Oncology, Rhode Island Hospital, The Warren Alpert Medical School of Brown University, Providence, RI, USA. Electronic address: Loren_Fast@brown.edu.
+TA  - Leuk Res
+JT  - Leukemia research
+
+
+PMID- 37250621
+TI  - Current landscape of social media use pertaining to glioblastoma by various stakeholders.
+FAU - Alvi, Mohammed Ali
+AU  - Alvi MA
+AD  - Division of Neurosurgery, Toronto Western Hospital, University Health Network, Toronto, Ontario, Canada.
+FAU - Elkaim, Lior M
+AU  - Elkaim LM
+AD  - Department of Neurology and Neurosurgery, McGill University, Montreal, Quebec, Canada.
+FAU - Levett, Jordan J
+AU  - Levett JJ
+AD  - Department of Medicine, University of Montreal, Quebec, Canada.
+FAU - Pando, Alejandro
+AU  - Pando A
+AD  - Department of Neurosurgery, Rutgers New Jersey Medical School, Newark, New Jersey, USA.
+FAU - Roy, Sabrina
+AU  - Roy S
+AD  - Department of Laboratory Medicine and Pathobiology, University of Toronto, Toronto, Ontario, Canada.
+FAU - Samuel, Nardin
+AU  - Samuel N
+AD  - Division of Neurosurgery, Toronto Western Hospital, University Health Network, Toronto, Ontario, Canada.
+FAU - Alotaibi, Naif M
+AU  - Alotaibi NM
+AD  - Department of Neurosurgery, National Neuroscience Institute, King Fahad Medical City, Riyadh, Saudi Arabia.
+FAU - Zadeh, Gelareh
+AU  - Zadeh G
+AD  - Division of Neurosurgery, University of Toronto, Toronto, Ontario, Canada.
+TA  - Neurooncol Adv
+JT  - Neuro-oncology advances
+
+
+PMID- 34040472
+TI  - Murine Leukemia-Derived Extracellular Vesicles Elicit Antitumor Immune Response.
+FAU - Pando, Alejandro
+AU  - Pando A
+AD  - Division of Hematology/Oncology, Department of Medicine, Rhode Island Hospital and the Warren Alpert School of Medicine at Brown University, Providence, RI, USA.
+FAU - Fast, Loren
+AU  - Fast L
+AD  - Division of Hematology/Oncology, Department of Medicine, Rhode Island Hospital and the Warren Alpert School of Medicine at Brown University, Providence, RI, USA.
+FAU - Dubielecka, Patrycja M
+AU  - Dubielecka PM
+AD  - Division of Hematology/Oncology, Department of Medicine, Rhode Island Hospital and the Warren Alpert School of Medicine at Brown University, Providence, RI, USA.
+FAU - Chorzalska, Anna
+AU  - Chorzalska A
+AD  - Division of Hematology/Oncology, Department of Medicine, Rhode Island Hospital and the Warren Alpert School of Medicine at Brown University, Providence, RI, USA.
+FAU - Wen, Sicheng
+AU  - Wen S
+AD  - Division of Hematology/Oncology, Department of Medicine, Rhode Island Hospital and the Warren Alpert School of Medicine at Brown University, Providence, RI, USA.
+FAU - Reagan, John
+AU  - Reagan J
+AD  - Division of Hematology/Oncology, Department of Medicine, Rhode Island Hospital and the Warren Alpert School of Medicine at Brown University, Providence, RI, USA.
+TA  - J Blood Med
+JT  - Journal of blood medicine
+
+
+PMID- 36094667
+TI  - Cerebrospinal fluid (CSF) leak after elective lumbar spinal fusion: Who is at risk?
+FAU - Hanna, Gabriel
+AU  - Hanna G
+AD  - Rutgers New Jersey Medical School, 140 Bergen Street, Newark, NJ, 07103, USA. gh221@scarletmail.rutgers.edu.
+FAU - Pando, Alejandro
+AU  - Pando A
+AD  - Rutgers New Jersey Medical School, 140 Bergen Street, Newark, NJ, 07103, USA.
+FAU - Saela, Stephen
+AU  - Saela S
+AD  - Saint Joseph Regional Medical Center, Paterson, NJ, USA.
+FAU - Emami, Arash P
+AU  - Emami AP
+AD  - Saint Joseph Regional Medical Center, Paterson, NJ, USA.
+TA  - Eur Spine J
+JT  - European spine journal : official publication of the European Spine Society, the European Spinal Deformity Society, and the European Section of the Cervical Spine Research Society
+
+
+PMID- 36208714
+TI  - Tumor Derived Extracellular Vesicles Modulate Gene Expression in T cells.
+FAU - Pando, Alejandro
+AU  - Pando A
+AD  - Warren Alpert School of Medicine at Brown University and Division of Hematology/Oncology, Rhode Island Hospital, Providence, RI, United States; Center for Biomedical Engineering, Brown University, Providence, RI, United States. Electronic address: alejandro_pando@alumni.brown.edu.
+FAU - Schorl, Christoph
+AU  - Schorl C
+AD  - Brown University, Dept. of Molecular Biology, Cell Biology and Biochemistry, Genomics Core, 70 Ship Street, Providence, RI 02903, United States.
+FAU - Fast, Loren D
+AU  - Fast LD
+AD  - Warren Alpert School of Medicine at Brown University and Division of Hematology/Oncology, Rhode Island Hospital, Providence, RI, United States.
+FAU - Reagan, John L
+AU  - Reagan JL
+AD  - Warren Alpert School of Medicine at Brown University and Division of Hematology/Oncology, Rhode Island Hospital, Providence, RI, United States.
+TA  - Gene
+JT  - Gene
+
+
+PMID- 23232156
+TI  - Vegetative state is a pejorative term.
+FAU - Machado, Calixto
+AU  - Machado C
+AD  - Department of Clinical Neurophysiology, Institute of Neurology and Neurosurgery, Havana, Cuba. braind@infomed.sld.cu
+FAU - Estévez, Mario
+AU  - Estévez M
+FAU - Carrick, Frederick R
+AU  - Carrick FR
+FAU - Rodríguez, Rafael
+AU  - Rodríguez R
+FAU - Pérez-Nellar, Jesús
+AU  - Pérez-Nellar J
+FAU - Chinchilla, Mauricio
+AU  - Chinchilla M
+FAU - Machado, Yanín
+AU  - Machado Y
+FAU - Pérez-Hoz, Grisel
+AU  - Pérez-Hoz G
+FAU - Carballo, Maylén
+AU  - Carballo M
+FAU - Fleitas, Marcia
+AU  - Fleitas M
+FAU - Pando, Alejandro
+AU  - Pando A
+TA  - NeuroRehabilitation
+JT  - NeuroRehabilitation
+
+
+PMID- 37000219
+TI  - Robotic assistance in lumbar fusion surgery: trends and patterns from 2016-2019.
+FAU - Pando, Alejandro
+AU  - Pando A
+AD  - Department of Neurological Surgery, Rutgers New Jersey Medical School, 185 S Orange Ave, Newark, NJ, 07103, USA. alejandro_pando@alumni.brown.edu.
+FAU - Hanna, Gabriel
+AU  - Hanna G
+AD  - Lower Manhattan Presbyterian Hospital, New York, NY, USA.
+FAU - Goldstein, Ira
+AU  - Goldstein I
+AD  - Department of Neurological Surgery, Rutgers New Jersey Medical School, 185 S Orange Ave, Newark, NJ, 07103, USA.
+TA  - Eur Spine J
+JT  - European spine journal : official publication of the European Spine Society, the European Spinal Deformity Society, and the European Section of the Cervical Spine Research Society
+
+
+PMID- 36481442
+TI  - Palliative Care Effects on Survival in Glioblastoma: Who Receives Palliative Care?
+FAU - Pando, Alejandro
+AU  - Pando A
+AD  - Department of Neurological Surgery, Rutgers New Jersey Medical School, Newark, New Jersey, USA. Electronic address: alejandro_pando@alumni.brown.edu.
+FAU - Patel, Aman M
+AU  - Patel AM
+AD  - Department of Neurological Surgery, Rutgers New Jersey Medical School, Newark, New Jersey, USA.
+FAU - Choudhry, Hannaan S
+AU  - Choudhry HS
+AD  - Department of Neurological Surgery, Rutgers New Jersey Medical School, Newark, New Jersey, USA.
+FAU - Eloy, Jean Anderson
+AU  - Eloy JA
+AD  - Department of Otolaryngology-Head and Neck Surgery, Rutgers New Jersey Medical School, Newark, New Jersey, USA.
+FAU - Goldstein, Ira M
+AU  - Goldstein IM
+AD  - Department of Neurological Surgery, Rutgers New Jersey Medical School, Newark, New Jersey, USA.
+FAU - Liu, James K
+AU  - Liu JK
+AD  - Department of Neurological Surgery, Rutgers New Jersey Medical School, Newark, New Jersey, USA.
+TA  - World Neurosurg
+JT  - World neurosurgery
+
+
+PMID- 37189316
+TI  - In Reply to the Letter to the Editor Regarding "Palliative Care Effects on Survival in Glioblastoma: Who Receives Palliative Care?".
+FAU - Pando, Alejandro
+AU  - Pando A
+AD  - Department of Neurological Surgery, Rutgers New Jersey Medical School, Newark, New Jersey, USA. Electronic address: alejandro_pando@alumni.brown.edu.
+TA  - World Neurosurg
+JT  - World neurosurgery
+
+
+PMID- 35863648
+TI  - Thirty-Day Stroke and Mortality After Carotid Revascularization Among Octogenarians with Symptomatic Carotid Stenosis: Real-World Evidence from a National Surgical Quality Registry.
+FAU - Madhani, Sarosh Irfan
+AU  - Madhani SI
+AD  - Department of Neurologic Surgery, Mayo Clinic, Rochester, Minnesota, USA.
+FAU - Alvi, Mohammed Ali
+AU  - Alvi MA
+AD  - Division of Neurosurgery, Department of Surgery, University of Toronto, Toronto, Ontario, Canada. Electronic address: Mohammedali.alvi@gmail.com.
+FAU - Pando, Alejandro
+AU  - Pando A
+AD  - Department of Neurosurgery, Rutgers New Jersey Medical School, Newark, New Jersey, USA.
+FAU - Alotaibi, Naif M
+AU  - Alotaibi NM
+AD  - Department of Neurosurgery, National Neuroscience Institute, King Fahad Medical City and College of Medicine, Alfaisal University, Riyadh, Saudi Arabia.
+FAU - Lanzino, Giuseppe
+AU  - Lanzino G
+AD  - Department of Neurologic Surgery, Mayo Clinic, Rochester, Minnesota, USA.
+FAU - Al-Omran, Mohammed
+AU  - Al-Omran M
+AD  - Division of Vascular Surgery and Department of Surgery, St Michael's Hospital, University of Toronto, Toronto, Ontario, Canada.
+FAU - Savastano, Luis
+AU  - Savastano L
+AD  - Department of Neurologic Surgery, Mayo Clinic, Rochester, Minnesota, USA.
+TA  - World Neurosurg
+JT  - World neurosurgery
+
+
+PMID- 20174506
+TI  - Brain death diagnosis and apnea test safety.
+FAU - Machado, Calixto
+AU  - Machado C
+AD  - Institute of Neurology and Neurosurgery, Department of Clinical Neurophysiology, Havana, Cuba.
+FAU - Perez, Jesus
+AU  - Perez J
+FAU - Scherle, Claudio
+AU  - Scherle C
+FAU - Areu, Alejandro
+AU  - Areu A
+FAU - Pando, Alejandro
+AU  - Pando A
+TA  - Ann Indian Acad Neurol
+JT  - Annals of Indian Academy of Neurology
+
+
+PMID- 36822401
+TI  - Analysis of Neurosurgery Influencers on Instagram: Trends and Patterns of the Neurosurgeon's Social Media Footprint.
+FAU - Pando, Alejandro
+AU  - Pando A
+AD  - Department of Neurological Surgery, Rutgers New Jersey Medical School, Newark, New Jersey, USA. Electronic address: alejandro_pando@alumni.brown.edu.
+FAU - Talbot, Christopher E
+AU  - Talbot CE
+AD  - Department of Neurological Surgery, Rutgers New Jersey Medical School, Newark, New Jersey, USA.
+FAU - Valdivia, Daniel J
+AU  - Valdivia DJ
+AD  - Rutgers Robert Wood Johnson Medical School, New Brunswick, New Jersey, USA.
+FAU - Liu, James K
+AU  - Liu JK
+AD  - Department of Neurological Surgery, Rutgers New Jersey Medical School, Newark, New Jersey, USA.
+TA  - World Neurosurg
+JT  - World neurosurgery
+
+
+PMID- 30323982
+TI  - Induction of anti-leukemic responses by stimulation of leukemic CD3+ cells with allogeneic stimulator cells.
+FAU - Pando, Alejandro
+AU  - Pando A
+AD  - Division of Hematology/Oncology, Rhode Island Hospital and the Warren Alpert School of Medicine at Brown University, One Hoppin Street, Coro West Suite 5.0.1, Providence, RI 02903 USA. ISNI: 0000 0004 1936 9094. GRID: grid.40263.33
+FAU - Reagan, John L
+AU  - Reagan JL
+AD  - Division of Hematology/Oncology, Rhode Island Hospital and the Warren Alpert School of Medicine at Brown University, One Hoppin Street, Coro West Suite 5.0.1, Providence, RI 02903 USA. ISNI: 0000 0004 1936 9094. GRID: grid.40263.33
+FAU - Nevola, Martha
+AU  - Nevola M
+AD  - Division of Hematology/Oncology, Rhode Island Hospital and the Warren Alpert School of Medicine at Brown University, One Hoppin Street, Coro West Suite 5.0.1, Providence, RI 02903 USA. ISNI: 0000 0004 1936 9094. GRID: grid.40263.33
+FAU - Fast, Loren D
+AU  - Fast LD
+AD  - Division of Hematology/Oncology, Rhode Island Hospital and the Warren Alpert School of Medicine at Brown University, One Hoppin Street, Coro West Suite 5.0.1, Providence, RI 02903 USA. ISNI: 0000 0004 1936 9094. GRID: grid.40263.33
+TA  - Exp Hematol Oncol
+JT  - Experimental hematology & oncology
+
+
+PMID- 37301534
+TI  - The World Neurosurgery Global Champions Program: First-Year Experience of a Model Initiative for Reducing Disparities in Global Neurosurgical Literature.
+FAU - Shlobin, Nathan A
+AU  - Shlobin NA
+AD  - Department of Neurological Surgery, Northwestern University Feinberg School of Medicine, Chicago, Illinois, USA. Electronic address: nathan.shlobin@northwestern.edu.
+FAU - Savage, Simon
+AU  - Savage S
+AD  - Department of Medicine, Monash University, Melbourne, Australia.
+FAU - Savage, Alexander
+AU  - Savage A
+AD  - Department of Medicine, Monash University, Melbourne, Australia.
+FAU - Torbati, Tania
+AU  - Torbati T
+AD  - Department of Osteopathic Medicine of the Pacific, Western University of Health Sciences, Pomona, California, USA.
+FAU - Wang, Zhe
+AU  - Wang Z
+AD  - Department of Neurological Surgery, University of Chicago School of Medicine, Chicago, Illinois, USA.
+FAU - Salas-Vega, Sebastian
+AU  - Salas-Vega S
+AD  - Inova Neurosurgery, Inova Health System, Falls Church, Virginia, USA.
+FAU - Mota, Marcella
+AU  - Mota M
+AD  - Faculdade Ciências Médicas de Minas Gerais, Belo Horizonte, Brazil.
+FAU - Pando, Alejandro
+AU  - Pando A
+AD  - Department of Neurological Surgery, Rutgers New Jersey Medical School, Newark, New Jersey, USA.
+FAU - Sheldon, Breanna
+AU  - Sheldon B
+AD  - Department of Neurological Surgery, University of Arizona, Tucson, Arizona, USA.
+FAU - Westrup, Alison M
+AU  - Westrup AM
+AD  - Department of Neurosurgery, University of Oklahoma College of Medicine, Oklahoma City, Oklahoma, USA.
+FAU - Ogulnick, Jonathan
+AU  - Ogulnick J
+AD  - Stony Brook University Hospital, Stony Brook, New York, USA.
+FAU - Zreik, Jad
+AU  - Zreik J
+AD  - Central Michigan University College of Medicine, Mount Pleasant, Michigan, USA.
+FAU - AlKahtani, Nada A H
+AU  - AlKahtani NAH
+AD  - College of Medicine, King Saud Bin Abdulaziz University for Health Sciences, Riyadh, Saudi Arabia.
+FAU - Jesuyajolu, Damilola
+AU  - Jesuyajolu D
+AD  - Department of Neurological Surgery, Salford Royal Hospital, Northern Care Alliance NHS Foundation Trust, Manchester, United Kingdom.
+FAU - Larrey, Kasereka Kamabu
+AU  - Larrey KK
+AD  - Division of Neurosurgery, Department of Surgery, College of Medicine, Makerere University, Kampala, Uganda.
+FAU - Fadalla, Tarig
+AU  - Fadalla T
+AD  - Soba University of Hospital, University of Khartoum, Khartoum, Sudan.
+FAU - Mahajan, Uma
+AU  - Mahajan U
+AD  - School of Medicine, Case Western Reserve University, Cleveland, Ohio, USA.
+FAU - Manijla, Nihal
+AU  - Manijla N
+AD  - Case Western University, Cleveland, Ohio, USA.
+FAU - Singh, Rohin
+AU  - Singh R
+AD  - Department of Neurological Surgery, Mayo Clinic, Phoenix, Arizona, USA.
+FAU - Wang, Andrew
+AU  - Wang A
+AD  - David Geffen School of Medicine, University of California, Los Angeles, California, USA.
+FAU - Kanmounye, Ulrick Sidney
+AU  - Kanmounye US
+AD  - Research Department, Association of Future African Neurosurgeons, Yaounde, Cameroon.
+FAU - Moore, Christine
+AU  - Moore C
+AD  - World Neurosurgery, Cleveland Clinic, Cleveland, Ohio, USA.
+FAU - Benzel, Edward C
+AU  - Benzel EC
+AD  - Department of Neurosurgery, Cleveland Clinic, Cleveland, Ohio, USA.
+FAU - Rosseau, Gail
+AU  - Rosseau G
+AD  - Department of Neurological Surgery, George Washington University School of Medicine and Health Sciences, Washington, District of Columbia, USA; Barrow Global, Barrow Neurological Institute, Phoenix, Arizona, USA.
+TA  - World Neurosurg
+JT  - World neurosurgery
+
+
+PMID- 22334112
+TI  - A Cuban perspective on management of persistent vegetative state.
+FAU - Machado, Calixto
+AU  - Machado C
+AD  - Institute of Neurology and Neurosurgery (INN), Havana, Cuba. braind@infomed.sld.cu
+FAU - Estévez, Mario
+AU  - Estévez M
+FAU - Rodríguez, Rafael
+AU  - Rodríguez R
+FAU - Pérez-Nellar, Jesús
+AU  - Pérez-Nellar J
+FAU - Gutiérrez, Joel
+AU  - Gutiérrez J
+FAU - Carballo, Maylén
+AU  - Carballo M
+FAU - Olivares, Ana
+AU  - Olivares A
+FAU - Fleitas, Marcia
+AU  - Fleitas M
+FAU - Pando, Alejandro
+AU  - Pando A
+FAU - Beltrán, Carlos
+AU  - Beltrán C
+TA  - MEDICC Rev
+JT  - MEDICC review
+
+
+PMID- 37584482
+TI  - Rapid Implementation of a 3-Dimensional-Printed Patient-Specific Titanium Sacrum Implant for Severe Neuropathic Spinal Arthropathy and Guide to Compassionate US Regulatory Approval.
+FAU - Ruiz-Cardozo, Miguel A
+AU  - Ruiz-Cardozo MA
+AD  - Department of Neurological Surgery, Washington University School of Medicine, Saint Louis, Missouri, USA.
+FAU - Trevino, Gabriel
+AU  - Trevino G
+AD  - Department of Neurological Surgery, Washington University School of Medicine, Saint Louis, Missouri, USA.
+FAU - Pando, Alejandro
+AU  - Pando A
+AD  - Department of Neurological Surgery, Rutgers New Jersey Medical School, New Jersey, New Jersey, USA.
+FAU - Brehm, Samuel
+AU  - Brehm S
+AD  - Department of Neurological Surgery, Washington University School of Medicine, Saint Louis, Missouri, USA.
+FAU - Olufawo, Michael
+AU  - Olufawo M
+AD  - Department of Neurological Surgery, Washington University School of Medicine, Saint Louis, Missouri, USA.
+FAU - Barot, Karma
+AU  - Barot K
+AD  - Department of Neurological Surgery, Washington University School of Medicine, Saint Louis, Missouri, USA.
+FAU - Carey-Ewend, Abigail
+AU  - Carey-Ewend A
+AD  - Department of Neurological Surgery, Washington University School of Medicine, Saint Louis, Missouri, USA.
+FAU - Yahanda, Alexander T
+AU  - Yahanda AT
+AD  - Department of Neurological Surgery, Washington University School of Medicine, Saint Louis, Missouri, USA.
+FAU - Perdomo-Pantoja, Alexander
+AU  - Perdomo-Pantoja A
+AD  - Department of Neurological Surgery, Washington University School of Medicine, Saint Louis, Missouri, USA.
+FAU - Jauregui, Julio J
+AU  - Jauregui JJ
+AD  - Department of Orthopedic Surgery, Washington University School of Medicine, Saint Louis, Missouri, USA.
+FAU - Cadieux, Magalie
+AU  - Cadieux M
+AD  - Department of Neurological Surgery, Washington University School of Medicine, Saint Louis, Missouri, USA.
+FAU - Costa, Megan
+AU  - Costa M
+AD  - Division of Plastic and Reconstructive Surgery, Washington University School of Medicine, Saint Louis, Missouri, USA.
+FAU - Coenen, Julie
+AU  - Coenen J
+AD  - Department of Neurological Surgery, Washington University School of Medicine, Saint Louis, Missouri, USA.
+FAU - Dorward, Ian
+AU  - Dorward I
+AD  - Department of Neurological Surgery, Washington University School of Medicine, Saint Louis, Missouri, USA.
+AD  - Department of Orthopedic Surgery, Washington University School of Medicine, Saint Louis, Missouri, USA.
+FAU - Anolik, Rachel A
+AU  - Anolik RA
+AD  - Division of Plastic and Reconstructive Surgery, Washington University School of Medicine, Saint Louis, Missouri, USA.
+FAU - Sacks, Justin M
+AU  - Sacks JM
+AD  - Division of Plastic and Reconstructive Surgery, Washington University School of Medicine, Saint Louis, Missouri, USA.
+FAU - Molina, Camilo A
+AU  - Molina CA
+AD  - Department of Neurological Surgery, Washington University School of Medicine, Saint Louis, Missouri, USA.
+AD  - Department of Orthopedic Surgery, Washington University School of Medicine, Saint Louis, Missouri, USA.
+TA  - Oper Neurosurg (Hagerstown)
+JT  - Operative neurosurgery (Hagerstown, Md.)
+
+
+PMID- 15259617
+TI  - Assessing acute middle cerebral artery ischemic stroke by quantitative electric tomography.
+FAU - Machado, Calixto
+AU  - Machado C
+AD  - Institute of Neurology and Neurosurgery, Havana, Cuba. braind@infomed.sld.cu
+FAU - Cuspineda, Elena
+AU  - Cuspineda E
+FAU - Valdés, Pedro
+AU  - Valdés P
+FAU - Virues, Trinidad
+AU  - Virues T
+FAU - Llopis, Francis
+AU  - Llopis F
+FAU - Bosch, Jorge
+AU  - Bosch J
+FAU - Aubert, Eduardo
+AU  - Aubert E
+FAU - Hernández, Eraida
+AU  - Hernández E
+FAU - Pando, Alejandro
+AU  - Pando A
+FAU - Alvarez, Miguel A
+AU  - Alvarez MA
+FAU - Barroso, Esperanza
+AU  - Barroso E
+FAU - Galán, Lídice
+AU  - Galán L
+FAU - Avila, Yoel
+AU  - Avila Y
+TA  - Clin EEG Neurosci
+JT  - Clinical EEG and neuroscience
+
+
+PMID- 26834698
+TI  - Eye-Movement Training Results in Changes in qEEG and NIH Stroke Scale in Subjects Suffering from Acute Middle Cerebral Artery Ischemic Stroke: A Randomized Control Trial.
+FAU - Carrick, Frederick Robert
+AU  - Carrick FR
+AD  - Neurology, Carrick Institute, Cape Canaveral, FL, USA; Global Clinical Scholars Research Training Program (GCSRT), Harvard Medical School, Boston, MA, USA; Institute of Neurology and Neurosurgery, Havana, Cuba; Bedfordshire Centre for Mental Health Research, University of Cambridge, Cambridge, UK.
+FAU - Oggero, Elena
+AU  - Oggero E
+AD  - Neurology, Carrick Institute, Cape Canaveral, FL, USA; Electrical and Computer Engineering, University of Wyoming, Laramie, WY, USA.
+FAU - Pagnacco, Guido
+AU  - Pagnacco G
+AD  - Neurology, Carrick Institute, Cape Canaveral, FL, USA; Electrical and Computer Engineering, University of Wyoming, Laramie, WY, USA.
+FAU - Wright, Cameron H G
+AU  - Wright CH
+AD  - Neurology, Carrick Institute, Cape Canaveral, FL, USA; Electrical and Computer Engineering, University of Wyoming, Laramie, WY, USA.
+FAU - Machado, Calixto
+AU  - Machado C
+AD  - Neurology, Carrick Institute, Cape Canaveral, FL, USA; Institute of Neurology and Neurosurgery, Havana, Cuba.
+FAU - Estrada, Genco
+AU  - Estrada G
+AD  - Institute of Neurology and Neurosurgery , Havana , Cuba.
+FAU - Pando, Alejandro
+AU  - Pando A
+AD  - Institute of Neurology and Neurosurgery , Havana , Cuba.
+FAU - Cossio, Juan C
+AU  - Cossio JC
+AD  - Institute of Neurology and Neurosurgery , Havana , Cuba.
+FAU - Beltrán, Carlos
+AU  - Beltrán C
+AD  - Institute of Neurology and Neurosurgery , Havana , Cuba.
+TA  - Front Neurol
+JT  - Frontiers in neurology

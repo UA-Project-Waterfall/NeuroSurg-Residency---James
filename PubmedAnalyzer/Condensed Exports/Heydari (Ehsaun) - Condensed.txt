@@ -1,0 +1,93 @@
+PMID- 36552186
+TI  - Review of the Treatments for Central Neuropathic Pain.
+FAU - Sheldon, Breanna L
+AU  - Sheldon BL
+AD  - Department of Neuroscience and Experimental Therapeutics, Albany Medical College, Albany, NY 12208, USA.
+FAU - Olmsted, Zachary T
+AU  - Olmsted ZT
+AD  - Department of Neuroscience and Experimental Therapeutics, Albany Medical College, Albany, NY 12208, USA.
+FAU - Sabourin, Shelby
+AU  - Sabourin S
+AD  - Department of Neuroscience and Experimental Therapeutics, Albany Medical College, Albany, NY 12208, USA.
+FAU - Heydari, Ehsaun
+AU  - Heydari E
+AD  - Department of Neuroscience and Experimental Therapeutics, Albany Medical College, Albany, NY 12208, USA.
+FAU - Harland, Tessa A
+AU  - Harland TA
+AD  - Department of Neurosurgery, Albany Medical College, Albany, NY 12208, USA.
+FAU - Pilitsis, Julie G
+AU  - Pilitsis JG
+AD  - Department of Neuroscience and Experimental Therapeutics, Albany Medical College, Albany, NY 12208, USA.
+AD  - Department of Clinical Neuroscience, Charles E. Schmidt College of Medicine, Florida Atlantic University, Boca Raton, FL 33431, USA.
+TA  - Brain Sci
+JT  - Brain sciences
+
+
+PMID- 35944492
+TI  - Botulinum Toxin as an Effective Treatment for Trigeminal Neuralgia in Surgical Practices.
+FAU - Tangney, Thomas
+AU  - Tangney T
+AD  - Department of Neuroscience and Experimental Therapeutics, Albany Medical College, Albany, New York, USA.
+FAU - Heydari, Ehsaun S
+AU  - Heydari ES
+AD  - Department of Neuroscience and Experimental Therapeutics, Albany Medical College, Albany, New York, USA.
+FAU - Sheldon, Breanna L
+AU  - Sheldon BL
+AD  - Department of Neuroscience and Experimental Therapeutics, Albany Medical College, Albany, New York, USA.
+FAU - Shetty, Amit
+AU  - Shetty A
+AD  - Department of Neurology, Albany Medical College, Comprehensive Pain Center, Albany Medical Center, Albany, New York, USA.
+FAU - Argoff, Charles E
+AU  - Argoff CE
+AD  - Department of Neurology, Albany Medical College, Comprehensive Pain Center, Albany Medical Center, Albany, New York, USA.
+FAU - Khazen, Olga
+AU  - Khazen O
+AD  - Department of Neuroscience and Experimental Therapeutics, Albany Medical College, Albany, New York, USA.
+FAU - Pilitsis, Julie G
+AU  - Pilitsis JG
+AD  - Department of Neuroscience and Experimental Therapeutics, Albany Medical College, Albany, New York, USA.
+AD  - Department of Neurosurgery, Albany Medical Center, Albany, New York, USA.
+TA  - Stereotact Funct Neurosurg
+JT  - Stereotactic and functional neurosurgery
+
+
+PMID- 35648585
+TI  - Developing a fast-track discharge protocol for patients with cerebral aneurysms treated via neuroendovascular techniques.
+FAU - Entezami, Pouya
+AU  - Entezami P
+AD  - Department of Neurosurgery, 138207Albany Medical Center, Albany, NY, USA.
+FAU - Rock, Andrew K
+AU  - Rock AK
+AD  - Department of Neurosurgery, 138207Albany Medical Center, Albany, NY, USA.
+FAU - Topp, Gregory P
+AU  - Topp GP
+AD  - Department of Neurosurgery, 138207Albany Medical Center, Albany, NY, USA.
+FAU - Heydari, Ehsaun S
+AU  - Heydari ES
+AD  - Department of Neurosurgery, 138207Albany Medical Center, Albany, NY, USA.
+FAU - Field, Nicholas C
+AU  - Field NC
+AD  - Department of Neurosurgery, 138207Albany Medical Center, Albany, NY, USA.
+FAU - Boulos, Alan S
+AU  - Boulos AS
+AD  - Department of Neurosurgery, 138207Albany Medical Center, Albany, NY, USA.
+FAU - Dalfino, John C
+AU  - Dalfino JC
+AD  - Department of Neurosurgery, 138207Albany Medical Center, Albany, NY, USA.
+FAU - Yamamoto, Junichi
+AU  - Yamamoto J
+AD  - Department of Neurosurgery, 138207Albany Medical Center, Albany, NY, USA.
+FAU - Pilitsis, Julie G
+AU  - Pilitsis JG
+AD  - Department of Neuroscience, 1782Florida Atlantic University, Boca Raton, FL, USA.
+FAU - Cherukupalli, Divya
+AU  - Cherukupalli D
+AD  - Department of Anesthesiology, 138207Albany Medical Center, Albany, NY, USA.
+FAU - McCallum, Sarah E
+AU  - McCallum SE
+AD  - Department of Neuroscience and Experimental Therapeutics, 1092Albany Medical College, Albany, NY, USA.
+FAU - Paul, Alexandra R
+AU  - Paul AR
+AD  - Department of Neurosurgery, 138207Albany Medical Center, Albany, NY, USA.
+TA  - Interv Neuroradiol
+JT  - Interventional neuroradiology : journal of peritherapeutic neuroradiology, surgical procedures and related neurosciences

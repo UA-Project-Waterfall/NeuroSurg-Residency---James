@@ -1,0 +1,294 @@
+PMID- 31879710
+TI  - Opioid-induced toxic leukoencephalopathy: A case report and review of the literature.
+FAU - Wheaton, Taylor
+AU  - Wheaton T
+AD  - St Christopher's Hospital for Children, Department of Critical Care Medicine, 160 E Erie Ave, Philadelphia, Pennsylvania, 19134, USA.
+FAU - Toll, Brandon J
+AU  - Toll BJ
+AD  - Shriners Hospitals for Children-Philadelphia, Departments of Orthopaedic and Neurosurgery, 3551 N Broad St, Philadelphia, PA, 19140, USA.
+FAU - Breznak, Kara
+AU  - Breznak K
+AD  - St. Christopher's Hospital for Children, Department of Neurosurgery, 160 Erie Avenue, Philadelphia, PA, 19134, USA.
+FAU - Da-Silva, Shonola
+AU  - Da-Silva S
+AD  - Shriners Hospitals for Children-Philadelphia, Department of Critical Care, 3551 N Broad St, Philadelphia, PA, 19140, USA.
+FAU - Melvin, Joseph
+AU  - Melvin J
+AD  - St. Christopher's Hospital for Children, Department of Neurology, 160 Erie Avenue, Philadelphia, PA, 19134, USA.
+FAU - Misra, Amit
+AU  - Misra A
+AD  - St Christopher's Hospital for Children, Department of Critical Care Medicine, 160 E Erie Ave, Philadelphia, Pennsylvania, 19134, USA.
+FAU - Hwang, Steven W
+AU  - Hwang SW
+AD  - Shriners Hospitals for Children-Philadelphia, Departments of Orthopaedic and Neurosurgery, 3551 N Broad St, Philadelphia, PA, 19140, USA.
+AD  - St. Christopher's Hospital for Children, Department of Neurosurgery, 160 Erie Avenue, Philadelphia, PA, 19134, USA.
+TA  - Heliyon
+JT  - Heliyon
+
+
+PMID- 35851613
+TI  - Risk factors for proximal junctional kyphosis after pediatric spinal deformity surgery with halo gravity traction.
+FAU - Amanullah, Amir
+AU  - Amanullah A
+AD  - Lewis Katz School of Medicine at Temple University, PA, Philadelphia, USA.
+FAU - Piazza, Martin
+AU  - Piazza M
+AD  - Shriners Children's Philadelphia, 3551 N Broad Street, Philadelphia, PA, 19140, USA.
+FAU - Qutteineh, Bilal
+AU  - Qutteineh B
+AD  - Shriners Children's Philadelphia, 3551 N Broad Street, Philadelphia, PA, 19140, USA.
+FAU - Samdani, Amer F
+AU  - Samdani AF
+AD  - Shriners Children's Philadelphia, 3551 N Broad Street, Philadelphia, PA, 19140, USA.
+FAU - Pahys, Joshua M
+AU  - Pahys JM
+AD  - Shriners Children's Philadelphia, 3551 N Broad Street, Philadelphia, PA, 19140, USA.
+FAU - Toll, Brandon J
+AU  - Toll BJ
+AD  - Shriners Children's Philadelphia, 3551 N Broad Street, Philadelphia, PA, 19140, USA.
+FAU - Kim, Andrew Jeongyoon
+AU  - Kim AJ
+AD  - Shriners Children's Philadelphia, 3551 N Broad Street, Philadelphia, PA, 19140, USA.
+FAU - Hwang, Steven W
+AU  - Hwang SW
+AD  - Shriners Children's Philadelphia, 3551 N Broad Street, Philadelphia, PA, 19140, USA. stevenhwang@hotmail.com.
+TA  - Childs Nerv Syst
+JT  - Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery
+
+
+PMID- 33534366
+TI  - Congenital Scoliosis of the Pediatric Cervical Spine: Characterization of a 17-Patient Operative Cohort.
+FAU - Toll, Brandon J
+AU  - Toll BJ
+AD  - Departments of Orthopaedic Surgery and Neurosurgery, Shriners Hospitals for Children-Philadelphia, Philadelphia, PA.
+FAU - Samdani, Amer F
+AU  - Samdani AF
+AD  - Departments of Orthopaedic Surgery and Neurosurgery, Shriners Hospitals for Children-Philadelphia, Philadelphia, PA.
+FAU - Amanullah, Amir A
+AU  - Amanullah AA
+AD  - Departments of Orthopaedic Surgery and Neurosurgery, Shriners Hospitals for Children-Philadelphia, Philadelphia, PA.
+FAU - Pahys, Joshua M
+AU  - Pahys JM
+AD  - Departments of Orthopaedic Surgery and Neurosurgery, Shriners Hospitals for Children-Philadelphia, Philadelphia, PA.
+FAU - Janjua, Muhammad Burhan
+AU  - Janjua MB
+AD  - Departments of Orthopaedic Surgery and Neurosurgery, Shriners Hospitals for Children-Philadelphia, Philadelphia, PA.
+FAU - Hwang, Steven W
+AU  - Hwang SW
+AD  - Departments of Orthopaedic Surgery and Neurosurgery, Shriners Hospitals for Children-Philadelphia, Philadelphia, PA.
+TA  - J Pediatr Orthop
+JT  - Journal of pediatric orthopedics
+
+
+PMID- 37470388
+TI  - Pain After Anterior Vertebral Body Tethering: Incidence, Risk Factors, and Timing.
+FAU - Yang, Michael J
+AU  - Yang MJ
+AD  - Shriners Children's-Philadelphia, Philadelphia, PA.
+AD  - Tufts Medical Center, Boston, MA.
+FAU - Samdani, Amer F
+AU  - Samdani AF
+AD  - Shriners Children's-Philadelphia, Philadelphia, PA.
+FAU - Pahys, Joshua M
+AU  - Pahys JM
+AD  - Shriners Children's-Philadelphia, Philadelphia, PA.
+FAU - Quinonez, Alejandro
+AU  - Quinonez A
+AD  - Shriners Children's-Philadelphia, Philadelphia, PA.
+FAU - McGarry, Maureen
+AU  - McGarry M
+AD  - Shriners Children's-Philadelphia, Philadelphia, PA.
+FAU - Toll, Brandon
+AU  - Toll B
+AD  - Shriners Children's-Philadelphia, Philadelphia, PA.
+FAU - Grewal, Harsh
+AU  - Grewal H
+AD  - Shriners Children's-Philadelphia, Philadelphia, PA.
+FAU - Hwang, Steven W
+AU  - Hwang SW
+AD  - Shriners Children's-Philadelphia, Philadelphia, PA.
+TA  - Spine (Phila Pa 1976)
+JT  - Spine
+
+
+PMID- 29749884
+TI  - Perioperative complications and risk factors in neuromuscular scoliosis surgery.
+FAU - Toll, Brandon J
+AU  - Toll BJ
+FAU - Samdani, Amer F
+AU  - Samdani AF
+FAU - Janjua, M Burhan
+AU  - Janjua MB
+FAU - Gandhi, Shashank
+AU  - Gandhi S
+FAU - Pahys, Joshua M
+AU  - Pahys JM
+FAU - Hwang, Steven W
+AU  - Hwang SW
+TA  - J Neurosurg Pediatr
+JT  - Journal of neurosurgery. Pediatrics
+
+
+PMID- 33065694
+TI  - Risk Factors for Proximal Junctional Kyphosis Following Surgical Deformity Correction in Pediatric Neuromuscular Scoliosis.
+FAU - Toll, Brandon J
+AU  - Toll BJ
+AD  - Departments of Orthopaedic Surgery and Neurosurgery, Shriners Hospitals for Children-Philadelphia, Philadelphia, PA.
+FAU - Gandhi, Shashank V
+AU  - Gandhi SV
+AD  - Department of Neurological Surgery, Donald and Barbara Zucker School of Medicine at Hofstra/Northwell, Hempstead, NY.
+FAU - Amanullah, Amir
+AU  - Amanullah A
+AD  - Departments of Orthopaedic Surgery and Neurosurgery, Shriners Hospitals for Children-Philadelphia, Philadelphia, PA.
+FAU - Samdani, Amer F
+AU  - Samdani AF
+AD  - Departments of Orthopaedic Surgery and Neurosurgery, Shriners Hospitals for Children-Philadelphia, Philadelphia, PA.
+FAU - Janjua, M Burhan
+AU  - Janjua MB
+AD  - Department of Neurosurgery, Mercy Health, Rockford, IL.
+FAU - Kong, Qingwu
+AU  - Kong Q
+AD  - Departments of Orthopaedic Surgery and Neurosurgery, Shriners Hospitals for Children-Philadelphia, Philadelphia, PA.
+FAU - Pahys, Joshua M
+AU  - Pahys JM
+AD  - Departments of Orthopaedic Surgery and Neurosurgery, Shriners Hospitals for Children-Philadelphia, Philadelphia, PA.
+FAU - Hwang, Steven W
+AU  - Hwang SW
+AD  - Departments of Orthopaedic Surgery and Neurosurgery, Shriners Hospitals for Children-Philadelphia, Philadelphia, PA.
+TA  - Spine (Phila Pa 1976)
+JT  - Spine
+
+
+PMID- 34860260
+TI  - Do drains help reduce the risk of complications after thoracoplasties in posterior spinal fusions for adolescent idiopathic scoliosis?
+FAU - Amanullah, Amir
+AU  - Amanullah A
+AD  - Lewis Katz School of Medicine, Temple University, Philadelphia, PA, USA.
+FAU - Patel, Akul
+AU  - Patel A
+AD  - Department of Orthopaedic Surgery and Sports Medicine, Temple University Hospital, Philadelphia, PA, USA.
+FAU - Samdani, Amer F
+AU  - Samdani AF
+AD  - Shriners Hospitals for Children-Philadelphia, 3551 N Broad Street, Philadelphia, PA, 19140, USA.
+FAU - Pahys, Joshua M
+AU  - Pahys JM
+AD  - Shriners Hospitals for Children-Philadelphia, 3551 N Broad Street, Philadelphia, PA, 19140, USA.
+FAU - Toll, Brandon J
+AU  - Toll BJ
+AD  - Shriners Hospitals for Children-Philadelphia, 3551 N Broad Street, Philadelphia, PA, 19140, USA.
+FAU - Ackshota, Nissim
+AU  - Ackshota N
+AD  - Shriners Hospitals for Children-Philadelphia, 3551 N Broad Street, Philadelphia, PA, 19140, USA.
+FAU - Kim, Andrew Jeongyoon
+AU  - Kim AJ
+AD  - Shriners Hospitals for Children-Philadelphia, 3551 N Broad Street, Philadelphia, PA, 19140, USA.
+FAU - Hwang, Steven W
+AU  - Hwang SW
+AD  - Shriners Hospitals for Children-Philadelphia, 3551 N Broad Street, Philadelphia, PA, 19140, USA. stevenhwang@hotmail.com.
+TA  - Childs Nerv Syst
+JT  - Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery
+
+
+PMID- 30783030
+TI  - Risk Factors for Wound Infections after Deformity Correction Surgery in Neuromuscular Scoliosis.
+FAU - Janjua, M Burhan
+AU  - Janjua MB
+AD  - Departments of Orthopaedic Surgery and Neurosurgery, Shriners Hospitals for Children-Philadelphia, Philadelphia, Pennsylvania, USA.
+AD  - Department of Orthopedic and Neurosurgery, University of Pennsylvania Hospital, Philadelphia, Pennsylvania, USA.
+AD  - Department of Pediatric Neurosurgery, UT Southwestern Medical Center, Dallas, Texas, USA.
+FAU - Toll, Brandon
+AU  - Toll B
+AD  - Departments of Orthopaedic Surgery and Neurosurgery, Shriners Hospitals for Children-Philadelphia, Philadelphia, Pennsylvania, USA.
+FAU - Ghandi, Shashank
+AU  - Ghandi S
+AD  - Departments of Orthopaedic Surgery and Neurosurgery, Shriners Hospitals for Children-Philadelphia, Philadelphia, Pennsylvania, USA.
+FAU - Sebert, Michael E
+AU  - Sebert ME
+AD  - Department of Infectious Disease, UT Southwestern Medical Center, Dallas, Texas, USA.
+FAU - Swift, Dale M
+AU  - Swift DM
+AD  - Department of Pediatric Neurosurgery, UT Southwestern Medical Center, Dallas, Texas, USA.
+FAU - Pahys, Joshua M
+AU  - Pahys JM
+AD  - Departments of Orthopaedic Surgery and Neurosurgery, Shriners Hospitals for Children-Philadelphia, Philadelphia, Pennsylvania, USA.
+FAU - Samdani, Amer F
+AU  - Samdani AF
+AD  - Departments of Orthopaedic Surgery and Neurosurgery, Shriners Hospitals for Children-Philadelphia, Philadelphia, Pennsylvania, USA.
+FAU - Hwang, Steven W
+AU  - Hwang SW
+AD  - Departments of Orthopaedic Surgery and Neurosurgery, Shriners Hospitals for Children-Philadelphia, Philadelphia, Pennsylvania, USA, stevenhwang@hotmail.com.
+TA  - Pediatr Neurosurg
+JT  - Pediatric neurosurgery
+
+
+PMID- 33730238
+TI  - Crossing the cervicothoracic junction in complex pediatric deformity using anterior cervical discectomy and fusion: a case series.
+FAU - Toll, Brandon J
+AU  - Toll BJ
+AD  - Shriners Hospitals for Children-Philadelphia, 3551 N Broad St, Philadelphia, PA, 19140, USA.
+FAU - Samdani, Amer F
+AU  - Samdani AF
+AD  - Shriners Hospitals for Children-Philadelphia, 3551 N Broad St, Philadelphia, PA, 19140, USA. asamdani@shrinenet.org.
+FAU - Pahys, Joshua M
+AU  - Pahys JM
+AD  - Shriners Hospitals for Children-Philadelphia, 3551 N Broad St, Philadelphia, PA, 19140, USA.
+FAU - Amanullah, Amir A
+AU  - Amanullah AA
+AD  - Shriners Hospitals for Children-Philadelphia, 3551 N Broad St, Philadelphia, PA, 19140, USA.
+FAU - Hwang, Steven W
+AU  - Hwang SW
+AD  - Shriners Hospitals for Children-Philadelphia, 3551 N Broad St, Philadelphia, PA, 19140, USA.
+TA  - Childs Nerv Syst
+JT  - Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery
+
+
+PMID- 37581449
+TI  - Commentary: Anterior Cervical Discectomy and Fusion Versus Microendoscopic Posterior Cervical Foraminotomy for Unilateral Cervical Radiculopathy: A 1-Year Cost-Utility Analysis.
+FAU - Toll, Brandon J
+AU  - Toll BJ
+AD  - Department of Neurosurgery, Lahey Hospital & Medical Center, Burlington , Massachusetts , USA.
+FAU - Whitmore, Robert G
+AU  - Whitmore RG
+TA  - Neurosurgery
+JT  - Neurosurgery
+
+
+PMID- 32224656
+TI  - Novel Use of Subcostal Polyethylene Bands to Manage Tumor-Related Scoliosis Requiring Serial Imaging: A Case Report.
+FAU - Toll, Brandon J
+AU  - Toll BJ
+AD  - Departments of Orthopaedic Surgery and Neurosurgery, Shriners Hospitals for Children-Philadelphia, Philadelphia, Pennsylvania.
+FAU - Pahys, Joshua M
+AU  - Pahys JM
+FAU - Yezdani, Samir G
+AU  - Yezdani SG
+FAU - Samdani, Amer F
+AU  - Samdani AF
+FAU - Hwang, Steven W
+AU  - Hwang SW
+TA  - JBJS Case Connect
+JT  - JBJS case connector
+
+
+PMID- 32649096
+TI  - Single-Staged Management of Pediatric Neuropathic Scoliosis with Intradural-Extramedullary Schwannoma and Improvement in Intraoperative Neuromonitoring: A Case Report.
+FAU - Toll, Brandon J
+AU  - Toll BJ
+AD  - Departments of Orthopaedic Surgery and Neurosurgery, Shriners Hospitals for Children-Philadelphia, Philadelphia, Pennsylvania.
+FAU - Samdani, Amer F
+AU  - Samdani AF
+AD  - Departments of Orthopaedic Surgery and Neurosurgery, Shriners Hospitals for Children-Philadelphia, Philadelphia, Pennsylvania.
+FAU - Pahys, Joshua M
+AU  - Pahys JM
+AD  - Departments of Orthopaedic Surgery and Neurosurgery, Shriners Hospitals for Children-Philadelphia, Philadelphia, Pennsylvania.
+FAU - Franco, Alier
+AU  - Franco A
+AD  - Division of Intraoperative Neuromonitoring, SpecialtyCare, Brentwood, Tennessee.
+FAU - Yezdani, Samir G
+AU  - Yezdani SG
+AD  - Departments of Orthopaedic Surgery and Neurosurgery, Shriners Hospitals for Children-Philadelphia, Philadelphia, Pennsylvania.
+FAU - Hwang, Steven W
+AU  - Hwang SW
+AD  - Departments of Orthopaedic Surgery and Neurosurgery, Shriners Hospitals for Children-Philadelphia, Philadelphia, Pennsylvania.
+TA  - JBJS Case Connect
+JT  - JBJS case connector

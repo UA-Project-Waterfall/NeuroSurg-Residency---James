@@ -1,0 +1,687 @@
+PMID- 35121209
+TI  - Mid and long-term neurological and neuropsychiatric manifestations of post-COVID-19 syndrome: A meta-analysis.
+FAU - Premraj, Lavienraj
+AU  - Premraj L
+AD  - Griffith University School of Medicine, Gold Coast, Australia; Critical Care Research Group, The Prince Charles Hospital, Brisbane, Australia.
+FAU - Kannapadi, Nivedha V
+AU  - Kannapadi NV
+AD  - Division of Neurosciences Critical Care, Department of Neurology, Neurosurgery, Anaesthesiology and Critical Care Medicine and Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, United States of America.
+FAU - Briggs, Jack
+AU  - Briggs J
+AD  - Griffith University School of Medicine, Gold Coast, Australia.
+FAU - Seal, Stella M
+AU  - Seal SM
+AD  - William H. Welch Medical Library, Johns Hopkins University School of Medicine, Baltimore, United States of America.
+FAU - Battaglini, Denise
+AU  - Battaglini D
+AD  - Anaesthesia and Intensive Care, San Martino Policlinico Hospital, IRCCS for Oncology and Neuroscience, Genoa, Italy; Department of Medicine, University of Barcelona, Barcelona, Spain.
+FAU - Fanning, Jonathon
+AU  - Fanning J
+AD  - Critical Care Research Group, The Prince Charles Hospital, Brisbane, Australia; Faculty of Medicine University of Queensland, Brisbane, QLD, Australia; St Andrew's War Memorial Hospital, UnitingCare, Spring Hill, QLD, Australia; Nuffield Department of Population Health, University of Oxford, UK.
+FAU - Suen, Jacky
+AU  - Suen J
+AD  - Critical Care Research Group, The Prince Charles Hospital, Brisbane, Australia; Faculty of Medicine University of Queensland, Brisbane, QLD, Australia.
+FAU - Robba, Chiara
+AU  - Robba C
+AD  - Anaesthesia and Intensive Care, San Martino Policlinico Hospital, IRCCS for Oncology and Neuroscience, Genoa, Italy; Department of Surgical Science and Integrated Diagnostic, San Martino Policlinico Hospital, IRCCS for Oncology and Neuroscience, University of Genoa, Genoa, Italy.
+FAU - Fraser, John
+AU  - Fraser J
+AD  - Critical Care Research Group, The Prince Charles Hospital, Brisbane, Australia; Faculty of Medicine University of Queensland, Brisbane, QLD, Australia; St Andrew's War Memorial Hospital, UnitingCare, Spring Hill, QLD, Australia.
+FAU - Cho, Sung-Min
+AU  - Cho SM
+AD  - Division of Neurosciences Critical Care, Department of Neurology, Neurosurgery, Anaesthesiology and Critical Care Medicine and Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, United States of America. Electronic address: csungmi1@jhmi.edu.
+TA  - J Neurol Sci
+JT  - Journal of the neurological sciences
+
+
+PMID- 35712492
+TI  - Synthesizing Molecular and Immune Characteristics to Move Beyond WHO Grade in Meningiomas: A Focused Review.
+FAU - Kannapadi, Nivedha V
+AU  - Kannapadi NV
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD, United States.
+FAU - Shah, Pavan P
+AU  - Shah PP
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD, United States.
+FAU - Mathios, Dimitrios
+AU  - Mathios D
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD, United States.
+FAU - Jackson, Christopher M
+AU  - Jackson CM
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD, United States.
+TA  - Front Oncol
+JT  - Frontiers in oncology
+
+
+PMID- 38070624
+TI  - Soluble PD-L1 reprograms blood monocytes to prevent cerebral edema and facilitate recovery after ischemic stroke.
+FAU - Kim, Jennifer E
+AU  - Kim JE
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD, the United States of America.
+FAU - Lee, Ryan P
+AU  - Lee RP
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD, the United States of America.
+FAU - Yazigi, Eli
+AU  - Yazigi E
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD, the United States of America.
+FAU - Atta, Lyla
+AU  - Atta L
+AD  - Department of Biomedical Engineering, Johns Hopkins University, Baltimore, MD, the United States of America; Center for Computational Biology, Whiting School of Engineering, Johns Hopkins University, Baltimore, MD, the United States of America; Medical Scientist Training Program, Johns Hopkins University School of Medicine, Baltimore, MD, the United States of America.
+FAU - Feghali, James
+AU  - Feghali J
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD, the United States of America.
+FAU - Pant, Ayush
+AU  - Pant A
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD, the United States of America; Medical Scientist Training Program, Johns Hopkins University School of Medicine, Baltimore, MD, the United States of America.
+FAU - Jain, Aanchal
+AU  - Jain A
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD, the United States of America.
+FAU - Levitan, Idan
+AU  - Levitan I
+AD  - Department of Neurosurgery, Rabin Medical Center, Sackler Medical School, Petah Tikva, Israel.
+FAU - Kim, Eileen
+AU  - Kim E
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD, the United States of America.
+FAU - Patel, Kisha
+AU  - Patel K
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD, the United States of America.
+FAU - Kannapadi, Nivedha
+AU  - Kannapadi N
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD, the United States of America.
+FAU - Shah, Pavan
+AU  - Shah P
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD, the United States of America.
+FAU - Bibic, Adnan
+AU  - Bibic A
+AD  - F.M. Kirby Research Center for Functional Brain Imaging, Kennedy Krieger Institute, Baltimore, MD, the United States of America; The Russell H. Morgan Department of Radiology and Radiological Science, Johns Hopkins University School of Medicine, Baltimore, MD, the United States of America.
+FAU - Hou, Zhipeng
+AU  - Hou Z
+AD  - Department of Radiology, School of Medicine, Johns Hopkins University, Baltimore, MD, the United States of America.
+FAU - Caplan, Justin M
+AU  - Caplan JM
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD, the United States of America.
+FAU - Gonzalez, L Fernando
+AU  - Gonzalez LF
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD, the United States of America.
+FAU - Huang, Judy
+AU  - Huang J
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD, the United States of America.
+FAU - Xu, Risheng
+AU  - Xu R
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD, the United States of America.
+FAU - Fan, Jean
+AU  - Fan J
+AD  - Department of Biomedical Engineering, Johns Hopkins University, Baltimore, MD, the United States of America.
+FAU - Tyler, Betty
+AU  - Tyler B
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD, the United States of America.
+FAU - Brem, Henry
+AU  - Brem H
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD, the United States of America.
+FAU - Boussiotis, Vassiliki A
+AU  - Boussiotis VA
+AD  - Division of Hematology-Oncology, Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, MA, the United States of America.
+FAU - Jantzie, Lauren
+AU  - Jantzie L
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD, the United States of America; Departments of Pediatrics, Johns Hopkins University School of Medicine, Maryland, the United States of America; Kennedy Krieger Institute, Maryland, the United States of America; Department of Neurology, Johns Hopkins University School of Medicine, Maryland, the United States of America.
+FAU - Robinson, Shenandoah
+AU  - Robinson S
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD, the United States of America; Departments of Pediatrics, Johns Hopkins University School of Medicine, Maryland, the United States of America; Kennedy Krieger Institute, Maryland, the United States of America; Department of Neurology, Johns Hopkins University School of Medicine, Maryland, the United States of America.
+FAU - Koehler, Raymond C
+AU  - Koehler RC
+AD  - Departments of Anesthesiology and Critical Care Medicine, Johns Hopkins University, School of Medicine, Baltimore, MD, the United States of America.
+FAU - Lim, Michael
+AU  - Lim M
+AD  - Department of Neurosurgery, Stanford University School of Medicine, Stanford, CA, the United States of America.
+FAU - Tamargo, Rafael J
+AU  - Tamargo RJ
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD, the United States of America.
+FAU - Jackson, Christopher M
+AU  - Jackson CM
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD, the United States of America. Electronic address: cjacks53@jhmi.edu.
+TA  - Brain Behav Immun
+JT  - Brain, behavior, and immunity
+
+
+PMID- 36190782
+TI  - Neuropathology Associated with Acute Respiratory Distress Syndrome: An Autopsy Study.
+FAU - Zhang, Lucy Q
+AU  - Zhang LQ
+AD  - Johns Hopkins University School of Medicine Baltimore, Maryland.
+FAU - Zaikos, Thomas D
+AU  - Zaikos TD
+AD  - Johns Hopkins University School of Medicine Baltimore, Maryland.
+FAU - Kannapadi, Nivedha
+AU  - Kannapadi N
+AD  - Johns Hopkins University School of Medicine Baltimore, Maryland.
+FAU - Laws, Lindsay
+AU  - Laws L
+AD  - Johns Hopkins University School of Medicine Baltimore, Maryland.
+FAU - Shah, Pavan
+AU  - Shah P
+AD  - Johns Hopkins University School of Medicine Baltimore, Maryland.
+FAU - Troncoso, Juan C
+AU  - Troncoso JC
+AD  - Johns Hopkins University School of Medicine Baltimore, Maryland.
+FAU - Stephens, R Scott
+AU  - Stephens RS
+AD  - Johns Hopkins University School of Medicine Baltimore, Maryland.
+FAU - Nyquist, Paul
+AU  - Nyquist P
+AD  - Johns Hopkins University School of Medicine Baltimore, Maryland.
+FAU - Cho, Sung-Min
+AU  - Cho SM
+AD  - Johns Hopkins University School of Medicine Baltimore, Maryland.
+TA  - Ann Am Thorac Soc
+JT  - Annals of the American Thoracic Society
+
+
+PMID- 35523261
+TI  - Internal neurolysis versus intraoperative glycerin rhizotomy for trigeminal neuralgia.
+FAU - Xu, Risheng
+AU  - Xu R
+AD  - 1Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, Maryland; and.
+FAU - Materi, Joshua
+AU  - Materi J
+AD  - 1Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, Maryland; and.
+FAU - Raj, Divyaansh
+AU  - Raj D
+AD  - 1Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, Maryland; and.
+FAU - Alomari, Safwan
+AU  - Alomari S
+AD  - 1Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, Maryland; and.
+FAU - Xia, Yuanxuan
+AU  - Xia Y
+AD  - 1Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, Maryland; and.
+FAU - Nair, Sumil K
+AU  - Nair SK
+AD  - 1Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, Maryland; and.
+FAU - Shah, Pavan P
+AU  - Shah PP
+AD  - 1Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, Maryland; and.
+FAU - Kannapadi, Nivedha
+AU  - Kannapadi N
+AD  - 1Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, Maryland; and.
+FAU - Kim, Timothy
+AU  - Kim T
+AD  - 1Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, Maryland; and.
+FAU - Huang, Judy
+AU  - Huang J
+AD  - 1Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, Maryland; and.
+FAU - Bettegowda, Chetan
+AU  - Bettegowda C
+AD  - 1Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, Maryland; and.
+FAU - Lim, Michael
+AU  - Lim M
+AD  - 2Department of Neurosurgery, Stanford University School of Medicine, Stanford, California.
+TA  - J Neurosurg
+JT  - Journal of neurosurgery
+
+
+PMID- 35686911
+TI  - Reexamining the Role of Postoperative ICU Admission for Patients Undergoing Elective Craniotomy: A Systematic Review.
+FAU - Azad, Tej D
+AU  - Azad TD
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD.
+FAU - Shah, Pavan P
+AU  - Shah PP
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD.
+FAU - Kannapadi, Nivedha V
+AU  - Kannapadi NV
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD.
+FAU - Rincon-Torroella, Jordina
+AU  - Rincon-Torroella J
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD.
+FAU - Xia, Yuanxuan
+AU  - Xia Y
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD.
+FAU - Bernhardt, Lydia J
+AU  - Bernhardt LJ
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD.
+FAU - Hansen, Landon J
+AU  - Hansen LJ
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD.
+FAU - Materi, Joshua
+AU  - Materi J
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD.
+FAU - Raj, Divyaansh
+AU  - Raj D
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD.
+FAU - Jackson, Christopher M
+AU  - Jackson CM
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD.
+FAU - Mukherjee, Debraj
+AU  - Mukherjee D
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD.
+FAU - Gallia, Gary L
+AU  - Gallia GL
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD.
+FAU - Weingart, Jon
+AU  - Weingart J
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD.
+FAU - Suarez, Jose I
+AU  - Suarez JI
+AD  - Division of Neurosciences Critical Care, Department of Anesthesiology and Critical Care Medicine, Johns Hopkins University School of Medicine, Baltimore, MD.
+FAU - Brem, Henry
+AU  - Brem H
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD.
+FAU - Bettegowda, Chetan
+AU  - Bettegowda C
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD.
+TA  - Crit Care Med
+JT  - Critical care medicine
+
+
+PMID- 33935164
+TI  - Duration of Hyperoxia and Neurologic Outcomes in Patients Undergoing Extracorporeal Membrane Oxygenation.
+FAU - Al-Kawaz, Mais N
+AU  - Al-Kawaz MN
+AD  - Neurosciences Critical Care Division, Department of Neurology, Johns Hopkins University School of Medicine, Baltimore, MD.
+AD  - Neurosciences Critical Care Division, Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD.
+AD  - Neurosciences Critical Care Division, Department of Anesthesiology and Critical Care Medicine, Johns Hopkins University School of Medicine, Baltimore, MD.
+AD  - Department of Surgery, Johns Hopkins Surgery Center for Outcomes Research, Johns Hopkins University School of Medicine, Baltimore, MD.
+AD  - Department of Anesthesia and Critical Care Medicine, Johns Hopkins School of Medicine, Baltimore, MD.
+AD  - Division of Pulmonary and Critical Care Medicine, Johns Hopkins University School of Medicine, Baltimore, MD.
+AD  - Division of Cardiac Surgery, Heart and Vascular Institute, Johns Hopkins University School of Medicine, Baltimore, MD.
+FAU - Canner, Joseph
+AU  - Canner J
+AD  - Department of Surgery, Johns Hopkins Surgery Center for Outcomes Research, Johns Hopkins University School of Medicine, Baltimore, MD.
+FAU - Caturegli, Giorgio
+AU  - Caturegli G
+AD  - Department of Anesthesia and Critical Care Medicine, Johns Hopkins School of Medicine, Baltimore, MD.
+FAU - Kannapadi, Nivedha
+AU  - Kannapadi N
+AD  - Department of Anesthesia and Critical Care Medicine, Johns Hopkins School of Medicine, Baltimore, MD.
+FAU - Balucani, Clotilde
+AU  - Balucani C
+AD  - Neurosciences Critical Care Division, Department of Neurology, Johns Hopkins University School of Medicine, Baltimore, MD.
+AD  - Neurosciences Critical Care Division, Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD.
+AD  - Neurosciences Critical Care Division, Department of Anesthesiology and Critical Care Medicine, Johns Hopkins University School of Medicine, Baltimore, MD.
+AD  - Department of Surgery, Johns Hopkins Surgery Center for Outcomes Research, Johns Hopkins University School of Medicine, Baltimore, MD.
+AD  - Department of Anesthesia and Critical Care Medicine, Johns Hopkins School of Medicine, Baltimore, MD.
+AD  - Division of Pulmonary and Critical Care Medicine, Johns Hopkins University School of Medicine, Baltimore, MD.
+AD  - Division of Cardiac Surgery, Heart and Vascular Institute, Johns Hopkins University School of Medicine, Baltimore, MD.
+FAU - Shelley, Leah
+AU  - Shelley L
+AD  - Neurosciences Critical Care Division, Department of Neurology, Johns Hopkins University School of Medicine, Baltimore, MD.
+AD  - Neurosciences Critical Care Division, Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD.
+AD  - Neurosciences Critical Care Division, Department of Anesthesiology and Critical Care Medicine, Johns Hopkins University School of Medicine, Baltimore, MD.
+AD  - Department of Surgery, Johns Hopkins Surgery Center for Outcomes Research, Johns Hopkins University School of Medicine, Baltimore, MD.
+AD  - Department of Anesthesia and Critical Care Medicine, Johns Hopkins School of Medicine, Baltimore, MD.
+AD  - Division of Pulmonary and Critical Care Medicine, Johns Hopkins University School of Medicine, Baltimore, MD.
+AD  - Division of Cardiac Surgery, Heart and Vascular Institute, Johns Hopkins University School of Medicine, Baltimore, MD.
+FAU - Kim, Bo Soo
+AU  - Kim BS
+AD  - Division of Pulmonary and Critical Care Medicine, Johns Hopkins University School of Medicine, Baltimore, MD.
+FAU - Choi, Chun Woo
+AU  - Choi CW
+AD  - Division of Cardiac Surgery, Heart and Vascular Institute, Johns Hopkins University School of Medicine, Baltimore, MD.
+FAU - Geocadin, Romergryko G
+AU  - Geocadin RG
+AD  - Neurosciences Critical Care Division, Department of Neurology, Johns Hopkins University School of Medicine, Baltimore, MD.
+AD  - Neurosciences Critical Care Division, Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD.
+AD  - Neurosciences Critical Care Division, Department of Anesthesiology and Critical Care Medicine, Johns Hopkins University School of Medicine, Baltimore, MD.
+AD  - Department of Surgery, Johns Hopkins Surgery Center for Outcomes Research, Johns Hopkins University School of Medicine, Baltimore, MD.
+AD  - Department of Anesthesia and Critical Care Medicine, Johns Hopkins School of Medicine, Baltimore, MD.
+AD  - Division of Pulmonary and Critical Care Medicine, Johns Hopkins University School of Medicine, Baltimore, MD.
+AD  - Division of Cardiac Surgery, Heart and Vascular Institute, Johns Hopkins University School of Medicine, Baltimore, MD.
+FAU - Whitman, Glenn
+AU  - Whitman G
+AD  - Division of Cardiac Surgery, Heart and Vascular Institute, Johns Hopkins University School of Medicine, Baltimore, MD.
+FAU - Cho, Sung-Min
+AU  - Cho SM
+AD  - Neurosciences Critical Care Division, Department of Neurology, Johns Hopkins University School of Medicine, Baltimore, MD.
+AD  - Neurosciences Critical Care Division, Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD.
+AD  - Neurosciences Critical Care Division, Department of Anesthesiology and Critical Care Medicine, Johns Hopkins University School of Medicine, Baltimore, MD.
+AD  - Department of Surgery, Johns Hopkins Surgery Center for Outcomes Research, Johns Hopkins University School of Medicine, Baltimore, MD.
+AD  - Department of Anesthesia and Critical Care Medicine, Johns Hopkins School of Medicine, Baltimore, MD.
+AD  - Division of Pulmonary and Critical Care Medicine, Johns Hopkins University School of Medicine, Baltimore, MD.
+AD  - Division of Cardiac Surgery, Heart and Vascular Institute, Johns Hopkins University School of Medicine, Baltimore, MD.
+TA  - Crit Care Med
+JT  - Critical care medicine
+
+
+PMID- 33545678
+TI  - Preclinical efficacy of ribavirin in SHH and group 3 medulloblastoma.
+FAU - Huq, Sakibul
+AU  - Huq S
+FAU - Kannapadi, Nivedha V
+AU  - Kannapadi NV
+FAU - Casaos, Joshua
+AU  - Casaos J
+FAU - Lott, Tarik
+AU  - Lott T
+FAU - Felder, Raphael
+AU  - Felder R
+FAU - Serra, Riccardo
+AU  - Serra R
+FAU - Gorelick, Noah L
+AU  - Gorelick NL
+FAU - Ruiz-Cardozo, Miguel A
+AU  - Ruiz-Cardozo MA
+FAU - Ding, Andy S
+AU  - Ding AS
+FAU - Cecia, Arba
+AU  - Cecia A
+FAU - Medikonda, Ravi
+AU  - Medikonda R
+FAU - Ehresman, Jeff
+AU  - Ehresman J
+FAU - Brem, Henry
+AU  - Brem H
+FAU - Skuli, Nicolas
+AU  - Skuli N
+FAU - Tyler, Betty M
+AU  - Tyler BM
+TA  - J Neurosurg Pediatr
+JT  - Journal of neurosurgery. Pediatrics
+
+
+PMID- 35315836
+TI  - Case Series in the Utility of Invasive Blood Pressure Monitoring in Microvascular Decompression.
+FAU - Xu, Risheng
+AU  - Xu R
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA.
+FAU - Nair, Sumil K
+AU  - Nair SK
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA.
+FAU - Materi, Josh
+AU  - Materi J
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA.
+FAU - Raj, Divyaansh
+AU  - Raj D
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA.
+FAU - Medikonda, Ravi
+AU  - Medikonda R
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA.
+FAU - Shah, Pavan P
+AU  - Shah PP
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA.
+FAU - Kannapadi, Nivedha V
+AU  - Kannapadi NV
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA.
+FAU - Wang, Andrew
+AU  - Wang A
+AD  - Department of Anesthesiology and Critical Care Medicine, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA.
+FAU - Mintz, David
+AU  - Mintz D
+AD  - Department of Anesthesiology and Critical Care Medicine, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA.
+FAU - Gottschalk, Allan
+AU  - Gottschalk A
+AD  - Department of Anesthesiology and Critical Care Medicine, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA.
+FAU - Antonik, Laurie J
+AU  - Antonik LJ
+AD  - Department of Anesthesiology and Critical Care Medicine, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA.
+FAU - Huang, Judy
+AU  - Huang J
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA.
+FAU - Bettegowda, Chetan
+AU  - Bettegowda C
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA.
+FAU - Lim, Michael
+AU  - Lim M
+AD  - Department of Neurosurgery, Stanford University School of Medicine, Stanford, California, USA.
+TA  - Oper Neurosurg (Hagerstown)
+JT  - Operative neurosurgery (Hagerstown, Md.)
+
+
+PMID- 34756659
+TI  - Neurological Complications in COVID-19 Patients With ECMO Support: A Systematic Review and Meta-Analysis.
+FAU - Kannapadi, Nivedha V
+AU  - Kannapadi NV
+AD  - Division of Neurosciences Critical Care, Department of Neurology, Neurosurgery, Anesthesiology and Critical Care Medicine and Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD, USA.
+FAU - Jami, Meghana
+AU  - Jami M
+AD  - Division of Neurosciences Critical Care, Department of Neurology, Neurosurgery, Anesthesiology and Critical Care Medicine and Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD, USA.
+FAU - Premraj, Lavienraj
+AU  - Premraj L
+AD  - Griffith University School of Medicine, Gold Coast, Qld, Australia.
+FAU - Etchill, Eric W
+AU  - Etchill EW
+AD  - Division of Cardiac Surgery, Department of Surgery, Johns Hopkins University School of Medicine, Baltimore, MD, USA.
+FAU - Giuliano, Katherine
+AU  - Giuliano K
+AD  - Division of Cardiac Surgery, Department of Surgery, Johns Hopkins University School of Medicine, Baltimore, MD, USA.
+FAU - Bush, Errol L
+AU  - Bush EL
+AD  - Division of Cardiac Surgery, Department of Surgery, Johns Hopkins University School of Medicine, Baltimore, MD, USA.
+FAU - Kim, Bo Soo
+AU  - Kim BS
+AD  - Division of Pulmonary and Critical Care Medicine, Department of Medicine, Johns Hopkins University School of Medicine, MD, USA.
+FAU - Seal, Stella
+AU  - Seal S
+AD  - Department of Hospital, Health and Community Services, Johns Hopkins University School of Medicine, MD, USA.
+FAU - Whitman, Glenn
+AU  - Whitman G
+AD  - Division of Cardiac Surgery, Department of Surgery, Johns Hopkins University School of Medicine, Baltimore, MD, USA.
+FAU - Cho, Sung-Min
+AU  - Cho SM
+AD  - Division of Neurosciences Critical Care, Department of Neurology, Neurosurgery, Anesthesiology and Critical Care Medicine and Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD, USA. Electronic address: csungmi1@jhmi.edu.
+TA  - Heart Lung Circ
+JT  - Heart, lung & circulation
+
+
+PMID- 34119413
+TI  - Neurologic Injury in Patients With COVID-19 Who Receive VV-ECMO Therapy: A Cohort Study.
+FAU - Kannapadi, Nivedha V
+AU  - Kannapadi NV
+AD  - Division of Neurosciences Critical Care, Department of Neurology, Neurosurgery, Anesthesiology and Critical Care Medicine and Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD.
+FAU - Jami, Meghana
+AU  - Jami M
+AD  - Division of Neurosciences Critical Care, Department of Neurology, Neurosurgery, Anesthesiology and Critical Care Medicine and Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD.
+FAU - Premraj, Lavienraj
+AU  - Premraj L
+AD  - Griffith University School of Medicine, Gold Coast, Australia.
+FAU - Etchill, Eric W
+AU  - Etchill EW
+AD  - Division of Cardiac Surgery, Department of Surgery, Johns Hopkins University School of Medicine, Baltimore, MD.
+FAU - Giuliano, Katherine
+AU  - Giuliano K
+AD  - Division of Cardiac Surgery, Department of Surgery, Johns Hopkins University School of Medicine, Baltimore, MD.
+FAU - Bush, Errol L
+AU  - Bush EL
+AD  - Division of Cardiac Surgery, Department of Surgery, Johns Hopkins University School of Medicine, Baltimore, MD.
+FAU - Kim, Bo Soo
+AU  - Kim BS
+AD  - Division of Pulmonary and Critical Care Medicine, Department of Medicine, Johns Hopkins University School of Medicine, Baltimore, MD.
+FAU - Seal, Stella
+AU  - Seal S
+AD  - Department of Hospital, Health, and Community Services, Johns Hopkins University School of Medicine, Baltimore, MD.
+FAU - Whitman, Glenn
+AU  - Whitman G
+AD  - Division of Cardiac Surgery, Department of Surgery, Johns Hopkins University School of Medicine, Baltimore, MD.
+FAU - Cho, Sung-Min
+AU  - Cho SM
+AD  - Division of Neurosciences Critical Care, Department of Neurology, Neurosurgery, Anesthesiology and Critical Care Medicine and Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD.
+TA  - J Cardiothorac Vasc Anesth
+JT  - Journal of cardiothoracic and vascular anesthesia
+
+
+PMID- 36113711
+TI  - A Potential Role for Steroids in Acute Pain Management in Patients with Trigeminal Neuralgia.
+FAU - Xu, Risheng
+AU  - Xu R
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA.
+FAU - Nair, Sumil K
+AU  - Nair SK
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA.
+FAU - Shah, Pavan P
+AU  - Shah PP
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA.
+FAU - Kannapadi, Nivedha
+AU  - Kannapadi N
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA.
+FAU - Materi, Joshua
+AU  - Materi J
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA.
+FAU - Alomari, Safwan
+AU  - Alomari S
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA.
+FAU - Kim, Timothy
+AU  - Kim T
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA.
+FAU - Kalluri, Anita
+AU  - Kalluri A
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA.
+FAU - Xia, Yuanxuan
+AU  - Xia Y
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA.
+FAU - So, Raymond J
+AU  - So RJ
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA.
+FAU - Lim, Michael
+AU  - Lim M
+AD  - Department of Neurosurgery, Stanford University School of Medicine, Stanford, California, USA.
+FAU - Bettegowda, Chetan
+AU  - Bettegowda C
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA. Electronic address: cbetteg1@jhmi.edu.
+TA  - World Neurosurg
+JT  - World neurosurgery
+
+
+PMID- 38187146
+TI  - Neuropathological findings in COVID-19 vs. non-COVID-19 acute respiratory distress syndrome-A case-control study.
+FAU - Humayun, Mariyam
+AU  - Humayun M
+AD  - Division of Neuroscience Critical Care, Departments of Neurology, Neurosurgery, Anesthesiology and Critical Care Medicine, Johns Hopkins University School of Medicine, Baltimore, MD, United States.
+FAU - Zhang, Lucy
+AU  - Zhang L
+AD  - Inova Health System, Falls Church, VA, United States.
+FAU - Zaikos, Thomas D
+AU  - Zaikos TD
+AD  - Neuropathology Division, Department of Pathology, Johns Hopkins University School of Medicine, Baltimore, MD, United States.
+FAU - Kannapadi, Nivedha
+AU  - Kannapadi N
+AD  - Division of Neuroscience Critical Care, Departments of Neurology, Neurosurgery, Anesthesiology and Critical Care Medicine, Johns Hopkins University School of Medicine, Baltimore, MD, United States.
+FAU - Suarez, Jose I
+AU  - Suarez JI
+AD  - Division of Neuroscience Critical Care, Departments of Neurology, Neurosurgery, Anesthesiology and Critical Care Medicine, Johns Hopkins University School of Medicine, Baltimore, MD, United States.
+FAU - Hager, David N
+AU  - Hager DN
+AD  - Division of Pulmonary and Critical Care Medicine, Department of Medicine, Johns Hopkins University School of Medicine, Baltimore, MD, United States.
+FAU - Troncoso, Juan C
+AU  - Troncoso JC
+AD  - Neuropathology Division, Department of Pathology, Johns Hopkins University School of Medicine, Baltimore, MD, United States.
+FAU - Cho, Sung-Min
+AU  - Cho SM
+AD  - Division of Neuroscience Critical Care, Departments of Neurology, Neurosurgery, Anesthesiology and Critical Care Medicine, Johns Hopkins University School of Medicine, Baltimore, MD, United States.
+TA  - Front Neurol
+JT  - Frontiers in neurology
+
+
+PMID- 36628944
+TI  - Management of Anticoagulation Therapy in ECMO-Associated Ischemic Stroke and Intracranial Hemorrhage.
+FAU - Prokupets, Rochelle
+AU  - Prokupets R
+AD  - Neuroscience Critical Care Division, Departments of Neurology, Neurosurgery, and Anesthesiology and Critical Care Medicine, Johns Hopkins University School of Medicine, Baltimore, MD, USA.
+FAU - Kannapadi, Nivedha
+AU  - Kannapadi N
+AD  - Neuroscience Critical Care Division, Departments of Neurology, Neurosurgery, and Anesthesiology and Critical Care Medicine, Johns Hopkins University School of Medicine, Baltimore, MD, USA.
+FAU - Chang, Henry
+AU  - Chang H
+AD  - Neuroscience Critical Care Division, Departments of Neurology, Neurosurgery, and Anesthesiology and Critical Care Medicine, Johns Hopkins University School of Medicine, Baltimore, MD, USA.
+FAU - Caturegli, Giorgio
+AU  - Caturegli G
+AD  - Neuroscience Critical Care Division, Departments of Neurology, Neurosurgery, and Anesthesiology and Critical Care Medicine, Johns Hopkins University School of Medicine, Baltimore, MD, USA.
+FAU - Bush, Errol L
+AU  - Bush EL
+AD  - Division of Thoracic Surgery, Department of Surgery, Johns Hopkins University School of Medicine, Baltimore, MD, USA.
+FAU - Kim, Bo Soo
+AU  - Kim BS
+AD  - Division of Cardiac Surgery, Department of Surgery, Johns Hopkins University School of Medicine, Baltimore, MD, USA.
+FAU - Keller, Steven
+AU  - Keller S
+AD  - Division of Pulmonary and Critical Care Medicine, Department of Medicine, Johns Hopkins University School of Medicine, Baltimore, MD, USA.
+AD  - Department of Biomedical Engineering, Johns Hopkins University School of Medicine, Baltimore, MD, USA.
+FAU - Geocadin, Romergryko G
+AU  - Geocadin RG
+AD  - Neuroscience Critical Care Division, Departments of Neurology, Neurosurgery, and Anesthesiology and Critical Care Medicine, Johns Hopkins University School of Medicine, Baltimore, MD, USA.
+FAU - Whitman, Glenn J R
+AU  - Whitman GJR
+AD  - Division of Cardiac Surgery, Department of Surgery, Johns Hopkins University School of Medicine, Baltimore, MD, USA.
+FAU - Cho, Sung-Min
+AU  - Cho SM
+AD  - Neuroscience Critical Care Division, Departments of Neurology, Neurosurgery, and Anesthesiology and Critical Care Medicine, Johns Hopkins University School of Medicine, Baltimore, MD, USA.
+AD  - Division of Cardiac Surgery, Department of Surgery, Johns Hopkins University School of Medicine, Baltimore, MD, USA.
+TA  - Innovations (Phila)
+JT  - Innovations (Philadelphia, Pa.)
+
+
+PMID- 35831274
+TI  - Spinal cord untethering and midline myelotomy for delayed, symptomatic post-traumatic syringomyelia due to retained ballistic fragments: case report.
+FAU - Azad, Tej D
+AU  - Azad TD
+AD  - Department of Neurosurgery, Johns Hopkins School of Medicine, Baltimore, MD, USA. tazad1@jhmi.edu.
+FAU - Materi, Joshua
+AU  - Materi J
+AD  - Department of Neurosurgery, Johns Hopkins School of Medicine, Baltimore, MD, USA.
+FAU - Hwang, Brian Y
+AU  - Hwang BY
+AD  - Department of Neurosurgery, Johns Hopkins School of Medicine, Baltimore, MD, USA.
+FAU - Mathios, Dimitrios
+AU  - Mathios D
+AD  - Department of Neurosurgery, Johns Hopkins School of Medicine, Baltimore, MD, USA.
+FAU - Lehner, Kurt R
+AU  - Lehner KR
+AD  - Department of Neurosurgery, Johns Hopkins School of Medicine, Baltimore, MD, USA.
+FAU - Hansen, Landon
+AU  - Hansen L
+AD  - Department of Neurosurgery, Johns Hopkins School of Medicine, Baltimore, MD, USA.
+FAU - Bernhardt, Lydia J
+AU  - Bernhardt LJ
+AD  - Department of Neurosurgery, Johns Hopkins School of Medicine, Baltimore, MD, USA.
+FAU - Xia, Yuanxuan
+AU  - Xia Y
+AD  - Department of Neurosurgery, Johns Hopkins School of Medicine, Baltimore, MD, USA.
+FAU - Shah, Pavan P
+AU  - Shah PP
+AD  - Department of Neurosurgery, Johns Hopkins School of Medicine, Baltimore, MD, USA.
+FAU - Kannapadi, Nivedha V
+AU  - Kannapadi NV
+AD  - Department of Neurosurgery, Johns Hopkins School of Medicine, Baltimore, MD, USA.
+FAU - Theodore, Nicholas
+AU  - Theodore N
+AD  - Department of Neurosurgery, Johns Hopkins School of Medicine, Baltimore, MD, USA.
+TA  - Spinal Cord Ser Cases
+JT  - Spinal cord series and cases
+
+
+PMID- 33229972
+TI  - Clinically Silent Brain Injury and Perioperative Neurological Events in Patients With Left Ventricular Assist Device: A Brain Autopsy Study.
+FAU - Kannapadi, Nivedha V
+AU  - Kannapadi NV
+AD  - Neurosciences Critical Care Division, Departments of Neurology, Neurosurgery, Anesthesiology and Critical Care Medicine and Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, Maryland.
+FAU - White, Bartholomew
+AU  - White B
+AD  - Neuropathology Division, Department of Pathology, Johns Hopkins University School of Medicine, Baltimore, Maryland.
+FAU - Woo Choi, Chun
+AU  - Woo Choi C
+AD  - Division of Cardiac Surgery, Heart and Vascular Institute, Johns Hopkins University School of Medicine, Baltimore, Maryland.
+FAU - Chen, Liam L
+AU  - Chen LL
+AD  - Neuropathology Division, Department of Pathology, Johns Hopkins University School of Medicine, Baltimore, Maryland.
+FAU - Cho, Sung-Min
+AU  - Cho SM
+AD  - Neurosciences Critical Care Division, Departments of Neurology, Neurosurgery, Anesthesiology and Critical Care Medicine and Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, Maryland.
+TA  - ASAIO J
+JT  - ASAIO journal (American Society for Artificial Internal Organs : 1992)
+
+
+PMID- 33863527
+TI  - Management of syringomyelia associated with tuberculous meningitis: A case report and systematic review of the literature.
+FAU - Kannapadi, Nivedha V
+AU  - Kannapadi NV
+AD  - Division of Neurosciences Critical Care, Department of Neurology, Neurosurgery, Anesthesiology and Critical Care Medicine and Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD, United States.
+FAU - Alomari, Safwan O
+AU  - Alomari SO
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD, United States.
+FAU - Caturegli, Giorgio
+AU  - Caturegli G
+AD  - Division of Neurosciences Critical Care, Department of Neurology, Neurosurgery, Anesthesiology and Critical Care Medicine and Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD, United States.
+FAU - Bydon, Ali
+AU  - Bydon A
+AD  - Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD, United States.
+FAU - Cho, Sung-Min
+AU  - Cho SM
+AD  - Division of Neurosciences Critical Care, Department of Neurology, Neurosurgery, Anesthesiology and Critical Care Medicine and Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD, United States. Electronic address: csungmi1@jhmi.edu.
+TA  - J Clin Neurosci
+JT  - Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia

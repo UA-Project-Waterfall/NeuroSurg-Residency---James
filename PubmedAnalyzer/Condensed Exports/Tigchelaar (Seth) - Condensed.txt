@@ -1,0 +1,1595 @@
+PMID- 32743685
+TI  - Trochanteric osteotomy for acetabular fracture fixation: a case series and literature review.
+FAU - Chen, Michael J
+AU  - Chen MJ
+AD  - Department of Orthopaedic Surgery, Stanford University Medical Center, 450 Broadway Street, Pavilion C, 4th Floor, Redwood City, CA, 94063-6342, USA. mchen32@stanford.edu.
+FAU - Wadhwa, Harsh
+AU  - Wadhwa H
+AD  - Department of Orthopaedic Surgery, Stanford University Medical Center, 450 Broadway Street, Pavilion C, 4th Floor, Redwood City, CA, 94063-6342, USA.
+FAU - Tigchelaar, Seth S
+AU  - Tigchelaar SS
+AD  - Department of Orthopaedic Surgery, Stanford University Medical Center, 450 Broadway Street, Pavilion C, 4th Floor, Redwood City, CA, 94063-6342, USA.
+FAU - Frey, Christopher S
+AU  - Frey CS
+AD  - Department of Orthopaedic Surgery, Stanford University Medical Center, 450 Broadway Street, Pavilion C, 4th Floor, Redwood City, CA, 94063-6342, USA.
+FAU - Gardner, Michael J
+AU  - Gardner MJ
+AD  - Department of Orthopaedic Surgery, Stanford University Medical Center, 450 Broadway Street, Pavilion C, 4th Floor, Redwood City, CA, 94063-6342, USA.
+FAU - Bellino, Michael J
+AU  - Bellino MJ
+AD  - Department of Orthopaedic Surgery, Stanford University Medical Center, 450 Broadway Street, Pavilion C, 4th Floor, Redwood City, CA, 94063-6342, USA.
+TA  - Eur J Orthop Surg Traumatol
+JT  - European journal of orthopaedic surgery & traumatology : orthopedie traumatologie
+
+
+PMID- 36096393
+TI  - Augmented Reality Neuronavigation for En Bloc Resection of Spinal Column Lesions.
+FAU - Tigchelaar, Seth S
+AU  - Tigchelaar SS
+AD  - Department of Neurosurgery, Stanford University Medical Center, Stanford, California, USA. Electronic address: stigchel@stanford.edu.
+FAU - Medress, Zachary A
+AU  - Medress ZA
+AD  - Department of Neurosurgery, Stanford University Medical Center, Stanford, California, USA.
+FAU - Quon, Jennifer
+AU  - Quon J
+AD  - Department of Neurosurgery, Stanford University Medical Center, Stanford, California, USA.
+FAU - Dang, Phuong
+AU  - Dang P
+AD  - Surgical Theater, Inc., Cleveland, Ohio, USA.
+FAU - Barbery, Daniela
+AU  - Barbery D
+AD  - Surgical Theater, Inc., Cleveland, Ohio, USA.
+FAU - Bobrow, Aidan
+AU  - Bobrow A
+AD  - Surgical Theater, Inc., Cleveland, Ohio, USA.
+FAU - Kin, Cindy
+AU  - Kin C
+AD  - Department of Surgery, Stanford University Medical Center, Stanford, California, USA.
+FAU - Louis, Robert
+AU  - Louis R
+AD  - The Brain and Spine Center, Hoag Memorial Hospital Presbyterian Newport Beach, Newport Beach, California, USA; Pickup Family Neurosciences Institute, Hoag Memorial Hospital Presbyterian Newport Beach, Newport Beach, California, USA.
+FAU - Desai, Atman
+AU  - Desai A
+AD  - Department of Neurosurgery, Stanford University Medical Center, Stanford, California, USA.
+TA  - World Neurosurg
+JT  - World neurosurgery
+
+
+PMID- 36530858
+TI  - Outcomes of Biosynthetic and Synthetic Mesh in Ventral Hernia Repair.
+FAU - Sivaraj, Dharshan
+AU  - Sivaraj D
+AD  - Division of Plastic and Reconstructive Surgery, Stanford University Medical Center, Stanford, Calif.
+FAU - Fischer, Katharina S
+AU  - Fischer KS
+AD  - Division of Plastic and Reconstructive Surgery, Stanford University Medical Center, Stanford, Calif.
+FAU - Kim, Trudy S
+AU  - Kim TS
+AD  - Division of Plastic and Reconstructive Surgery, Stanford University Medical Center, Stanford, Calif.
+FAU - Chen, Kellen
+AU  - Chen K
+AD  - Division of Plastic and Reconstructive Surgery, Stanford University Medical Center, Stanford, Calif.
+FAU - Tigchelaar, Seth S
+AU  - Tigchelaar SS
+AD  - Division of Plastic and Reconstructive Surgery, Stanford University Medical Center, Stanford, Calif.
+FAU - Trotsyuk, Artem A
+AU  - Trotsyuk AA
+AD  - Division of Plastic and Reconstructive Surgery, Stanford University Medical Center, Stanford, Calif.
+FAU - Gurtner, Geoffrey C
+AU  - Gurtner GC
+AD  - Division of Plastic and Reconstructive Surgery, Stanford University Medical Center, Stanford, Calif.
+FAU - Lee, Gordon K
+AU  - Lee GK
+AD  - Division of Plastic and Reconstructive Surgery, Stanford University Medical Center, Stanford, Calif.
+FAU - Henn, Dominic
+AU  - Henn D
+AD  - Division of Plastic and Reconstructive Surgery, Stanford University Medical Center, Stanford, Calif.
+FAU - Nazerali, Rahim S
+AU  - Nazerali RS
+AD  - Division of Plastic and Reconstructive Surgery, Stanford University Medical Center, Stanford, Calif.
+TA  - Plast Reconstr Surg Glob Open
+JT  - Plastic and reconstructive surgery. Global open
+
+
+PMID- 34129941
+TI  - Proteomic Portraits Reveal Evolutionarily Conserved and Divergent Responses to Spinal Cord Injury.
+FAU - Skinnider, Michael A
+AU  - Skinnider MA
+AD  - Michael Smith Laboratories, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Rogalski, Jason
+AU  - Rogalski J
+AD  - Michael Smith Laboratories, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Tigchelaar, Seth
+AU  - Tigchelaar S
+AD  - International Collaboration on Repair Discoveries (ICORD), University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Manouchehri, Neda
+AU  - Manouchehri N
+AD  - International Collaboration on Repair Discoveries (ICORD), University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Prudova, Anna
+AU  - Prudova A
+AD  - Michael Smith Laboratories, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Jackson, Angela M
+AU  - Jackson AM
+AD  - UVic-Genome BC Proteomics Centre, Victoria, British Columbia, Canada.
+FAU - Nielsen, Karina
+AU  - Nielsen K
+AD  - Michael Smith Laboratories, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Jeong, Jaihyun
+AU  - Jeong J
+AD  - Michael Smith Laboratories, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Chaudhary, Shalini
+AU  - Chaudhary S
+AD  - Michael Smith Laboratories, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Shortt, Katelyn
+AU  - Shortt K
+AD  - International Collaboration on Repair Discoveries (ICORD), University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Gallagher-Kurtzke, Ylonna
+AU  - Gallagher-Kurtzke Y
+AD  - Michael Smith Laboratories, University of British Columbia, Vancouver, British Columbia, Canada; International Collaboration on Repair Discoveries (ICORD), University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - So, Kitty
+AU  - So K
+AD  - International Collaboration on Repair Discoveries (ICORD), University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Fong, Allan
+AU  - Fong A
+AD  - International Collaboration on Repair Discoveries (ICORD), University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Gupta, Rishab
+AU  - Gupta R
+AD  - International Collaboration on Repair Discoveries (ICORD), University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Okon, Elena B
+AU  - Okon EB
+AD  - International Collaboration on Repair Discoveries (ICORD), University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Rizzuto, Michael A
+AU  - Rizzuto MA
+AD  - International Collaboration on Repair Discoveries (ICORD), University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Dong, Kevin
+AU  - Dong K
+AD  - International Collaboration on Repair Discoveries (ICORD), University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Streijger, Femke
+AU  - Streijger F
+AD  - International Collaboration on Repair Discoveries (ICORD), University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Belanger, Lise
+AU  - Belanger L
+AD  - Vancouver Spine Program, Vancouver, British Columbia, Canada.
+FAU - Ritchie, Leanna
+AU  - Ritchie L
+AD  - Vancouver Spine Program, Vancouver, British Columbia, Canada.
+FAU - Tsang, Angela
+AU  - Tsang A
+AD  - Vancouver Spine Program, Vancouver, British Columbia, Canada.
+FAU - Christie, Sean
+AU  - Christie S
+AD  - Division of Neurosurgery, Dalhousie University, Halifax, Nova Scotia, Canada.
+FAU - Mac-Thiong, Jean-Marc
+AU  - Mac-Thiong JM
+AD  - Department of Surgery, Hôpital du Sacrè-Coeur de Montrèal, Montrèal, Quebec, Canada; Chu Sainte-Justine, Department of Surgery, Universitè de Montrèal, Montrèal, Quebec, Canada.
+FAU - Bailey, Christopher
+AU  - Bailey C
+AD  - Division of Orthopaedic Surgery, London Health Sciences Centre, University of Western Ontario, London, Ontario, Canada.
+FAU - Ailon, Tamir
+AU  - Ailon T
+AD  - Division of Neurosurgery, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Charest-Morin, Raphaele
+AU  - Charest-Morin R
+AD  - Department of Orthopaedics, Division of Spine, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Dea, Nicolas
+AU  - Dea N
+AD  - Division of Neurosurgery, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Wilson, Jefferson R
+AU  - Wilson JR
+AD  - Division of Neurosurgery, University of Toronto, St Michael's Hospital, Toronto, Ontario, Canada.
+FAU - Dhall, Sanjay
+AU  - Dhall S
+AD  - Department of Neurosurgery, University of California San Francisco, San Francisco, California, USA.
+FAU - Paquette, Scott
+AU  - Paquette S
+AD  - Division of Neurosurgery, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Street, John
+AU  - Street J
+AD  - Department of Orthopaedics, Division of Spine, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Fisher, Charles G
+AU  - Fisher CG
+AD  - Department of Orthopaedics, Division of Spine, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Dvorak, Marcel F
+AU  - Dvorak MF
+AD  - International Collaboration on Repair Discoveries (ICORD), University of British Columbia, Vancouver, British Columbia, Canada; Department of Orthopaedics, Division of Spine, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Shannon, Casey
+AU  - Shannon C
+AD  - Prevention of Organ Failure (PROOF) Centre of Excellence, Vancouver, British Columbia, Canada.
+FAU - Borchers, Christoph
+AU  - Borchers C
+AD  - UVic-Genome BC Proteomics Centre, Victoria, British Columbia, Canada.
+FAU - Balshaw, Robert
+AU  - Balshaw R
+AD  - Prevention of Organ Failure (PROOF) Centre of Excellence, Vancouver, British Columbia, Canada.
+FAU - Foster, Leonard J
+AU  - Foster LJ
+AD  - Michael Smith Laboratories, University of British Columbia, Vancouver, British Columbia, Canada; Department of Biochemistry and Molecular Biology, University of British Columbia, Vancouver, British Columbia, Canada. Electronic address: foster@msl.ubc.ca.
+FAU - Kwon, Brian K
+AU  - Kwon BK
+AD  - International Collaboration on Repair Discoveries (ICORD), University of British Columbia, Vancouver, British Columbia, Canada; Department of Orthopaedics, Division of Spine, University of British Columbia, Vancouver, British Columbia, Canada. Electronic address: brian.kwon@ubc.ca.
+TA  - Mol Cell Proteomics
+JT  - Molecular & cellular proteomics : MCP
+
+
+PMID- 37865628
+TI  - Interaction of preoperative chemoprophylaxis and tranexamic acid use does not affect transfusion in acetabular fracture surgery.
+FAU - Wadhwa, Harsh
+AU  - Wadhwa H
+AD  - Department of Orthopaedic Surgery, Stanford School of Medicine, Stanford, CA, 94305, USA.
+FAU - Rohde, Matthew
+AU  - Rohde M
+AD  - Department of Orthopaedic Surgery, Stanford School of Medicine, Stanford, CA, 94305, USA. rohde.matt1@gmail.com.
+FAU - Oquendo, Yousi
+AU  - Oquendo Y
+AD  - Department of Orthopaedic Surgery, Stanford School of Medicine, Stanford, CA, 94305, USA.
+FAU - Chen, Michael J
+AU  - Chen MJ
+AD  - Department of Orthopaedic Surgery, Stanford School of Medicine, Stanford, CA, 94305, USA.
+FAU - Tigchelaar, Seth S
+AU  - Tigchelaar SS
+AD  - Department of Orthopaedic Surgery, Stanford School of Medicine, Stanford, CA, 94305, USA.
+FAU - Bellino, Michael
+AU  - Bellino M
+AD  - Department of Orthopaedic Surgery, Stanford School of Medicine, Stanford, CA, 94305, USA.
+FAU - Bishop, Julius
+AU  - Bishop J
+AD  - Department of Orthopaedic Surgery, Stanford School of Medicine, Stanford, CA, 94305, USA.
+FAU - Gardner, Michael J
+AU  - Gardner MJ
+AD  - Department of Orthopaedic Surgery, Stanford School of Medicine, Stanford, CA, 94305, USA.
+TA  - Eur J Orthop Surg Traumatol
+JT  - European journal of orthopaedic surgery & traumatology : orthopedie traumatologie
+
+
+PMID- 33675625
+TI  - Medial Column Support in Pilon Fractures Using Percutaneous Intramedullary Large Fragment Fixation.
+FAU - Goodnough, L Henry
+AU  - Goodnough LH
+AD  - Stanford University Department of Orthopaedic Surgery, Stanford, CA; and.
+FAU - Tigchelaar, Seth S
+AU  - Tigchelaar SS
+AD  - Stanford University Department of Orthopaedic Surgery, Stanford, CA; and.
+FAU - Van Rysselberghe, Noelle L
+AU  - Van Rysselberghe NL
+AD  - Stanford University Department of Orthopaedic Surgery, Stanford, CA; and.
+FAU - DeBaun, Malcolm R
+AU  - DeBaun MR
+AD  - Stanford University Department of Orthopaedic Surgery, Stanford, CA; and.
+FAU - Gardner, Michael J
+AU  - Gardner MJ
+AD  - Stanford University Department of Orthopaedic Surgery, Stanford, CA; and.
+FAU - Hecht, Garin G
+AU  - Hecht GG
+AD  - Department of Orthopaedic Surgery, Santa Clara Valley Medical Center, San Jose, CA.
+FAU - Lucas, Justin F
+AU  - Lucas JF
+AD  - Department of Orthopaedic Surgery, Santa Clara Valley Medical Center, San Jose, CA.
+TA  - J Orthop Trauma
+JT  - Journal of orthopaedic trauma
+
+
+PMID- 34724454
+TI  - Advanced Age Does Not Impact Outcomes After 1-level or 2-level Lateral Lumbar Interbody Fusion.
+FAU - Wadhwa, Harsh
+AU  - Wadhwa H
+AD  - Departments of Orthopaedic Surgery.
+FAU - Oquendo, Yousi A
+AU  - Oquendo YA
+AD  - Departments of Orthopaedic Surgery.
+FAU - Tigchelaar, Seth S
+AU  - Tigchelaar SS
+AD  - Departments of Orthopaedic Surgery.
+FAU - Warren, Shay I
+AU  - Warren SI
+AD  - Departments of Orthopaedic Surgery.
+FAU - Koltsov, Jayme C B
+AU  - Koltsov JCB
+AD  - Departments of Orthopaedic Surgery.
+FAU - Desai, Atman
+AU  - Desai A
+AD  - Neurosurgery, Stanford University Medical Center, Stanford, CA.
+FAU - Veeravagu, Anand
+AU  - Veeravagu A
+AD  - Neurosurgery, Stanford University Medical Center, Stanford, CA.
+FAU - Alamin, Todd F
+AU  - Alamin TF
+AD  - Departments of Orthopaedic Surgery.
+FAU - Ratliff, John K
+AU  - Ratliff JK
+AD  - Neurosurgery, Stanford University Medical Center, Stanford, CA.
+FAU - Hu, Serena S
+AU  - Hu SS
+AD  - Departments of Orthopaedic Surgery.
+FAU - Cheng, Ivan
+AU  - Cheng I
+AD  - Departments of Orthopaedic Surgery.
+TA  - Clin Spine Surg
+JT  - Clinical spine surgery
+
+
+PMID- 35330345
+TI  - Metastatic Pattern of Truncal and Extremity Leiomyosarcoma: Retrospective Analysis of Predictors, Outcomes, and Detection.
+FAU - Tigchelaar, Seth S
+AU  - Tigchelaar SS
+AD  - Department of Orthopedic Surgery, Stanford University, Stanford, CA 94305, USA.
+FAU - Frey, Christopher
+AU  - Frey C
+AD  - Department of Orthopedic Surgery, Stanford University, Stanford, CA 94305, USA.
+FAU - Sivaraj, Dharshan
+AU  - Sivaraj D
+AD  - Department of Orthopedic Surgery, Stanford University, Stanford, CA 94305, USA.
+FAU - Segovia, Nicole A
+AU  - Segovia NA
+AD  - Department of Orthopedic Surgery, Stanford University, Stanford, CA 94305, USA.
+FAU - Mohler, David G
+AU  - Mohler DG
+AD  - Department of Orthopedic Surgery, Stanford University, Stanford, CA 94305, USA.
+FAU - Steffner, Robert J
+AU  - Steffner RJ
+AD  - Department of Orthopedic Surgery, Stanford University, Stanford, CA 94305, USA.
+FAU - Avedian, Raffi S
+AU  - Avedian RS
+AD  - Department of Orthopedic Surgery, Stanford University, Stanford, CA 94305, USA.
+TA  - J Pers Med
+JT  - Journal of personalized medicine
+
+
+PMID- 36701554
+TI  - Augmented Reality-Assisted Resection of a Large Presacral Ganglioneuroma: 2-Dimensional Operative Video.
+FAU - Medress, Zachary A
+AU  - Medress ZA
+AD  - Department of Neurosurgery, Stanford University Medical Center, Stanford, California, USA.
+FAU - Bobrow, Aidan
+AU  - Bobrow A
+AD  - Surgical Theater, Inc., Cleveland, Ohio, USA.
+FAU - Tigchelaar, Seth S
+AU  - Tigchelaar SS
+AD  - Department of Neurosurgery, Stanford University Medical Center, Stanford, California, USA.
+FAU - Henderson, Traci
+AU  - Henderson T
+AD  - Surgical Theater, Inc., Cleveland, Ohio, USA.
+FAU - Parker, Jonathon J
+AU  - Parker JJ
+AD  - Department of Neurosurgery, Stanford University Medical Center, Stanford, California, USA.
+FAU - Desai, Atman
+AU  - Desai A
+AD  - Department of Neurosurgery, Stanford University Medical Center, Stanford, California, USA.
+TA  - Oper Neurosurg (Hagerstown)
+JT  - Operative neurosurgery (Hagerstown, Md.)
+
+
+PMID- 33386470
+TI  - Management of the posterior wall fracture in associated both column fractures of the acetabulum.
+FAU - Chen, Michael J
+AU  - Chen MJ
+AD  - Department of Orthopaedic Surgery, Stanford University, 450 Broadway Street, Pavilion C, 4th Floor, Redwood City, CA, 94063-6342, USA. mchen32@stanford.edu.
+FAU - Hollyer, Ian
+AU  - Hollyer I
+AD  - Department of Orthopaedic Surgery, Stanford University, 450 Broadway Street, Pavilion C, 4th Floor, Redwood City, CA, 94063-6342, USA.
+FAU - Wadhwa, Harsh
+AU  - Wadhwa H
+AD  - Department of Orthopaedic Surgery, Stanford University, 450 Broadway Street, Pavilion C, 4th Floor, Redwood City, CA, 94063-6342, USA.
+FAU - Tigchelaar, Seth S
+AU  - Tigchelaar SS
+AD  - Department of Orthopaedic Surgery, Stanford University, 450 Broadway Street, Pavilion C, 4th Floor, Redwood City, CA, 94063-6342, USA.
+FAU - Van Rysselberghe, Noelle L
+AU  - Van Rysselberghe NL
+AD  - Department of Orthopaedic Surgery, Stanford University, 450 Broadway Street, Pavilion C, 4th Floor, Redwood City, CA, 94063-6342, USA.
+FAU - Bishop, Julius A
+AU  - Bishop JA
+AD  - Department of Orthopaedic Surgery, Stanford University, 450 Broadway Street, Pavilion C, 4th Floor, Redwood City, CA, 94063-6342, USA.
+FAU - Bellino, Michael J
+AU  - Bellino MJ
+AD  - Department of Orthopaedic Surgery, Stanford University, 450 Broadway Street, Pavilion C, 4th Floor, Redwood City, CA, 94063-6342, USA.
+FAU - Gardner, Michael J
+AU  - Gardner MJ
+AD  - Department of Orthopaedic Surgery, Stanford University, 450 Broadway Street, Pavilion C, 4th Floor, Redwood City, CA, 94063-6342, USA.
+TA  - Eur J Orthop Surg Traumatol
+JT  - European journal of orthopaedic surgery & traumatology : orthopedie traumatologie
+
+
+PMID- 33891154
+TI  - Tranexamic acid does not affect intraoperative blood loss or in-hospital outcomes after acetabular fracture surgery.
+FAU - Wadhwa, Harsh
+AU  - Wadhwa H
+AD  - Department of Orthopaedic Surgery, Stanford University School of Medicine, Stanford, CA, USA.
+FAU - Tigchelaar, Seth S
+AU  - Tigchelaar SS
+AD  - Department of Orthopaedic Surgery, Stanford University School of Medicine, Stanford, CA, USA.
+FAU - Chen, Michael J
+AU  - Chen MJ
+AD  - Department of Orthopaedic Surgery, Stanford University School of Medicine, Stanford, CA, USA.
+FAU - Koltsov, Jayme C B
+AU  - Koltsov JCB
+AD  - Department of Orthopaedic Surgery, Stanford University School of Medicine, Stanford, CA, USA.
+FAU - Bellino, Michael J
+AU  - Bellino MJ
+AD  - Department of Orthopaedic Surgery, Stanford University School of Medicine, Stanford, CA, USA.
+FAU - Bishop, Julius A
+AU  - Bishop JA
+AD  - Department of Orthopaedic Surgery, Stanford University School of Medicine, Stanford, CA, USA.
+FAU - Gardner, Michael J
+AU  - Gardner MJ
+AD  - Department of Orthopaedic Surgery, Stanford University School of Medicine, Stanford, CA, USA. michaelgardner@stanford.edu.
+TA  - Eur J Orthop Surg Traumatol
+JT  - European journal of orthopaedic surgery & traumatology : orthopedie traumatologie
+
+
+PMID- 35382886
+TI  - Spinal cord injury: a study protocol for a systematic review and meta-analysis of microRNA alterations.
+FAU - Tigchelaar, Seth
+AU  - Tigchelaar S
+AD  - Department of Neurosurgery, Stanford University Medical Center, Stanford, CA, USA.
+FAU - He, Zihuai
+AU  - He Z
+AD  - Department of Neurology, Stanford University Medical Center, Stanford, CA, USA.
+FAU - Tharin, Suzanne
+AU  - Tharin S
+AD  - Department of Neurosurgery, Stanford University Medical Center, Stanford, CA, USA. stharin@stanford.edu.
+AD  - Division of Neurosurgery, VA, Palo Alto, CA, USA. stharin@stanford.edu.
+TA  - Syst Rev
+JT  - Systematic reviews
+
+
+PMID- 33829301
+TI  - Indications for cement augmentation in fixation of geriatric intertrochanteric femur fractures: a systematic review of evidence.
+FAU - Goodnough, L Henry
+AU  - Goodnough LH
+AD  - Department of Orthopaedic Surgery, Stanford University Medical Center, Stanford, 450 Broadway St., Pavilion C, 4th Floor, Redwood, CA, 94063, USA. lhenrygoodnough@gmail.com.
+FAU - Wadhwa, Harsh
+AU  - Wadhwa H
+AD  - Department of Orthopaedic Surgery, Stanford University Medical Center, Stanford, 450 Broadway St., Pavilion C, 4th Floor, Redwood, CA, 94063, USA.
+FAU - Tigchelaar, Seth S
+AU  - Tigchelaar SS
+AD  - Department of Orthopaedic Surgery, Stanford University Medical Center, Stanford, 450 Broadway St., Pavilion C, 4th Floor, Redwood, CA, 94063, USA.
+FAU - DeBaun, Malcolm R
+AU  - DeBaun MR
+AD  - Department of Orthopaedic Surgery, Stanford University Medical Center, Stanford, 450 Broadway St., Pavilion C, 4th Floor, Redwood, CA, 94063, USA.
+FAU - Chen, Michael J
+AU  - Chen MJ
+AD  - Department of Orthopaedic Surgery, Stanford University Medical Center, Stanford, 450 Broadway St., Pavilion C, 4th Floor, Redwood, CA, 94063, USA.
+FAU - Graves, Matt L
+AU  - Graves ML
+AD  - Department of Orthopaedic Surgery, University of Mississippi Medical Center, Jackson, MS, USA.
+FAU - Gardner, Michael J
+AU  - Gardner MJ
+AD  - Department of Orthopaedic Surgery, Stanford University Medical Center, Stanford, 450 Broadway St., Pavilion C, 4th Floor, Redwood, CA, 94063, USA.
+TA  - Arch Orthop Trauma Surg
+JT  - Archives of orthopaedic and trauma surgery
+
+
+PMID- 33832703
+TI  - Hypotensive Anesthesia does not reduce Transfusion Rates during and after Acetabular Fracture Surgery.
+FAU - Wadhwa, Harsh
+AU  - Wadhwa H
+AD  - Department of Orthopaedic Surgery, Stanford University Medical Center, Stanford, CA, USA.
+FAU - Chen, Michael J
+AU  - Chen MJ
+AD  - Department of Orthopaedic Surgery, Stanford University Medical Center, Stanford, CA, USA.
+FAU - Tigchelaar, Seth S
+AU  - Tigchelaar SS
+AD  - Department of Orthopaedic Surgery, Stanford University Medical Center, Stanford, CA, USA.
+FAU - Bellino, Michael J
+AU  - Bellino MJ
+AD  - Department of Orthopaedic Surgery, Stanford University Medical Center, Stanford, CA, USA.
+FAU - Bishop, Julius A
+AU  - Bishop JA
+AD  - Department of Orthopaedic Surgery, Stanford University Medical Center, Stanford, CA, USA.
+FAU - Gardner, Michael J
+AU  - Gardner MJ
+AD  - Department of Orthopaedic Surgery, Stanford University Medical Center, Stanford, CA, USA. Electronic address: michaelgardner@stanford.edu.
+TA  - Injury
+JT  - Injury
+
+
+PMID- 32804288
+TI  - Trochanteric fixation nail advanced with helical blade and cement augmentation: early experience with a retrospective cohort.
+FAU - Goodnough, L Henry
+AU  - Goodnough LH
+AD  - Department of Orthopaedic Surgery, Stanford University School of Medicine, 300 Pasteur Drive Room R144, Stanford, CA, 94305, USA. lhenrygoodnough@gmail.com.
+FAU - Wadhwa, Harsh
+AU  - Wadhwa H
+AD  - Department of Orthopaedic Surgery, Stanford University School of Medicine, 300 Pasteur Drive Room R144, Stanford, CA, 94305, USA.
+FAU - Tigchelaar, Seth S
+AU  - Tigchelaar SS
+AD  - Department of Orthopaedic Surgery, Stanford University School of Medicine, 300 Pasteur Drive Room R144, Stanford, CA, 94305, USA.
+FAU - DeBaun, Malcolm R
+AU  - DeBaun MR
+AD  - Department of Orthopaedic Surgery, Stanford University School of Medicine, 300 Pasteur Drive Room R144, Stanford, CA, 94305, USA.
+FAU - Chen, Michael J
+AU  - Chen MJ
+AD  - Department of Orthopaedic Surgery, Stanford University School of Medicine, 300 Pasteur Drive Room R144, Stanford, CA, 94305, USA.
+FAU - Bishop, Julius A
+AU  - Bishop JA
+AD  - Department of Orthopaedic Surgery, Stanford University School of Medicine, 300 Pasteur Drive Room R144, Stanford, CA, 94305, USA.
+FAU - Gardner, Michael J
+AU  - Gardner MJ
+AD  - Department of Orthopaedic Surgery, Stanford University School of Medicine, 300 Pasteur Drive Room R144, Stanford, CA, 94305, USA.
+TA  - Eur J Orthop Surg Traumatol
+JT  - European journal of orthopaedic surgery & traumatology : orthopedie traumatologie
+
+
+PMID- 33060602
+TI  - Cardio-centric hemodynamic management improves spinal cord oxygenation and mitigates hemorrhage in acute spinal cord injury.
+FAU - Williams, Alexandra M
+AU  - Williams AM
+AD  - International Collaboration On Repair Discoveries (ICORD), University of British Columbia, Vancouver, BC, Canada.
+AD  - Department of Cellular and Physiological Sciences, Faculty of Medicine, University of British Columbia, Vancouver, BC, Canada.
+FAU - Manouchehri, Neda
+AU  - Manouchehri N
+AD  - International Collaboration On Repair Discoveries (ICORD), University of British Columbia, Vancouver, BC, Canada.
+FAU - Erskine, Erin
+AU  - Erskine E
+AD  - International Collaboration On Repair Discoveries (ICORD), University of British Columbia, Vancouver, BC, Canada.
+AD  - Department of Cellular and Physiological Sciences, Faculty of Medicine, University of British Columbia, Vancouver, BC, Canada.
+FAU - Tauh, Keerit
+AU  - Tauh K
+AD  - International Collaboration On Repair Discoveries (ICORD), University of British Columbia, Vancouver, BC, Canada.
+FAU - So, Kitty
+AU  - So K
+AD  - International Collaboration On Repair Discoveries (ICORD), University of British Columbia, Vancouver, BC, Canada.
+FAU - Shortt, Katelyn
+AU  - Shortt K
+AD  - International Collaboration On Repair Discoveries (ICORD), University of British Columbia, Vancouver, BC, Canada.
+FAU - Webster, Megan
+AU  - Webster M
+AD  - International Collaboration On Repair Discoveries (ICORD), University of British Columbia, Vancouver, BC, Canada.
+FAU - Fisk, Shera
+AU  - Fisk S
+AD  - International Collaboration On Repair Discoveries (ICORD), University of British Columbia, Vancouver, BC, Canada.
+FAU - Billingsley, Avril
+AU  - Billingsley A
+AD  - International Collaboration On Repair Discoveries (ICORD), University of British Columbia, Vancouver, BC, Canada.
+FAU - Munro, Alex
+AU  - Munro A
+AD  - International Collaboration On Repair Discoveries (ICORD), University of British Columbia, Vancouver, BC, Canada.
+FAU - Tigchelaar, Seth
+AU  - Tigchelaar S
+AD  - International Collaboration On Repair Discoveries (ICORD), University of British Columbia, Vancouver, BC, Canada.
+FAU - Streijger, Femke
+AU  - Streijger F
+AD  - International Collaboration On Repair Discoveries (ICORD), University of British Columbia, Vancouver, BC, Canada.
+FAU - Kim, Kyoung-Tae
+AU  - Kim KT
+AD  - International Collaboration On Repair Discoveries (ICORD), University of British Columbia, Vancouver, BC, Canada.
+AD  - Department of Neurosurgery, School of Medicine, Kyungpook National University Hospital, Daegu, South Korea.
+FAU - Kwon, Brian K
+AU  - Kwon BK
+AD  - International Collaboration On Repair Discoveries (ICORD), University of British Columbia, Vancouver, BC, Canada.
+AD  - Vancouver Spine Surgery Institute, Department of Orthopaedics, University of British Columbia, Vancouver, BC, Canada.
+FAU - West, Christopher R
+AU  - West CR
+AD  - International Collaboration On Repair Discoveries (ICORD), University of British Columbia, Vancouver, BC, Canada. chris.west@ubc.ca.
+AD  - Department of Cellular and Physiological Sciences, Faculty of Medicine, University of British Columbia, Vancouver, BC, Canada. chris.west@ubc.ca.
+TA  - Nat Commun
+JT  - Nature communications
+
+
+PMID- 33499736
+TI  - Characterization of Lower Urinary Tract Dysfunction after Thoracic Spinal Cord Injury in Yucatan Minipigs.
+FAU - Keung, Martin S
+AU  - Keung MS
+AD  - International Collaboration on Repair Discoveries (ICORD), Departments of Department of Orthopaedics, Faculty of Medicine, University of British Columbia, Vancouver, British Columbia, Canada.
+AD  - Neuroscience, Department of Orthopaedics, Faculty of Medicine, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Streijger, Femke
+AU  - Streijger F
+AD  - International Collaboration on Repair Discoveries (ICORD), Departments of Department of Orthopaedics, Faculty of Medicine, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Herrity, April
+AU  - Herrity A
+AD  - Kentucky Spinal Cord Injury Research Center, University of Louisville, Louisville, Kentucky, USA.
+AD  - Department of Neurosurgery, University of Louisville, Louisville, Kentucky, USA.
+FAU - Ethridge, Jay
+AU  - Ethridge J
+AD  - Kentucky Spinal Cord Injury Research Center, University of Louisville, Louisville, Kentucky, USA.
+AD  - Department of Neurosurgery, University of Louisville, Louisville, Kentucky, USA.
+FAU - Dougherty, Susan M
+AU  - Dougherty SM
+AD  - Kentucky Spinal Cord Injury Research Center, University of Louisville, Louisville, Kentucky, USA.
+AD  - Department of Neurosurgery, University of Louisville, Louisville, Kentucky, USA.
+FAU - Aslan, Sevda
+AU  - Aslan S
+AD  - Kentucky Spinal Cord Injury Research Center, University of Louisville, Louisville, Kentucky, USA.
+AD  - Department of Neurosurgery, University of Louisville, Louisville, Kentucky, USA.
+FAU - Webster, Megan
+AU  - Webster M
+AD  - International Collaboration on Repair Discoveries (ICORD), Departments of Department of Orthopaedics, Faculty of Medicine, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Fisk, Shera
+AU  - Fisk S
+AD  - International Collaboration on Repair Discoveries (ICORD), Departments of Department of Orthopaedics, Faculty of Medicine, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Deegan, Emily G
+AU  - Deegan EG
+AD  - International Collaboration on Repair Discoveries (ICORD), Departments of Department of Orthopaedics, Faculty of Medicine, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Tessier-Cloutier, Basile
+AU  - Tessier-Cloutier B
+AD  - Pathology and Laboratory Medicine, and Department of Orthopaedics, Faculty of Medicine, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Chen, Kuan-Yin N
+AU  - Chen KN
+AD  - International Collaboration on Repair Discoveries (ICORD), Departments of Department of Orthopaedics, Faculty of Medicine, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Morrison, Charlotte
+AU  - Morrison C
+AD  - International Collaboration on Repair Discoveries (ICORD), Departments of Department of Orthopaedics, Faculty of Medicine, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Okon, Elena B
+AU  - Okon EB
+AD  - International Collaboration on Repair Discoveries (ICORD), Departments of Department of Orthopaedics, Faculty of Medicine, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Tigchelaar, Seth
+AU  - Tigchelaar S
+AD  - International Collaboration on Repair Discoveries (ICORD), Departments of Department of Orthopaedics, Faculty of Medicine, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Manouchehri, Neda
+AU  - Manouchehri N
+AD  - International Collaboration on Repair Discoveries (ICORD), Departments of Department of Orthopaedics, Faculty of Medicine, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Kim, Kyoung-Tae
+AU  - Kim KT
+AD  - International Collaboration on Repair Discoveries (ICORD), Departments of Department of Orthopaedics, Faculty of Medicine, University of British Columbia, Vancouver, British Columbia, Canada.
+AD  - Department of Neurosurgery, School of Medicine, Kyungpook National University, National University Hospital, Daegu, South Korea.
+FAU - Shortt, Katelyn
+AU  - Shortt K
+AD  - International Collaboration on Repair Discoveries (ICORD), Departments of Department of Orthopaedics, Faculty of Medicine, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - So, Kitty
+AU  - So K
+AD  - International Collaboration on Repair Discoveries (ICORD), Departments of Department of Orthopaedics, Faculty of Medicine, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Damaser, Margot S
+AU  - Damaser MS
+AD  - Biomedical Engineering Department, Lerner Research Institute, Cleveland Clinic, Cleveland, Ohio, USA.
+AD  - Advanced Platform Technology Center, Louis Stokes Cleveland U.S. Department of Veterans Affairs Medical Center, Cleveland, Ohio, USA.
+FAU - Sherwood, Leslie C
+AU  - Sherwood LC
+AD  - Comparative Medicine Research Unit, and University of Louisville, Louisville, Kentucky, USA.
+FAU - Howland, Dena R
+AU  - Howland DR
+AD  - Kentucky Spinal Cord Injury Research Center, University of Louisville, Louisville, Kentucky, USA.
+AD  - Department of Neurosurgery, University of Louisville, Louisville, Kentucky, USA.
+AD  - Research Service, Robley Rex U.S. Department of Veterans Affairs Medical Center, Louisville, Kentucky, USA.
+FAU - Boakye, Max
+AU  - Boakye M
+AD  - Kentucky Spinal Cord Injury Research Center, University of Louisville, Louisville, Kentucky, USA.
+AD  - Department of Neurosurgery, University of Louisville, Louisville, Kentucky, USA.
+FAU - Hubscher, Charles
+AU  - Hubscher C
+AD  - Kentucky Spinal Cord Injury Research Center, University of Louisville, Louisville, Kentucky, USA.
+AD  - Department of Anatomical Sciences and Neurobiology, University of Louisville, Louisville, Kentucky, USA.
+FAU - Stothers, Lynn
+AU  - Stothers L
+AD  - International Collaboration on Repair Discoveries (ICORD), Departments of Department of Orthopaedics, Faculty of Medicine, University of British Columbia, Vancouver, British Columbia, Canada.
+AD  - Urologic Sciences, and Department of Orthopaedics, Faculty of Medicine, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Kavanagh, Alex
+AU  - Kavanagh A
+AD  - Urologic Sciences, and Department of Orthopaedics, Faculty of Medicine, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Kwon, Brian K
+AU  - Kwon BK
+AD  - International Collaboration on Repair Discoveries (ICORD), Departments of Department of Orthopaedics, Faculty of Medicine, University of British Columbia, Vancouver, British Columbia, Canada.
+AD  - Vancouver Spine Surgery Institute, Department of Orthopaedics, Faculty of Medicine, University of British Columbia, Vancouver, British Columbia, Canada.
+TA  - J Neurotrauma
+JT  - Journal of neurotrauma
+
+
+PMID- 33480642
+TI  - Gluteus Minimus Debridement During Acetabular Fracture Surgery Does Not Prevent Heterotopic Ossification-A Comparative Study.
+FAU - Chen, Michael J
+AU  - Chen MJ
+AD  - Department of Orthopaedic Surgery, Stanford University Medical Center, Stanford, CA.
+FAU - Tigchelaar, Seth S
+AU  - Tigchelaar SS
+FAU - Wadhwa, Harsh
+AU  - Wadhwa H
+FAU - Frey, Christopher S
+AU  - Frey CS
+FAU - Bishop, Julius A
+AU  - Bishop JA
+FAU - Gardner, Michael J
+AU  - Gardner MJ
+FAU - Bellino, Michael J
+AU  - Bellino MJ
+TA  - J Orthop Trauma
+JT  - Journal of orthopaedic trauma
+
+
+PMID- 34717545
+TI  - Characterization of the gut microbiome in a porcine model of thoracic spinal cord injury.
+FAU - Doelman, Adam
+AU  - Doelman A
+AD  - International Collaboration on Repair Discoveries, University of British Columbia, Vancouver, BC, Canada.
+FAU - Tigchelaar, Seth
+AU  - Tigchelaar S
+AD  - International Collaboration on Repair Discoveries, University of British Columbia, Vancouver, BC, Canada.
+FAU - McConeghy, Brian
+AU  - McConeghy B
+AD  - Sequencing and Bioinformatics Consortium, University of British Columbia, Vancouver, BC, Canada.
+FAU - Sinha, Sunita
+AU  - Sinha S
+AD  - Sequencing and Bioinformatics Consortium, University of British Columbia, Vancouver, BC, Canada.
+FAU - Keung, Martin S
+AU  - Keung MS
+AD  - International Collaboration on Repair Discoveries, University of British Columbia, Vancouver, BC, Canada.
+FAU - Manouchehri, Neda
+AU  - Manouchehri N
+AD  - International Collaboration on Repair Discoveries, University of British Columbia, Vancouver, BC, Canada.
+FAU - Webster, Megan
+AU  - Webster M
+AD  - International Collaboration on Repair Discoveries, University of British Columbia, Vancouver, BC, Canada.
+FAU - Fisk, Shera
+AU  - Fisk S
+AD  - International Collaboration on Repair Discoveries, University of British Columbia, Vancouver, BC, Canada.
+FAU - Morrison, Charlotte
+AU  - Morrison C
+AD  - International Collaboration on Repair Discoveries, University of British Columbia, Vancouver, BC, Canada.
+FAU - Streijger, Femke
+AU  - Streijger F
+AD  - International Collaboration on Repair Discoveries, University of British Columbia, Vancouver, BC, Canada.
+FAU - Nislow, Corey
+AU  - Nislow C
+AD  - Sequencing and Bioinformatics Consortium, University of British Columbia, Vancouver, BC, Canada.
+FAU - Kwon, Brian K
+AU  - Kwon BK
+AD  - International Collaboration on Repair Discoveries, University of British Columbia, Vancouver, BC, Canada. brian.kwon@ubc.ca.
+AD  - Department of Orthopedics, Vancouver Spine Surgery Institute, University of British Columbia, Vancouver, BC, Canada. brian.kwon@ubc.ca.
+TA  - BMC Genomics
+JT  - BMC genomics
+
+
+PMID- 30277459
+TI  - Integrated systems analysis reveals conserved gene networks underlying response to spinal cord injury.
+FAU - Squair, Jordan W
+AU  - Squair JW
+AD  - International Collaboration on Repair Discoveries, University of British Columbia, Vancouver, Canada.
+FAU - Tigchelaar, Seth
+AU  - Tigchelaar S
+AD  - International Collaboration on Repair Discoveries, University of British Columbia, Vancouver, Canada.
+FAU - Moon, Kyung-Mee
+AU  - Moon KM
+AD  - Centre for High-Throughput Biology, University of British Columbia, Vancouver, Canada.
+FAU - Liu, Jie
+AU  - Liu J
+AD  - International Collaboration on Repair Discoveries, University of British Columbia, Vancouver, Canada.
+FAU - Tetzlaff, Wolfram
+AU  - Tetzlaff W
+AD  - International Collaboration on Repair Discoveries, University of British Columbia, Vancouver, Canada.
+FAU - Kwon, Brian K
+AU  - Kwon BK
+AD  - International Collaboration on Repair Discoveries, University of British Columbia, Vancouver, Canada.
+AD  - Department of Orthopaedics, University of British Columbia, Vancouver, Canada.
+FAU - Krassioukov, Andrei V
+AU  - Krassioukov AV
+AD  - International Collaboration on Repair Discoveries, University of British Columbia, Vancouver, Canada.
+AD  - GF Strong Rehabilitation Centre, Vancouver Health Authority, Vancouver, Canada.
+AD  - Department of Medicine, Division of Physical Medicine and Rehabilitation, University of British Columbia, Vancouver, Canada.
+FAU - West, Christopher R
+AU  - West CR
+AD  - International Collaboration on Repair Discoveries, University of British Columbia, Vancouver, Canada.
+AD  - School of Kinesiology, University of British Columbia, Vancouver, Canada.
+FAU - Foster, Leonard J
+AU  - Foster LJ
+AD  - Centre for High-Throughput Biology, University of British Columbia, Vancouver, Canada.
+AD  - Department of Biochemistry and Molecular Biology and Michael Smith Laboratories, University of British Columbia, Vancouver, Canada.
+FAU - Skinnider, Michael A
+AU  - Skinnider MA
+AD  - Centre for High-Throughput Biology, University of British Columbia, Vancouver, Canada.
+TA  - Elife
+JT  - eLife
+
+
+PMID- 30196652
+TI  - Review of the UBC Porcine Model of Traumatic Spinal Cord Injury.
+FAU - Kim, Kyoung-Tae
+AU  - Kim KT
+AD  - Department of Neurosurgery, Kyungpook National University Hospital, Daegu, Korea.
+AD  - Department of Neurosurgery, School of Medicine, Kyungpook National University, Daegu, Korea.
+AD  - International Collaboration on Repair Discoveries (ICORD), University of British Columbia, Vancouver, Canada.
+FAU - Streijger, Femke
+AU  - Streijger F
+AD  - International Collaboration on Repair Discoveries (ICORD), University of British Columbia, Vancouver, Canada.
+FAU - Manouchehri, Neda
+AU  - Manouchehri N
+AD  - International Collaboration on Repair Discoveries (ICORD), University of British Columbia, Vancouver, Canada.
+FAU - So, Kitty
+AU  - So K
+AD  - International Collaboration on Repair Discoveries (ICORD), University of British Columbia, Vancouver, Canada.
+FAU - Shortt, Katelyn
+AU  - Shortt K
+AD  - International Collaboration on Repair Discoveries (ICORD), University of British Columbia, Vancouver, Canada.
+FAU - Okon, Elena B
+AU  - Okon EB
+AD  - International Collaboration on Repair Discoveries (ICORD), University of British Columbia, Vancouver, Canada.
+FAU - Tigchelaar, Seth
+AU  - Tigchelaar S
+AD  - International Collaboration on Repair Discoveries (ICORD), University of British Columbia, Vancouver, Canada.
+FAU - Cripton, Peter
+AU  - Cripton P
+AD  - International Collaboration on Repair Discoveries (ICORD), University of British Columbia, Vancouver, Canada.
+FAU - Kwon, Brian K
+AU  - Kwon BK
+AD  - International Collaboration on Repair Discoveries (ICORD), University of British Columbia, Vancouver, Canada.
+AD  - Vancouver Spine Surgery Institute, Department of Orthopaedics, University of British Columbia, Vancouver, Canada.
+TA  - J Korean Neurosurg Soc
+JT  - Journal of Korean Neurosurgical Society
+
+
+PMID- 37749310
+TI  - Allometrically scaling tissue forces drive pathological foreign-body responses to implants via Rac2-activated myeloid cells.
+FAU - Padmanabhan, Jagannath
+AU  - Padmanabhan J
+AD  - Division of Plastic and Reconstructive Surgery, Department of Surgery, Stanford University School of Medicine, Stanford, CA, USA.
+FAU - Chen, Kellen
+AU  - Chen K
+AD  - Division of Plastic and Reconstructive Surgery, Department of Surgery, Stanford University School of Medicine, Stanford, CA, USA. kellenchen@arizona.edu.
+AD  - Department of Surgery, University of Arizona College of Medicine, Tucson, AZ, USA. kellenchen@arizona.edu.
+FAU - Sivaraj, Dharshan
+AU  - Sivaraj D
+AD  - Division of Plastic and Reconstructive Surgery, Department of Surgery, Stanford University School of Medicine, Stanford, CA, USA. ds311@stanford.edu.
+AD  - Department of Surgery, University of Arizona College of Medicine, Tucson, AZ, USA. ds311@stanford.edu.
+FAU - Henn, Dominic
+AU  - Henn D
+AD  - Division of Plastic and Reconstructive Surgery, Department of Surgery, Stanford University School of Medicine, Stanford, CA, USA.
+AD  - Department of Plastic Surgery, University of Texas Southwestern Medical Center, Dallas, TX, USA.
+FAU - Kuehlmann, Britta A
+AU  - Kuehlmann BA
+AD  - Department of Plastic and Reconstructive Surgery, University Hospital Regensburg, Regensburg, Germany.
+FAU - Kussie, Hudson C
+AU  - Kussie HC
+AD  - Division of Plastic and Reconstructive Surgery, Department of Surgery, Stanford University School of Medicine, Stanford, CA, USA.
+AD  - Department of Surgery, University of Arizona College of Medicine, Tucson, AZ, USA.
+FAU - Zhao, Eric T
+AU  - Zhao ET
+AD  - Division of Plastic and Reconstructive Surgery, Department of Surgery, Stanford University School of Medicine, Stanford, CA, USA.
+FAU - Kahn, Anum
+AU  - Kahn A
+AD  - Cell Sciences Imaging Facility (CSIF), Beckman Center, Stanford University, Stanford, CA, USA.
+FAU - Bonham, Clark A
+AU  - Bonham CA
+AD  - Division of Plastic and Reconstructive Surgery, Department of Surgery, Stanford University School of Medicine, Stanford, CA, USA.
+FAU - Dohi, Teruyuki
+AU  - Dohi T
+AD  - Division of Plastic and Reconstructive Surgery, Department of Surgery, Stanford University School of Medicine, Stanford, CA, USA.
+FAU - Beck, Thomas C
+AU  - Beck TC
+AD  - Division of Plastic and Reconstructive Surgery, Department of Surgery, Stanford University School of Medicine, Stanford, CA, USA.
+FAU - Trotsyuk, Artem A
+AU  - Trotsyuk AA
+AD  - Division of Plastic and Reconstructive Surgery, Department of Surgery, Stanford University School of Medicine, Stanford, CA, USA.
+AD  - Department of Surgery, University of Arizona College of Medicine, Tucson, AZ, USA.
+FAU - Stern-Buchbinder, Zachary A
+AU  - Stern-Buchbinder ZA
+AD  - Division of Plastic and Reconstructive Surgery, Department of Surgery, Stanford University School of Medicine, Stanford, CA, USA.
+FAU - Than, Peter A
+AU  - Than PA
+AD  - Division of Plastic and Reconstructive Surgery, Department of Surgery, Stanford University School of Medicine, Stanford, CA, USA.
+FAU - Hosseini, Hadi S
+AU  - Hosseini HS
+AD  - Division of Plastic and Reconstructive Surgery, Department of Surgery, Stanford University School of Medicine, Stanford, CA, USA.
+FAU - Barrera, Janos A
+AU  - Barrera JA
+AD  - Division of Plastic and Reconstructive Surgery, Department of Surgery, Stanford University School of Medicine, Stanford, CA, USA.
+FAU - Magbual, Noah J
+AU  - Magbual NJ
+AD  - Division of Plastic and Reconstructive Surgery, Department of Surgery, Stanford University School of Medicine, Stanford, CA, USA.
+FAU - Leeolou, Melissa C
+AU  - Leeolou MC
+AD  - Division of Plastic and Reconstructive Surgery, Department of Surgery, Stanford University School of Medicine, Stanford, CA, USA.
+FAU - Fischer, Katharina S
+AU  - Fischer KS
+AD  - Division of Plastic and Reconstructive Surgery, Department of Surgery, Stanford University School of Medicine, Stanford, CA, USA.
+FAU - Tigchelaar, Seth S
+AU  - Tigchelaar SS
+AD  - Division of Plastic and Reconstructive Surgery, Department of Surgery, Stanford University School of Medicine, Stanford, CA, USA.
+FAU - Lin, John Q
+AU  - Lin JQ
+AD  - Division of Plastic and Reconstructive Surgery, Department of Surgery, Stanford University School of Medicine, Stanford, CA, USA.
+FAU - Perrault, David P
+AU  - Perrault DP
+AD  - Division of Plastic and Reconstructive Surgery, Department of Surgery, Stanford University School of Medicine, Stanford, CA, USA.
+FAU - Borrelli, Mimi R
+AU  - Borrelli MR
+AD  - Division of Plastic and Reconstructive Surgery, Department of Surgery, Stanford University School of Medicine, Stanford, CA, USA.
+FAU - Kwon, Sun Hyung
+AU  - Kwon SH
+AD  - Division of Plastic and Reconstructive Surgery, Department of Surgery, Stanford University School of Medicine, Stanford, CA, USA.
+FAU - Maan, Zeshaan N
+AU  - Maan ZN
+AD  - Division of Plastic and Reconstructive Surgery, Department of Surgery, Stanford University School of Medicine, Stanford, CA, USA.
+FAU - Dunn, James C Y
+AU  - Dunn JCY
+AD  - Division of Pediatric Surgery, Department of Surgery, Stanford University School of Medicine, Stanford, CA, USA.
+FAU - Nazerali, Rahim
+AU  - Nazerali R
+AD  - Division of Plastic and Reconstructive Surgery, Department of Surgery, Stanford University School of Medicine, Stanford, CA, USA.
+FAU - Januszyk, Michael
+AU  - Januszyk M
+AD  - Division of Plastic and Reconstructive Surgery, Department of Surgery, Stanford University School of Medicine, Stanford, CA, USA.
+FAU - Prantl, Lukas
+AU  - Prantl L
+AD  - Department of Plastic and Reconstructive Surgery, University Hospital Regensburg, Regensburg, Germany.
+FAU - Gurtner, Geoffrey C
+AU  - Gurtner GC
+AD  - Division of Plastic and Reconstructive Surgery, Department of Surgery, Stanford University School of Medicine, Stanford, CA, USA. gurtner@surgery.arizona.edu.
+AD  - Department of Surgery, University of Arizona College of Medicine, Tucson, AZ, USA. gurtner@surgery.arizona.edu.
+TA  - Nat Biomed Eng
+JT  - Nature biomedical engineering
+
+
+PMID- 33587180
+TI  - Cephalomedullary helical blade is independently associated with less collapse in intertrochanteric femur fractures than lag screws.
+FAU - Goodnough, L Henry
+AU  - Goodnough LH
+AD  - Department of Orthopaedic Surgery, Harborview Medical Center, University of Washington, 325 9th Avenue, Seattle, WA, 98104, USA. lhenrygoodnough@gmail.com.
+FAU - Wadhwa, Harsh
+AU  - Wadhwa H
+AD  - Department of Orthopaedic Surgery, Stanford Hospitals and Clinics, Stanford, CA, USA.
+FAU - Tigchelaar, Seth S
+AU  - Tigchelaar SS
+AD  - Department of Orthopaedic Surgery, Stanford Hospitals and Clinics, Stanford, CA, USA.
+FAU - Pfaff, Kayla
+AU  - Pfaff K
+AD  - Department of Orthopaedic Surgery, Stanford Hospitals and Clinics, Stanford, CA, USA.
+FAU - Heffner, Michael
+AU  - Heffner M
+AD  - Department of Orthopaedic Surgery, Stanford Hospitals and Clinics, Stanford, CA, USA.
+FAU - Van Rysselberghe, Noelle
+AU  - Van Rysselberghe N
+AD  - Department of Orthopaedic Surgery, Stanford Hospitals and Clinics, Stanford, CA, USA.
+FAU - DeBaun, Malcolm R
+AU  - DeBaun MR
+AD  - Department of Orthopaedic Surgery, Harborview Medical Center, University of Washington, 325 9th Avenue, Seattle, WA, 98104, USA.
+FAU - Bishop, Julius A
+AU  - Bishop JA
+AD  - Department of Orthopaedic Surgery, Stanford Hospitals and Clinics, Stanford, CA, USA.
+FAU - Gardner, Michael J
+AU  - Gardner MJ
+AD  - Department of Orthopaedic Surgery, Stanford Hospitals and Clinics, Stanford, CA, USA.
+TA  - Eur J Orthop Surg Traumatol
+JT  - European journal of orthopaedic surgery & traumatology : orthopedie traumatologie
+
+
+PMID- 34932507
+TI  - Countersinking the Lag Screw or Blade During Cephalomedullary Nailing of Geriatric Intertrochanteric Femur Fractures: Less Collapse and Implant Prominence Without Increased Cutout Rates.
+FAU - Henry Goodnough, L
+AU  - Henry Goodnough L
+AD  - From the Department of Orthopaedic Surgery, Stanford Hospitals and Clinics, Stanford, CA.
+FAU - Wadhwa, Harsh
+AU  - Wadhwa H
+FAU - Tigchelaar, Seth S
+AU  - Tigchelaar SS
+FAU - Pfaff, Kayla
+AU  - Pfaff K
+FAU - Heffner, Michael
+AU  - Heffner M
+FAU - van Rysselberghe, Noelle
+AU  - van Rysselberghe N
+FAU - DeBaun, Malcolm R
+AU  - DeBaun MR
+FAU - Gardner, Michael J
+AU  - Gardner MJ
+FAU - Bishop, Julius A
+AU  - Bishop JA
+TA  - J Am Acad Orthop Surg
+JT  - The Journal of the American Academy of Orthopaedic Surgeons
+
+
+PMID- 34011164
+TI  - Duraplasty in Traumatic Thoracic Spinal Cord Injury: Impact on Spinal Cord Hemodynamics, Tissue Metabolism, Histology, and Behavioral Recovery Using a Porcine Model.
+FAU - Streijger, Femke
+AU  - Streijger F
+AD  - International Collaboration on Repair Discoveries, University of British Columbia (UBC), Vancouver, British Columbia, Canada.
+FAU - Kim, Kyoung-Tae
+AU  - Kim KT
+AD  - International Collaboration on Repair Discoveries, University of British Columbia (UBC), Vancouver, British Columbia, Canada.
+AD  - Department of Neurosurgery, Kyungpook National University Hospital, Daegu, Korea.
+AD  - Department of Neurosurgery, School of Medicine, Kyungpook National University, Daegu, Korea.
+FAU - So, Kitty
+AU  - So K
+AD  - International Collaboration on Repair Discoveries, University of British Columbia (UBC), Vancouver, British Columbia, Canada.
+FAU - Manouchehri, Neda
+AU  - Manouchehri N
+AD  - International Collaboration on Repair Discoveries, University of British Columbia (UBC), Vancouver, British Columbia, Canada.
+FAU - Shortt, Katelyn
+AU  - Shortt K
+AD  - International Collaboration on Repair Discoveries, University of British Columbia (UBC), Vancouver, British Columbia, Canada.
+FAU - Okon, Elena B
+AU  - Okon EB
+AD  - International Collaboration on Repair Discoveries, University of British Columbia (UBC), Vancouver, British Columbia, Canada.
+FAU - Morrison, Charlotte
+AU  - Morrison C
+AD  - International Collaboration on Repair Discoveries, University of British Columbia (UBC), Vancouver, British Columbia, Canada.
+FAU - Fong, Allan
+AU  - Fong A
+AD  - International Collaboration on Repair Discoveries, University of British Columbia (UBC), Vancouver, British Columbia, Canada.
+FAU - Gupta, Rishab
+AU  - Gupta R
+AD  - International Collaboration on Repair Discoveries, University of British Columbia (UBC), Vancouver, British Columbia, Canada.
+FAU - Allard Brown, Aysha
+AU  - Allard Brown A
+AD  - International Collaboration on Repair Discoveries, University of British Columbia (UBC), Vancouver, British Columbia, Canada.
+FAU - Tigchelaar, Seth
+AU  - Tigchelaar S
+AD  - International Collaboration on Repair Discoveries, University of British Columbia (UBC), Vancouver, British Columbia, Canada.
+FAU - Sun, Jenny
+AU  - Sun J
+AD  - International Collaboration on Repair Discoveries, University of British Columbia (UBC), Vancouver, British Columbia, Canada.
+FAU - Liu, Ella
+AU  - Liu E
+AD  - International Collaboration on Repair Discoveries, University of British Columbia (UBC), Vancouver, British Columbia, Canada.
+FAU - Keung, Martin
+AU  - Keung M
+AD  - International Collaboration on Repair Discoveries, University of British Columbia (UBC), Vancouver, British Columbia, Canada.
+FAU - Daly, Chris D
+AU  - Daly CD
+AD  - Vancouver Spine Surgery Institute, Department of Orthopaedics, and University of British Columbia (UBC), Vancouver, British Columbia, Canada.
+FAU - Cripton, Peter A
+AU  - Cripton PA
+AD  - International Collaboration on Repair Discoveries, University of British Columbia (UBC), Vancouver, British Columbia, Canada.
+AD  - School of Biomedical Engineering and Orthopedics, University of British Columbia (UBC), Vancouver, British Columbia, Canada.
+FAU - Sekhon, Mypinder S
+AU  - Sekhon MS
+AD  - Division of Critical Care Medicine, Department of Medicine and Pharmacology and Therapeutics, Faculty of Medicine, Vancouver General Hospital, Vancouver, British Columbia, Canada.
+FAU - Griesdale, Donald E
+AU  - Griesdale DE
+AD  - Division of Critical Care Medicine, Department of Anesthesiology, Pharmacology and Therapeutics, Faculty of Medicine, Vancouver General Hospital, Vancouver, British Columbia, Canada.
+FAU - Kwon, Brian K
+AU  - Kwon BK
+AD  - International Collaboration on Repair Discoveries, University of British Columbia (UBC), Vancouver, British Columbia, Canada.
+AD  - Vancouver Spine Surgery Institute, Department of Orthopaedics, and University of British Columbia (UBC), Vancouver, British Columbia, Canada.
+TA  - J Neurotrauma
+JT  - Journal of neurotrauma
+
+
+PMID- 33165211
+TI  - Lateral Distractor Use During Internal Fixation of Tibial Plateau Fractures Has a Minimal Risk of Iatrogenic Peroneal Nerve Palsy.
+FAU - Chen, Michael J
+AU  - Chen MJ
+AD  - Department of Orthopaedic Surgery, Stanford University Medical Center, Stanford, CA.
+FAU - Salazar, Brett P
+AU  - Salazar BP
+FAU - Tigchelaar, Seth S
+AU  - Tigchelaar SS
+FAU - Frey, Christopher S
+AU  - Frey CS
+FAU - DeBaun, Malcolm R
+AU  - DeBaun MR
+FAU - Goodnough, L Henry
+AU  - Goodnough LH
+FAU - Bellino, Michael J
+AU  - Bellino MJ
+FAU - Bishop, Julius A
+AU  - Bishop JA
+FAU - Gardner, Michael J
+AU  - Gardner MJ
+TA  - J Orthop Trauma
+JT  - Journal of orthopaedic trauma
+
+
+PMID- 34600110
+TI  - Single position lateral decubitus anterior lumbar interbody fusion (ALIF) and posterior fusion reduces complications and improves perioperative outcomes compared with traditional anterior-posterior lumbar fusion.
+FAU - Ashayeri, Kimberly
+AU  - Ashayeri K
+AD  - Department of Neurosurgery, NYU Langone Medical Center, 462 1st Avenue, Suite 7S4, New York, NY, 10016, USA. Electronic address: Kimberly.ashayeri@nyulangone.org.
+FAU - Leon, Carlos
+AU  - Leon C
+AD  - Department of Orthopedic Surgery, NYU Langone Medical Center, 333 East 38th Street, 6th Floor, New York, NY 10016.
+FAU - Tigchelaar, Seth
+AU  - Tigchelaar S
+AD  - Department of Orthopedic Surgery, Stanford University, Stanford, 430 Broadway Street, MC: 6342, Pavilion C, 4th Floor, Redwood City, CA 94063-3132 CA, USA.
+FAU - Fatemi, Parastou
+AU  - Fatemi P
+AD  - Department of Orthopedic Surgery, Stanford University, Stanford, 430 Broadway Street, MC: 6342, Pavilion C, 4th Floor, Redwood City, CA 94063-3132 CA, USA.
+FAU - Follett, Matt
+AU  - Follett M
+AD  - Department of Orthopedic Surgery, Stanford University, Stanford, 430 Broadway Street, MC: 6342, Pavilion C, 4th Floor, Redwood City, CA 94063-3132 CA, USA.
+FAU - Cheng, Ivan
+AU  - Cheng I
+AD  - St. David's Medical Center, Austin Spine Surgery, Austin, Austin Spine - Central Austin Office 3000 N IH 35, Suite 708 Austin, TX 78705 TX, USA.
+FAU - Thomas, J Alex
+AU  - Thomas JA
+AD  - New Hanover Regional Medical Center, Atlantic Neurosurgical and Spine Specialists, 2208 South 17th St. Wilmington, NC 28401, Wilmington, NC, USA.
+FAU - Medley, Mark
+AU  - Medley M
+AD  - New Hanover Regional Medical Center, Atlantic Neurosurgical and Spine Specialists, 2208 South 17th St. Wilmington, NC 28401, Wilmington, NC, USA.
+FAU - Braly, Brett
+AU  - Braly B
+AD  - Healthcare Partners Investments, Inc, Oklahoma Sports, Science and Orthopaedics, 9800 Broadway Ext., Ste. 203OKC, OK 73114, Oklahoma City, OK.
+FAU - Kwon, Brian
+AU  - Kwon B
+AD  - Division of Spine Surgery, New England Baptist Hospital, 125 Parker Hill Avenue, Converse 4, Suite 1 Boston, MA 02120, Boston, MA.
+FAU - Eisen, Leon
+AU  - Eisen L
+AD  - Department of Orthopedic Surgery, NYU Langone Medical Center, 333 East 38th Street, 6th Floor, New York, NY 10016.
+FAU - Protopsaltis, Themistocles S
+AU  - Protopsaltis TS
+AD  - Department of Orthopedic Surgery, NYU Langone Medical Center, 333 East 38th Street, 6th Floor, New York, NY 10016.
+FAU - Buckland, Aaron J
+AU  - Buckland AJ
+AD  - Department of Orthopedic Surgery, NYU Langone Medical Center, 333 East 38th Street, 6th Floor, New York, NY 10016.
+TA  - Spine J
+JT  - The spine journal : official journal of the North American Spine Society
+
+
+PMID- 28469141
+TI  - Serum MicroRNAs Reflect Injury Severity in a Large Animal Model of Thoracic Spinal Cord Injury.
+FAU - Tigchelaar, Seth
+AU  - Tigchelaar S
+AD  - International Collaboration on Repair Discoveries (ICORD), University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Streijger, Femke
+AU  - Streijger F
+AD  - International Collaboration on Repair Discoveries (ICORD), University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Sinha, Sunita
+AU  - Sinha S
+AD  - Faculty of Pharmaceutical Sciences, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Flibotte, Stephane
+AU  - Flibotte S
+AD  - Faculty of Pharmaceutical Sciences, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Manouchehri, Neda
+AU  - Manouchehri N
+AD  - International Collaboration on Repair Discoveries (ICORD), University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - So, Kitty
+AU  - So K
+AD  - International Collaboration on Repair Discoveries (ICORD), University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Shortt, Katelyn
+AU  - Shortt K
+AD  - International Collaboration on Repair Discoveries (ICORD), University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Okon, Elena
+AU  - Okon E
+AD  - International Collaboration on Repair Discoveries (ICORD), University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Rizzuto, Michael A
+AU  - Rizzuto MA
+AD  - International Collaboration on Repair Discoveries (ICORD), University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Malenica, Ivana
+AU  - Malenica I
+AD  - Translational Genomics, Phoenix, Arizona, United States of America.
+FAU - Courtright-Lim, Amanda
+AU  - Courtright-Lim A
+AD  - Translational Genomics, Phoenix, Arizona, United States of America.
+FAU - Eisen, Andrew
+AU  - Eisen A
+AD  - Acorda Therapeutics, Ardsley, New York, United States of America.
+FAU - Keuren-Jensen, Kendall Van
+AU  - Keuren-Jensen KV
+AD  - Translational Genomics, Phoenix, Arizona, United States of America.
+FAU - Nislow, Corey
+AU  - Nislow C
+AD  - Faculty of Pharmaceutical Sciences, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Kwon, Brian K
+AU  - Kwon BK
+AD  - International Collaboration on Repair Discoveries (ICORD), University of British Columbia, Vancouver, British Columbia, Canada. brian.kwon@ubc.ca.
+AD  - Vancouver Spine Surgery Institute, Department of Orthopedics, University of British Columbia, Vancouver, British Columbia, Canada. brian.kwon@ubc.ca.
+TA  - Sci Rep
+JT  - Scientific reports
+
+
+PMID- 30827169
+TI  - MicroRNA Biomarkers in Cerebrospinal Fluid and Serum Reflect Injury Severity in Human Acute Traumatic Spinal Cord Injury.
+FAU - Tigchelaar, Seth
+AU  - Tigchelaar S
+AD  - 1International Collaboration on Repair Discoveries (ICORD), University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Gupta, Rishab
+AU  - Gupta R
+AD  - 1International Collaboration on Repair Discoveries (ICORD), University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Shannon, Casey P
+AU  - Shannon CP
+AD  - 2Prevention of Organ Failure (PROOF) Centre of Excellence, Vancouver, British Columbia, Canada.
+FAU - Streijger, Femke
+AU  - Streijger F
+AD  - 1International Collaboration on Repair Discoveries (ICORD), University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Sinha, Sunita
+AU  - Sinha S
+AD  - 3Faculty of Pharmaceutical Sciences, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Flibotte, Stephane
+AU  - Flibotte S
+AD  - 3Faculty of Pharmaceutical Sciences, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Rizzuto, Michael A
+AU  - Rizzuto MA
+AD  - 1International Collaboration on Repair Discoveries (ICORD), University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Street, John
+AU  - Street J
+AD  - 4Department of Orthopedics, Division of Spine, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Paquette, Scott
+AU  - Paquette S
+AD  - 5Division of Neurosurgery, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Ailon, Tamir
+AU  - Ailon T
+AD  - 5Division of Neurosurgery, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Charest-Morin, Raphaele
+AU  - Charest-Morin R
+AD  - 4Department of Orthopedics, Division of Spine, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Dea, Nicolas
+AU  - Dea N
+AD  - 5Division of Neurosurgery, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Fisher, Charles
+AU  - Fisher C
+AD  - 4Department of Orthopedics, Division of Spine, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Dvorak, Marcel F
+AU  - Dvorak MF
+AD  - 1International Collaboration on Repair Discoveries (ICORD), University of British Columbia, Vancouver, British Columbia, Canada.
+AD  - 4Department of Orthopedics, Division of Spine, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Dhall, Sanjay
+AU  - Dhall S
+AD  - 6Department of Neurosurgery, University of California San Francisco, San Francisco, California.
+FAU - Mac-Thiong, Jean-Marc
+AU  - Mac-Thiong JM
+AD  - 7Hôpital du Sacré-Coeur de Montréal, Montreal, Quebec, Canada.
+FAU - Parent, Stefan
+AU  - Parent S
+AD  - 8Department of Surgery, Chu Sainte-Justine, University of Montreal, Montreal, Quebec, Canada.
+FAU - Bailey, Christopher
+AU  - Bailey C
+AD  - 9Division of Orthopaedic Surgery, Schulich Medicine & Dentistry, Victoria Hospital, London, Ontario, Canada.
+FAU - Christie, Sean
+AU  - Christie S
+AD  - 10Division of Neurosurgery, Halifax Infirmary, Dalhousie University, Halifax, Nova Scotia, Canada.
+FAU - Van Keuren-Jensen, Kendall
+AU  - Van Keuren-Jensen K
+AD  - 11Translational Genomics, Phoenix, Arizona.
+FAU - Nislow, Corey
+AU  - Nislow C
+AD  - 3Faculty of Pharmaceutical Sciences, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Kwon, Brian K
+AU  - Kwon BK
+AD  - 1International Collaboration on Repair Discoveries (ICORD), University of British Columbia, Vancouver, British Columbia, Canada.
+AD  - 4Department of Orthopedics, Division of Spine, University of British Columbia, Vancouver, British Columbia, Canada.
+TA  - J Neurotrauma
+JT  - Journal of neurotrauma
+
+
+PMID- 32689879
+TI  - Continuous Optical Monitoring of Spinal Cord Oxygenation and Hemodynamics during the First Seven Days Post-Injury in a Porcine Model of Acute Spinal Cord Injury.
+FAU - Cheung, Amanda
+AU  - Cheung A
+AD  - International Collaboration on Repair Discoveries, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Tu, Lorna
+AU  - Tu L
+AD  - International Collaboration on Repair Discoveries, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Manouchehri, Neda
+AU  - Manouchehri N
+AD  - International Collaboration on Repair Discoveries, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Kim, Kyoung-Tae
+AU  - Kim KT
+AD  - International Collaboration on Repair Discoveries, University of British Columbia, Vancouver, British Columbia, Canada.
+AD  - Department of Neurosurgery, School of Medicine, Kyungpook National University, Kyungpook National University Hospital, Daegu, South Korea.
+FAU - So, Kitty
+AU  - So K
+AD  - International Collaboration on Repair Discoveries, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Webster, Megan
+AU  - Webster M
+AD  - International Collaboration on Repair Discoveries, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Fisk, Shera
+AU  - Fisk S
+AD  - International Collaboration on Repair Discoveries, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Tigchelaar, Seth
+AU  - Tigchelaar S
+AD  - International Collaboration on Repair Discoveries, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Dalkilic, Sara S
+AU  - Dalkilic SS
+AD  - International Collaboration on Repair Discoveries, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Sayre, Eric C
+AU  - Sayre EC
+AD  - Arthritis Research Canada, Richmond, British Columbia, Canada.
+FAU - Streijger, Femke
+AU  - Streijger F
+AD  - International Collaboration on Repair Discoveries, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Macnab, Andrew
+AU  - Macnab A
+AD  - Department of Pediatrics, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Kwon, Brian K
+AU  - Kwon BK
+AD  - International Collaboration on Repair Discoveries, University of British Columbia, Vancouver, British Columbia, Canada.
+AD  - Department of Orthopedics, University of British Columbia, Vancouver, British Columbia, Canada.
+FAU - Shadgan, Babak
+AU  - Shadgan B
+AD  - International Collaboration on Repair Discoveries, University of British Columbia, Vancouver, British Columbia, Canada.
+AD  - Department of Orthopedics, University of British Columbia, Vancouver, British Columbia, Canada.
+TA  - J Neurotrauma
+JT  - Journal of neurotrauma
+
+
+PMID- 34872489
+TI  - Correction to: Characterization of the gut microbiome in a porcine model of thoracic spinal cord injury.
+FAU - Doelman, Adam
+AU  - Doelman A
+AD  - International Collaboration on Repair Discoveries, University of British Columbia, Vancouver, BC, Canada.
+FAU - Tigchelaar, Seth
+AU  - Tigchelaar S
+AD  - International Collaboration on Repair Discoveries, University of British Columbia, Vancouver, BC, Canada.
+FAU - McConeghy, Brian
+AU  - McConeghy B
+AD  - Sequencing and Bioinformatics Consortium, University of British Columbia, Vancouver, BC, Canada.
+FAU - Sinha, Sunita
+AU  - Sinha S
+AD  - Sequencing and Bioinformatics Consortium, University of British Columbia, Vancouver, BC, Canada.
+FAU - Keung, Martin S
+AU  - Keung MS
+AD  - International Collaboration on Repair Discoveries, University of British Columbia, Vancouver, BC, Canada.
+FAU - Manouchehri, Neda
+AU  - Manouchehri N
+AD  - International Collaboration on Repair Discoveries, University of British Columbia, Vancouver, BC, Canada.
+FAU - Webster, Megan
+AU  - Webster M
+AD  - International Collaboration on Repair Discoveries, University of British Columbia, Vancouver, BC, Canada.
+FAU - Fisk, Shera
+AU  - Fisk S
+AD  - International Collaboration on Repair Discoveries, University of British Columbia, Vancouver, BC, Canada.
+FAU - Morrison, Charlotte
+AU  - Morrison C
+AD  - International Collaboration on Repair Discoveries, University of British Columbia, Vancouver, BC, Canada.
+FAU - Streijger, Femke
+AU  - Streijger F
+AD  - International Collaboration on Repair Discoveries, University of British Columbia, Vancouver, BC, Canada.
+FAU - Nislow, Corey
+AU  - Nislow C
+AD  - Sequencing and Bioinformatics Consortium, University of British Columbia, Vancouver, BC, Canada.
+FAU - Kwon, Brian K
+AU  - Kwon BK
+AD  - International Collaboration on Repair Discoveries, University of British Columbia, Vancouver, BC, Canada. brian.kwon@ubc.ca.
+AD  - Department of Orthopedics, Vancouver Spine Surgery Institute, University of British Columbia, Vancouver, BC, Canada. brian.kwon@ubc.ca.
+TA  - BMC Genomics
+JT  - BMC genomics
+
+
+PMID- 23316955
+TI  - A novel porcine model of traumatic thoracic spinal cord injury.
+FAU - Lee, Jae H T
+AU  - Lee JH
+AD  - International Collaboration on Repair Discoveries, University of British Columbia, Vancouver, British Columbia, Canada .
+FAU - Jones, Claire F
+AU  - Jones CF
+FAU - Okon, Elena B
+AU  - Okon EB
+FAU - Anderson, Lisa
+AU  - Anderson L
+FAU - Tigchelaar, Seth
+AU  - Tigchelaar S
+FAU - Kooner, Paul
+AU  - Kooner P
+FAU - Godbey, Tamara
+AU  - Godbey T
+FAU - Chua, Bev
+AU  - Chua B
+FAU - Gray, Gordon
+AU  - Gray G
+FAU - Hildebrandt, Rhonda
+AU  - Hildebrandt R
+FAU - Cripton, Peter
+AU  - Cripton P
+FAU - Tetzlaff, Wolfram
+AU  - Tetzlaff W
+FAU - Kwon, Brian K
+AU  - Kwon BK
+TA  - J Neurotrauma
+JT  - Journal of neurotrauma
+
+
+PMID- 30816064
+TI  - Differences in Morphometric Measures of the Uninjured Porcine Spinal Cord and Dural Sac Predict Histological and Behavioral Outcomes after Traumatic Spinal Cord Injury.
+FAU - Kim, Kyoung-Tae
+AU  - Kim KT
+AD  - International Collaboration on Repair Discoveries (ICORD), Department of Orthopaedics, University of British Columbia (UBC), Vancouver, British Columbia, Canada.
+AD  - Department of Neurosurgery, School of Medicine, Kyungpook National University, Kyungpook National University Hospital, Daegu, South Korea.
+FAU - Streijger, Femke
+AU  - Streijger F
+AD  - International Collaboration on Repair Discoveries (ICORD), Department of Orthopaedics, University of British Columbia (UBC), Vancouver, British Columbia, Canada.
+FAU - So, Kitty
+AU  - So K
+AD  - International Collaboration on Repair Discoveries (ICORD), Department of Orthopaedics, University of British Columbia (UBC), Vancouver, British Columbia, Canada.
+FAU - Manouchehri, Neda
+AU  - Manouchehri N
+AD  - International Collaboration on Repair Discoveries (ICORD), Department of Orthopaedics, University of British Columbia (UBC), Vancouver, British Columbia, Canada.
+FAU - Shortt, Katelyn
+AU  - Shortt K
+AD  - International Collaboration on Repair Discoveries (ICORD), Department of Orthopaedics, University of British Columbia (UBC), Vancouver, British Columbia, Canada.
+FAU - Okon, Elena Borisovna
+AU  - Okon EB
+AD  - International Collaboration on Repair Discoveries (ICORD), Department of Orthopaedics, University of British Columbia (UBC), Vancouver, British Columbia, Canada.
+FAU - Tigchelaar, Seth
+AU  - Tigchelaar S
+AD  - International Collaboration on Repair Discoveries (ICORD), Department of Orthopaedics, University of British Columbia (UBC), Vancouver, British Columbia, Canada.
+FAU - Fong, Allan
+AU  - Fong A
+AD  - International Collaboration on Repair Discoveries (ICORD), Department of Orthopaedics, University of British Columbia (UBC), Vancouver, British Columbia, Canada.
+FAU - Morrison, Charlotte
+AU  - Morrison C
+AD  - International Collaboration on Repair Discoveries (ICORD), Department of Orthopaedics, University of British Columbia (UBC), Vancouver, British Columbia, Canada.
+FAU - Keung, Martin
+AU  - Keung M
+AD  - International Collaboration on Repair Discoveries (ICORD), Department of Orthopaedics, University of British Columbia (UBC), Vancouver, British Columbia, Canada.
+FAU - Sun, Jenny
+AU  - Sun J
+AD  - International Collaboration on Repair Discoveries (ICORD), Department of Orthopaedics, University of British Columbia (UBC), Vancouver, British Columbia, Canada.
+FAU - Liu, Ella
+AU  - Liu E
+AD  - International Collaboration on Repair Discoveries (ICORD), Department of Orthopaedics, University of British Columbia (UBC), Vancouver, British Columbia, Canada.
+FAU - Cripton, Peter Alexander
+AU  - Cripton PA
+AD  - International Collaboration on Repair Discoveries (ICORD), Department of Orthopaedics, University of British Columbia (UBC), Vancouver, British Columbia, Canada.
+AD  - Orthopaedic and Injury Biomechanics Group, Departments of Mechanical Engineering and Orthopaedics and School of Biomedical Engineering, University of British Columbia (UBC), Vancouver, British Columbia, Canada.
+FAU - Kwon, Brian K
+AU  - Kwon BK
+AD  - International Collaboration on Repair Discoveries (ICORD), Department of Orthopaedics, University of British Columbia (UBC), Vancouver, British Columbia, Canada.
+AD  - Vancouver Spine Surgery Institute, Department of Orthopaedics, University of British Columbia (UBC), Vancouver, British Columbia, Canada.
+TA  - J Neurotrauma
+JT  - Journal of neurotrauma
+
+
+PMID- 28844181
+TI  - Changes in Pressure, Hemodynamics, and Metabolism within the Spinal Cord during the First 7 Days after Injury Using a Porcine Model.
+FAU - Streijger, Femke
+AU  - Streijger F
+AD  - 1 International Collaboration on Repair Discoveries (ICORD), University of British Columbia , Vancouver, British Columbia, Canada .
+FAU - So, Kitty
+AU  - So K
+AD  - 1 International Collaboration on Repair Discoveries (ICORD), University of British Columbia , Vancouver, British Columbia, Canada .
+FAU - Manouchehri, Neda
+AU  - Manouchehri N
+AD  - 1 International Collaboration on Repair Discoveries (ICORD), University of British Columbia , Vancouver, British Columbia, Canada .
+FAU - Tigchelaar, Seth
+AU  - Tigchelaar S
+AD  - 1 International Collaboration on Repair Discoveries (ICORD), University of British Columbia , Vancouver, British Columbia, Canada .
+FAU - Lee, Jae H T
+AU  - Lee JHT
+AD  - 1 International Collaboration on Repair Discoveries (ICORD), University of British Columbia , Vancouver, British Columbia, Canada .
+FAU - Okon, Elena B
+AU  - Okon EB
+AD  - 1 International Collaboration on Repair Discoveries (ICORD), University of British Columbia , Vancouver, British Columbia, Canada .
+FAU - Shortt, Katelyn
+AU  - Shortt K
+AD  - 1 International Collaboration on Repair Discoveries (ICORD), University of British Columbia , Vancouver, British Columbia, Canada .
+FAU - Kim, So-Eun
+AU  - Kim SE
+AD  - 1 International Collaboration on Repair Discoveries (ICORD), University of British Columbia , Vancouver, British Columbia, Canada .
+FAU - McInnes, Kurt
+AU  - McInnes K
+AD  - 1 International Collaboration on Repair Discoveries (ICORD), University of British Columbia , Vancouver, British Columbia, Canada .
+AD  - 2 Departments of Mechanical Engineering and Orthopedics, University of British Columbia , Vancouver, British Columbia, Canada .
+FAU - Cripton, Peter
+AU  - Cripton P
+AD  - 1 International Collaboration on Repair Discoveries (ICORD), University of British Columbia , Vancouver, British Columbia, Canada .
+AD  - 2 Departments of Mechanical Engineering and Orthopedics, University of British Columbia , Vancouver, British Columbia, Canada .
+FAU - Kwon, Brian K
+AU  - Kwon BK
+AD  - 1 International Collaboration on Repair Discoveries (ICORD), University of British Columbia , Vancouver, British Columbia, Canada .
+AD  - 3 Vancouver Spine Surgery Institute, Department of Orthopedics, University of British Columbia , Vancouver, British Columbia, Canada .
+TA  - J Neurotrauma
+JT  - Journal of neurotrauma
+
+
+PMID- 27214588
+TI  - Responses of the Acutely Injured Spinal Cord to Vibration that Simulates Transport in Helicopters or Mine-Resistant Ambush-Protected Vehicles.
+FAU - Streijger, Femke
+AU  - Streijger F
+AD  - 1 International Collaboration on Repair Discoveries (ICORD), University of British Columbia , Vancouver, British Columbia, Canada .
+FAU - Lee, Jae H T
+AU  - Lee JH
+AD  - 1 International Collaboration on Repair Discoveries (ICORD), University of British Columbia , Vancouver, British Columbia, Canada .
+FAU - Manouchehri, Neda
+AU  - Manouchehri N
+AD  - 1 International Collaboration on Repair Discoveries (ICORD), University of British Columbia , Vancouver, British Columbia, Canada .
+FAU - Melnyk, Angela D
+AU  - Melnyk AD
+AD  - 1 International Collaboration on Repair Discoveries (ICORD), University of British Columbia , Vancouver, British Columbia, Canada .
+AD  - 2 Departments of Mechanical Engineering and Orthopaedics, University of British Columbia , Vancouver, British Columbia, Canada .
+FAU - Chak, Jason
+AU  - Chak J
+AD  - 1 International Collaboration on Repair Discoveries (ICORD), University of British Columbia , Vancouver, British Columbia, Canada .
+AD  - 2 Departments of Mechanical Engineering and Orthopaedics, University of British Columbia , Vancouver, British Columbia, Canada .
+FAU - Tigchelaar, Seth
+AU  - Tigchelaar S
+AD  - 1 International Collaboration on Repair Discoveries (ICORD), University of British Columbia , Vancouver, British Columbia, Canada .
+FAU - So, Kitty
+AU  - So K
+AD  - 1 International Collaboration on Repair Discoveries (ICORD), University of British Columbia , Vancouver, British Columbia, Canada .
+FAU - Okon, Elena B
+AU  - Okon EB
+AD  - 1 International Collaboration on Repair Discoveries (ICORD), University of British Columbia , Vancouver, British Columbia, Canada .
+FAU - Jiang, Shudong
+AU  - Jiang S
+AD  - 1 International Collaboration on Repair Discoveries (ICORD), University of British Columbia , Vancouver, British Columbia, Canada .
+FAU - Kinsler, Rachel
+AU  - Kinsler R
+AD  - 3 Enroute Care and Airworthiness Division, United States Army Aeromedical Research Laboratory , Fort Rucker, Alabama.
+FAU - Barazanji, Khalid
+AU  - Barazanji K
+AD  - 3 Enroute Care and Airworthiness Division, United States Army Aeromedical Research Laboratory , Fort Rucker, Alabama.
+FAU - Cripton, Peter A
+AU  - Cripton PA
+AD  - 1 International Collaboration on Repair Discoveries (ICORD), University of British Columbia , Vancouver, British Columbia, Canada .
+AD  - 2 Departments of Mechanical Engineering and Orthopaedics, University of British Columbia , Vancouver, British Columbia, Canada .
+FAU - Kwon, Brian K
+AU  - Kwon BK
+AD  - 1 International Collaboration on Repair Discoveries (ICORD), University of British Columbia , Vancouver, British Columbia, Canada .
+AD  - 4 Combined Neurosurgical and Orthopaedics Spine Program (CNOSP), Department of Orthopaedics, University of British Columbia , Vancouver, British Columbia, Canada .
+TA  - J Neurotrauma
+JT  - Journal of neurotrauma
+
+
+PMID- 20599974
+TI  - Lack of neuroprotective effects of simvastatin and minocycline in a model of cervical spinal cord injury.
+FAU - Lee, Jae H T
+AU  - Lee JH
+AD  - International Collaboration on Repair Discoveries, University of British Columbia, Vancouver, BC, Canada. mailjae@gmail.com
+FAU - Tigchelaar, Seth
+AU  - Tigchelaar S
+FAU - Liu, Jie
+AU  - Liu J
+FAU - Stammers, Anthea M T
+AU  - Stammers AM
+FAU - Streijger, Femke
+AU  - Streijger F
+FAU - Tetzlaff, Wolfram
+AU  - Tetzlaff W
+FAU - Kwon, Brian K
+AU  - Kwon BK
+TA  - Exp Neurol
+JT  - Experimental neurology
+
+
+PMID- 22871686
+TI  - A contusive model of unilateral cervical spinal cord injury using the infinite horizon impactor.
+FAU - Lee, Jae H T
+AU  - Lee JH
+AD  - International Collaboration on Repair Discoveries (ICORD), University of British Columbia.
+FAU - Streijger, Femke
+AU  - Streijger F
+FAU - Tigchelaar, Seth
+AU  - Tigchelaar S
+FAU - Maloon, Michael
+AU  - Maloon M
+FAU - Liu, Jie
+AU  - Liu J
+FAU - Tetzlaff, Wolfram
+AU  - Tetzlaff W
+FAU - Kwon, Brian K
+AU  - Kwon BK
+TA  - J Vis Exp
+JT  - Journal of visualized experiments : JoVE
+
+
+PMID- 27125815
+TI  - The Evaluation of Magnesium Chloride within a Polyethylene Glycol Formulation in a Porcine Model of Acute Spinal Cord Injury.
+FAU - Streijger, Femke
+AU  - Streijger F
+AD  - 1 International Collaboration on Repair Discoveries (ICORD), University of British Columbia , Blusson Spinal Cord Center, Vancouver, British Columbia, Canada .
+FAU - Lee, Jae H T
+AU  - Lee JH
+AD  - 1 International Collaboration on Repair Discoveries (ICORD), University of British Columbia , Blusson Spinal Cord Center, Vancouver, British Columbia, Canada .
+FAU - Manouchehri, Neda
+AU  - Manouchehri N
+AD  - 1 International Collaboration on Repair Discoveries (ICORD), University of British Columbia , Blusson Spinal Cord Center, Vancouver, British Columbia, Canada .
+FAU - Okon, Elena B
+AU  - Okon EB
+AD  - 1 International Collaboration on Repair Discoveries (ICORD), University of British Columbia , Blusson Spinal Cord Center, Vancouver, British Columbia, Canada .
+FAU - Tigchelaar, Seth
+AU  - Tigchelaar S
+AD  - 1 International Collaboration on Repair Discoveries (ICORD), University of British Columbia , Blusson Spinal Cord Center, Vancouver, British Columbia, Canada .
+FAU - Anderson, Lisa M
+AU  - Anderson LM
+AD  - 1 International Collaboration on Repair Discoveries (ICORD), University of British Columbia , Blusson Spinal Cord Center, Vancouver, British Columbia, Canada .
+FAU - Dekaban, Greg A
+AU  - Dekaban GA
+AD  - 2 Robarts Research Institute, Western University , London, Ontario, Canada .
+FAU - Rudko, David A
+AU  - Rudko DA
+AD  - 3 Brain Imaging Center, Montreal Neurological Hospital and Institute , Montreal, Quebec, Canada .
+FAU - Menon, Ravi S
+AU  - Menon RS
+AD  - 4 Center for Functional and Metabolic Mapping, the University of Western Ontario , London, Ontario, Canada .
+FAU - Iaci, Jennifer F
+AU  - Iaci JF
+AD  - 5 Acorda Therapeutics Inc. , Ardsley, New York.
+FAU - Button, Donald C
+AU  - Button DC
+AD  - 5 Acorda Therapeutics Inc. , Ardsley, New York.
+FAU - Vecchione, Andrea M
+AU  - Vecchione AM
+AD  - 5 Acorda Therapeutics Inc. , Ardsley, New York.
+FAU - Konovalov, Andrey
+AU  - Konovalov A
+AD  - 5 Acorda Therapeutics Inc. , Ardsley, New York.
+FAU - Sarmiere, Patrick D
+AU  - Sarmiere PD
+AD  - 5 Acorda Therapeutics Inc. , Ardsley, New York.
+FAU - Ung, Chi
+AU  - Ung C
+AD  - 5 Acorda Therapeutics Inc. , Ardsley, New York.
+FAU - Caggiano, Anthony O
+AU  - Caggiano AO
+AD  - 5 Acorda Therapeutics Inc. , Ardsley, New York.
+FAU - Kwon, Brian K
+AU  - Kwon BK
+AD  - 1 International Collaboration on Repair Discoveries (ICORD), University of British Columbia , Blusson Spinal Cord Center, Vancouver, British Columbia, Canada .
+AD  - 6 Department of Orthopedics, Vancouver Spine Surgery Institute, University of British Columbia , Blusson Spinal Cord Center, Vancouver, British Columbia, Canada .
+TA  - J Neurotrauma
+JT  - Journal of neurotrauma

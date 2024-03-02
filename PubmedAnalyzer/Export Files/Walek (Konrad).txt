@@ -1,0 +1,1230 @@
+PMID- 35471129
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20221215
+LR  - 20230112
+IS  - 1559-6834 (Electronic)
+IS  - 0899-823X (Print)
+IS  - 0899-823X (Linking)
+VI  - 43
+IP  - 12
+DP  - 2022 Dec
+TI  - Risk factors and outcomes associated with external ventricular drain infections.
+PG  - 1859-1866
+LID - 10.1017/ice.2022.23 [doi]
+AB  - BACKGROUND: Insertion of an external ventricular drain (EVD) is a common 
+      neurosurgical procedure which may lead to serious complications including 
+      infection. Some risk factors associated with EVD infection are well established. 
+      Others remain less certain, including specific indications for placement, prior 
+      neurosurgery, and prior EVD placement. OBJECTIVE: To identify risk factors for 
+      EVD infections. METHODS: We reviewed all EVD insertions at our institution from 
+      March 2015 through May 2019 following implementation of a standardized infection 
+      control protocol for EVD insertion and maintenance. Cox regression was used to 
+      identify risk factors for EVD infections. RESULTS: 479 EVDs placed in 409 
+      patients met inclusion criteria, and 9 culture-positive infections were observed 
+      during the study period. The risk of infection within 30 days of EVD placement 
+      was 2.2% (2.3 infections/1,000 EVD days). Coagulase-negative staphylococci were 
+      identified in 6 of the 9 EVD infections). EVD infection led to prolonged length 
+      of stay post-EVD-placement (23 days vs 16 days; P = .045). Cox regression 
+      demonstrated increased infection risk in patients with prior brain surgery 
+      associated with cerebrospinal fluid (CSF) diversion (HR, 8.08; 95% CI, 1.7-39.4; 
+      P = .010), CSF leak around the catheter (HR, 21.0; 95% CI, 7.0-145.1; P = .0007), 
+      and insertion site dehiscence (HR, 7.53; 95% CI, 1.04-37.1; P = .0407). Duration 
+      of EVD use >7 days was not associated with infection risk (HR, 0.62; 95% CI, 
+      0.07-5.45; P = .669). CONCLUSION: Risk factors associated with EVD infection 
+      include prior brain surgery, CSF leak, and insertion site dehiscence. We found no 
+      significant association between infection risk and duration of EVD placement.
+FAU - Walek, Konrad W
+AU  - Walek KW
+AUID- ORCID: 0000-0002-7859-8431
+AD  - Department of Neurosurgery, Warren Alpert Medical School of Medicine of Brown 
+      University, Providence, Rhode Island, USA.
+FAU - Leary, Owen P
+AU  - Leary OP
+AUID- ORCID: 0000-0002-6282-828X
+AD  - Department of Neurosurgery, Warren Alpert Medical School of Medicine of Brown 
+      University, Providence, Rhode Island, USA.
+FAU - Sastry, Rahul
+AU  - Sastry R
+AUID- ORCID: 0000-0001-5129-2179
+AD  - Department of Neurosurgery, Warren Alpert Medical School of Medicine of Brown 
+      University, Providence, Rhode Island, USA.
+FAU - Asaad, Wael F
+AU  - Asaad WF
+AUID- ORCID: 0000-0003-4406-9096
+AD  - Department of Neurosurgery, Warren Alpert Medical School of Medicine of Brown 
+      University, Providence, Rhode Island, USA.
+AD  - Department of Neuroscience, Brown University, Providence, Rhode Island, USA.
+AD  - Norman Prince Neuroscience Institute, Rhode Island Hospital, Providence, Rhode 
+      Island, USA.
+FAU - Walsh, Joan M
+AU  - Walsh JM
+AUID- ORCID: 0000-0003-1050-6323
+AD  - Division of Critical Care, Department of Nursing, Rhode Island Hospital, 
+      Providence, Rhode Island, USA.
+FAU - Horoho, Jean
+AU  - Horoho J
+AD  - Department of Epidemiology and Infection Control, Rhode Island Hospital, 
+      Providence, Rhode Island, USA.
+FAU - Mermel, Leonard A
+AU  - Mermel LA
+AUID- ORCID: 0000-0002-8898-7406
+AD  - Department of Epidemiology and Infection Prevention, Lifespan Hospital System, 
+      Providence, Rhode Island, USA.
+AD  - Division of Infectious Diseases, Rhode Island Hospital, Providence, Rhode Island, 
+      USA.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20220426
+PL  - United States
+TA  - Infect Control Hosp Epidemiol
+JT  - Infection control and hospital epidemiology
+JID - 8804099
+SB  - IM
+MH  - Humans
+MH  - *Ventriculostomy/adverse effects/methods
+MH  - Drainage/adverse effects/methods
+MH  - Retrospective Studies
+MH  - Catheters
+MH  - Risk Factors
+MH  - *Infections
+PMC - PMC9753061
+EDAT- 2022/04/27 06:00
+MHDA- 2022/12/16 06:00
+CRDT- 2022/04/26 12:05
+PHST- 2022/04/27 06:00 [pubmed]
+PHST- 2022/12/16 06:00 [medline]
+PHST- 2022/04/26 12:05 [entrez]
+AID - S0899823X2200023X [pii]
+AID - 10.1017/ice.2022.23 [doi]
+PST - ppublish
+SO  - Infect Control Hosp Epidemiol. 2022 Dec;43(12):1859-1866. doi: 
+      10.1017/ice.2022.23. Epub 2022 Apr 26.
+
+PMID- 35438070
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230216
+LR  - 20230222
+IS  - 1559-6834 (Electronic)
+IS  - 0899-823X (Print)
+IS  - 0899-823X (Linking)
+VI  - 44
+IP  - 2
+DP  - 2023 Feb
+TI  - Reducing ventriculoperitoneal shunt infection with intraoperative glove removal.
+PG  - 234-237
+LID - 10.1017/ice.2022.70 [doi]
+AB  - BACKGROUND: Contamination of ventriculoperitoneal shunts (VPS) by cutaneous 
+      flora, particularly coagulase-negative staphylococci, is a common cause of shunt 
+      infection and failure, leading to prolonged hospital stay, higher costs of care, 
+      and poor outcomes. Glove contamination may occur during VPS insertion, increasing 
+      risk of such infections. METHODS: We performed a systematic search of the PubMed 
+      database for studies published January 1, 1970, through August 31, 2021 that 
+      documented VPS infection rates before and after implementing a practice of double 
+      gloving with change or removal of the outer glove immediately prior to shunt 
+      insertion. RESULTS: Among 272 reports screened, 4 were eligible for review based 
+      on our inclusion criteria. The incidence of VPS infection was reduced in all 4 
+      quasi-experimental studies with an aggregate incidence of VPS infection of 11.8% 
+      before the change in intraoperative protocol and 4.9% after protocol change. One 
+      study documented reduced hospital stay with this change in protocol. CONCLUSION: 
+      The risk of VPS infection is reduced by removal or replacement of the outer 
+      surgical gloves immediately prior to intraoperative insertion of a VPS as part of 
+      an infection control bundle.
+FAU - Walek, Konrad W
+AU  - Walek KW
+AUID- ORCID: 0000-0002-7859-8431
+AD  - Department of Neurosurgery, Warren Alpert Medical School of Brown University, 
+      ProvidenceRhode Island.
+FAU - Rajski, Michal
+AU  - Rajski M
+AUID- ORCID: 0000-0002-2733-3425
+AD  - Department of Medicine, Warren Alpert Medical School of Brown University, 
+      ProvidenceRhode Island.
+FAU - Sastry, Rahul A
+AU  - Sastry RA
+AD  - Department of Neurosurgery, Warren Alpert Medical School of Brown University, 
+      ProvidenceRhode Island.
+FAU - Mermel, Leonard A
+AU  - Mermel LA
+AUID- ORCID: 0000-0002-8898-7406
+AD  - Department of Medicine, Warren Alpert Medical School of Brown University, 
+      ProvidenceRhode Island.
+AD  - Department of Epidemiology and Infection Control, Rhode Island Hospital, 
+      Providence, Rhode Island.
+AD  - Division of Infectious Diseases, Rhode Island Hospital, Providence, Rhode Island.
+LA  - eng
+PT  - Journal Article
+DEP - 20220419
+PL  - United States
+TA  - Infect Control Hosp Epidemiol
+JT  - Infection control and hospital epidemiology
+JID - 8804099
+SB  - IM
+MH  - Humans
+MH  - *Ventriculoperitoneal Shunt/adverse effects
+MH  - *Infection Control
+MH  - Staphylococcus
+MH  - Gloves, Surgical
+MH  - Costs and Cost Analysis
+MH  - Retrospective Studies
+PMC - PMC9929712
+EDAT- 2022/04/20 06:00
+MHDA- 2023/02/17 06:00
+CRDT- 2022/04/19 08:40
+PHST- 2022/04/20 06:00 [pubmed]
+PHST- 2023/02/17 06:00 [medline]
+PHST- 2022/04/19 08:40 [entrez]
+AID - S0899823X22000708 [pii]
+AID - 10.1017/ice.2022.70 [doi]
+PST - ppublish
+SO  - Infect Control Hosp Epidemiol. 2023 Feb;44(2):234-237. doi: 10.1017/ice.2022.70. 
+      Epub 2022 Apr 19.
+
+PMID- 35640831
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220810
+LR  - 20220830
+IS  - 1878-8769 (Electronic)
+IS  - 1878-8750 (Linking)
+VI  - 164
+DP  - 2022 Aug
+TI  - Incidence, Characteristics, and Outcomes of Pseudomeningocele and Cerebrospinal 
+      Fluid Fistula after Posterior Fossa Surgery.
+PG  - e1094-e1102
+LID - S1878-8750(22)00742-2 [pii]
+LID - 10.1016/j.wneu.2022.05.102 [doi]
+AB  - OBJECTIVE: Posterior fossa approaches are common neurosurgical procedures. Rates 
+      of postoperative infection, pseudomeningocele, and cerebrospinal fluid (CSF) 
+      fistula are high; however, evidence regarding predisposing risk factors and 
+      treatment outcomes remain sparse. METHODS: A retrospective cohort study was 
+      carried out of all posterior fossa surgeries conducted at a single institution 
+      between January 2015 and October 2019. Univariate statistical methods and 
+      stepwise logistic regression were used to assess which factors contributed most 
+      to risk of development of postoperative complications. RESULTS: A total of 269 
+      patients were included; 18.6% experienced any postoperative complication, 13% 
+      developed either pseudomeningocele or CSF fistula, and 9.7% developed an 
+      infection. In multivariate analysis, development of a pseudomeningocele was 
+      significantly associated with previous cranial surgery (hazard ratio [HR], 3.15; 
+      95% confidence interval [CI], 1.12-9.28; P = 0.0391). Development of a CSF 
+      fistula was significantly associated with index surgery for resection of neoplasm 
+      (HR, 7.65; 95% CI, 1.86-22.31; P = 0.0174). Development of an infection was 
+      significantly associated with concurrent CSF fistula (HR, 7.16; 95% CI, 
+      1.91-23.19; P = 0.0041) and concurrent pseudomeningocele (HR, 3.41; 95% CI, 
+      1.37-5.95; P = 0.0082) and nonsignificantly associated with diabetes requiring 
+      treatment (HR, 2.42; 95% CI, 0.69-8.50; P = 0.168). Other hypothesized risk 
+      factors for these complications, such as nonmidline approaches to the posterior 
+      fossa, watertight duraplasty, use of dural fibrin sealant, and cranioplasty were 
+      not associated with these complications on multivariate analysis. Although many 
+      patients with pseudomeningocele were successfully managed with observation, only 
+      38% of patients in whom CSF diversion was attempted avoided surgery. CONCLUSIONS: 
+      History of diabetes, cranioplasty, revision surgery, and surgery for tumor 
+      resection are identified as risk factors for the development of infection, 
+      pseudomeningocele, and CSF fistula, respectively.
+CI  - Copyright © 2022 Elsevier Inc. All rights reserved.
+FAU - Sastry, Rahul A
+AU  - Sastry RA
+AD  - Department of Neurosurgery, Warren Alpert Medical School of Medicine of Brown 
+      University, Providence, Rhode Island, USA. Electronic address: 
+      rahul.sastry@gmail.com.
+FAU - Walek, Konrad
+AU  - Walek K
+AD  - Department of Neurosurgery, Warren Alpert Medical School of Medicine of Brown 
+      University, Providence, Rhode Island, USA.
+FAU - Leary, Owen P
+AU  - Leary OP
+AD  - Department of Neurosurgery, Warren Alpert Medical School of Medicine of Brown 
+      University, Providence, Rhode Island, USA.
+FAU - Rex, Nathaniel
+AU  - Rex N
+AD  - Department of Neurosurgery, Warren Alpert Medical School of Medicine of Brown 
+      University, Providence, Rhode Island, USA.
+FAU - Shaaya, Elias A
+AU  - Shaaya EA
+AD  - Department of Neurosurgery, Warren Alpert Medical School of Medicine of Brown 
+      University, Providence, Rhode Island, USA.
+FAU - Poggi, Jonathan A
+AU  - Poggi JA
+AD  - Department of Neurosurgery, Warren Alpert Medical School of Medicine of Brown 
+      University, Providence, Rhode Island, USA.
+FAU - Cielo, Deus
+AU  - Cielo D
+AD  - Department of Neurosurgery, Warren Alpert Medical School of Medicine of Brown 
+      University, Providence, Rhode Island, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20220528
+PL  - United States
+TA  - World Neurosurg
+JT  - World neurosurgery
+JID - 101528275
+SB  - IM
+MH  - Cerebrospinal Fluid Leak/epidemiology/etiology/surgery
+MH  - *Cerebrospinal Fluid Rhinorrhea/surgery
+MH  - Dura Mater/surgery
+MH  - *Fistula/epidemiology/etiology
+MH  - Humans
+MH  - Incidence
+MH  - Neurosurgical Procedures/adverse effects/methods
+MH  - Postoperative Complications/epidemiology/etiology/surgery
+MH  - Retrospective Studies
+OTO - NOTNLM
+OT  - CSF leak
+OT  - Complications
+OT  - Retrosigmoid
+OT  - Suboccipital
+EDAT- 2022/06/01 06:00
+MHDA- 2022/08/11 06:00
+CRDT- 2022/05/31 19:26
+PHST- 2022/02/05 00:00 [received]
+PHST- 2022/05/21 00:00 [revised]
+PHST- 2022/05/23 00:00 [accepted]
+PHST- 2022/06/01 06:00 [pubmed]
+PHST- 2022/08/11 06:00 [medline]
+PHST- 2022/05/31 19:26 [entrez]
+AID - S1878-8750(22)00742-2 [pii]
+AID - 10.1016/j.wneu.2022.05.102 [doi]
+PST - ppublish
+SO  - World Neurosurg. 2022 Aug;164:e1094-e1102. doi: 10.1016/j.wneu.2022.05.102. Epub 
+      2022 May 28.
+
+PMID- 37221202
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230525
+LR  - 20230722
+IS  - 2041-1723 (Electronic)
+IS  - 2041-1723 (Linking)
+VI  - 14
+IP  - 1
+DP  - 2023 May 24
+TI  - Near-lifespan longitudinal tracking of brain microvascular morphology, topology, 
+      and flow in male mice.
+PG  - 2982
+LID - 10.1038/s41467-023-38609-z [doi]
+LID - 2982
+AB  - In age-related neurodegenerative diseases, pathology often develops slowly across 
+      the lifespan. As one example, in diseases such as Alzheimer's, vascular decline 
+      is believed to onset decades ahead of symptomology. However, challenges inherent 
+      in current microscopic methods make longitudinal tracking of such vascular 
+      decline difficult. Here, we describe a suite of methods for measuring brain 
+      vascular dynamics and anatomy in mice for over seven months in the same field of 
+      view. This approach is enabled by advances in optical coherence tomography (OCT) 
+      and image processing algorithms including deep learning. These integrated methods 
+      enabled us to simultaneously monitor distinct vascular properties spanning 
+      morphology, topology, and function of the microvasculature across all scales: 
+      large pial vessels, penetrating cortical vessels, and capillaries. We have 
+      demonstrated this technical capability in wild-type and 3xTg male mice. The 
+      capability will allow comprehensive and longitudinal study of a broad range of 
+      progressive vascular diseases, and normal aging, in key model systems.
+CI  - © 2023. The Author(s).
+FAU - Walek, Konrad W
+AU  - Walek KW
+AD  - Warren Alpert Medical School, Brown University, Providence, RI, 02912, USA.
+FAU - Stefan, Sabina
+AU  - Stefan S
+AD  - School of Engineering, Brown University, Providence, RI, 02912, USA.
+FAU - Lee, Jang-Hoon
+AU  - Lee JH
+AD  - School of Engineering, Brown University, Providence, RI, 02912, USA.
+FAU - Puttigampala, Pooja
+AU  - Puttigampala P
+AD  - College of Medicine, Drexel University, Philadelphia, PA, 19104, USA.
+FAU - Kim, Anna H
+AU  - Kim AH
+AD  - Department of Neuroscience, Brown University, Providence, RI, 02912, USA.
+FAU - Park, Seong Wook
+AU  - Park SW
+AD  - Department of Neuroscience, Brown University, Providence, RI, 02912, USA.
+FAU - Marchand, Paul J
+AU  - Marchand PJ
+AUID- ORCID: 0000-0003-2528-3193
+AD  - Department of Electrical Engineering, École Polytechnique de Montréal, Montréal, 
+      QC, H3T 1J4, Canada.
+FAU - Lesage, Frederic
+AU  - Lesage F
+AD  - Department of Electrical Engineering, École Polytechnique de Montréal, Montréal, 
+      QC, H3T 1J4, Canada.
+FAU - Liu, Tao
+AU  - Liu T
+AD  - Department of Biostatistics, Brown University School of Public Health, 
+      Providence, RI, 02912, USA.
+FAU - Huang, Yu-Wen Alvin
+AU  - Huang YA
+AUID- ORCID: 0000-0003-4082-8008
+AD  - Warren Alpert Medical School, Brown University, Providence, RI, 02912, USA.
+AD  - Department of Molecular Biology, Cell Biology and Biochemistry, Brown University, 
+      Providence, RI, 02912, USA.
+AD  - Carney Institute for Brain Science, Brown University, Providence, RI, 02912, USA.
+FAU - Boas, David A
+AU  - Boas DA
+AUID- ORCID: 0000-0002-6709-7711
+AD  - Department of Biomedical Engineering, Boston University, Boston, MA, 02215, USA.
+FAU - Moore, Christopher
+AU  - Moore C
+AUID- ORCID: 0000-0003-4534-1602
+AD  - Department of Neuroscience, Brown University, Providence, RI, 02912, USA.
+AD  - Carney Institute for Brain Science, Brown University, Providence, RI, 02912, USA.
+FAU - Lee, Jonghwan
+AU  - Lee J
+AUID- ORCID: 0000-0002-4691-7995
+AD  - School of Engineering, Brown University, Providence, RI, 02912, USA. 
+      jonghwan_lee@brown.edu.
+AD  - Carney Institute for Brain Science, Brown University, Providence, RI, 02912, USA. 
+      jonghwan_lee@brown.edu.
+LA  - eng
+SI  - figshare/10.6084/m9.figshare.19178885
+GR  - R01 AG067228/AG/NIA NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20230524
+PL  - England
+TA  - Nat Commun
+JT  - Nature communications
+JID - 101528555
+SB  - IM
+MH  - Male
+MH  - Animals
+MH  - Mice
+MH  - *Longevity
+MH  - Longitudinal Studies
+MH  - *Aging
+MH  - Microvessels
+MH  - Brain
+PMC - PMC10205707
+COIS- The authors declare no competing interests.
+EDAT- 2023/05/24 01:06
+MHDA- 2023/05/25 06:42
+CRDT- 2023/05/23 23:17
+PHST- 2022/03/08 00:00 [received]
+PHST- 2023/05/09 00:00 [accepted]
+PHST- 2023/05/25 06:42 [medline]
+PHST- 2023/05/24 01:06 [pubmed]
+PHST- 2023/05/23 23:17 [entrez]
+AID - 10.1038/s41467-023-38609-z [pii]
+AID - 38609 [pii]
+AID - 10.1038/s41467-023-38609-z [doi]
+PST - epublish
+SO  - Nat Commun. 2023 May 24;14(1):2982. doi: 10.1038/s41467-023-38609-z.
+
+PMID- 36447845
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20221202
+IS  - 2229-5097 (Print)
+IS  - 2152-7806 (Electronic)
+IS  - 2152-7806 (Linking)
+VI  - 13
+DP  - 2022
+TI  - Development of posttraumatic frontal brain abscess in association with an orbital 
+      roof fracture and odontogenic abscess: A case report.
+PG  - 539
+LID - 10.25259/SNI_813_2022 [doi]
+LID - 539
+AB  - BACKGROUND: Brain abscess is a potentially fatal condition. Orbital fractures 
+      caused by penetrating injury may be associated with intracranial infection. Such 
+      complication associated with blunt trauma, orbital roof fractures, and 
+      odontogenic abscesses is exceedingly rare. CASE DESCRIPTION: We report the case 
+      of a 40-year-old transgender female with a frontal abscess presenting several 
+      weeks following a motor vehicle crash from which she suffered multiple facial 
+      fractures and an odontogenic abscess. On computed tomography scan, the patient 
+      had multiple right-sided facial fractures, including a medial orbital wall 
+      fracture and a right sphenoid fracture extending into the superior orbital roof. 
+      There was hemorrhage notable in the right frontal lobe. Communication with the 
+      ethmoid sinuses likely provided a conduit for bacterial spread through the orbit 
+      and into the intracranial and subdural spaces. CONCLUSION: Skull base fractures 
+      that communicate with a sinus, whether it be frontal, ethmoid, or sphenoid may 
+      increase the risk of brain abscess, especially in patients who develop an 
+      odontogenic abscess. Surgical repair of the defect is essential, and treating 
+      patients prophylactically with antibiotics may be beneficial.
+CI  - Copyright: © 2022 Surgical Neurology International.
+FAU - Abdulrazeq, Hael
+AU  - Abdulrazeq H
+AD  - Department of Neurosurgery, Rhode Island Hospital, The Alpert Warren Medical 
+      School of Brown University Providence, United States.
+FAU - Walek, Konrad
+AU  - Walek K
+AD  - Department of Neurosurgery, Rhode Island Hospital, The Alpert Warren Medical 
+      School of Brown University Providence, United States.
+FAU - Sampath, Shailen
+AU  - Sampath S
+AD  - Department of Neurosurgery, Rhode Island Hospital, The Alpert Warren Medical 
+      School of Brown University Providence, United States.
+FAU - Shaaya, Elias
+AU  - Shaaya E
+AD  - Department of Neurosurgery, Rhode Island Hospital, The Alpert Warren Medical 
+      School of Brown University Providence, United States.
+FAU - Beqiri, Dardan
+AU  - Beqiri D
+AD  - Department of Plastic Surgery, Rhode Island Hospital, The Alpert Warren Medical 
+      School of Brown University Providence, United States.
+FAU - Woo, Albert
+AU  - Woo A
+AD  - Department of Plastic Surgery, Rhode Island Hospital, The Alpert Warren Medical 
+      School of Brown University Providence, United States.
+FAU - Sampath, Prakash
+AU  - Sampath P
+AD  - Department of Neurosurgery, Rhode Island Hospital, The Alpert Warren Medical 
+      School of Brown University Providence, United States.
+LA  - eng
+PT  - Case Reports
+DEP - 20221118
+PL  - United States
+TA  - Surg Neurol Int
+JT  - Surgical neurology international
+JID - 101535836
+PMC - PMC9699880
+OTO - NOTNLM
+OT  - Brain abscess
+OT  - Odontogenic abscess
+OT  - Orbital fracture
+OT  - Trauma
+COIS- There are no conflicts of interest.
+EDAT- 2022/12/01 06:00
+MHDA- 2022/12/01 06:01
+CRDT- 2022/11/30 02:00
+PHST- 2022/09/04 00:00 [received]
+PHST- 2022/11/02 00:00 [accepted]
+PHST- 2022/11/30 02:00 [entrez]
+PHST- 2022/12/01 06:00 [pubmed]
+PHST- 2022/12/01 06:01 [medline]
+AID - 10.25259/SNI_813_2022 [pii]
+AID - 10.25259/SNI_813_2022 [doi]
+PST - epublish
+SO  - Surg Neurol Int. 2022 Nov 18;13:539. doi: 10.25259/SNI_813_2022. eCollection 
+      2022.
+
+PMID- 37877962
+OWN - NLM
+STAT- In-Process
+LR  - 20240301
+IS  - 1933-0693 (Electronic)
+IS  - 0022-3085 (Linking)
+VI  - 140
+IP  - 3
+DP  - 2024 Mar 1
+TI  - Differences in microorganisms causing infection after cranial and spinal 
+      surgeries.
+PG  - 892-899
+LID - 10.3171/2023.6.JNS23751 [doi]
+AB  - OBJECTIVE: The primary aim of this retrospective study was to assess differences 
+      in the pathogens causing surgical site infections (SSIs) following 
+      craniectomies/craniotomies and open spinal surgery. The secondary aim was to 
+      assess differences in rates of SSI among these operative procedures. METHODS: 
+      ANOVA tests with Bonferroni correction and incidence risk ratios (RRs) were used 
+      to identify differences in pathogens by surgical site and procedure using 
+      retrospective, de-identified records of 19,993 postneurosurgical patients treated 
+      between 2007 and 2020. RESULTS: The overall infection rates for 
+      craniotomy/craniectomy, laminectomy, and fusion were 2.1%, 1.1%, and 1.5%, 
+      respectively, and overall infection rates for cervical, thoracic, and lumbar 
+      spine surgery were 0.3%, 1.6%, and 1.9%, respectively. Craniotomy/craniectomy was 
+      more likely to result in an SSI than spine surgery (RR 1.8, 95% CI 1.4-2.2, p < 
+      0.0001). Cutibacterium acnes (RR 24.2, 95% CI 7.3-80.0, p < 0.0001); 
+      coagulase-negative staphylococci (CoNS) (methicillin-susceptible CoNS: RR 2.9, 
+      95% CI 1.6-5.4, p = 0.0006; methicillin-resistant CoNS: RR 5.6, 95% CI 1.4-22.3, 
+      p = 0.02); Klebsiella aerogenes (RR 6.5, 95% CI 1.7-25.1, p = 0.0003); Serratia 
+      marcescens (RR 2.4, 95% CI 1.1-7.1, p = 0.01); Enterobacter cloacae (RR 3.1, 95% 
+      CI 1.2-8.1, p = 0.02); and Candida albicans (RR 3.9, 95% CI 1.2-12.3, p = 0.02) 
+      were more commonly associated with craniotomy/craniectomy cases than fusion or 
+      laminectomy SSIs. Pseudomonas aeruginosa was more commonly associated with fusion 
+      SSIs than craniotomy SSIs (RR 4.4, 95% CI 1.3-14.8, p = 0.02), whereas 
+      Escherichia coli was nonsignificantly associated with fusion SSIs compared to 
+      craniotomy SSIs (RR 4.1, 95% CI 0.9-18.1, p = 0.06). Infections with E. coli and 
+      P. aeruginosa occurred primarily in the lumbar spine (p = 0.0003 and p = 0.0001, 
+      respectively). CONCLUSIONS: SSIs due to typical gastrointestinal or genitourinary 
+      gram-negative bacteria occur most commonly following lumbar surgery, particularly 
+      fusion, and are likely to be due to contamination of the surgical bed with 
+      microbial flora in the perianal area and genitourinary tract. Cutibacterium acnes 
+      in the skin flora of the head and neck increases risk of infection due to this 
+      microbe following surgical interventions in these body sites. The types of 
+      gram-negative bacteria associated with craniotomy/craniectomy SSIs suggest 
+      potential environmental sources of these pathogens. Based on the authors' 
+      findings, neurosurgeons should consider using a two-step skin preparation with 
+      benzoyl peroxide, in addition to a standard antiseptic such as alcoholic 
+      chlorhexidine for cranial, cervical, and upper thoracic surgeries. Additionally, 
+      broader gram-negative bacterial coverage, such as use of a third-generation 
+      cephalosporin, should be considered for lumbar/lumbosacral fusion surgical 
+      antibiotic prophylaxis.
+FAU - Pralea, Alexander
+AU  - Pralea A
+AD  - Departments of1Medicine.
+FAU - Walek, Konrad W
+AU  - Walek KW
+AD  - 2Neurosurgery, and.
+FAU - Auld, Dianne
+AU  - Auld D
+AD  - 3Epidemiology and Infection Prevention, Warren Alpert Medical School of Medicine, 
+      Brown University and Lifespan Hospital, Providence, Rhode Island.
+FAU - Mermel, Leonard A
+AU  - Mermel LA
+AD  - Departments of1Medicine.
+AD  - 3Epidemiology and Infection Prevention, Warren Alpert Medical School of Medicine, 
+      Brown University and Lifespan Hospital, Providence, Rhode Island.
+LA  - eng
+PT  - Journal Article
+DEP - 20230818
+PL  - United States
+TA  - J Neurosurg
+JT  - Journal of neurosurgery
+JID - 0253357
+SB  - IM
+OTO - NOTNLM
+OT  - craniotomy
+OT  - fusion
+OT  - laminectomy
+OT  - spine surgery
+OT  - surgical site infection
+EDAT- 2023/10/25 12:42
+MHDA- 2023/10/25 12:42
+CRDT- 2023/10/25 10:53
+PHST- 2023/04/04 00:00 [received]
+PHST- 2023/06/16 00:00 [accepted]
+PHST- 2023/10/25 12:42 [pubmed]
+PHST- 2023/10/25 12:42 [medline]
+PHST- 2023/10/25 10:53 [entrez]
+AID - 10.3171/2023.6.JNS23751 [doi]
+PST - epublish
+SO  - J Neurosurg. 2023 Aug 18;140(3):892-899. doi: 10.3171/2023.6.JNS23751. Print 2024 
+      Mar 1.
+
+PMID- 33647492
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210819
+LR  - 20210819
+IS  - 1878-8769 (Electronic)
+IS  - 1878-8750 (Linking)
+VI  - 150
+DP  - 2021 Jun
+TI  - Decreasing External Ventricular Drain Infection Rates in the Neurocritical Care 
+      Unit: 12-Year Longitudinal Experience at a Single Institution.
+PG  - e89-e101
+LID - S1878-8750(21)00280-1 [pii]
+LID - 10.1016/j.wneu.2021.02.087 [doi]
+AB  - OBJECTIVE: External ventricular drain (EVD) placement is a common neurosurgical 
+      procedure, and EVD-related infection is a significant complication. We examined 
+      the effect of infection control protocol changes on EVD-related infection 
+      incidence. METHODS: Changes in EVD placement protocol and incidence density of 
+      infections after implementation of protocol changes in the neurocritical care 
+      unit were tracked from 2007 to 2019. EVD infections were defined using a modified 
+      U.S. Centers for Disease Control and Prevention National Healthcare Safety 
+      Network surveillance definition of meningitis/ventriculitis for patients with 
+      EVDs in situ for at least 2 days confirmed by positive culture. Contribution of 
+      protocol changes to EVD infection risk was assessed via multivariate regression. 
+      RESULTS: Fifteen major changes in EVD protocol were associated with a reduction 
+      in infections from 6.7 to 2.0 per 1000 EVD days (95% confidence interval [CI], 
+      4.1-5.3; P < 0.001). Gram-positive bacterial infection incidence decreased from 
+      4.8 to 1.7 per 1000 EVD days (95% CI, 2.3-3.9; P = 0.00882) and gram-negative 
+      infection incidence decreased from 1.9 to 0.5 per 1000 EVD days (95% CI, 0.6-2.3; 
+      P = 0.0303). Of all protocol changes since 2007, the largest reduction in 
+      incidence was 3.9 infections per 1000 days (95% CI, 0.50-7.30; P = 0.011), 
+      associated with combined standardization of reduced EVD sampling frequency, 
+      cutaneous antisepsis with alcoholic chlorhexidine before EVD placement, and use 
+      of a subcutaneous tunneling technique during EVD insertion. CONCLUSIONS: The most 
+      significant reduction in EVD infections may be achieved through the combination 
+      of reducing EVD sampling frequency and standardizing alcoholic chlorhexidine 
+      cutaneous antisepsis and subcutaneous tunneling of the EVD catheter.
+CI  - Copyright © 2021 The Authors. Published by Elsevier Inc. All rights reserved.
+FAU - Walek, Konrad W
+AU  - Walek KW
+AD  - Department of Neurosurgery, Warren Alpert Medical School of Medicine of Brown 
+      University, Providence, Rhode Island, USA.
+FAU - Leary, Owen P
+AU  - Leary OP
+AD  - Department of Neurosurgery, Warren Alpert Medical School of Medicine of Brown 
+      University, Providence, Rhode Island, USA.
+FAU - Sastry, Rahul
+AU  - Sastry R
+AD  - Department of Neurosurgery, Warren Alpert Medical School of Medicine of Brown 
+      University, Providence, Rhode Island, USA.
+FAU - Asaad, Wael F
+AU  - Asaad WF
+AD  - Department of Neurosurgery, Warren Alpert Medical School of Medicine of Brown 
+      University, Providence, Rhode Island, USA; Department of Neuroscience, Brown 
+      University, Providence, Rhode Island, USA; Norman Prince Neuroscience Institute, 
+      Rhode Island Hospital, Providence, Rhode Island, USA.
+FAU - Walsh, Joan M
+AU  - Walsh JM
+AD  - Division of Critical Care, Department of Nursing, Rhode Island Hospital, 
+      Providence, Rhode Island, USA.
+FAU - Mermel, Leonard
+AU  - Mermel L
+AD  - Department of Medicine, Warren Alpert Medical School of Medicine of Brown 
+      University, Providence, Rhode Island, USA; Department of Epidemiology and 
+      Infection Control, Rhode Island Hospital, Providence, Rhode Island, USA; Division 
+      of Infectious Diseases, Rhode Island Hospital, Providence, Rhode Island, USA. 
+      Electronic address: LMermel@lifespan.org.
+LA  - eng
+PT  - Journal Article
+DEP - 20210226
+PL  - United States
+TA  - World Neurosurg
+JT  - World neurosurgery
+JID - 101528275
+SB  - IM
+MH  - Catheter-Related Infections/*epidemiology
+MH  - Cerebral Ventriculitis/*epidemiology
+MH  - Drainage
+MH  - Humans
+MH  - Infection Control
+MH  - Intensive Care Units
+MH  - Patient Care Bundles
+MH  - Retrospective Studies
+MH  - Surgical Wound Infection/*epidemiology
+MH  - *Ventriculostomy
+OTO - NOTNLM
+OT  - Catheter
+OT  - Central nervous system infection
+OT  - External ventricular catheter
+OT  - Nosocomial infection
+OT  - Ventriculitis
+EDAT- 2021/03/02 06:00
+MHDA- 2021/08/20 06:00
+CRDT- 2021/03/01 20:12
+PHST- 2020/11/26 00:00 [received]
+PHST- 2021/02/17 00:00 [revised]
+PHST- 2021/02/18 00:00 [accepted]
+PHST- 2021/03/02 06:00 [pubmed]
+PHST- 2021/08/20 06:00 [medline]
+PHST- 2021/03/01 20:12 [entrez]
+AID - S1878-8750(21)00280-1 [pii]
+AID - 10.1016/j.wneu.2021.02.087 [doi]
+PST - ppublish
+SO  - World Neurosurg. 2021 Jun;150:e89-e101. doi: 10.1016/j.wneu.2021.02.087. Epub 
+      2021 Feb 26.
+
+PMID- 36700671
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230217
+LR  - 20230322
+IS  - 1524-4040 (Electronic)
+IS  - 0148-396X (Linking)
+VI  - 92
+IP  - 3
+DP  - 2023 Mar 1
+TI  - Time of Discharge and 30-Day Re-Presentation to an Acute Care Setting After 
+      Elective Lumbar Decompression Surgery.
+PG  - 507-514
+LID - 10.1227/neu.0000000000002233 [doi]
+AB  - BACKGROUND: Evidence regarding the consequence of efforts to increase patient 
+      throughput and decrease length of stay in the context of elective spine surgery 
+      is limited. OBJECTIVE: To evaluate whether early time of discharge results in 
+      increased rates of hospital readmission or return to emergency department for 
+      patients admitted after elective, posterior, lumbar decompression surgery. 
+      METHODS: We conducted a retrospective cohort study of 779 patients admitted to 
+      hospital after undergoing elective, posterior, lumbar decompression surgery. 
+      Multiple logistic regression evaluated the relationship between time of discharge 
+      and the primary outcome of return to acute care within 30 days, while controlling 
+      for sociodemographic, procedural, and discharge characteristics. RESULTS: In 
+      multiple logistic regression, time of discharge earlier in the day was not 
+      associated with increased odds of return to acute care within 30 days (odds ratio 
+      [OR] 1.18, 95% CI 0.92-1.52, P = .19). Weekend discharge (OR 1.99, 95% CI 
+      1.04-3.79, P = .04) increased the likelihood of return to acute care. Surgeon 
+      experience (<1 year of attending practice, OR 0.43, 95% CI 0.19-1.00, P = .05 and 
+      2-5 years of attending practice, OR 0.50, 95% CI 0.25-1.01, P = .054), weekend 
+      discharge (OR 0.49, 95% CI 0.27-0.89, P = .02), and physical therapy evaluation 
+      (OR 0.20, 95% CI 0.12-0.33, P < .001) decreased the likelihood of discharge 
+      before noon. CONCLUSION: Time of discharge is not associated with risk of 
+      readmission or presentation to the emergency department after elective lumbar 
+      decompression. Weekend discharge is independently associated with increased risk 
+      of readmission and decreased likelihood of prenoon discharge.
+CI  - Copyright © Congress of Neurological Surgeons 2022. All rights reserved.
+FAU - Sastry, Rahul A
+AU  - Sastry RA
+AUID- ORCID: 0000-0001-5129-2179
+AD  - Department of Neurosurgery, Warren Alpert School of Medicine, Brown University, 
+      Providence, Rhode Island, USA.
+FAU - Hagan, Matthew
+AU  - Hagan M
+AD  - Department of Neurosurgery, Warren Alpert School of Medicine, Brown University, 
+      Providence, Rhode Island, USA.
+FAU - Feler, Joshua
+AU  - Feler J
+AD  - Department of Neurosurgery, Warren Alpert School of Medicine, Brown University, 
+      Providence, Rhode Island, USA.
+FAU - Abdulrazeq, Hael
+AU  - Abdulrazeq H
+AD  - Department of Neurosurgery, Warren Alpert School of Medicine, Brown University, 
+      Providence, Rhode Island, USA.
+FAU - Walek, Konrad
+AU  - Walek K
+AUID- ORCID: 0000-0002-7859-8431
+AD  - Department of Neurosurgery, Warren Alpert School of Medicine, Brown University, 
+      Providence, Rhode Island, USA.
+FAU - Sullivan, Patricia Z
+AU  - Sullivan PZ
+AD  - Department of Neurosurgery, Warren Alpert School of Medicine, Brown University, 
+      Providence, Rhode Island, USA.
+FAU - Abinader, Jose Fernandez
+AU  - Abinader JF
+AD  - Department of Neurosurgery, Warren Alpert School of Medicine, Brown University, 
+      Providence, Rhode Island, USA.
+FAU - Camara, Joaquin Q
+AU  - Camara JQ
+AD  - Department of Neurosurgery, Warren Alpert School of Medicine, Brown University, 
+      Providence, Rhode Island, USA.
+FAU - Niu, Tianyi
+AU  - Niu T
+AD  - Department of Neurosurgery, Warren Alpert School of Medicine, Brown University, 
+      Providence, Rhode Island, USA.
+FAU - Fridley, Jared S
+AU  - Fridley JS
+AD  - Department of Neurosurgery, Warren Alpert School of Medicine, Brown University, 
+      Providence, Rhode Island, USA.
+FAU - Oyelese, Adetokunbo A
+AU  - Oyelese AA
+AD  - Department of Neurosurgery, Warren Alpert School of Medicine, Brown University, 
+      Providence, Rhode Island, USA.
+FAU - Sampath, Prakash
+AU  - Sampath P
+AD  - Department of Neurosurgery, Warren Alpert School of Medicine, Brown University, 
+      Providence, Rhode Island, USA.
+FAU - Telfeian, Albert E
+AU  - Telfeian AE
+AD  - Department of Neurosurgery, Warren Alpert School of Medicine, Brown University, 
+      Providence, Rhode Island, USA.
+FAU - Gokaslan, Ziya L
+AU  - Gokaslan ZL
+AD  - Department of Neurosurgery, Warren Alpert School of Medicine, Brown University, 
+      Providence, Rhode Island, USA.
+FAU - Toms, Steven A
+AU  - Toms SA
+AD  - Department of Neurosurgery, Warren Alpert School of Medicine, Brown University, 
+      Providence, Rhode Island, USA.
+FAU - Weil, Robert J
+AU  - Weil RJ
+AD  - Department of Neurosurgery, Southcoast Health Brain & Spine, Dartmouth, 
+      Massachusetts, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20221116
+PL  - United States
+TA  - Neurosurgery
+JT  - Neurosurgery
+JID - 7802914
+SB  - IM
+MH  - Humans
+MH  - Retrospective Studies
+MH  - *Patient Discharge
+MH  - *Spine
+MH  - Lumbosacral Region/surgery
+MH  - Patient Readmission
+MH  - Decompression
+MH  - Postoperative Complications/epidemiology
+MH  - Risk Factors
+EDAT- 2023/01/27 06:00
+MHDA- 2023/02/18 06:00
+CRDT- 2023/01/26 09:12
+PHST- 2022/05/10 00:00 [received]
+PHST- 2022/09/13 00:00 [accepted]
+PHST- 2023/01/27 06:00 [pubmed]
+PHST- 2023/02/18 06:00 [medline]
+PHST- 2023/01/26 09:12 [entrez]
+AID - 00006123-202303000-00009 [pii]
+AID - 10.1227/neu.0000000000002233 [doi]
+PST - ppublish
+SO  - Neurosurgery. 2023 Mar 1;92(3):507-514. doi: 10.1227/neu.0000000000002233. Epub 
+      2022 Nov 16.
+
+PMID- 37078054
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20230722
+IS  - 2156-7085 (Print)
+IS  - 2156-7085 (Electronic)
+IS  - 2156-7085 (Linking)
+VI  - 14
+IP  - 4
+DP  - 2023 Apr 1
+TI  - Investigating the correlation between early vascular alterations and cognitive 
+      impairment in Alzheimer's disease in mice with SD-OCT.
+PG  - 1494-1508
+LID - 10.1364/BOE.481826 [doi]
+AB  - Vascular alterations have recently gained some attention with their strong 
+      association with Alzheimer's disease (AD). We conducted a label-free in vivo 
+      optical coherence tomography (OCT) longitudinal imaging using an AD mouse model. 
+      We achieved the tracking of the same individual vessels over time and conducted 
+      an in-depth analysis of temporal dynamics in vasculature and vasodynamics using 
+      OCT angiography and Doppler-OCT. The AD group showed an exponential decay in both 
+      vessel diameter and blood flow change with the critical timepoint before 20 weeks 
+      of age, which precedes cognitive decline observed at 40 weeks of age. 
+      Interestingly, for the AD group, the diameter change showed the dominance in 
+      arterioles over venules, but no such influence was found in blood flow change. 
+      Conversely, three mice groups with early vasodilatory intervention did not show 
+      any significant change in both vascular integrity and cognitive function compared 
+      to the wild-type group. We found early vascular alterations and confirmed their 
+      correlation with cognitive impairment in AD.
+CI  - © 2023 Optica Publishing Group under the terms of the Optica Open Access 
+      Publishing Agreement.
+FAU - Lee, Jang-Hoon
+AU  - Lee JH
+AD  - Center for Biomedical Engineering, School of Engineering, Brown University, 
+      Providence, Rhode Island 02912, USA.
+FAU - Stefan, Sabina
+AU  - Stefan S
+AD  - Department of Pediatric Oncology, Dana-Farber Cancer Institute, Boston, 
+      Massachusetts 02215, USA.
+FAU - Walek, Konrad
+AU  - Walek K
+AD  - Warren Alpert Medical School of Brown University, Providence, Rhode Island 02903, 
+      USA.
+FAU - Nie, Jiarui
+AU  - Nie J
+AD  - Center for Biomedical Engineering, School of Engineering, Brown University, 
+      Providence, Rhode Island 02912, USA.
+FAU - Min, Kyounghee
+AU  - Min K
+AD  - University of Massachusetts Chan Medical School, Worcester, Massachusetts 01655, 
+      USA.
+FAU - Yang, Taeseok Daniel
+AU  - Yang TD
+AUID- ORCID: 0000-0001-6452-7504
+AD  - Center for Biomedical Engineering, School of Engineering, Brown University, 
+      Providence, Rhode Island 02912, USA.
+AD  - Department of Bioengineering, Korea University, Seoul 02841, Republic of Korea.
+FAU - Lee, Jonghwan
+AU  - Lee J
+AUID- ORCID: 0000-0002-4691-7995
+AD  - Center for Biomedical Engineering, School of Engineering, Brown University, 
+      Providence, Rhode Island 02912, USA.
+AD  - Carney Institute for Brain Science, Brown University, Providence, Rhode Island 
+      02912, USA.
+LA  - eng
+GR  - R01 AG067228/AG/NIA NIH HHS/United States
+PT  - Journal Article
+DEP - 20230310
+PL  - United States
+TA  - Biomed Opt Express
+JT  - Biomedical optics express
+JID - 101540630
+PMC - PMC10110305
+COIS- The authors declare no conflicts of Interest.
+EDAT- 2023/04/20 06:42
+MHDA- 2023/04/20 06:43
+CRDT- 2023/04/20 02:37
+PHST- 2022/11/23 00:00 [received]
+PHST- 2023/02/25 00:00 [revised]
+PHST- 2023/03/01 00:00 [accepted]
+PHST- 2023/04/20 06:43 [medline]
+PHST- 2023/04/20 06:42 [pubmed]
+PHST- 2023/04/20 02:37 [entrez]
+AID - 481826 [pii]
+AID - 10.1364/BOE.481826 [doi]
+PST - epublish
+SO  - Biomed Opt Express. 2023 Mar 10;14(4):1494-1508. doi: 10.1364/BOE.481826. 
+      eCollection 2023 Apr 1.
+
+PMID- 30460132
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20201001
+IS  - 2156-7085 (Print)
+IS  - 2156-7085 (Electronic)
+IS  - 2156-7085 (Linking)
+VI  - 9
+IP  - 11
+DP  - 2018 Nov 1
+TI  - Doppler OCT clutter rejection using variance minimization and offset 
+      extrapolation.
+PG  - 5340-5352
+LID - 10.1364/BOE.9.005340 [doi]
+AB  - Doppler optical coherence tomography (OCT) is widely used for high-resolution 
+      mapping of flow velocities and is based on analysis of temporal changes in the 
+      phase of an OCT signal (i.e., how fast the OCT signal rotates in the complex 
+      plane). Determination of the rate of phase change or rotation speed critically 
+      depends on the center of rotation. Here, we demonstrate the bias in high-pass 
+      filtering, the current widely used method to determine the center of rotation, 
+      and propose two advanced methods for Doppler OCT clutter rejection. The bias in 
+      the high-pass filtering method becomes increasingly significant with lower 
+      velocities or larger signal noise. Two novel methods based on variance 
+      minimization and offset extrapolation can potentially reduce this bias and 
+      thereby improve the accuracy of Doppler OCT measurements of flow velocities, even 
+      for low-velocity and/or high-noise signals. The two novel methods and the current 
+      standard method (high-pass filtering) have been tested in combination with 
+      several currently used velocity measurement algorithms: Kasai, autocorrelation 
+      function fitting, and maximum likelihood estimation. The newly proposed methods 
+      are shown to improve the accuracy in both the center of rotation and resultant 
+      velocity by up to 60 percentage points and reduce the flow conservation error by 
+      30% when applied to in vivo cerebral blood flow imaging of the rodent brain 
+      cortex.
+FAU - Akif, Adil
+AU  - Akif A
+AD  - Center for Biomedical Engineering, School of Engineering, Brown University, 
+      Providence, RI 02906, USA.
+FAU - Walek, Konrad
+AU  - Walek K
+AD  - Department of Neuroscience, Brown University, Providence, RI 02906, USA.
+AD  - Warren A. Alpert Medical School, Brown University, Providence, RI 02906, USA.
+FAU - Polucha, Collin
+AU  - Polucha C
+AD  - Center for Biomedical Engineering, School of Engineering, Brown University, 
+      Providence, RI 02906, USA.
+FAU - Lee, Jonghwan
+AU  - Lee J
+AD  - Center for Biomedical Engineering, School of Engineering, Brown University, 
+      Providence, RI 02906, USA.
+AD  - Carney Institute for Brain Science, Brown University, Providence, RI 02906, USA.
+LA  - eng
+GR  - R00 EB014879/EB/NIBIB NIH HHS/United States
+PT  - Journal Article
+DEP - 20181010
+PL  - United States
+TA  - Biomed Opt Express
+JT  - Biomedical optics express
+JID - 101540630
+PMC - PMC6238902
+COIS- The authors declare that there are no conflicts of interest related to this 
+      article.
+EDAT- 2018/11/22 06:00
+MHDA- 2018/11/22 06:01
+CRDT- 2018/11/22 06:00
+PHST- 2018/07/16 00:00 [received]
+PHST- 2018/10/05 00:00 [revised]
+PHST- 2018/10/05 00:00 [accepted]
+PHST- 2018/11/22 06:00 [entrez]
+PHST- 2018/11/22 06:00 [pubmed]
+PHST- 2018/11/22 06:01 [medline]
+AID - 338802 [pii]
+AID - 10.1364/BOE.9.005340 [doi]
+PST - epublish
+SO  - Biomed Opt Express. 2018 Oct 10;9(11):5340-5352. doi: 10.1364/BOE.9.005340. 
+      eCollection 2018 Nov 1.
+
+PMID- 38061544
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240223
+LR  - 20240223
+IS  - 1878-8769 (Electronic)
+IS  - 1878-8750 (Linking)
+VI  - 182
+DP  - 2024 Feb
+TI  - The Neurosurgeon's Dilemma-Do Antiplatelet/Anticoagulant Medications Increase the 
+      Risk of Catheter-Associated Hemorrhage in External Ventricular Drain Placement?
+PG  - e611-e623
+LID - S1878-8750(23)01722-9 [pii]
+LID - 10.1016/j.wneu.2023.12.001 [doi]
+AB  - OBJECTIVE: External ventricular drain (EVD) placement is a common neurosurgical 
+      procedure that can be performed at bedside. A frequent complication following EVD 
+      placement is catheter-associated hemorrhage (CAH). The hemorrhage itself is 
+      rarely clinically significant but may be complicated in patients taking 
+      anticoagulant or antiplatelet (AC/AP) medications. METHODS: A total of 757 
+      patients were who underwent EVD placement at bedside were included as part of a 
+      retrospective study at a large academic medical center. Demographic factors, use 
+      of AC/AP therapies, and several other clinical variables were recorded and 
+      assessed in univariate and multivariate regression analysis for association with 
+      CAH and mortality. RESULTS: One hundred (13.2%) patients experienced CAH within 
+      24 hours of the procedure. After univariate analysis, in 2 tandem-run 
+      multivariate regression analyses after stepwise variable selection, use of 2 or 
+      more AC/AP agents (odds ratio [OR] = 2.362, P = 0.020) and dual antiplatelet 
+      therapy with aspirin and clopidogrel (OR = 3.72, P = 0.009) were significantly 
+      associated with CAH. Use of noncoated catheters was a protective factor against 
+      CAH compared to use of antibiotic-coated catheters (OR = 0.55, P = 0.019). 
+      Multivariate analysis showed age, multiagent therapy, and thrombocytopenia were 
+      significantly associated with increased mortality. CONCLUSIONS: There was 
+      increased risk of CAH after EVD placement in patients taking more than one AC/AP 
+      agent regardless of presenting pathology. In particular, use of aspirin and 
+      clopidogrel combined was associated with significantly higher odds of CAH, 
+      although it was not associated with higher mortality. In addition, there appears 
+      to be an association between use of antibiotic-coated catheters and CAH across 
+      univariate and multivariate analysis.
+CI  - Copyright © 2023 Elsevier Inc. All rights reserved.
+FAU - Olexa, Joshua
+AU  - Olexa J
+AD  - Department of Neurosurgery, University of Maryland School of Medicine, Baltimore, 
+      Maryland, USA. Electronic address: JOlexa@som.umaryland.edu.
+FAU - Walek, Konrad W
+AU  - Walek KW
+AD  - Department of Neurosurgery, University of Maryland School of Medicine, Baltimore, 
+      Maryland, USA.
+FAU - Flessner, Rebecca
+AU  - Flessner R
+AD  - Department of Neurosurgery, University of Maryland School of Medicine, Baltimore, 
+      Maryland, USA.
+FAU - Trang, Annie
+AU  - Trang A
+AD  - Department of Neurosurgery, University of Maryland School of Medicine, Baltimore, 
+      Maryland, USA.
+FAU - Stokum, Jesse
+AU  - Stokum J
+AD  - Department of Neurosurgery, University of Maryland School of Medicine, Baltimore, 
+      Maryland, USA.
+FAU - Chen, Chixiang
+AU  - Chen C
+AD  - Department of Neurosurgery, University of Maryland School of Medicine, Baltimore, 
+      Maryland, USA; Division of Biostatistics and Bioinformatics, Department of 
+      Epidemiology and Public Health, Baltimore, Maryland, USA.
+FAU - Sharma, Ashish
+AU  - Sharma A
+AD  - Department of Neurosurgery, University of Maryland School of Medicine, Baltimore, 
+      Maryland, USA.
+FAU - Oliver, Jeffrey
+AU  - Oliver J
+AD  - Department of Neurosurgery, University of Maryland School of Medicine, Baltimore, 
+      Maryland, USA.
+FAU - Solomon, Daniel
+AU  - Solomon D
+AD  - Department of Neurosurgery, University of Maryland School of Medicine, Baltimore, 
+      Maryland, USA.
+FAU - Kim, Kevin T
+AU  - Kim KT
+AD  - Department of Neurosurgery, University of Maryland School of Medicine, Baltimore, 
+      Maryland, USA.
+FAU - Serra, Riccardo
+AU  - Serra R
+AD  - Department of Neurosurgery, University of Maryland School of Medicine, Baltimore, 
+      Maryland, USA.
+FAU - Ahmed, Abdul-Kareem
+AU  - Ahmed AK
+AD  - Department of Neurosurgery, University of Maryland School of Medicine, Baltimore, 
+      Maryland, USA.
+FAU - Wilhelmy, Bradley
+AU  - Wilhelmy B
+AD  - Department of Neurosurgery, University of Maryland School of Medicine, Baltimore, 
+      Maryland, USA.
+FAU - Chryssikos, Timothy
+AU  - Chryssikos T
+AD  - Department of Neurosurgery, University of Maryland School of Medicine, Baltimore, 
+      Maryland, USA.
+FAU - Cannarsa, Gregory
+AU  - Cannarsa G
+AD  - Department of Neurosurgery, University of Maryland School of Medicine, Baltimore, 
+      Maryland, USA.
+FAU - Crandall, Kenneth
+AU  - Crandall K
+AD  - Department of Neurosurgery, University of Maryland School of Medicine, Baltimore, 
+      Maryland, USA.
+FAU - Sansur, Charles
+AU  - Sansur C
+AD  - Department of Neurosurgery, University of Maryland School of Medicine, Baltimore, 
+      Maryland, USA.
+FAU - Schwartzbauer, Gary
+AU  - Schwartzbauer G
+AD  - Department of Neurosurgery, University of Maryland School of Medicine, Baltimore, 
+      Maryland, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20231205
+PL  - United States
+TA  - World Neurosurg
+JT  - World neurosurgery
+JID - 101528275
+RN  - 0 (Platelet Aggregation Inhibitors)
+RN  - 0 (Anticoagulants)
+RN  - A74586SNO7 (Clopidogrel)
+RN  - R16CO5Y76E (Aspirin)
+RN  - 0 (Anti-Bacterial Agents)
+SB  - IM
+MH  - Humans
+MH  - *Platelet Aggregation Inhibitors/adverse effects
+MH  - *Anticoagulants/adverse effects
+MH  - Retrospective Studies
+MH  - Clopidogrel
+MH  - Neurosurgeons
+MH  - Drainage/adverse effects/methods
+MH  - Hemorrhage/etiology
+MH  - Aspirin
+MH  - Catheters/adverse effects
+MH  - Ventriculostomy/adverse effects
+MH  - Anti-Bacterial Agents/therapeutic use
+OTO - NOTNLM
+OT  - Anticoagulation
+OT  - Antiplatelet
+OT  - External ventricular drain
+OT  - Intracerebral hemorrhage
+OT  - Outcomes
+OT  - Tract hemorrhage
+EDAT- 2023/12/08 00:42
+MHDA- 2024/02/23 06:43
+CRDT- 2023/12/07 19:26
+PHST- 2023/09/11 00:00 [received]
+PHST- 2023/11/30 00:00 [revised]
+PHST- 2023/12/01 00:00 [accepted]
+PHST- 2024/02/23 06:43 [medline]
+PHST- 2023/12/08 00:42 [pubmed]
+PHST- 2023/12/07 19:26 [entrez]
+AID - S1878-8750(23)01722-9 [pii]
+AID - 10.1016/j.wneu.2023.12.001 [doi]
+PST - ppublish
+SO  - World Neurosurg. 2024 Feb;182:e611-e623. doi: 10.1016/j.wneu.2023.12.001. Epub 
+      2023 Dec 5.
+
+PMID- 32357596
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20201231
+LR  - 20201231
+IS  - 2327-2228 (Electronic)
+IS  - 0363-7913 (Linking)
+VI  - 103
+IP  - 4
+DP  - 2020 May 1
+TI  - Spinal Epidural Hematoma After Attempted Catheter Thrombectomy of a Large 
+      Iliofemoral Deep Venous Thrombosis: A Case Report.
+PG  - 52-54
+AB  - The authors report the case of an 82-year-old woman with a spinal epidural 
+      hematoma following attempted catheter-directed thrombolysis of a large femoral- 
+      popliteal deep venous thrombosis. The patient rapidly developed acute motor and 
+      sensory paralysis below the level of T7 within hours of the thrombectomy 
+      procedure. Computed tomography imaging revealed that the catheter had perforated 
+      the wall of the right inferior vena cava and magnetic resonance imaging 
+      subsequently demonstrated an extensive T1-S1 dorsal epidural hematoma with 
+      compression of the thoracic spinal cord, conus medullaris, and cauda equina. 
+      Given the extent of cord infarction and the risks of extensive thoracolumbar 
+      laminectomy, decompression was not performed. The incidence, diagnosis, and 
+      management of anticoagulation- associated spinal epidural hematoma as well as the 
+      indications for catheter-directed thrombolysis of acute deep venous thrombosis 
+      are reviewed.
+FAU - Walek, Konrad
+AU  - Walek K
+AD  - Department of Neurosurgery, The Warren Alpert Medical School of Brown University, 
+      Providence, RI.
+FAU - Sastry, Rahul
+AU  - Sastry R
+AD  - Department of Neurosurgery, The Warren Alpert Medical School of Brown University, 
+      Providence, RI.
+FAU - Toms, Steven
+AU  - Toms S
+AD  - Department of Neurosurgery, The Warren Alpert Medical School of Brown University, 
+      Providence.
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+DEP - 20200501
+PL  - United States
+TA  - R I Med J (2013)
+JT  - Rhode Island medical journal (2013)
+JID - 101605827
+RN  - 0 (Anticoagulants)
+SB  - IM
+MH  - Aged, 80 and over
+MH  - Anticoagulants/administration & dosage/*adverse effects
+MH  - Catheters/*adverse effects
+MH  - Fatal Outcome
+MH  - Female
+MH  - Hematoma, Epidural, Spinal/diagnostic imaging/*etiology
+MH  - Humans
+MH  - Magnetic Resonance Imaging
+MH  - Postoperative Complications
+MH  - Thrombectomy/adverse effects
+MH  - Vena Cava, Inferior/abnormalities
+MH  - Venous Thrombosis/*diagnosis/*therapy
+OTO - NOTNLM
+OT  - DVT
+OT  - PE
+OT  - pidural hematoma
+OT  - spinal cord injury
+OT  - spinal epidural hematoma
+OT  - thrombectomy
+OT  - thrombolytic
+EDAT- 2020/05/03 06:00
+MHDA- 2021/01/01 06:00
+CRDT- 2020/05/03 06:00
+PHST- 2020/05/03 06:00 [entrez]
+PHST- 2020/05/03 06:00 [pubmed]
+PHST- 2021/01/01 06:00 [medline]
+PST - epublish
+SO  - R I Med J (2013). 2020 May 1;103(4):52-54.

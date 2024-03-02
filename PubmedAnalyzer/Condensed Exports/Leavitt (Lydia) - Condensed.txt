@@ -1,0 +1,197 @@
+PMID- 36600730
+TI  - Surgical management of an abscess of the insula.
+FAU - Leavitt, Lydia
+AU  - Leavitt L
+AD  - Department of Neurosurgery, University of Illinois College of Medicine, Rockford, Illinois.
+FAU - Baohan, Amy
+AU  - Baohan A
+AD  - Department of Neurosurgery, Massachusetts General Hospital, Boston, Massachusetts, United States.
+FAU - Heller, Howard
+AU  - Heller H
+AD  - Infectious Diseases Division, Massachusetts General Hospital, Boston, Massachusetts, United States.
+FAU - Kozanno, Liana
+AU  - Kozanno L
+AD  - Department of Pathology, Massachusetts General Hospital, Boston, Massachusetts, United States.
+FAU - Frosch, Matthew P
+AU  - Frosch MP
+AD  - Department of Pathology, Massachusetts General Hospital, Boston, Massachusetts, United States.
+FAU - Dunn, Gavin
+AU  - Dunn G
+AD  - Department of Neurosurgery, Massachusetts General Hospital, Boston, Massachusetts, United States.
+TA  - Surg Neurol Int
+JT  - Surgical neurology international
+
+
+PMID- 37681954
+TI  - Commentary: French Military Neurosurgery: At Home and Abroad.
+FAU - Dagi, T Forcht
+AU  - Dagi TF
+AD  - Department of Neurosurgery, Mayo Alix College of Medicine and Science, Newton Centre , Massachusetts , USA.
+FAU - Leavitt, Lydia
+AU  - Leavitt L
+AD  - Department of Neurosurgery, University of Kentucky College of Medicine, Lexington , Kentucky , USA.
+FAU - Fox, W Christopher
+AU  - Fox WC
+AD  - Department of Neurosurgery, The Mayo Clinic, Jacksonville , Florida , USA.
+TA  - Neurosurgery
+JT  - Neurosurgery
+
+
+PMID- 36193033
+TI  - 5-ALA fluorescence-guided resection of a recurrent anaplastic pleomorphic xanthoastrocytoma: illustrative case.
+FAU - Leavitt, Lydia A
+AU  - Leavitt LA
+AD  - 1University of Illinois College of Medicine, Rockford, Illinois; and.
+FAU - Muñoz, William
+AU  - Muñoz W
+AD  - 2Department of Neurosurgery, Massachusetts General Hospital, Boston, Massachusetts.
+FAU - Jones, Pamela S
+AU  - Jones PS
+AD  - 2Department of Neurosurgery, Massachusetts General Hospital, Boston, Massachusetts.
+TA  - J Neurosurg Case Lessons
+JT  - Journal of neurosurgery. Case lessons
+
+
+PMID- 30952223
+TI  - Optimizing Actigraphic Estimation of Sleep Duration in Suspected Idiopathic Hypersomnia.
+FAU - Cook, Jesse D
+AU  - Cook JD
+AD  - Department of Psychiatry, School of Medicine and Public Health, University of Wisconsin-Madison, Madison, Wisconsin.
+AD  - Department of Psychology, University of Wisconsin-Madison, Madison, Wisconsin.
+FAU - Eftekari, Sahand C
+AU  - Eftekari SC
+AD  - Department of Psychiatry, School of Medicine and Public Health, University of Wisconsin-Madison, Madison, Wisconsin.
+FAU - Leavitt, Lydia A
+AU  - Leavitt LA
+AD  - Department of Psychiatry, School of Medicine and Public Health, University of Wisconsin-Madison, Madison, Wisconsin.
+FAU - Prairie, Michael L
+AU  - Prairie ML
+AD  - Department of Psychiatry, School of Medicine and Public Health, University of Wisconsin-Madison, Madison, Wisconsin.
+FAU - Plante, David T
+AU  - Plante DT
+AD  - Department of Psychiatry, School of Medicine and Public Health, University of Wisconsin-Madison, Madison, Wisconsin.
+TA  - J Clin Sleep Med
+JT  - Journal of clinical sleep medicine : JCSM : official publication of the American Academy of Sleep Medicine
+
+
+PMID- 38015025
+TI  - Spontaneous rupture of an arachnoid cyst in an adult: illustrative case.
+FAU - Leavitt, Lydia A
+AU  - Leavitt LA
+AD  - 1University of Illinois College of Medicine, Rockford, Illinois; and.
+FAU - Nanda, Pranav
+AU  - Nanda P
+AD  - Departments of2Neurosurgery and.
+FAU - Stemmer-Rachamimov, Anat
+AU  - Stemmer-Rachamimov A
+AD  - 3Pathology, Massachusetts General Hospital, Boston, Massachusetts.
+FAU - Dunn, Gavin P
+AU  - Dunn GP
+AD  - Departments of2Neurosurgery and.
+FAU - Jones, Pamela S
+AU  - Jones PS
+AD  - Departments of2Neurosurgery and.
+TA  - J Neurosurg Case Lessons
+JT  - Journal of neurosurgery. Case lessons
+
+
+PMID- 37626682
+TI  - Economic Trends in Commonly Used Drugs for Spinal Fusion and Brain Tumor Resection: An Analysis of the Medicare Part D Database.
+FAU - Doad, Jagroop
+AU  - Doad J
+AD  - Leon Levine Hall of Medical Sciences, School of Osteopathic Medicine, Campbell University, 4350 US Hwy 421 S, Lillington, NC 27546, USA.
+FAU - Gupta, Nithin
+AU  - Gupta N
+AD  - Leon Levine Hall of Medical Sciences, School of Osteopathic Medicine, Campbell University, 4350 US Hwy 421 S, Lillington, NC 27546, USA.
+FAU - Leavitt, Lydia
+AU  - Leavitt L
+AD  - College of Medicine, University of Illinois, 1601 Parkview Ave., Rockford, IL 61107, USA.
+FAU - Hart, Alexandra
+AU  - Hart A
+AD  - Lake Erie College of Osteopathic Medicine at Seton Hill, Lynch Hall, 20 Seton Hill Dr, Greensburg, PA 15601, USA.
+FAU - Nguyen, Andrew
+AU  - Nguyen A
+AD  - College of Medicine, University of Florida, 1600 SW Archer Rd., Gainesville, FL 32610, USA.
+FAU - Kaura, Shawn
+AU  - Kaura S
+AD  - Lake Erie College of Osteopathic Medicine at Seton Hill, Lynch Hall, 20 Seton Hill Dr, Greensburg, PA 15601, USA.
+FAU - DeStefano, Frank
+AU  - DeStefano F
+AD  - Department of Neurological Surgery, University of Kansas Medical Center, 2060 W 39th Ave., Kansas City, KS 66160, USA.
+FAU - McCray, Edwin
+AU  - McCray E
+AD  - Department of Orthopedic Surgery, College of Medicine, University of Arizona, 1501 N Campbell Ave., Tucson, AZ 85724, USA.
+FAU - Lucke-Wold, Brandon
+AU  - Lucke-Wold B
+AD  - Department of Neurosurgery, University of Florida, 1600 SW Archer Rd., Gainesville, FL 32610, USA.
+TA  - Biomedicines
+JT  - Biomedicines
+
+
+PMID- 38416133
+TI  - Glioblastoma-infiltrating CD8+ T cells are predominantly a clonally expanded GZMK+ effector population.
+FAU - Wang, Anthony Z
+AU  - Wang AZ
+AD  - Washington University in St. Louis School of Medicine, St Louis, MO, United States.
+FAU - Mashimo, Bryce L
+AU  - Mashimo BL
+AD  - Massachusetts General Hospital, United States.
+FAU - Schaettler, Maximilian O
+AU  - Schaettler MO
+AD  - Brigham and Women's Hospital, Boston, MA, United States.
+FAU - Sherpa, Ngima D
+AU  - Sherpa ND
+AD  - Massachusetts General Hospital, United States.
+FAU - Leavitt, Lydia A
+AU  - Leavitt LA
+AD  - University of Louisville, United States.
+FAU - Livingstone, Alexandra J
+AU  - Livingstone AJ
+AD  - Washington University in St. Louis School of Medicine, St. Louis, MO, United States.
+FAU - Khan, Saad M
+AU  - Khan SM
+AD  - Massachusetts General Hospital, United States.
+FAU - Li, Mao
+AU  - Li M
+AD  - Massachusetts General Hospital, Boston, Massachusetts, United States.
+FAU - Anzaldua-Campos, Markus I
+AU  - Anzaldua-Campos MI
+AD  - Harvard University, United States.
+FAU - Bradley, Joseph D
+AU  - Bradley JD
+AD  - Massachusetts General Hospital, United States.
+FAU - Leuthardt, Eric C
+AU  - Leuthardt EC
+AD  - Washington University in St. Louis, St. Louis, Missouri, United States.
+FAU - Kim, Albert H
+AU  - Kim AH
+AD  - Washington University in St. Louis School of Medicine, St Louis, MO, United States.
+FAU - Dowling, Joshua L
+AU  - Dowling JL
+AD  - Washington University in St. Louis School of Medicine, United States.
+FAU - Chicoine, Michael R
+AU  - Chicoine MR
+AD  - University of Missouri Health System, United States.
+FAU - Jones, Pamela S
+AU  - Jones PS
+AD  - Massachusetts General Hospital, Boston, MA, United States.
+FAU - Choi, Bryan D
+AU  - Choi BD
+AD  - Massachusetts General Hospital, Boston, United States.
+FAU - Cahill, Daniel P
+AU  - Cahill DP
+AD  - Massachusetts General Hospital, Boston, MA, United States.
+FAU - Carter, Bob S
+AU  - Carter BS
+AD  - Massachusetts General Hospital, United States.
+FAU - Petti, Allegra A
+AU  - Petti AA
+AD  - Massachusetts General Hospital, United States.
+FAU - Johanns, Tanner M
+AU  - Johanns TM
+AD  - Washington University in St. Louis School of Medicine, St. Louis, MO, United States.
+FAU - Dunn, Gavin P
+AU  - Dunn GP
+AD  - Massachusetts General Hospital, Boston, MA, United States.
+TA  - Cancer Discov
+JT  - Cancer discovery

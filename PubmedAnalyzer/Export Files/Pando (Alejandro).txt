@@ -1,0 +1,1696 @@
+PMID- 29190514
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20181105
+LR  - 20181105
+IS  - 1873-5835 (Electronic)
+IS  - 0145-2126 (Linking)
+VI  - 64
+DP  - 2018 Jan
+TI  - Extracellular vesicles in leukemia.
+PG  - 52-60
+LID - S0145-2126(17)30597-0 [pii]
+LID - 10.1016/j.leukres.2017.11.011 [doi]
+AB  - Extracellular vesicles (EV) are nano-sized membrane enclosed vehicles that are 
+      involved in cell-to-cell communication and carry cargo that is representative of 
+      the parent cell. Recent studies have highlighted the significant roles leukemia 
+      EVs play in tumor progression, and ways in which they can lead to treatment 
+      evasion, thus meriting further investigation. Leukemia EVs are involved in 
+      crosstalk between the leukemia cell and its surroundings, transforming it into a 
+      cancer favorable microenvironment. Due to the diverse biological content found in 
+      leukemia EVs, they have an assortment of effects on the cells they interact with 
+      and can be harnessed as candidates for diagnostic and therapeutic treatments. 
+      This review focuses on EVs in the context of leukemia and the means by which they 
+      modulate their microenvironment, hematopoiesis, and the immune system to 
+      facilitate malignancy. We will also address current and prospective EV-based 
+      therapeutics.
+CI  - Copyright © 2017 Elsevier Ltd. All rights reserved.
+FAU - Pando, Alejandro
+AU  - Pando A
+AD  - Division of Hematology and Oncology, Rhode Island Hospital, The Warren Alpert 
+      Medical School of Brown University, Providence, RI, USA.
+FAU - Reagan, John L
+AU  - Reagan JL
+AD  - Division of Hematology and Oncology, Rhode Island Hospital, The Warren Alpert 
+      Medical School of Brown University, Providence, RI, USA.
+FAU - Quesenberry, Peter
+AU  - Quesenberry P
+AD  - Division of Hematology and Oncology, Rhode Island Hospital, The Warren Alpert 
+      Medical School of Brown University, Providence, RI, USA.
+FAU - Fast, Loren D
+AU  - Fast LD
+AD  - Division of Hematology and Oncology, Rhode Island Hospital, The Warren Alpert 
+      Medical School of Brown University, Providence, RI, USA. Electronic address: 
+      Loren_Fast@brown.edu.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20171122
+PL  - England
+TA  - Leuk Res
+JT  - Leukemia research
+JID - 7706787
+SB  - IM
+MH  - Extracellular Vesicles/*pathology
+MH  - Humans
+MH  - Leukemia/*pathology
+OTO - NOTNLM
+OT  - Acute myeloid leukemia
+OT  - Exosomes
+OT  - Extracellular vesicles
+OT  - Leukemia EVs
+OT  - Leukemia exosomes
+OT  - Leukemia extracellular vesicles
+OT  - Microvesicles
+OT  - Re-induction
+OT  - Residual leukemia
+EDAT- 2017/12/01 06:00
+MHDA- 2018/11/06 06:00
+CRDT- 2017/12/01 06:00
+PHST- 2017/04/26 00:00 [received]
+PHST- 2017/11/12 00:00 [revised]
+PHST- 2017/11/21 00:00 [accepted]
+PHST- 2017/12/01 06:00 [pubmed]
+PHST- 2018/11/06 06:00 [medline]
+PHST- 2017/12/01 06:00 [entrez]
+AID - S0145-2126(17)30597-0 [pii]
+AID - 10.1016/j.leukres.2017.11.011 [doi]
+PST - ppublish
+SO  - Leuk Res. 2018 Jan;64:52-60. doi: 10.1016/j.leukres.2017.11.011. Epub 2017 Nov 
+      22.
+
+PMID- 37250621
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20230531
+IS  - 2632-2498 (Electronic)
+IS  - 2632-2498 (Linking)
+VI  - 5
+IP  - 1
+DP  - 2023 Jan-Dec
+TI  - Current landscape of social media use pertaining to glioblastoma by various 
+      stakeholders.
+PG  - vdad039
+LID - 10.1093/noajnl/vdad039 [doi]
+LID - vdad039
+AB  - BACKGROUND: Given the potential for social media to allow widespread public 
+      engagement, its role in healthcare, including in cancer care as a support 
+      network, is garnering interest. To date, the use of social media in 
+      neuro-oncology has not been systematically explored. In the current manuscript, 
+      we sought to review Twitter use on glioblastoma among patients, caregivers, 
+      providers, researchers, and other stakeholders. METHODS: The Twitter application 
+      programming interface (API) database was surveyed from inception to May 2022 to 
+      identify tweets about glioblastoma. Number of tweet likes, retweets, quotes, and 
+      total engagement were noted for each tweet. Geographic location, number of 
+      followers, and number of Tweets were noted for users. We also categorized Tweets 
+      based on their underlying themes. A natural language processing (NLP) algorithm 
+      was used to assign a polarity score, subjectivity score, and analysis label to 
+      each Tweet for sentiment analysis. RESULTS: A total of 1690 unique tweets from 
+      1000 accounts were included in our analyses. The frequency of tweets increased 
+      from 2013 and peaked in 2018. The most common category among users was 
+      MD/researchers (21.6%, n = 216), followed by Media/News (20%, n = 200) and 
+      Business (10.7%); patients or caregivers accounted for only 4.7% (n = 47) while 
+      medical centers, journals, and foundations accounted for 5.4%, 3.7%, and 2.1%. 
+      The most common subjects that Tweets covered included research (54%), followed by 
+      personal experience (18.2%) and raising awareness (14%). In terms of sentiment, 
+      43.6% of Tweets were classified as positive, 41.6% as neutral, and 14.9% as 
+      negative; a subset analysis of "personal experience" tweets revealed a higher 
+      proportion of negative Tweets (31.5%) and less neutral tweets (25%). Only media 
+      (β = 8.4; 95% CI [4.4, 12.4]) and follower count (minimally) predicted higher 
+      levels of Tweet engagement. CONCLUSION: This comprehensive analysis of tweets on 
+      glioblastoma found that the academic community are the most common user group on 
+      Twitter. Sentiment analysis revealed that most negative tweets are related to 
+      personal experience. These analyses provide the basis for further work into 
+      supporting and developing the care of patients with glioblastoma.
+CI  - © The Author(s) 2023. Published by Oxford University Press, the Society for 
+      Neuro-Oncology and the European Association of Neuro-Oncology.
+FAU - Alvi, Mohammed Ali
+AU  - Alvi MA
+AUID- ORCID: 0000-0002-7131-079X
+AD  - Division of Neurosurgery, Toronto Western Hospital, University Health Network, 
+      Toronto, Ontario, Canada.
+FAU - Elkaim, Lior M
+AU  - Elkaim LM
+AD  - Department of Neurology and Neurosurgery, McGill University, Montreal, Quebec, 
+      Canada.
+FAU - Levett, Jordan J
+AU  - Levett JJ
+AD  - Department of Medicine, University of Montreal, Quebec, Canada.
+FAU - Pando, Alejandro
+AU  - Pando A
+AD  - Department of Neurosurgery, Rutgers New Jersey Medical School, Newark, New 
+      Jersey, USA.
+FAU - Roy, Sabrina
+AU  - Roy S
+AD  - Department of Laboratory Medicine and Pathobiology, University of Toronto, 
+      Toronto, Ontario, Canada.
+FAU - Samuel, Nardin
+AU  - Samuel N
+AD  - Division of Neurosurgery, Toronto Western Hospital, University Health Network, 
+      Toronto, Ontario, Canada.
+FAU - Alotaibi, Naif M
+AU  - Alotaibi NM
+AD  - Department of Neurosurgery, National Neuroscience Institute, King Fahad Medical 
+      City, Riyadh, Saudi Arabia.
+FAU - Zadeh, Gelareh
+AU  - Zadeh G
+AUID- ORCID: 0000-0002-6637-4502
+AD  - Division of Neurosurgery, University of Toronto, Toronto, Ontario, Canada.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20230524
+PL  - England
+TA  - Neurooncol Adv
+JT  - Neuro-oncology advances
+JID - 101755003
+PMC - PMC10209009
+OTO - NOTNLM
+OT  - GBM
+OT  - glioblastoma
+OT  - social media
+OT  - twitter
+COIS- The authors have no conflicts of interest relevant to this article to disclose.
+EDAT- 2023/05/30 13:07
+MHDA- 2023/05/30 13:08
+CRDT- 2023/05/30 11:26
+PHST- 2023/05/30 13:08 [medline]
+PHST- 2023/05/30 13:07 [pubmed]
+PHST- 2023/05/30 11:26 [entrez]
+AID - vdad039 [pii]
+AID - 10.1093/noajnl/vdad039 [doi]
+PST - epublish
+SO  - Neurooncol Adv. 2023 May 24;5(1):vdad039. doi: 10.1093/noajnl/vdad039. 
+      eCollection 2023 Jan-Dec.
+
+PMID- 34040472
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220423
+IS  - 1179-2736 (Print)
+IS  - 1179-2736 (Electronic)
+IS  - 1179-2736 (Linking)
+VI  - 12
+DP  - 2021
+TI  - Murine Leukemia-Derived Extracellular Vesicles Elicit Antitumor Immune Response.
+PG  - 277-285
+LID - 10.2147/JBM.S308861 [doi]
+AB  - BACKGROUND: Extracellular vesicles (EVs) are heterogeneous lipid bilayer 
+      particles secreted by cells. EVs contain proteins, RNA, DNA and other cargo that 
+      can have immunomodulatory effects. Cancer-derived EVs have been described as 
+      having immunomodulating effects in vivo with immunosuppressive and pro-tumor 
+      growth capabilities. However, cancer-derived EVs have also been harnessed and 
+      utilized for anti-cancer potential. METHODS: To assess the immunomodulatory 
+      effect of EVs produced by acute myeloid leukemia (AML) cells, we isolated 
+      vesicles secreted by the murine AML cell line, C1498, and investigated their 
+      effect on in vitro and in vivo immune responses. RESULTS: These leukemia-derived 
+      EVs were found to induce increased proliferation of CD3+ cells and enhanced 
+      cytolytic activity of CD3+ cells directed toward leukemic cells in vitro. 
+      Injection of leukemia-derived EVs into syngeneic naïve mice induced T cell 
+      responses in vivo and resulted in enhanced immune responses upon T cell 
+      re-stimulation in vitro. CONCLUSION: These findings indicate that C1498-derived 
+      EVs have immunomodulatory effects on cell-mediated immune responses that could 
+      potentially be utilized to facilitate anti-leukemia immune responses.
+CI  - © 2021 Pando et al.
+FAU - Pando, Alejandro
+AU  - Pando A
+AD  - Division of Hematology/Oncology, Department of Medicine, Rhode Island Hospital 
+      and the Warren Alpert School of Medicine at Brown University, Providence, RI, 
+      USA.
+FAU - Fast, Loren
+AU  - Fast L
+AD  - Division of Hematology/Oncology, Department of Medicine, Rhode Island Hospital 
+      and the Warren Alpert School of Medicine at Brown University, Providence, RI, 
+      USA.
+FAU - Dubielecka, Patrycja M
+AU  - Dubielecka PM
+AD  - Division of Hematology/Oncology, Department of Medicine, Rhode Island Hospital 
+      and the Warren Alpert School of Medicine at Brown University, Providence, RI, 
+      USA.
+FAU - Chorzalska, Anna
+AU  - Chorzalska A
+AD  - Division of Hematology/Oncology, Department of Medicine, Rhode Island Hospital 
+      and the Warren Alpert School of Medicine at Brown University, Providence, RI, 
+      USA.
+FAU - Wen, Sicheng
+AU  - Wen S
+AUID- ORCID: 0000-0002-4428-3634
+AD  - Division of Hematology/Oncology, Department of Medicine, Rhode Island Hospital 
+      and the Warren Alpert School of Medicine at Brown University, Providence, RI, 
+      USA.
+FAU - Reagan, John
+AU  - Reagan J
+AD  - Division of Hematology/Oncology, Department of Medicine, Rhode Island Hospital 
+      and the Warren Alpert School of Medicine at Brown University, Providence, RI, 
+      USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20210517
+PL  - New Zealand
+TA  - J Blood Med
+JT  - Journal of blood medicine
+JID - 101550884
+PMC - PMC8139718
+OTO - NOTNLM
+OT  - acute myeloid leukemia
+OT  - extracellular vesicles
+OT  - immune responses
+COIS- The authors declare that they have no conflicts of interest.
+EDAT- 2021/05/28 06:00
+MHDA- 2021/05/28 06:01
+CRDT- 2021/05/27 06:38
+PHST- 2021/02/28 00:00 [received]
+PHST- 2021/04/20 00:00 [accepted]
+PHST- 2021/05/27 06:38 [entrez]
+PHST- 2021/05/28 06:00 [pubmed]
+PHST- 2021/05/28 06:01 [medline]
+AID - 308861 [pii]
+AID - 10.2147/JBM.S308861 [doi]
+PST - epublish
+SO  - J Blood Med. 2021 May 17;12:277-285. doi: 10.2147/JBM.S308861. eCollection 2021.
+
+PMID- 36094667
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20221216
+LR  - 20240223
+IS  - 1432-0932 (Electronic)
+IS  - 0940-6719 (Linking)
+VI  - 31
+IP  - 12
+DP  - 2022 Dec
+TI  - Cerebrospinal fluid (CSF) leak after elective lumbar spinal fusion: Who is at 
+      risk?
+PG  - 3560-3565
+LID - 10.1007/s00586-022-07383-9 [doi]
+AB  - PURPOSE: CSF leaks are a known complication of lumbar fusion surgery. There is a 
+      scarcity of literature describing the incidence and risk factors associated with 
+      this complication. The aim of this study was to identify patients who are at risk 
+      of developing postoperative CSF leak. METHODS: The Nationwide Inpatient Sample 
+      database was used to identify patients who had lumbar fusion in the US from 2002 
+      to 2014. Inpatient outcomes included the incidence and risk of developing CSF 
+      leak based on selected patient-specific characteristics. Secondary outcomes 
+      included average length of stay, mean costs, and mortality rates. All statistical 
+      analyses were conducted based on multivariate regression models using the SPSS 
+      software. RESULTS: A total of 439,220 patients who underwent elective lumbar 
+      fusion procedures were identified. Of these patients, 2.6% (11,636 /439,220) were 
+      found to have CSF leak. Independent important risk factors for CSF leak 
+      development included: older age (OR: 1.025; 95% CI: 1.02-1.03; p < 0.0001), 
+      posterior approach (OR: 1.71; 95% CI: 1.59-1.85; p < 0.0001) compared to anterior 
+      approach, chronic deficiency anemia (OR: 1.21; 95% CI:1.14-1.30; p < 0.0001), 
+      obesity (OR: 1.22; 95% CI: 1.15-1.30; p < 0.0001), and pulmonary circulatory 
+      disease (OR: 1.44; 95% CI: 1.18-1.75; p < 0.0001). CSF leak was associated with 
+      increased length of stay (5.39 ± 3.86 vs. 3.74 ± 2.55; p < 0.0001), 
+      hospitalization costs (120,129.0 ± 88,123.5 vs. 89,226.8 ± 65,350.3; p < 0.0001) 
+      and mortality (0.3% vs. 0.1%; p < 0.05). CONCLUSION: Spine surgeons should be 
+      aware of certain patient and procedure-specific characteristics that increase the 
+      risk of developing postoperative CSF leak after lumbar fusion in order to improve 
+      patient outcomes.
+CI  - © 2022. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+      part of Springer Nature.
+FAU - Hanna, Gabriel
+AU  - Hanna G
+AD  - Rutgers New Jersey Medical School, 140 Bergen Street, Newark, NJ, 07103, USA. 
+      gh221@scarletmail.rutgers.edu.
+FAU - Pando, Alejandro
+AU  - Pando A
+AD  - Rutgers New Jersey Medical School, 140 Bergen Street, Newark, NJ, 07103, USA.
+FAU - Saela, Stephen
+AU  - Saela S
+AD  - Saint Joseph Regional Medical Center, Paterson, NJ, USA.
+FAU - Emami, Arash P
+AU  - Emami AP
+AD  - Saint Joseph Regional Medical Center, Paterson, NJ, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20220912
+PL  - Germany
+TA  - Eur Spine J
+JT  - European spine journal : official publication of the European Spine Society, the 
+      European Spinal Deformity Society, and the European Section of the Cervical Spine 
+      Research Society
+JID - 9301980
+SB  - IM
+MH  - Humans
+MH  - *Spinal Fusion/adverse effects
+MH  - Retrospective Studies
+MH  - Cerebrospinal Fluid Leak/epidemiology/etiology
+MH  - Postoperative Complications/epidemiology/etiology
+MH  - Risk Factors
+OTO - NOTNLM
+OT  - CSF leak
+OT  - Complication
+OT  - Lumbar fusion
+OT  - Regression analysis
+OT  - Spinal surgery
+EDAT- 2022/09/13 06:00
+MHDA- 2022/12/15 06:00
+CRDT- 2022/09/12 11:50
+PHST- 2022/06/26 00:00 [received]
+PHST- 2022/09/04 00:00 [accepted]
+PHST- 2022/06/26 00:00 [revised]
+PHST- 2022/09/13 06:00 [pubmed]
+PHST- 2022/12/15 06:00 [medline]
+PHST- 2022/09/12 11:50 [entrez]
+AID - 10.1007/s00586-022-07383-9 [pii]
+AID - 10.1007/s00586-022-07383-9 [doi]
+PST - ppublish
+SO  - Eur Spine J. 2022 Dec;31(12):3560-3565. doi: 10.1007/s00586-022-07383-9. Epub 
+      2022 Sep 12.
+
+PMID- 36208714
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20221025
+LR  - 20221025
+IS  - 1879-0038 (Electronic)
+IS  - 0378-1119 (Linking)
+VI  - 850
+DP  - 2023 Jan 20
+TI  - Tumor Derived Extracellular Vesicles Modulate Gene Expression in T cells.
+PG  - 146920
+LID - S0378-1119(22)00740-5 [pii]
+LID - 10.1016/j.gene.2022.146920 [doi]
+AB  - Extracellular vesicles (EVs) are excreted from all cells in the human body and 
+      are heterogeneous lipid bilayer particles containing proteins, RNA, DNA, and 
+      other cargo. T cells are primary players of the adaptive immune system and have a 
+      significant role in anti-cancer immunotherapies. Tumor derived EVs have diverse 
+      effects on host cells including modulating the immune response. In this study, we 
+      investigate the role acute myeloid leukemia (AML) derived EVs have on modulation 
+      of gene expression levels in three different T cell populations (CD8+, CD4+, and 
+      CD4 + CD39 + T cells). AML derived EVs modulate gene expression levels in all 
+      three cell populations with transcripts associated with major immunoregulatory 
+      pathways being significantly altered. Genes whose expression were significantly 
+      upregulated or downregulated were analyzed for gene ontogeny category expression 
+      and for the impact of the changes on specific immunoregulatory pathways. CD8 + T 
+      cells were modulated to a larger extent than other T cell populations and gene 
+      expression levels associated with proliferation and differentiation were 
+      influenced by AML-derived EVs.
+CI  - Copyright © 2022 Elsevier B.V. All rights reserved.
+FAU - Pando, Alejandro
+AU  - Pando A
+AD  - Warren Alpert School of Medicine at Brown University and Division of 
+      Hematology/Oncology, Rhode Island Hospital, Providence, RI, United States; Center 
+      for Biomedical Engineering, Brown University, Providence, RI, United States. 
+      Electronic address: alejandro_pando@alumni.brown.edu.
+FAU - Schorl, Christoph
+AU  - Schorl C
+AD  - Brown University, Dept. of Molecular Biology, Cell Biology and Biochemistry, 
+      Genomics Core, 70 Ship Street, Providence, RI 02903, United States.
+FAU - Fast, Loren D
+AU  - Fast LD
+AD  - Warren Alpert School of Medicine at Brown University and Division of 
+      Hematology/Oncology, Rhode Island Hospital, Providence, RI, United States.
+FAU - Reagan, John L
+AU  - Reagan JL
+AD  - Warren Alpert School of Medicine at Brown University and Division of 
+      Hematology/Oncology, Rhode Island Hospital, Providence, RI, United States.
+LA  - eng
+PT  - Journal Article
+DEP - 20221005
+PL  - Netherlands
+TA  - Gene
+JT  - Gene
+JID - 7706761
+RN  - 0 (Lipid Bilayers)
+RN  - 63231-63-0 (RNA)
+SB  - IM
+MH  - Humans
+MH  - T-Lymphocytes
+MH  - Lipid Bilayers/metabolism
+MH  - *Extracellular Vesicles/genetics/metabolism
+MH  - RNA/metabolism
+MH  - Gene Expression
+MH  - *Neoplasms/metabolism
+OTO - NOTNLM
+OT  - Exosomes
+OT  - Extracellular vesicles
+OT  - Immunology
+OT  - Immunoregulation
+OT  - Immunotherapy
+OT  - Microvesicles
+OT  - Tumor derived EVs
+COIS- Declaration of Competing Interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2022/10/09 06:00
+MHDA- 2022/10/26 06:00
+CRDT- 2022/10/08 19:14
+PHST- 2022/05/20 00:00 [received]
+PHST- 2022/09/19 00:00 [revised]
+PHST- 2022/09/21 00:00 [accepted]
+PHST- 2022/10/09 06:00 [pubmed]
+PHST- 2022/10/26 06:00 [medline]
+PHST- 2022/10/08 19:14 [entrez]
+AID - S0378-1119(22)00740-5 [pii]
+AID - 10.1016/j.gene.2022.146920 [doi]
+PST - ppublish
+SO  - Gene. 2023 Jan 20;850:146920. doi: 10.1016/j.gene.2022.146920. Epub 2022 Oct 5.
+
+PMID- 23232156
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130524
+LR  - 20220408
+IS  - 1878-6448 (Electronic)
+IS  - 1053-8135 (Linking)
+VI  - 31
+IP  - 4
+DP  - 2012
+TI  - Vegetative state is a pejorative term.
+PG  - 345-7
+LID - 10.3233/NRE-2012-00802 [doi]
+AB  - The term persistent vegetative state (PVS) refers to the only circumstance in 
+      which an apparent dissociation of both components of consciousness is found, 
+      characterized by preservation of wakefulness with an apparent loss of awareness. 
+      Several authors have recently demonstrated by functional neuroimaging studies 
+      that a small subset of unresponsive "vegetative" patients may show unambiguous 
+      signs of consciousness and command following that is inaccessible to clinical 
+      examination at the bedside. The term "estado vegetativo" used in Spanish to 
+      describe the PVS syndrome by physicians came from the English-Spanish 
+      translation. The Spanish term "vegetativo" is related to unconscious vital 
+      functions, and "vegetal" is relative to plants. According to our experience, when 
+      a physician informs to patients' relatives that his/her family member's diagnosis 
+      is a "estado vegetativo", they understand the he/she is no more a human being, 
+      that there is no hope of recovery. The European Task Force on Disorders of 
+      Consciousness has recently proposed a new term, unresponsive wakefulness syndrome 
+      (UWS), to assist society in avoiding the depreciatory term vegetative state. Our 
+      group has embraced the use of the new term UWS and might suggest that we change 
+      our concept and use of the term MCS to minimally responsive wakefulness state 
+      (MRWS), or minimally aware wakefulness state (MAWS). Medical terms must be 
+      current and avoid any pejorative description of patients, which will promote our 
+      abilities to serve humankind and challenge neuroscientists to offer society new 
+      and realistic hopes for neurorehabilitation.
+FAU - Machado, Calixto
+AU  - Machado C
+AD  - Department of Clinical Neurophysiology, Institute of Neurology and Neurosurgery, 
+      Havana, Cuba. braind@infomed.sld.cu
+FAU - Estévez, Mario
+AU  - Estévez M
+FAU - Carrick, Frederick R
+AU  - Carrick FR
+FAU - Rodríguez, Rafael
+AU  - Rodríguez R
+FAU - Pérez-Nellar, Jesús
+AU  - Pérez-Nellar J
+FAU - Chinchilla, Mauricio
+AU  - Chinchilla M
+FAU - Machado, Yanín
+AU  - Machado Y
+FAU - Pérez-Hoz, Grisel
+AU  - Pérez-Hoz G
+FAU - Carballo, Maylén
+AU  - Carballo M
+FAU - Fleitas, Marcia
+AU  - Fleitas M
+FAU - Pando, Alejandro
+AU  - Pando A
+LA  - eng
+PT  - Journal Article
+PL  - Netherlands
+TA  - NeuroRehabilitation
+JT  - NeuroRehabilitation
+JID - 9113791
+SB  - IM
+MH  - Brain/physiopathology
+MH  - Consciousness/physiology
+MH  - Humans
+MH  - Persistent Vegetative State/*diagnosis/physiopathology
+MH  - *Terminology as Topic
+EDAT- 2012/12/13 06:00
+MHDA- 2013/05/28 06:00
+CRDT- 2012/12/13 06:00
+PHST- 2012/12/13 06:00 [entrez]
+PHST- 2012/12/13 06:00 [pubmed]
+PHST- 2013/05/28 06:00 [medline]
+AID - R61G525U387547V6 [pii]
+AID - 10.3233/NRE-2012-00802 [doi]
+PST - ppublish
+SO  - NeuroRehabilitation. 2012;31(4):345-7. doi: 10.3233/NRE-2012-00802.
+
+PMID- 37000219
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230605
+LR  - 20230606
+IS  - 1432-0932 (Electronic)
+IS  - 0940-6719 (Linking)
+VI  - 32
+IP  - 6
+DP  - 2023 Jun
+TI  - Robotic assistance in lumbar fusion surgery: trends and patterns from 2016-2019.
+PG  - 1966-1972
+LID - 10.1007/s00586-023-07663-y [doi]
+AB  - PURPOSE: Robotic-assisted spine surgery is an emerging field that is growing in 
+      utilization. Intraoperative robotic surgical units cost upwards of $600,000 for 
+      medical facilities to purchase. Despite significant cost barriers, these devices 
+      are highly marketable for hospitals and physicians. METHODS: The Nationwide 
+      Inpatient Sample database from 2016 to 2019 was reviewed. Inclusion criteria were 
+      patients over 18 years of age who underwent elective lumbar spinal fusion. Trends 
+      of robotic-assisted lumbar fusion were examined over time, as well as stratified 
+      based on patient and surgical characteristics. RESULTS: A total of 176,377 
+      patients met the inclusion criteria. The overall rate of robotic-assisted lumbar 
+      fusion was 1.2% (2,131/174,246). Patients with private insurance were more likely 
+      to receive robotic-assisted lumbar fusion (40.3% vs. 37.5%; p < 0.05). 
+      Stratifying by race, whites were more likely to receive robotic-assisted lumbar 
+      fusion (84.1% vs. 79.5%; p < 0.05). Patients who underwent robotic-assisted 
+      lumbar fusion were significantly more likely to have a diagnosis of 
+      spondylolisthesis compared to those that underwent non-robotic-assisted lumbar 
+      fusion (25.9% vs. 22.0%; p < 0.05). Patients with lumbar fusion done via the 
+      anterior approach were more likely to have robotic-assisted surgery compared to 
+      other approaches (25.2% vs. 21.3; p < 0.05). Overall, there was a steady increase 
+      in its use over time, with patients who underwent lumbar fusion procedures four 
+      times more likely to receive robotic assistance in 2019 compared to 2016 (OR: 
+      4.0; 95% CI: 3.5-4.6; p < 0.0001). Robotic-assisted lumbar fusion was associated 
+      with higher inpatient costs ($170,036.40 vs. $139,026.10; p < 0.0001) despite 
+      having equivalent length of stay (3.31 ± 2.6 vs.3.37 ± 2.6; p = 0.06). 
+      CONCLUSION: Robotic-assisted lumbar fusion is on the rise. Patients who had 
+      private insurance, were diagnosed with spondylolisthesis, and who had lumbar 
+      fusion via the anterior approach were more likely to undergo lumbar fusion using 
+      robotic assistance.
+CI  - © 2023. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+      part of Springer Nature.
+FAU - Pando, Alejandro
+AU  - Pando A
+AD  - Department of Neurological Surgery, Rutgers New Jersey Medical School, 185 S 
+      Orange Ave, Newark, NJ, 07103, USA. alejandro_pando@alumni.brown.edu.
+FAU - Hanna, Gabriel
+AU  - Hanna G
+AD  - Lower Manhattan Presbyterian Hospital, New York, NY, USA.
+FAU - Goldstein, Ira
+AU  - Goldstein I
+AD  - Department of Neurological Surgery, Rutgers New Jersey Medical School, 185 S 
+      Orange Ave, Newark, NJ, 07103, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20230331
+PL  - Germany
+TA  - Eur Spine J
+JT  - European spine journal : official publication of the European Spine Society, the 
+      European Spinal Deformity Society, and the European Section of the Cervical Spine 
+      Research Society
+JID - 9301980
+SB  - IM
+MH  - Humans
+MH  - Adolescent
+MH  - Adult
+MH  - *Robotic Surgical Procedures/methods
+MH  - *Spondylolisthesis/epidemiology/surgery
+MH  - Lumbar Vertebrae/surgery
+MH  - *Robotics
+MH  - Lumbosacral Region/surgery
+MH  - *Spinal Fusion/methods
+MH  - Retrospective Studies
+MH  - Treatment Outcome
+OTO - NOTNLM
+OT  - Lumbar fusion
+OT  - Robotic assisted
+OT  - Robotics
+OT  - Spine surgery
+EDAT- 2023/04/01 06:00
+MHDA- 2023/06/05 06:42
+CRDT- 2023/03/31 11:13
+PHST- 2022/08/31 00:00 [received]
+PHST- 2023/03/17 00:00 [accepted]
+PHST- 2023/02/14 00:00 [revised]
+PHST- 2023/06/05 06:42 [medline]
+PHST- 2023/04/01 06:00 [pubmed]
+PHST- 2023/03/31 11:13 [entrez]
+AID - 10.1007/s00586-023-07663-y [pii]
+AID - 10.1007/s00586-023-07663-y [doi]
+PST - ppublish
+SO  - Eur Spine J. 2023 Jun;32(6):1966-1972. doi: 10.1007/s00586-023-07663-y. Epub 2023 
+      Mar 31.
+
+PMID- 36481442
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230215
+LR  - 20230215
+IS  - 1878-8769 (Electronic)
+IS  - 1878-8750 (Linking)
+VI  - 170
+DP  - 2023 Feb
+TI  - Palliative Care Effects on Survival in Glioblastoma: Who Receives Palliative 
+      Care?
+PG  - e847-e857
+LID - S1878-8750(22)01695-3 [pii]
+LID - 10.1016/j.wneu.2022.11.143 [doi]
+AB  - BACKGROUND: High-grade glioma has a poor overall survival with profoundly 
+      negative effects on the patient's quality of life and their caregivers. In this 
+      study, we investigate the factors associated with receiving palliative care in 
+      patients diagnosed with glioblastoma (GBM) and the association of receiving or 
+      not receiving palliative care with overall survival. METHODS: The National Cancer 
+      Database was analyzed for patterns of care in patients ≥18 years old who were 
+      diagnosed with histologically confirmed grade IV GBM between 2004 and 2017. All 
+      statistical analyses were conducted based on univariate and multivariate 
+      regression models. RESULTS: A total of 85,380 patients with the diagnosis of GBM 
+      were identified. Of the study population, 2803 patients (3.28%) received 
+      palliative therapy. On multivariate logistic regression analysis, age ≥70 years 
+      (odds ratio [OR], 1.28; 95% confidence interval [CI], 1.04-1.58; P < 0.001), 
+      Medicare (OR, 1.348; CI, 1.13-1.61; P = 0.001), tumor size ≥5 cm (OR, 1.15; CI, 
+      1.01-1.31; P = 0.036), tumor multifocality (OR, 1.69; CI, 1.47-1.96; P < 0.001), 
+      lobe overlapping tumor (OR, 2.09; CI, 1.13-3.86; P = 0.018), Charlson-Deyo score 
+      >0, receiving treatment at a nonacademic/research program, and medium volume of 
+      cancers managed at the treatment facility (OR, 1.19; CI, 1.02-1.38; P = 0.026) 
+      were independent risk factors associated with an increased chance of receiving 
+      palliative care. In contrast, a household income of ≥$40,227 and high volume of 
+      cancer managed at the treatment facility (OR, 0.75; CI, 0.58-0.96; P = 0.02) were 
+      independent risk factors associated with decreased palliative care. Patients who 
+      received no palliative care had a 2-year overall survival longer than those who 
+      received palliative care (22% vs. 8.8%; P < 0.001). In patients receiving 
+      palliative care, those who received recommended treatment had a 2-year overall 
+      survival longer than those who declined part or whole recommended treatment (9.1% 
+      vs. 3.8%; P = 0.009). CONCLUSIONS: In patients with high-grade glioma, receiving 
+      palliative care is associated with decreased survival. When receiving palliative 
+      care, recommended treatment increases the number of patients who survive more 
+      than 2 years approximately 3-fold compared with those declining part or whole 
+      treatment.
+CI  - Copyright © 2022 Elsevier Inc. All rights reserved.
+FAU - Pando, Alejandro
+AU  - Pando A
+AD  - Department of Neurological Surgery, Rutgers New Jersey Medical School, Newark, 
+      New Jersey, USA. Electronic address: alejandro_pando@alumni.brown.edu.
+FAU - Patel, Aman M
+AU  - Patel AM
+AD  - Department of Neurological Surgery, Rutgers New Jersey Medical School, Newark, 
+      New Jersey, USA.
+FAU - Choudhry, Hannaan S
+AU  - Choudhry HS
+AD  - Department of Neurological Surgery, Rutgers New Jersey Medical School, Newark, 
+      New Jersey, USA.
+FAU - Eloy, Jean Anderson
+AU  - Eloy JA
+AD  - Department of Otolaryngology-Head and Neck Surgery, Rutgers New Jersey Medical 
+      School, Newark, New Jersey, USA.
+FAU - Goldstein, Ira M
+AU  - Goldstein IM
+AD  - Department of Neurological Surgery, Rutgers New Jersey Medical School, Newark, 
+      New Jersey, USA.
+FAU - Liu, James K
+AU  - Liu JK
+AD  - Department of Neurological Surgery, Rutgers New Jersey Medical School, Newark, 
+      New Jersey, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20221205
+PL  - United States
+TA  - World Neurosurg
+JT  - World neurosurgery
+JID - 101528275
+SB  - IM
+MH  - Humans
+MH  - Aged
+MH  - United States/epidemiology
+MH  - Adolescent
+MH  - *Glioblastoma/therapy
+MH  - Palliative Care
+MH  - Quality of Life
+MH  - Medicare
+MH  - *Glioma
+OTO - NOTNLM
+OT  - Cancer
+OT  - End-of-life care
+OT  - Glioblastoma
+OT  - Glioma
+OT  - Palliative care
+OT  - Survival
+OT  - Tumor
+EDAT- 2022/12/09 06:00
+MHDA- 2023/02/16 06:00
+CRDT- 2022/12/08 23:33
+PHST- 2022/11/24 00:00 [received]
+PHST- 2022/11/30 00:00 [accepted]
+PHST- 2022/12/09 06:00 [pubmed]
+PHST- 2023/02/16 06:00 [medline]
+PHST- 2022/12/08 23:33 [entrez]
+AID - S1878-8750(22)01695-3 [pii]
+AID - 10.1016/j.wneu.2022.11.143 [doi]
+PST - ppublish
+SO  - World Neurosurg. 2023 Feb;170:e847-e857. doi: 10.1016/j.wneu.2022.11.143. Epub 
+      2022 Dec 5.
+
+PMID- 37189316
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230517
+LR  - 20230517
+IS  - 1878-8769 (Electronic)
+IS  - 1878-8750 (Linking)
+VI  - 173
+DP  - 2023 May
+TI  - In Reply to the Letter to the Editor Regarding "Palliative Care Effects on 
+      Survival in Glioblastoma: Who Receives Palliative Care?".
+PG  - 296
+LID - S1878-8750(23)00312-1 [pii]
+LID - 10.1016/j.wneu.2023.03.017 [doi]
+FAU - Pando, Alejandro
+AU  - Pando A
+AD  - Department of Neurological Surgery, Rutgers New Jersey Medical School, Newark, 
+      New Jersey, USA. Electronic address: alejandro_pando@alumni.brown.edu.
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - World Neurosurg
+JT  - World neurosurgery
+JID - 101528275
+SB  - IM
+MH  - Humans
+MH  - *Glioblastoma/therapy
+MH  - Palliative Care
+MH  - *Brain Neoplasms/therapy
+EDAT- 2023/05/16 06:42
+MHDA- 2023/05/17 06:42
+CRDT- 2023/05/16 01:07
+PHST- 2023/03/03 00:00 [received]
+PHST- 2023/03/04 00:00 [accepted]
+PHST- 2023/05/17 06:42 [medline]
+PHST- 2023/05/16 06:42 [pubmed]
+PHST- 2023/05/16 01:07 [entrez]
+AID - S1878-8750(23)00312-1 [pii]
+AID - 10.1016/j.wneu.2023.03.017 [doi]
+PST - ppublish
+SO  - World Neurosurg. 2023 May;173:296. doi: 10.1016/j.wneu.2023.03.017.
+
+PMID- 35863648
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230217
+LR  - 20230217
+IS  - 1878-8769 (Electronic)
+IS  - 1878-8750 (Linking)
+VI  - 167
+DP  - 2022 Nov
+TI  - Thirty-Day Stroke and Mortality After Carotid Revascularization Among 
+      Octogenarians with Symptomatic Carotid Stenosis: Real-World Evidence from a 
+      National Surgical Quality Registry.
+PG  - e40-e52
+LID - S1878-8750(22)01003-8 [pii]
+LID - 10.1016/j.wneu.2022.07.056 [doi]
+AB  - BACKGROUND: The outcomes of carotid revascularization among octogenarians are not 
+      well studied. We present analyses of 30-day stroke and mortality of patients aged 
+      ≥80 years using real-world data from a national surgical quality registry. 
+      METHODS: The National Surgical Quality Improvement Program targeted data set for 
+      carotid endarterectomy (CEA) and carotid angioplasty and stenting (CAS) was 
+      queried for patients aged ≥80 years undergoing CEA and CAS between 2012 and 2019. 
+      RESULTS: A total of 122 and 3013 patients aged ≥80 years with symptomatic carotid 
+      stenosis undergoing CAS and CEA, respectively, were identified. Patients with CAS 
+      were more likely to be older than 90 years (P = 0.006) and have diabetes (P = 
+      0.036), were more likely to have high-risk anatomy (P < 0.001), but had lower 
+      American Society of Anesthesiologists score (P < 0.001). An ipsilateral stroke 
+      had been experienced by 43.6% of patients with CAS and 44.7% of patients with 
+      CEA. The rate of 30-day composite outcome was 6.4% in the CAS group and 4.5% in 
+      the CEA group (P = 0.326). The f 30-day mortality was significantly higher for 
+      CAS (5.6% vs. 1.7%, P = 0.001); however, the difference between the cohorts was 
+      not significant (CAS, 2.4% vs. CEA, 3.4%, P = 0.555). On multivariable analysis, 
+      CEA was associated with significantly lower odds of mortality (odds ratio [OR], 
+      0.32; P = 0.0145). Symptom presentation other than ipsilateral stroke was 
+      associated with significantly decreased odds of 30-day outcome (amaurosis 
+      fugax/transient monocular blindness, OR, 0.39, P = 0.004; transient ischemic 
+      attack, OR, 0.57, P = 0.003), whereas higher age had significantly increased odds 
+      (OR, 1.95; P = 0.0172). CONCLUSIONS: Real-world analyses from a surgical quality 
+      registry show that CEA may be associated with lower odds of mortality compared 
+      with CAS among octogenarians.
+CI  - Copyright © 2022 Elsevier Inc. All rights reserved.
+FAU - Madhani, Sarosh Irfan
+AU  - Madhani SI
+AD  - Department of Neurologic Surgery, Mayo Clinic, Rochester, Minnesota, USA.
+FAU - Alvi, Mohammed Ali
+AU  - Alvi MA
+AD  - Division of Neurosurgery, Department of Surgery, University of Toronto, Toronto, 
+      Ontario, Canada. Electronic address: Mohammedali.alvi@gmail.com.
+FAU - Pando, Alejandro
+AU  - Pando A
+AD  - Department of Neurosurgery, Rutgers New Jersey Medical School, Newark, New 
+      Jersey, USA.
+FAU - Alotaibi, Naif M
+AU  - Alotaibi NM
+AD  - Department of Neurosurgery, National Neuroscience Institute, King Fahad Medical 
+      City and College of Medicine, Alfaisal University, Riyadh, Saudi Arabia.
+FAU - Lanzino, Giuseppe
+AU  - Lanzino G
+AD  - Department of Neurologic Surgery, Mayo Clinic, Rochester, Minnesota, USA.
+FAU - Al-Omran, Mohammed
+AU  - Al-Omran M
+AD  - Division of Vascular Surgery and Department of Surgery, St Michael's Hospital, 
+      University of Toronto, Toronto, Ontario, Canada.
+FAU - Savastano, Luis
+AU  - Savastano L
+AD  - Department of Neurologic Surgery, Mayo Clinic, Rochester, Minnesota, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20220718
+PL  - United States
+TA  - World Neurosurg
+JT  - World neurosurgery
+JID - 101528275
+SB  - IM
+MH  - Aged, 80 and over
+MH  - Humans
+MH  - *Carotid Stenosis/complications
+MH  - Octogenarians
+MH  - Risk Factors
+MH  - Risk Assessment
+MH  - *Myocardial Infarction/etiology
+MH  - Treatment Outcome
+MH  - *Stroke/etiology
+MH  - *Endarterectomy, Carotid/adverse effects
+MH  - Registries
+MH  - Stents
+MH  - Retrospective Studies
+OTO - NOTNLM
+OT  - Carotid
+OT  - Carotid artery stenting
+OT  - Carotid stenosis
+OT  - Endarterectomy
+OT  - Outcomes
+OT  - Revascularization
+OT  - Stroke
+EDAT- 2022/07/22 06:00
+MHDA- 2023/02/18 06:00
+CRDT- 2022/07/21 19:37
+PHST- 2022/04/27 00:00 [received]
+PHST- 2022/07/12 00:00 [revised]
+PHST- 2022/07/13 00:00 [accepted]
+PHST- 2022/07/22 06:00 [pubmed]
+PHST- 2023/02/18 06:00 [medline]
+PHST- 2022/07/21 19:37 [entrez]
+AID - S1878-8750(22)01003-8 [pii]
+AID - 10.1016/j.wneu.2022.07.056 [doi]
+PST - ppublish
+SO  - World Neurosurg. 2022 Nov;167:e40-e52. doi: 10.1016/j.wneu.2022.07.056. Epub 2022 
+      Jul 18.
+
+PMID- 20174506
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20110714
+LR  - 20211020
+IS  - 1998-3549 (Electronic)
+IS  - 0972-2327 (Print)
+IS  - 0972-2327 (Linking)
+VI  - 12
+IP  - 3
+DP  - 2009 Jul
+TI  - Brain death diagnosis and apnea test safety.
+PG  - 197-200
+LID - 10.4103/0972-2327.56326 [doi]
+AB  - The apnea test is a mandatory examination for determining brain death (BD), 
+      because it provides an essential sign of definitive loss of brainstem function. 
+      However, several authors have expressed their concern about the safety of this 
+      procedure as there are potential complications such as severe hypotension, 
+      pneumothorax, excessive hypercarbia, hypoxia, acidosis, and cardiac arrhythmia or 
+      asystole. These complications may constrain the examiner to abort the test, 
+      thereby compromising BD diagnosis. Nevertheless, when an appropriate 
+      oxygen-diffusion procedure is used, this technique is safe. We review here the 
+      prerequisites to begin the test, its procedure, potential complications, and the 
+      use of alternative ancillary tests. We recommend that the apnea test be retained 
+      as a mandatory procedure for the diagnosis of BD. In those situations when the 
+      apnea test is terminated by the examiner for some reason or when it is impossible 
+      to carry it out in a patient due to the presence of some pathologic condition, 
+      alternative ancillary tests should be used to confirm BD.
+FAU - Machado, Calixto
+AU  - Machado C
+AD  - Institute of Neurology and Neurosurgery, Department of Clinical Neurophysiology, 
+      Havana, Cuba.
+FAU - Perez, Jesus
+AU  - Perez J
+FAU - Scherle, Claudio
+AU  - Scherle C
+FAU - Areu, Alejandro
+AU  - Areu A
+FAU - Pando, Alejandro
+AU  - Pando A
+LA  - eng
+PT  - Journal Article
+PL  - India
+TA  - Ann Indian Acad Neurol
+JT  - Annals of Indian Academy of Neurology
+JID - 101273955
+PMC - PMC2824942
+OTO - NOTNLM
+OT  - Ancillary tests
+OT  - apnea test
+OT  - brain death
+COIS- Conflict of Interest: Nil
+EDAT- 2010/02/23 06:00
+MHDA- 2010/02/23 06:01
+CRDT- 2010/02/23 06:00
+PHST- 2009/07/25 00:00 [received]
+PHST- 2009/08/27 00:00 [revised]
+PHST- 2009/08/29 00:00 [accepted]
+PHST- 2010/02/23 06:00 [entrez]
+PHST- 2010/02/23 06:00 [pubmed]
+PHST- 2010/02/23 06:01 [medline]
+AID - AIAN-12-197 [pii]
+AID - 10.4103/0972-2327.56326 [doi]
+PST - ppublish
+SO  - Ann Indian Acad Neurol. 2009 Jul;12(3):197-200. doi: 10.4103/0972-2327.56326.
+
+PMID- 36822401
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230517
+LR  - 20230517
+IS  - 1878-8769 (Electronic)
+IS  - 1878-8750 (Linking)
+VI  - 173
+DP  - 2023 May
+TI  - Analysis of Neurosurgery Influencers on Instagram: Trends and Patterns of the 
+      Neurosurgeon's Social Media Footprint.
+PG  - e422-e430
+LID - S1878-8750(23)00217-6 [pii]
+LID - 10.1016/j.wneu.2023.02.070 [doi]
+AB  - OBJECTIVE: Social media outlets such as Instagram have recently become a popular 
+      tool for medical professionals to disseminate medical information to a large 
+      public audience. In this study, we identify the top neurosurgery influencers on 
+      Instagram and analyze trends between content type, audience interaction, and user 
+      engagement. METHODS: A list of neurosurgeon Instagram profiles based on the 
+      number of followers, user engagement, and average interaction were compiled. 
+      Outcome variables such as the numbers of followers, likes, comments, hashtags, 
+      caption words, user engagement, and average user activity were collected and 
+      analyzed. The most recent 30 posts from each included profile were stratified 
+      into categories on the basis of type of content. RESULTS: A total of 73 
+      neurologic surgeon "influencer" Instagram profiles met our inclusion and 
+      exclusion criteria (67 male [91.8%]; 6 female [8.2%]). Of the most recent 30 
+      posts for each influencer, clinical and professional posts represented the 
+      majority (67.4%), while lifestyle and patient posts made up 30.3% and 2.3%, 
+      respectively. In comparison to the rest of the field (n = 43), the 30 profiles 
+      with the most followers had a significantly higher average interaction (418.77 
+      vs. 126.79; P < 0.001), number of uploads (578.87 vs. 184.58; P = 0.004), average 
+      number of likes given in the top posts (770.71 vs. 2150.40; P < 0.001), average 
+      posts per week (2.40 vs. 1.12; P = 0.041), and average posts per month (9.91 vs. 
+      4.02.; P = 0.015). CONCLUSIONS: Neurosurgeon influencers on Instagram post 
+      content that predominantly features educational and academic subject matter. Post 
+      content regarding the individual's personal life or extracurricular activities 
+      made up a lesser portion of content, and there were few posts categorized as 
+      patient testimonials.
+CI  - Copyright © 2023 Elsevier Inc. All rights reserved.
+FAU - Pando, Alejandro
+AU  - Pando A
+AD  - Department of Neurological Surgery, Rutgers New Jersey Medical School, Newark, 
+      New Jersey, USA. Electronic address: alejandro_pando@alumni.brown.edu.
+FAU - Talbot, Christopher E
+AU  - Talbot CE
+AD  - Department of Neurological Surgery, Rutgers New Jersey Medical School, Newark, 
+      New Jersey, USA.
+FAU - Valdivia, Daniel J
+AU  - Valdivia DJ
+AD  - Rutgers Robert Wood Johnson Medical School, New Brunswick, New Jersey, USA.
+FAU - Liu, James K
+AU  - Liu JK
+AD  - Department of Neurological Surgery, Rutgers New Jersey Medical School, Newark, 
+      New Jersey, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20230222
+PL  - United States
+TA  - World Neurosurg
+JT  - World neurosurgery
+JID - 101528275
+SB  - IM
+MH  - Female
+MH  - Male
+MH  - Humans
+MH  - *Neurosurgery
+MH  - Neurosurgeons
+MH  - *Social Media
+MH  - Neurosurgical Procedures
+MH  - Educational Status
+OTO - NOTNLM
+OT  - Content creators
+OT  - Influencer
+OT  - Influencers
+OT  - Instagram
+OT  - Neurologic surgery
+OT  - Neurosurgery
+OT  - Social media
+EDAT- 2023/02/24 06:00
+MHDA- 2023/05/17 06:42
+CRDT- 2023/02/23 19:32
+PHST- 2023/01/11 00:00 [received]
+PHST- 2023/02/14 00:00 [accepted]
+PHST- 2023/05/17 06:42 [medline]
+PHST- 2023/02/24 06:00 [pubmed]
+PHST- 2023/02/23 19:32 [entrez]
+AID - S1878-8750(23)00217-6 [pii]
+AID - 10.1016/j.wneu.2023.02.070 [doi]
+PST - ppublish
+SO  - World Neurosurg. 2023 May;173:e422-e430. doi: 10.1016/j.wneu.2023.02.070. Epub 
+      2023 Feb 22.
+
+PMID- 30323982
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220321
+IS  - 2162-3619 (Print)
+IS  - 2162-3619 (Electronic)
+IS  - 2162-3619 (Linking)
+VI  - 7
+DP  - 2018
+TI  - Induction of anti-leukemic responses by stimulation of leukemic CD3+ cells with 
+      allogeneic stimulator cells.
+PG  - 25
+LID - 10.1186/s40164-018-0118-5 [doi]
+LID - 25
+AB  - BACKGROUND: Immunotherapeutic protocols have focused on identification of stimuli 
+      that induce effective anti-leukemic immune responses. One potent immune stimulus 
+      is the encounter with allogeneic cells. Our group previously showed that the 
+      infusion of haploidentical donor white blood cells (1-2 × 10(8) CD3+ cells/kg) 
+      into patients with refractory hematological malignancies induced responses of 
+      varying magnitude in over half of the patients. Because donor cells were 
+      eliminated within 2 weeks in these patients, it is presumed that the responses of 
+      recipient lymphocytes were critically important in achieving prolonged 
+      anti-leukemic responses. METHODS: The role of patient CD3+ cells in anti-leukemic 
+      responses was examined by isolating peripheral blood mononuclear cells from newly 
+      diagnosed leukemic patients. Immunophenotyping was performed on these peripheral 
+      blood mononuclear cells. CD3+ cells were isolated from the peripheral blood 
+      mononuclear cells and tested for their ability to proliferate and lyse autologous 
+      leukemic cells when stimulated with unrelated allogeneic cells. RESULTS: 
+      Allostimulated CD3+ cells effectively generated cytolytic responses to autologous 
+      CD3-cells in 11/21 patients. Increased numbers of CD4+ cells expressing high 
+      levels of granzyme A, B and perforin and CD8+CD39+ cells were found in 
+      nonresponsive CD3+ cells. CONCLUSIONS: These results indicate that CD3+ cells 
+      from leukemic patients are capable of generating anti-leukemic responses when 
+      stimulated with unrelated allogeneic cells. This model can be used to identify 
+      approaches using alloreactive responses by patient lymphocytes to enhance in vivo 
+      anti-leukemic responses.
+FAU - Pando, Alejandro
+AU  - Pando A
+AD  - Division of Hematology/Oncology, Rhode Island Hospital and the Warren Alpert 
+      School of Medicine at Brown University, One Hoppin Street, Coro West Suite 5.0.1, 
+      Providence, RI 02903 USA. ISNI: 0000 0004 1936 9094. GRID: grid.40263.33
+FAU - Reagan, John L
+AU  - Reagan JL
+AD  - Division of Hematology/Oncology, Rhode Island Hospital and the Warren Alpert 
+      School of Medicine at Brown University, One Hoppin Street, Coro West Suite 5.0.1, 
+      Providence, RI 02903 USA. ISNI: 0000 0004 1936 9094. GRID: grid.40263.33
+FAU - Nevola, Martha
+AU  - Nevola M
+AD  - Division of Hematology/Oncology, Rhode Island Hospital and the Warren Alpert 
+      School of Medicine at Brown University, One Hoppin Street, Coro West Suite 5.0.1, 
+      Providence, RI 02903 USA. ISNI: 0000 0004 1936 9094. GRID: grid.40263.33
+FAU - Fast, Loren D
+AU  - Fast LD
+AUID- ORCID: 0000-0002-8859-7248
+AD  - Division of Hematology/Oncology, Rhode Island Hospital and the Warren Alpert 
+      School of Medicine at Brown University, One Hoppin Street, Coro West Suite 5.0.1, 
+      Providence, RI 02903 USA. ISNI: 0000 0004 1936 9094. GRID: grid.40263.33
+LA  - eng
+PT  - Journal Article
+DEP - 20181004
+PL  - England
+TA  - Exp Hematol Oncol
+JT  - Experimental hematology & oncology
+JID - 101590676
+PMC - PMC6172765
+OTO - NOTNLM
+OT  - Alloreactivity
+OT  - Cross-reactivity
+OT  - Cytolytic T lymphocytes
+OT  - Immunotherapy
+OT  - Leukemia
+OT  - T cells
+EDAT- 2018/10/17 06:00
+MHDA- 2018/10/17 06:01
+CRDT- 2018/10/17 06:00
+PHST- 2018/07/16 00:00 [received]
+PHST- 2018/09/30 00:00 [accepted]
+PHST- 2018/10/17 06:00 [entrez]
+PHST- 2018/10/17 06:00 [pubmed]
+PHST- 2018/10/17 06:01 [medline]
+AID - 118 [pii]
+AID - 10.1186/s40164-018-0118-5 [doi]
+PST - epublish
+SO  - Exp Hematol Oncol. 2018 Oct 4;7:25. doi: 10.1186/s40164-018-0118-5. eCollection 
+      2018.
+
+PMID- 37301534
+OWN - NLM
+STAT- Publisher
+LR  - 20230702
+IS  - 1878-8769 (Electronic)
+IS  - 1878-8750 (Linking)
+DP  - 2023 Jun 9
+TI  - The World Neurosurgery Global Champions Program: First-Year Experience of a Model 
+      Initiative for Reducing Disparities in Global Neurosurgical Literature.
+LID - S1878-8750(23)00783-0 [pii]
+LID - 10.1016/j.wneu.2023.06.015 [doi]
+AB  - OBJECTIVE: Most surgical journals are published in English, representing a 
+      challenge for researchers from non-Anglophone countries. We describe the 
+      implementation, workflow, outcomes, and lessons learned from the WORLD 
+      NEUROSURGERY Global Champions Program (GCP), a novel journal-specific English 
+      language editing program for articles rejected because of poor English grammar or 
+      usage. METHODS: The GCP was advertised via the journal website and social media. 
+      Applicants were selected to be a reviewer for the GCP if they demonstrated 
+      English proficiency on writing samples supplied in their application. The 
+      demographics of GCP members and characteristics and outcomes of articles edited 
+      by the GCP during its first year were reviewed. Surveys of GCP members and 
+      authors who used the service were conducted. RESULTS: Twenty-one individuals 
+      became part of the GCP, representing 8 countries and 16 languages apart from 
+      English. A total of 380 manuscripts were peer reviewed by the editor-in-chief, 
+      who determined these manuscripts to have potentially worthwhile content but 
+      needed to be rejected due to poor language. The authors of these manuscripts were 
+      informed of the existence of this language assistance program. Forty-nine 
+      articles (12.9%) were edited by the GCP in 41.6 ± 22.8 days. Of 40 articles 
+      resubmitted to WORLD NEUROSURGERY, 24 (60.0%) were accepted. GCP members and 
+      authors understood the purpose and workflow of the program and recognized 
+      improvements in article quality and the probability of acceptance through their 
+      participation. CONCLUSIONS: The WORLD NEUROSURGERY Global Champions Program 
+      mitigated a critical barrier to publication in an English language journal for 
+      authors from non-Anglophone countries. This program promotes research equity by 
+      providing a free, largely medical student and trainee operated, English language 
+      editing service. This model or a similar service can be replicated by other 
+      journals.
+CI  - Copyright © 2023 Elsevier Inc. All rights reserved.
+FAU - Shlobin, Nathan A
+AU  - Shlobin NA
+AD  - Department of Neurological Surgery, Northwestern University Feinberg School of 
+      Medicine, Chicago, Illinois, USA. Electronic address: 
+      nathan.shlobin@northwestern.edu.
+FAU - Savage, Simon
+AU  - Savage S
+AD  - Department of Medicine, Monash University, Melbourne, Australia.
+FAU - Savage, Alexander
+AU  - Savage A
+AD  - Department of Medicine, Monash University, Melbourne, Australia.
+FAU - Torbati, Tania
+AU  - Torbati T
+AD  - Department of Osteopathic Medicine of the Pacific, Western University of Health 
+      Sciences, Pomona, California, USA.
+FAU - Wang, Zhe
+AU  - Wang Z
+AD  - Department of Neurological Surgery, University of Chicago School of Medicine, 
+      Chicago, Illinois, USA.
+FAU - Salas-Vega, Sebastian
+AU  - Salas-Vega S
+AD  - Inova Neurosurgery, Inova Health System, Falls Church, Virginia, USA.
+FAU - Mota, Marcella
+AU  - Mota M
+AD  - Faculdade Ciências Médicas de Minas Gerais, Belo Horizonte, Brazil.
+FAU - Pando, Alejandro
+AU  - Pando A
+AD  - Department of Neurological Surgery, Rutgers New Jersey Medical School, Newark, 
+      New Jersey, USA.
+FAU - Sheldon, Breanna
+AU  - Sheldon B
+AD  - Department of Neurological Surgery, University of Arizona, Tucson, Arizona, USA.
+FAU - Westrup, Alison M
+AU  - Westrup AM
+AD  - Department of Neurosurgery, University of Oklahoma College of Medicine, Oklahoma 
+      City, Oklahoma, USA.
+FAU - Ogulnick, Jonathan
+AU  - Ogulnick J
+AD  - Stony Brook University Hospital, Stony Brook, New York, USA.
+FAU - Zreik, Jad
+AU  - Zreik J
+AD  - Central Michigan University College of Medicine, Mount Pleasant, Michigan, USA.
+FAU - AlKahtani, Nada A H
+AU  - AlKahtani NAH
+AD  - College of Medicine, King Saud Bin Abdulaziz University for Health Sciences, 
+      Riyadh, Saudi Arabia.
+FAU - Jesuyajolu, Damilola
+AU  - Jesuyajolu D
+AD  - Department of Neurological Surgery, Salford Royal Hospital, Northern Care 
+      Alliance NHS Foundation Trust, Manchester, United Kingdom.
+FAU - Larrey, Kasereka Kamabu
+AU  - Larrey KK
+AD  - Division of Neurosurgery, Department of Surgery, College of Medicine, Makerere 
+      University, Kampala, Uganda.
+FAU - Fadalla, Tarig
+AU  - Fadalla T
+AD  - Soba University of Hospital, University of Khartoum, Khartoum, Sudan.
+FAU - Mahajan, Uma
+AU  - Mahajan U
+AD  - School of Medicine, Case Western Reserve University, Cleveland, Ohio, USA.
+FAU - Manijla, Nihal
+AU  - Manijla N
+AD  - Case Western University, Cleveland, Ohio, USA.
+FAU - Singh, Rohin
+AU  - Singh R
+AD  - Department of Neurological Surgery, Mayo Clinic, Phoenix, Arizona, USA.
+FAU - Wang, Andrew
+AU  - Wang A
+AD  - David Geffen School of Medicine, University of California, Los Angeles, 
+      California, USA.
+FAU - Kanmounye, Ulrick Sidney
+AU  - Kanmounye US
+AD  - Research Department, Association of Future African Neurosurgeons, Yaounde, 
+      Cameroon.
+FAU - Moore, Christine
+AU  - Moore C
+AD  - World Neurosurgery, Cleveland Clinic, Cleveland, Ohio, USA.
+FAU - Benzel, Edward C
+AU  - Benzel EC
+AD  - Department of Neurosurgery, Cleveland Clinic, Cleveland, Ohio, USA.
+FAU - Rosseau, Gail
+AU  - Rosseau G
+AD  - Department of Neurological Surgery, George Washington University School of 
+      Medicine and Health Sciences, Washington, District of Columbia, USA; Barrow 
+      Global, Barrow Neurological Institute, Phoenix, Arizona, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20230609
+PL  - United States
+TA  - World Neurosurg
+JT  - World neurosurgery
+JID - 101528275
+SB  - IM
+OTO - NOTNLM
+OT  - Global health
+OT  - Global neurosurgery
+OT  - Global surgery
+OT  - Health disparities
+OT  - Health equity
+OT  - Neurologic surgery
+OT  - Research equity
+EDAT- 2023/06/11 01:06
+MHDA- 2023/06/11 01:06
+CRDT- 2023/06/10 19:30
+PHST- 2023/06/11 01:06 [pubmed]
+PHST- 2023/06/11 01:06 [medline]
+PHST- 2023/06/10 19:30 [entrez]
+AID - S1878-8750(23)00783-0 [pii]
+AID - 10.1016/j.wneu.2023.06.015 [doi]
+PST - aheadofprint
+SO  - World Neurosurg. 2023 Jun 9:S1878-8750(23)00783-0. doi: 
+      10.1016/j.wneu.2023.06.015.
+
+PMID- 22334112
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20120613
+LR  - 20210908
+IS  - 1527-3172 (Electronic)
+IS  - 1527-3172 (Linking)
+VI  - 14
+IP  - 1
+DP  - 2012 Jan
+TI  - A Cuban perspective on management of persistent vegetative state.
+PG  - 44-8
+LID - 10.37757/MR2012V14.N1.3 [doi]
+AB  - The Cuban Group for Study of Disorders of Consciousness is developing several 
+      research protocols to search for possible preservation of residual brain and 
+      autonomic functions in cases of persistent vegetative and minimally conscious 
+      states. We present examples showing the importance of 3D anatomic reconstruction 
+      of brain structures and MRI tractography for assessing white matter connectivity. 
+      We also present results of use of proton magnetic resonance spectroscopy 
+      technique to follow up cognitive recovery in persistent vegetative state patients 
+      transitioning to minimally conscious state. We have demonstrated recognition of a 
+      mother's voice with emotional content after zolpidem administration, indicating 
+      high-level residual linguistic processing and brain activation despite the 
+      patient's apparent inability to communicate. Hence we differ with current 
+      thinking that, by definition, subjects in persistent vegetative state are 
+      isolated from the outside world and cannot experience pain and suffering. We also 
+      consider "vegetative state" a pejorative term that should be replaced. KEYWORDS 
+      Persistent vegetative state, minimally conscious state, consciousness disorders, 
+      magnetic resonance imaging, electroencephalography, heart rate variability.
+FAU - Machado, Calixto
+AU  - Machado C
+AD  - Institute of Neurology and Neurosurgery (INN), Havana, Cuba. 
+      braind@infomed.sld.cu
+FAU - Estévez, Mario
+AU  - Estévez M
+FAU - Rodríguez, Rafael
+AU  - Rodríguez R
+FAU - Pérez-Nellar, Jesús
+AU  - Pérez-Nellar J
+FAU - Gutiérrez, Joel
+AU  - Gutiérrez J
+FAU - Carballo, Maylén
+AU  - Carballo M
+FAU - Olivares, Ana
+AU  - Olivares A
+FAU - Fleitas, Marcia
+AU  - Fleitas M
+FAU - Pando, Alejandro
+AU  - Pando A
+FAU - Beltrán, Carlos
+AU  - Beltrán C
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - MEDICC Rev
+JT  - MEDICC review
+JID - 100964771
+RN  - 0 (Hypnotics and Sedatives)
+RN  - 0 (Pyridines)
+RN  - 7K383OQI23 (Zolpidem)
+SB  - IM
+MH  - Brain/pathology/physiopathology
+MH  - Brain Stem/pathology/physiopathology
+MH  - Cuba
+MH  - Electroencephalography
+MH  - Humans
+MH  - Hypnotics and Sedatives/therapeutic use
+MH  - Magnetic Resonance Imaging
+MH  - Neuroimaging
+MH  - Persistent Vegetative State/drug therapy/pathology/physiopathology/*therapy
+MH  - Pyridines/therapeutic use
+MH  - Zolpidem
+EDAT- 2012/02/16 06:00
+MHDA- 2012/06/14 06:00
+CRDT- 2012/02/16 06:00
+PHST- 2012/02/16 06:00 [entrez]
+PHST- 2012/02/16 06:00 [pubmed]
+PHST- 2012/06/14 06:00 [medline]
+AID - 10.37757/MR2012V14.N1.3 [doi]
+PST - ppublish
+SO  - MEDICC Rev. 2012 Jan;14(1):44-8. doi: 10.37757/MR2012V14.N1.3.
+
+PMID- 37584482
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231023
+LR  - 20231121
+IS  - 2332-4260 (Electronic)
+IS  - 2332-4252 (Linking)
+VI  - 25
+IP  - 5
+DP  - 2023 Nov 1
+TI  - Rapid Implementation of a 3-Dimensional-Printed Patient-Specific Titanium Sacrum 
+      Implant for Severe Neuropathic Spinal Arthropathy and Guide to Compassionate US 
+      Regulatory Approval.
+PG  - 469-477
+LID - 10.1227/ons.0000000000000872 [doi]
+AB  - BACKGROUND AND OBJECTIVE: Rapid design and production of patient-specific 
+      3-dimensional-printed implants (3DPIs) present a novel opportunity to restore the 
+      biomechanically demanding integrity of the lumbopelvic junction. We present a 
+      unique case of a 61-year-old patient with severe neuropathic spinal arthropathy 
+      (Charcot spine) who initially underwent a T4-to-sacrum spinal fusion. Massive 
+      bone destruction led to dissociation of his upper body from his pelvis and legs. 
+      Reconstruction of the spinopelvic continuity was planned with the aid of a 
+      personalized lumbosacral 3DPI. METHOD: Using high-resolution computed tomography 
+      scans, the custom 3DPI was made using additive titanium manufacturing. The unique 
+      3DPI consisted of (1) a sacral platform with iliac screws, (2) modular corpectomy 
+      device with rigid connection to the sacral platform, and (3) anterior plate 
+      connection with screws for proximal fixation. The procedures to obtain 
+      compassionate use Food and Drug Administration approval were followed. The 
+      patient underwent debridement of a chronically open wound before undertaking the 
+      3-stage reconstructive procedure. The custom 3DPI and additional instrumentation 
+      were inserted as part of a salvage rebuilding procedure. RESULTS: The chronology 
+      of the rapid implementation of the personalized sacral 3DPI from decision, 
+      design, manufacturing, Food and Drug Administration approval, and surgical 
+      execution lasted 28 days. The prosthesis was positioned in the defect according 
+      to the expected anatomic planes and secured using a screw-rod system and a 
+      vascularized fibular bone strut graft. The prosthesis provided an ideal repair of 
+      the lumbosacral junction and pelvic ring by merging spinal pelvic fixation, 
+      posterior pelvic ring fixation, and anterior spinal column fixation. CONCLUSION: 
+      To the best of our knowledge, this is the first case of a multilevel lumbar, 
+      sacral, and sacropelvic neuropathic (Charcot) spine reconstruction using a 3DPI 
+      sacral prosthesis. As the prevalence of severe spine deformities continues to 
+      increase, adoption of 3DPIs is becoming more relevant to offer personalized 
+      treatment for complex deformities.
+CI  - Copyright © Congress of Neurological Surgeons 2023. All rights reserved.
+FAU - Ruiz-Cardozo, Miguel A
+AU  - Ruiz-Cardozo MA
+AUID- ORCID: 0000-0002-8560-7295
+AD  - Department of Neurological Surgery, Washington University School of Medicine, 
+      Saint Louis, Missouri, USA.
+FAU - Trevino, Gabriel
+AU  - Trevino G
+AD  - Department of Neurological Surgery, Washington University School of Medicine, 
+      Saint Louis, Missouri, USA.
+FAU - Pando, Alejandro
+AU  - Pando A
+AD  - Department of Neurological Surgery, Rutgers New Jersey Medical School, New 
+      Jersey, New Jersey, USA.
+FAU - Brehm, Samuel
+AU  - Brehm S
+AD  - Department of Neurological Surgery, Washington University School of Medicine, 
+      Saint Louis, Missouri, USA.
+FAU - Olufawo, Michael
+AU  - Olufawo M
+AD  - Department of Neurological Surgery, Washington University School of Medicine, 
+      Saint Louis, Missouri, USA.
+FAU - Barot, Karma
+AU  - Barot K
+AD  - Department of Neurological Surgery, Washington University School of Medicine, 
+      Saint Louis, Missouri, USA.
+FAU - Carey-Ewend, Abigail
+AU  - Carey-Ewend A
+AD  - Department of Neurological Surgery, Washington University School of Medicine, 
+      Saint Louis, Missouri, USA.
+FAU - Yahanda, Alexander T
+AU  - Yahanda AT
+AD  - Department of Neurological Surgery, Washington University School of Medicine, 
+      Saint Louis, Missouri, USA.
+FAU - Perdomo-Pantoja, Alexander
+AU  - Perdomo-Pantoja A
+AD  - Department of Neurological Surgery, Washington University School of Medicine, 
+      Saint Louis, Missouri, USA.
+FAU - Jauregui, Julio J
+AU  - Jauregui JJ
+AD  - Department of Orthopedic Surgery, Washington University School of Medicine, Saint 
+      Louis, Missouri, USA.
+FAU - Cadieux, Magalie
+AU  - Cadieux M
+AD  - Department of Neurological Surgery, Washington University School of Medicine, 
+      Saint Louis, Missouri, USA.
+FAU - Costa, Megan
+AU  - Costa M
+AD  - Division of Plastic and Reconstructive Surgery, Washington University School of 
+      Medicine, Saint Louis, Missouri, USA.
+FAU - Coenen, Julie
+AU  - Coenen J
+AD  - Department of Neurological Surgery, Washington University School of Medicine, 
+      Saint Louis, Missouri, USA.
+FAU - Dorward, Ian
+AU  - Dorward I
+AD  - Department of Neurological Surgery, Washington University School of Medicine, 
+      Saint Louis, Missouri, USA.
+AD  - Department of Orthopedic Surgery, Washington University School of Medicine, Saint 
+      Louis, Missouri, USA.
+FAU - Anolik, Rachel A
+AU  - Anolik RA
+AD  - Division of Plastic and Reconstructive Surgery, Washington University School of 
+      Medicine, Saint Louis, Missouri, USA.
+FAU - Sacks, Justin M
+AU  - Sacks JM
+AD  - Division of Plastic and Reconstructive Surgery, Washington University School of 
+      Medicine, Saint Louis, Missouri, USA.
+FAU - Molina, Camilo A
+AU  - Molina CA
+AD  - Department of Neurological Surgery, Washington University School of Medicine, 
+      Saint Louis, Missouri, USA.
+AD  - Department of Orthopedic Surgery, Washington University School of Medicine, Saint 
+      Louis, Missouri, USA.
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+DEP - 20230816
+PL  - United States
+TA  - Oper Neurosurg (Hagerstown)
+JT  - Operative neurosurgery (Hagerstown, Md.)
+JID - 101635417
+RN  - D1JT611TNE (Titanium)
+SB  - IM
+MH  - United States
+MH  - Humans
+MH  - Middle Aged
+MH  - *Sacrum/diagnostic imaging/surgery
+MH  - Titanium
+MH  - Pelvis
+MH  - Bone Screws
+MH  - *Joint Diseases
+EDAT- 2023/08/16 12:42
+MHDA- 2023/10/23 12:45
+CRDT- 2023/08/16 09:02
+PHST- 2023/02/16 00:00 [received]
+PHST- 2023/05/31 00:00 [accepted]
+PHST- 2023/10/23 12:45 [medline]
+PHST- 2023/08/16 12:42 [pubmed]
+PHST- 2023/08/16 09:02 [entrez]
+AID - 01787389-202311000-00011 [pii]
+AID - 10.1227/ons.0000000000000872 [doi]
+PST - ppublish
+SO  - Oper Neurosurg (Hagerstown). 2023 Nov 1;25(5):469-477. doi: 
+      10.1227/ons.0000000000000872. Epub 2023 Aug 16.
+
+PMID- 15259617
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20040817
+LR  - 20170214
+IS  - 1550-0594 (Print)
+IS  - 1550-0594 (Linking)
+VI  - 35
+IP  - 3
+DP  - 2004 Jul
+TI  - Assessing acute middle cerebral artery ischemic stroke by quantitative electric 
+      tomography.
+PG  - 116-24
+AB  - This paper focuses on the application of quantitative electric tomography (qEEGT) 
+      to map changes in EEG generators for detection of early signs of ischemia in 
+      patients with acute middle cerebral artery stroke. Thirty-two patients were 
+      studied with the diagnosis of acute ischemic stroke of the left middle cerebral 
+      artery territory, within the first 24 hours of their clinical evolution. Variable 
+      Resolution Electrical Tomography was used for estimating EEG source generators. 
+      High resolution source Z-spectra and 3- dimensional images of Z values for all 
+      the sources at each frequency were obtained for all cases. To estimate 
+      statistically significant increments and decrements of brain electric activity 
+      within the frequency spectra, the t-Student vs. Zero test was performed. A 
+      significant increment of delta activity was observed on the affected vascular 
+      territory, and a more extensive increment of theta activity was detected. A 
+      significant alpha decrement was found in the parieto-occipital region of the 
+      affected cerebral hemisphere (left), and in the medial and posterior region of 
+      the right hemisphere. These findings suggest that qEEGT Z delta images are 
+      probably related to the main ischemic core within the affected arterial 
+      territory; penumbra, diaschisis, edema, might explain those observed theta and 
+      alpha abnormalities. It was concluded that qEEGT is useful for the detection of 
+      early signs of ischemia in acute ischemic stroke.
+FAU - Machado, Calixto
+AU  - Machado C
+AD  - Institute of Neurology and Neurosurgery, Havana, Cuba. braind@infomed.sld.cu
+FAU - Cuspineda, Elena
+AU  - Cuspineda E
+FAU - Valdés, Pedro
+AU  - Valdés P
+FAU - Virues, Trinidad
+AU  - Virues T
+FAU - Llopis, Francis
+AU  - Llopis F
+FAU - Bosch, Jorge
+AU  - Bosch J
+FAU - Aubert, Eduardo
+AU  - Aubert E
+FAU - Hernández, Eraida
+AU  - Hernández E
+FAU - Pando, Alejandro
+AU  - Pando A
+FAU - Alvarez, Miguel A
+AU  - Alvarez MA
+FAU - Barroso, Esperanza
+AU  - Barroso E
+FAU - Galán, Lídice
+AU  - Galán L
+FAU - Avila, Yoel
+AU  - Avila Y
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PL  - United States
+TA  - Clin EEG Neurosci
+JT  - Clinical EEG and neuroscience
+JID - 101213033
+SB  - IM
+MH  - Acute Disease
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - *Alpha Rhythm
+MH  - Brain Edema/pathology
+MH  - Early Diagnosis
+MH  - Female
+MH  - Humans
+MH  - Infarction, Middle Cerebral Artery/*pathology
+MH  - Magnetic Resonance Imaging/*methods
+MH  - Male
+MH  - Middle Aged
+MH  - *Theta Rhythm
+EDAT- 2004/07/21 05:00
+MHDA- 2004/08/18 05:00
+CRDT- 2004/07/21 05:00
+PHST- 2004/07/21 05:00 [pubmed]
+PHST- 2004/08/18 05:00 [medline]
+PHST- 2004/07/21 05:00 [entrez]
+AID - 10.1177/155005940403500303 [doi]
+PST - ppublish
+SO  - Clin EEG Neurosci. 2004 Jul;35(3):116-24. doi: 10.1177/155005940403500303.
+
+PMID- 26834698
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20160202
+LR  - 20200930
+IS  - 1664-2295 (Print)
+IS  - 1664-2295 (Electronic)
+IS  - 1664-2295 (Linking)
+VI  - 7
+DP  - 2016
+TI  - Eye-Movement Training Results in Changes in qEEG and NIH Stroke Scale in Subjects 
+      Suffering from Acute Middle Cerebral Artery Ischemic Stroke: A Randomized Control 
+      Trial.
+PG  - 3
+LID - 10.3389/fneur.2016.00003 [doi]
+LID - 3
+AB  - CONTEXT: Eye-movement training (EMT) can induce altered brain activation and 
+      change the functionality of saccades with changes of the brain in general. 
+      OBJECTIVE: To determine if EMT would result in changes in quantitative 
+      electroencephalogram (qEEG) and NIH Stroke Scale (NIHSS) in patients suffering 
+      from acute middle cerebral artery (MCA) infarction. Our hypothesis is that there 
+      would be positive changes in qEEG and NIHSS after EMT in patients suffering from 
+      acute MCA ischemic stroke. DESIGN: Double-blind randomized controlled trial. 
+      SETTING AND PARTICIPANTS: Thirty-four subjects with acute MCA ischemic stroke 
+      treated at university affiliated hospital intensive care unit. INTERVENTIONS: 
+      Subjects were randomized into a "control" group treated only with aspirin 
+      (125 mg/day) and a "treatment" group treated with aspirin (125 mg/day) and a 
+      subject-specific EMT. MAIN OUTCOME MEASURES: Delta-alpha ratio, power ratio 
+      index, and the brain symmetry index calculated by qEEG and NIHSS. RESULTS: There 
+      was strong statistical and substantive significant improvement in all outcome 
+      measures for the group of stroke patients undergoing EMT. Such improvement was 
+      not observed for the "control" group, and there were no adverse effects. 
+      CONCLUSION: The addition of EMT to a MCA ischemic stroke treatment paradigm has 
+      demonstrated statistically significant changes in outcome measures and is a low 
+      cost, safe, and effective complement to standard treatment.
+FAU - Carrick, Frederick Robert
+AU  - Carrick FR
+AD  - Neurology, Carrick Institute, Cape Canaveral, FL, USA; Global Clinical Scholars 
+      Research Training Program (GCSRT), Harvard Medical School, Boston, MA, USA; 
+      Institute of Neurology and Neurosurgery, Havana, Cuba; Bedfordshire Centre for 
+      Mental Health Research, University of Cambridge, Cambridge, UK.
+FAU - Oggero, Elena
+AU  - Oggero E
+AD  - Neurology, Carrick Institute, Cape Canaveral, FL, USA; Electrical and Computer 
+      Engineering, University of Wyoming, Laramie, WY, USA.
+FAU - Pagnacco, Guido
+AU  - Pagnacco G
+AD  - Neurology, Carrick Institute, Cape Canaveral, FL, USA; Electrical and Computer 
+      Engineering, University of Wyoming, Laramie, WY, USA.
+FAU - Wright, Cameron H G
+AU  - Wright CH
+AD  - Neurology, Carrick Institute, Cape Canaveral, FL, USA; Electrical and Computer 
+      Engineering, University of Wyoming, Laramie, WY, USA.
+FAU - Machado, Calixto
+AU  - Machado C
+AD  - Neurology, Carrick Institute, Cape Canaveral, FL, USA; Institute of Neurology and 
+      Neurosurgery, Havana, Cuba.
+FAU - Estrada, Genco
+AU  - Estrada G
+AD  - Institute of Neurology and Neurosurgery , Havana , Cuba.
+FAU - Pando, Alejandro
+AU  - Pando A
+AD  - Institute of Neurology and Neurosurgery , Havana , Cuba.
+FAU - Cossio, Juan C
+AU  - Cossio JC
+AD  - Institute of Neurology and Neurosurgery , Havana , Cuba.
+FAU - Beltrán, Carlos
+AU  - Beltrán C
+AD  - Institute of Neurology and Neurosurgery , Havana , Cuba.
+LA  - eng
+PT  - Journal Article
+DEP - 20160122
+PL  - Switzerland
+TA  - Front Neurol
+JT  - Frontiers in neurology
+JID - 101546899
+PMC - PMC4722822
+OTO - NOTNLM
+OT  - NIHSS scores
+OT  - eye moment therapy
+OT  - ischemic stroke
+OT  - qEEG
+OT  - saccades
+OT  - stroke rehabilitation
+EDAT- 2016/02/03 06:00
+MHDA- 2016/02/03 06:01
+CRDT- 2016/02/03 06:00
+PHST- 2015/12/03 00:00 [received]
+PHST- 2016/01/08 00:00 [accepted]
+PHST- 2016/02/03 06:00 [entrez]
+PHST- 2016/02/03 06:00 [pubmed]
+PHST- 2016/02/03 06:01 [medline]
+AID - 10.3389/fneur.2016.00003 [doi]
+PST - epublish
+SO  - Front Neurol. 2016 Jan 22;7:3. doi: 10.3389/fneur.2016.00003. eCollection 2016.

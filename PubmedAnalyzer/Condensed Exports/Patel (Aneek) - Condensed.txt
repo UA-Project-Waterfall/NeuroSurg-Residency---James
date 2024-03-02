@@ -1,0 +1,675 @@
+PMID- 30929900
+TI  - A Common Embryonic Origin of Stem Cells Drives Developmental and Adult Neurogenesis.
+FAU - Berg, Daniel A
+AU  - Berg DA
+AD  - Department of Neuroscience and Mahoney Institute for Neurosciences, University of Pennsylvania, Philadelphia, PA 19104, USA.
+FAU - Su, Yijing
+AU  - Su Y
+AD  - Department of Neuroscience and Mahoney Institute for Neurosciences, University of Pennsylvania, Philadelphia, PA 19104, USA.
+FAU - Jimenez-Cyrus, Dennisse
+AU  - Jimenez-Cyrus D
+AD  - Department of Neuroscience and Mahoney Institute for Neurosciences, University of Pennsylvania, Philadelphia, PA 19104, USA; The Cellular and Molecular Medicine Graduate Program, Johns Hopkins University School of Medicine, Baltimore, MD 21205, USA.
+FAU - Patel, Aneek
+AU  - Patel A
+AD  - Institute for Cell Engineering, Johns Hopkins University School of Medicine, Baltimore, MD 21205, USA.
+FAU - Huang, Nancy
+AU  - Huang N
+AD  - Institute for Cell Engineering, Johns Hopkins University School of Medicine, Baltimore, MD 21205, USA.
+FAU - Morizet, David
+AU  - Morizet D
+AD  - Department of Neuroscience and Mahoney Institute for Neurosciences, University of Pennsylvania, Philadelphia, PA 19104, USA.
+FAU - Lee, Stephanie
+AU  - Lee S
+AD  - Department of Neuroscience and Mahoney Institute for Neurosciences, University of Pennsylvania, Philadelphia, PA 19104, USA.
+FAU - Shah, Reeti
+AU  - Shah R
+AD  - Department of Neuroscience and Mahoney Institute for Neurosciences, University of Pennsylvania, Philadelphia, PA 19104, USA.
+FAU - Ringeling, Francisca Rojas
+AU  - Ringeling FR
+AD  - Gene Center, Ludwig-Maximilians-Universität München, 81377 Munich, Germany.
+FAU - Jain, Rajan
+AU  - Jain R
+AD  - Department of Medicine, University of Pennsylvania, Philadelphia, PA 19104, USA; Department of Cell and Developmental Biology, University of Pennsylvania, Philadelphia, PA 19104, USA; Institute for Regenerative Medicine, University of Pennsylvania, Philadelphia, PA 19104, USA.
+FAU - Epstein, Jonathan A
+AU  - Epstein JA
+AD  - Department of Cell and Developmental Biology, University of Pennsylvania, Philadelphia, PA 19104, USA; Institute for Regenerative Medicine, University of Pennsylvania, Philadelphia, PA 19104, USA; The Epigenetics Institute, University of Pennsylvania, Philadelphia, PA 19104, USA.
+FAU - Wu, Qing-Feng
+AU  - Wu QF
+AD  - State Key Laboratory of Molecular Developmental Biology, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing 100101, China.
+FAU - Canzar, Stefan
+AU  - Canzar S
+AD  - Gene Center, Ludwig-Maximilians-Universität München, 81377 Munich, Germany.
+FAU - Ming, Guo-Li
+AU  - Ming GL
+AD  - Department of Neuroscience and Mahoney Institute for Neurosciences, University of Pennsylvania, Philadelphia, PA 19104, USA; Department of Cell and Developmental Biology, University of Pennsylvania, Philadelphia, PA 19104, USA; Institute for Regenerative Medicine, University of Pennsylvania, Philadelphia, PA 19104, USA; Department of Psychiatry, University of Pennsylvania, Philadelphia, PA 19104, USA. Electronic address: gming@pennmedicine.upenn.edu.
+FAU - Song, Hongjun
+AU  - Song H
+AD  - Department of Neuroscience and Mahoney Institute for Neurosciences, University of Pennsylvania, Philadelphia, PA 19104, USA; Department of Cell and Developmental Biology, University of Pennsylvania, Philadelphia, PA 19104, USA; Institute for Regenerative Medicine, University of Pennsylvania, Philadelphia, PA 19104, USA; The Epigenetics Institute, University of Pennsylvania, Philadelphia, PA 19104, USA. Electronic address: shongjun@pennmedicine.upenn.edu.
+FAU - Bond, Allison M
+AU  - Bond AM
+AD  - Department of Neuroscience and Mahoney Institute for Neurosciences, University of Pennsylvania, Philadelphia, PA 19104, USA.
+TA  - Cell
+JT  - Cell
+
+
+PMID- 36229136
+TI  - Endoscopic Techniques in Vascular Neurosurgery.
+FAU - Patel, Aneek
+AU  - Patel A
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 200 Lothrop Street, PUH B-400, Pittsburgh, PA, 15213, USA.
+FAU - Abou-Al-Shaar, Hussam
+AU  - Abou-Al-Shaar H
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 200 Lothrop Street, PUH B-400, Pittsburgh, PA, 15213, USA.
+FAU - Mallela, Arka N
+AU  - Mallela AN
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 200 Lothrop Street, PUH B-400, Pittsburgh, PA, 15213, USA.
+FAU - Algattas, Hanna
+AU  - Algattas H
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 200 Lothrop Street, PUH B-400, Pittsburgh, PA, 15213, USA.
+FAU - McDowell, Michael M
+AU  - McDowell MM
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 200 Lothrop Street, PUH B-400, Pittsburgh, PA, 15213, USA.
+FAU - Zenonos, Georgios A
+AU  - Zenonos GA
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 200 Lothrop Street, PUH B-400, Pittsburgh, PA, 15213, USA.
+FAU - Wang, Eric W
+AU  - Wang EW
+AD  - Department of Otolaryngology, University of Pittsburgh Medical Center, 200 Lothrop Street, EEINS Suite 500, Pittsburgh, PA, 15213, USA.
+FAU - Snyderman, Carl H
+AU  - Snyderman CH
+AD  - Department of Otolaryngology, University of Pittsburgh Medical Center, 200 Lothrop Street, EEINS Suite 500, Pittsburgh, PA, 15213, USA.
+FAU - Gardner, Paul A
+AU  - Gardner PA
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, 200 Lothrop Street, PUH B-400, Pittsburgh, PA, 15213, USA. Electronic address: gardpa@upmc.edu.
+TA  - Neurosurg Clin N Am
+JT  - Neurosurgery clinics of North America
+
+
+PMID- 35832682
+TI  - Sinonasal Glomangiopericytoma with Prolonged Postsurgical Follow-Up.
+FAU - Gordon, Alex J
+AU  - Gordon AJ
+AD  - Grossman School of Medicine, New York University (NYU) Langone Health, New York, New York, United States.
+FAU - Papazian, Michael R
+AU  - Papazian MR
+AD  - Grossman School of Medicine, New York University (NYU) Langone Health, New York, New York, United States.
+FAU - Chow, Michael
+AU  - Chow M
+AD  - Department of Otolaryngology-Head and Neck Surgery, New York University (NYU) Langone Health, New York, New York, United States.
+FAU - Patel, Aneek
+AU  - Patel A
+AD  - Grossman School of Medicine, New York University (NYU) Langone Health, New York, New York, United States.
+FAU - Placantonakis, Dimitris G
+AU  - Placantonakis DG
+AD  - Department of Neurosurgery, New York University (NYU) Langone Health, New York, New York, United States.
+FAU - Lieberman, Seth
+AU  - Lieberman S
+AD  - Department of Otolaryngology-Head and Neck Surgery, New York University (NYU) Langone Health, New York, New York, United States.
+FAU - Givi, Babak
+AU  - Givi B
+AD  - Department of Otolaryngology-Head and Neck Surgery, New York University (NYU) Langone Health, New York, New York, United States.
+TA  - J Neurol Surg Rep
+JT  - Journal of neurological surgery reports
+
+
+PMID- 34171841
+TI  - Neuroophthalmological manifestations of congenital aqueductal stenosis.
+FAU - Patel, Aneek
+AU  - Patel A
+AD  - 1Department of Neurosurgery, New York University School of Medicine, New York, New York.
+FAU - Abou-Al-Shaar, Hussam
+AU  - Abou-Al-Shaar H
+AD  - Departments of2Neurological Surgery and.
+FAU - Chiang, Michael C
+AU  - Chiang MC
+AD  - Departments of2Neurological Surgery and.
+FAU - Algattas, Hanna N
+AU  - Algattas HN
+AD  - Departments of2Neurological Surgery and.
+FAU - McDowell, Michael M
+AU  - McDowell MM
+AD  - Departments of2Neurological Surgery and.
+FAU - Stone, Jeremy G
+AU  - Stone JG
+AD  - Departments of2Neurological Surgery and.
+FAU - Mitchell, Ellen B
+AU  - Mitchell EB
+AD  - 3Ophthalmology, Children's Hospital of Pittsburgh, and.
+FAU - Emery, Stephen P
+AU  - Emery SP
+AD  - 4Department of Obstetrics, Gynecology and Reproductive Sciences, Magee-Womens Hospital, University of Pittsburgh Medical Center, Pittsburgh, Pennsylvania.
+FAU - Greene, Stephanie
+AU  - Greene S
+AD  - Departments of2Neurological Surgery and.
+TA  - J Neurosurg Pediatr
+JT  - Journal of neurosurgery. Pediatrics
+
+
+PMID- 36372321
+TI  - Prevalence of Long-Term Low Back Pain After Symptomatic Lumbar Disc Herniation.
+FAU - Wong, Taylor
+AU  - Wong T
+AD  - Department of Neurological Surgery, Weill Cornell Brain and Spine Center, Weill Cornell Medicine, New York Presbyterian Hospital, New York, New York, USA.
+FAU - Patel, Aneek
+AU  - Patel A
+AD  - Department of Neurological Surgery, Weill Cornell Brain and Spine Center, Weill Cornell Medicine, New York Presbyterian Hospital, New York, New York, USA.
+FAU - Golub, Danielle
+AU  - Golub D
+AD  - Department of Neurological Surgery, Weill Cornell Brain and Spine Center, Weill Cornell Medicine, New York Presbyterian Hospital, New York, New York, USA.
+FAU - Kirnaz, Sertac
+AU  - Kirnaz S
+AD  - Department of Neurological Surgery, Weill Cornell Brain and Spine Center, Weill Cornell Medicine, New York Presbyterian Hospital, New York, New York, USA.
+FAU - Goldberg, Jacob L
+AU  - Goldberg JL
+AD  - Department of Neurological Surgery, Weill Cornell Brain and Spine Center, Weill Cornell Medicine, New York Presbyterian Hospital, New York, New York, USA.
+FAU - Sommer, Fabian
+AU  - Sommer F
+AD  - Department of Neurological Surgery, Weill Cornell Brain and Spine Center, Weill Cornell Medicine, New York Presbyterian Hospital, New York, New York, USA.
+FAU - Schmidt, Franziska A
+AU  - Schmidt FA
+AD  - Department of Neurological Surgery, Weill Cornell Brain and Spine Center, Weill Cornell Medicine, New York Presbyterian Hospital, New York, New York, USA.
+FAU - Nangunoori, Raj
+AU  - Nangunoori R
+AD  - Department of Neurological Surgery, Weill Cornell Brain and Spine Center, Weill Cornell Medicine, New York Presbyterian Hospital, New York, New York, USA.
+FAU - Hussain, Ibrahim
+AU  - Hussain I
+AD  - Department of Neurological Surgery, Weill Cornell Brain and Spine Center, Weill Cornell Medicine, New York Presbyterian Hospital, New York, New York, USA.
+FAU - Härtl, Roger
+AU  - Härtl R
+AD  - Department of Neurological Surgery, Weill Cornell Brain and Spine Center, Weill Cornell Medicine, New York Presbyterian Hospital, New York, New York, USA. Electronic address: roh9005@med.cornell.edu.
+TA  - World Neurosurg
+JT  - World neurosurgery
+
+
+PMID- 36393881
+TI  - The Value of Intraoperative Magnetic Resonance Imaging in Endoscopic Endonasal Resection of Pituitary Adenoma.
+FAU - Patel, Aneek
+AU  - Patel A
+AD  - Department of Neurosurgery, New York University Langone Health, New York, New York, United States.
+FAU - Dastagirzada, Yosef
+AU  - Dastagirzada Y
+AD  - Department of Neurosurgery, New York University Langone Health, New York, New York, United States.
+FAU - Benjamin, Carolina
+AU  - Benjamin C
+AD  - Department of Neurosurgery, University of Miami Health System, Miami, Florida, United States.
+FAU - Lieberman, Seth
+AU  - Lieberman S
+AD  - Department of Otolaryngology, New York University Langone Health, New York, New York, United States.
+FAU - Lebowitz, Richard
+AU  - Lebowitz R
+AD  - Department of Otolaryngology, New York University Langone Health, New York, New York, United States.
+FAU - Golfinos, John G
+AU  - Golfinos JG
+AD  - Department of Neurosurgery, New York University Langone Health, New York, New York, United States.
+FAU - Pacione, Donato
+AU  - Pacione D
+AD  - Department of Neurosurgery, New York University Langone Health, New York, New York, United States.
+TA  - J Neurol Surg B Skull Base
+JT  - Journal of neurological surgery. Part B, Skull base
+
+
+PMID- 35832683
+TI  - Sinonasal Undifferentiated Carcinoma with Failed Response to Induction Chemotherapy.
+FAU - Papazian, Michael R
+AU  - Papazian MR
+AD  - Department of Otolaryngology-Head and Neck Surgery, NYU Langone Medical Center, New York, New York, United States.
+FAU - Gordon, Alex J
+AU  - Gordon AJ
+AD  - Department of Otolaryngology-Head and Neck Surgery, NYU Langone Medical Center, New York, New York, United States.
+FAU - Chow, Michael
+AU  - Chow M
+AD  - Department of Otolaryngology-Head and Neck Surgery, NYU Langone Medical Center, New York, New York, United States.
+FAU - Patel, Aneek
+AU  - Patel A
+AD  - Department of Otolaryngology-Head and Neck Surgery, NYU Langone Medical Center, New York, New York, United States.
+FAU - Pacione, Donato
+AU  - Pacione D
+AD  - Department of Neurosurgery, NYU Langone Medical Center, New York, New York, United States.
+FAU - Lieberman, Seth
+AU  - Lieberman S
+AD  - Department of Otolaryngology-Head and Neck Surgery, NYU Langone Medical Center, New York, New York, United States.
+FAU - Givi, Babak
+AU  - Givi B
+AD  - Department of Otolaryngology-Head and Neck Surgery, NYU Langone Medical Center, New York, New York, United States.
+TA  - J Neurol Surg Rep
+JT  - Journal of neurological surgery reports
+
+
+PMID- 35909442
+TI  - Minor Salivary Gland Biopsy in Diagnosis of Sjögren's Syndrome.
+FAU - Gordon, Alex J
+AU  - Gordon AJ
+AD  - Department of Otolaryngology-Head and Neck Surgery, NYU Langone Health, New York, New York, USA.
+FAU - Patel, Aneek
+AU  - Patel A
+AD  - Department of Otolaryngology-Head and Neck Surgery, NYU Langone Health, New York, New York, USA.
+FAU - Zhou, Fang
+AU  - Zhou F
+AD  - Department of Pathology, NYU Langone Health, New York, New York, USA.
+FAU - Liu, Cheng
+AU  - Liu C
+AD  - Department of Pathology, NYU Langone Health, New York, New York, USA.
+FAU - Saxena, Amit
+AU  - Saxena A
+AD  - Division of Rheumatology, Department of Medicine, NYU Langone Health, New York, New York, USA.
+FAU - Rackoff, Paula
+AU  - Rackoff P
+AD  - Division of Rheumatology, Department of Medicine, NYU Langone Health, New York, New York, USA.
+FAU - Givi, Babak
+AU  - Givi B
+AD  - Department of Otolaryngology-Head and Neck Surgery, NYU Langone Health, New York, New York, USA.
+TA  - OTO Open
+JT  - OTO open
+
+
+PMID- 35191115
+TI  - Qualitative assessment of online information available on accredited head and neck surgery fellowship programs.
+FAU - Gordon, Alex J
+AU  - Gordon AJ
+AD  - Department of Otolaryngology-Head and Neck Surgery, NYU Grossman School of Medicine, New York, New York, USA.
+FAU - Patel, Aneek
+AU  - Patel A
+AD  - Department of Otolaryngology-Head and Neck Surgery, NYU Grossman School of Medicine, New York, New York, USA.
+FAU - Weed, Donald
+AU  - Weed D
+AD  - Department of Otolaryngology, University of Miami Miller School of Medicine, Miami, Florida, USA.
+FAU - Bewley, Arnaud F
+AU  - Bewley AF
+AD  - Department of Otolaryngology, University of California Davis School of Medicine, Sacramento, California, USA.
+FAU - Moore, Michael G
+AU  - Moore MG
+AD  - Department of Otolaryngology-Head and Neck Surgery, Indiana University School of Medicine, Indianapolis, Indiana, USA.
+FAU - Givi, Babak
+AU  - Givi B
+AD  - Department of Otolaryngology-Head and Neck Surgery, NYU Grossman School of Medicine, New York, New York, USA.
+TA  - Head Neck
+JT  - Head & neck
+
+
+PMID- 36245302
+TI  - Adoption of adjuvant chemotherapy in high-risk salivary gland malignancies.
+FAU - Gordon, Alex J
+AU  - Gordon AJ
+AD  - Department of Otolaryngology - Head and Neck Surgery, NYU Langone Health, New York, New York, USA.
+FAU - Chow, Michael S
+AU  - Chow MS
+AD  - Department of Otolaryngology - Head and Neck Surgery, NYU Langone Health, New York, New York, USA.
+FAU - Patel, Aneek
+AU  - Patel A
+AD  - Department of Otolaryngology - Head and Neck Surgery, NYU Langone Health, New York, New York, USA.
+FAU - Hu, Kenneth S
+AU  - Hu KS
+AD  - Department of Radiation Oncology, NYU Langone Health, New York, New York, USA.
+FAU - Li, Zujun
+AU  - Li Z
+AD  - Department of Hematology and Medical Oncology, NYU Langone Health, New York, New York, USA.
+FAU - Jacobson, Adam S
+AU  - Jacobson AS
+AD  - Department of Otolaryngology - Head and Neck Surgery, NYU Langone Health, New York, New York, USA.
+FAU - Vaezi, Alec E
+AU  - Vaezi AE
+AD  - Department of Otolaryngology - Head and Neck Surgery, NYU Langone Health, New York, New York, USA.
+FAU - Tam, Moses M
+AU  - Tam MM
+AD  - Department of Radiation Oncology, NYU Langone Health, New York, New York, USA.
+FAU - Givi, Babak
+AU  - Givi B
+AD  - Department of Otolaryngology - Head and Neck Surgery, NYU Langone Health, New York, New York, USA.
+TA  - Head Neck
+JT  - Head & neck
+
+
+PMID- 35398713
+TI  - Risk of COVID-19 infection and severe disease in MS patients on different disease-modifying therapies.
+FAU - Smith, Tyler E
+AU  - Smith TE
+AD  - NYU Langone Multiple Sclerosis Care Center, 240 E 38(th) St, 13(th) Floor, New York City, New York, 10016. Electronic address: Tyler.Smith@nyulangone.org.
+FAU - Madhavan, Maya
+AU  - Madhavan M
+AD  - NYU Langone Health Department of Neurology, 222 E 41(st) St, 9(th) Floor, New York City, New York, 10017.
+FAU - Gratch, Daniel
+AU  - Gratch D
+AD  - NYU Langone Health Department of Neurology, 222 E 41(st) St, 9(th) Floor, New York City, New York, 10017.
+FAU - Patel, Aneek
+AU  - Patel A
+AD  - NYU Langone Health Department of Neurology, 222 E 41(st) St, 9(th) Floor, New York City, New York, 10017.
+FAU - Saha, Valerie
+AU  - Saha V
+AD  - NYU Langone Multiple Sclerosis Care Center, 240 E 38(th) St, 13(th) Floor, New York City, New York, 10016.
+FAU - Sammarco, Carrie
+AU  - Sammarco C
+AD  - NYU Langone Multiple Sclerosis Care Center, 240 E 38(th) St, 13(th) Floor, New York City, New York, 10016.
+FAU - Rimler, Zoe
+AU  - Rimler Z
+AD  - NYU Langone Multiple Sclerosis Care Center, 240 E 38(th) St, 13(th) Floor, New York City, New York, 10016.
+FAU - Zuniga, Guadalupe
+AU  - Zuniga G
+AD  - NYU Langone Multiple Sclerosis Care Center, 240 E 38(th) St, 13(th) Floor, New York City, New York, 10016.
+FAU - Gragui, Dunia
+AU  - Gragui D
+AD  - NYU Langone Multiple Sclerosis Care Center, 240 E 38(th) St, 13(th) Floor, New York City, New York, 10016.
+FAU - Charvet, Leigh
+AU  - Charvet L
+AD  - NYU Langone Multiple Sclerosis Care Center, 240 E 38(th) St, 13(th) Floor, New York City, New York, 10016.
+FAU - Cutter, Gary
+AU  - Cutter G
+AD  - University of Alabama School of Public Health Department of Biostatistics, 403B Ryals Public Health Building, 1665 University Boulevard, Birmingham AL, 35294.
+FAU - Krupp, Lauren
+AU  - Krupp L
+AD  - NYU Langone Multiple Sclerosis Care Center, 240 E 38(th) St, 13(th) Floor, New York City, New York, 10016.
+FAU - Kister, Ilya
+AU  - Kister I
+AD  - NYU Langone Multiple Sclerosis Care Center, 240 E 38(th) St, 13(th) Floor, New York City, New York, 10016.
+FAU - Ryerson, Lana Zhovtis
+AU  - Ryerson LZ
+AD  - NYU Langone Multiple Sclerosis Care Center, 240 E 38(th) St, 13(th) Floor, New York City, New York, 10016.
+TA  - Mult Scler Relat Disord
+JT  - Multiple sclerosis and related disorders
+
+
+PMID- 35467273
+TI  - The role of endoscopic endonasal surgery in the management of prolactinomas based on their invasiveness into the cavernous sinus.
+FAU - Abou-Al-Shaar, Hussam
+AU  - Abou-Al-Shaar H
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, Pittsburgh, PA, USA.
+FAU - Mallela, Arka N
+AU  - Mallela AN
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, Pittsburgh, PA, USA.
+FAU - Patel, Aneek
+AU  - Patel A
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, Pittsburgh, PA, USA.
+FAU - Shariff, Rimsha K
+AU  - Shariff RK
+AD  - Neuroendocrinology Unit, Division of Endocrinology and Metabolism, University of Pittsburgh Medical Center, Pittsburgh, PA, USA.
+FAU - Shin, Samuel S
+AU  - Shin SS
+AD  - Department of Neurology, University of Pennsylvania, Philadelphia, PA, USA.
+FAU - Choi, Phillip A
+AU  - Choi PA
+AD  - Department of Neurosurgery, The University of Texas Health Science Center at Houston, Houston, TX, USA.
+FAU - Faraji, Amir H
+AU  - Faraji AH
+AD  - Department of Neurosurgery, Houston Methodist, Houston, TX, USA.
+FAU - Fazeli, Pouneh K
+AU  - Fazeli PK
+AD  - Neuroendocrinology Unit, Division of Endocrinology and Metabolism, University of Pittsburgh Medical Center, Pittsburgh, PA, USA.
+FAU - Costacou, Tina
+AU  - Costacou T
+AD  - Department of Epidemiology, Graduate School of Public Health, University of Pittsburgh, Pittsburgh, PA, USA.
+FAU - Wang, Eric W
+AU  - Wang EW
+AD  - Department of Otolaryngology, University of Pittsburgh Medical Center, Pittsburgh, PA, USA.
+FAU - Fernandez-Miranda, Juan C
+AU  - Fernandez-Miranda JC
+AD  - Department of Neurosurgery, Stanford University, Palo Alto, CA, USA.
+FAU - Snyderman, Carl H
+AU  - Snyderman CH
+AD  - Department of Otolaryngology, University of Pittsburgh Medical Center, Pittsburgh, PA, USA.
+FAU - Gardner, Paul A
+AU  - Gardner PA
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, Pittsburgh, PA, USA.
+FAU - Zenonos, Georgios A
+AU  - Zenonos GA
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, Pittsburgh, PA, USA. zenonosg2@upmc.edu.
+TA  - Pituitary
+JT  - Pituitary
+
+
+PMID- 33728130
+TI  - Spontaneous Cerebrospinal Fluid Rhinorrhea from a Prolactin-Secreting Pituitary Macroadenoma.
+FAU - Patel, Aneek
+AU  - Patel A
+AD  - Neurosurgery, New York University, New York, USA.
+FAU - Gozal, Yair M
+AU  - Gozal YM
+AD  - Neurosurgery, Mayfield Clinic, Cincinnati, USA.
+FAU - Abou-Al-Shaar, Hussam
+AU  - Abou-Al-Shaar H
+AD  - Neurological Surgery, University of Pittsburgh Medical Center, Pittsburgh, USA.
+FAU - Taussky, Philipp
+AU  - Taussky P
+AD  - Neurosurgery, University of Utah, Salt Lake City, USA.
+FAU - Couldwell, William
+AU  - Couldwell W
+AD  - Neurosurgery, University of Utah, Salt Lake City, USA.
+TA  - Cureus
+JT  - Cureus
+
+
+PMID- 37397049
+TI  - Idiopathic De Novo Arteriovenous Malformation: A Rare Acquired Intracranial Lesion.
+FAU - Plute, Tritan
+AU  - Plute T
+AD  - University of Pittsburgh School of Medicine, Pittsburgh, Pennsylvania, United States.
+FAU - Agarwal, Prateek
+AU  - Agarwal P
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, Pittsburgh, Pennsylvania, United States.
+FAU - Patel, Aneek
+AU  - Patel A
+AD  - Department of Neurological Surgery, New York University Langone Health, New York, New York, United States.
+FAU - Mallela, Arka N
+AU  - Mallela AN
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, Pittsburgh, Pennsylvania, United States.
+FAU - Lunsford, L Dade
+AU  - Lunsford LD
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, Pittsburgh, Pennsylvania, United States.
+FAU - Abou-Al-Shaar, Hussam
+AU  - Abou-Al-Shaar H
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, Pittsburgh, Pennsylvania, United States.
+TA  - Asian J Neurosurg
+JT  - Asian journal of neurosurgery
+
+
+PMID- 33305645
+TI  - Iatrogenic haemoperitoneum requiring transfusion after ventriculoperitoneal shunt placement: case report.
+FAU - Patel, Aneek
+AU  - Patel A
+AD  - Department of Neurosurgery, New York University School of Medicine, NYU Langone Health, New York, NY, USA.
+FAU - Golub, Danielle
+AU  - Golub D
+AD  - Department of Neurosurgery, New York University School of Medicine, NYU Langone Health, New York, NY, USA.
+FAU - Guerrero Zuniga, Adler
+AU  - Guerrero Zuniga A
+AD  - Department of Neurosurgery, New York University School of Medicine, NYU Langone Health, New York, NY, USA.
+FAU - Kaufman, Brian
+AU  - Kaufman B
+AD  - Department of Neurosurgery, New York University School of Medicine, NYU Langone Health, New York, NY, USA.
+AD  - Departments of Medicine, Anaesthesiology and Neurology, New York University School of Medicine, NYU Langone Health, New York, NY, USA.
+TA  - Br J Neurosurg
+JT  - British journal of neurosurgery
+
+
+PMID- 34373057
+TI  - Intraparenchymal hematoma and intraventricular catheter placement using robotic stereotactic assistance (ROSA): A single center preliminary experience.
+FAU - Alan, Nima
+AU  - Alan N
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, Pittsburgh, PA, United States.
+FAU - Patel, Aneek
+AU  - Patel A
+AD  - Department of Neurosurgery, New York University School of Medicine, New York, NY, United States.
+FAU - Abou-Al-Shaar, Hussam
+AU  - Abou-Al-Shaar H
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, Pittsburgh, PA, United States.
+FAU - Agarwal, Nitin
+AU  - Agarwal N
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, Pittsburgh, PA, United States.
+FAU - Zenonos, Georgios A
+AU  - Zenonos GA
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, Pittsburgh, PA, United States.
+FAU - Jankowitz, Brian T
+AU  - Jankowitz BT
+AD  - Department of Neurosurgery, Hospital of the University of Pennsylvania, Perelman School of Medicine, Philadelphia, PA, United States. Electronic address: brian.jankowitz@pennmedicine.upenn.edu.
+FAU - Gross, Bradley A
+AU  - Gross BA
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, Pittsburgh, PA, United States.
+TA  - J Clin Neurosci
+JT  - Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia
+
+
+PMID- 36041718
+TI  - Comparing Rates of Postoperative Meningitis After Endoscopic Endonasal Procedures Based on Methicillin-Resistant Staphylococcus aureus/Methicillin-Sensitive Staphylococcus aureus Colonization and Antibiotic Prophylaxis.
+FAU - Orillac, Cordelia
+AU  - Orillac C
+AD  - Department of Neurosurgery, NYU Langone Health, New York, New York, USA.
+FAU - Patel, Aneek
+AU  - Patel A
+AD  - Department of Neurosurgery, NYU Langone Health, New York, New York, USA.
+FAU - Dastagirzada, Yosef
+AU  - Dastagirzada Y
+AD  - Department of Neurosurgery, NYU Langone Health, New York, New York, USA.
+FAU - Benjamin, Carolina
+AU  - Benjamin C
+AD  - Department of Neurosurgery, University of Miami Health System, Miami, Florida, USA.
+FAU - Lieberman, Seth
+AU  - Lieberman S
+AD  - Department of Otolaryngology, NYU Langone Health, New York, New York, USA.
+FAU - Lebowitz, Richard
+AU  - Lebowitz R
+AD  - Department of Otolaryngology, NYU Langone Health, New York, New York, USA.
+FAU - Golfinos, John G
+AU  - Golfinos JG
+AD  - Department of Neurosurgery, NYU Langone Health, New York, New York, USA.
+FAU - Pacione, Donato
+AU  - Pacione D
+AD  - Department of Neurosurgery, NYU Langone Health, New York, New York, USA. Electronic address: donato.pacione@nyulangone.org.
+TA  - World Neurosurg
+JT  - World neurosurgery
+
+
+PMID- 35142245
+TI  - Bibliometric analysis of the top 100 cited articles on stereotactic radiosurgery of intracranial meningiomas.
+FAU - Patel, Aneek
+AU  - Patel A
+AD  - Department of Neurosurgery, New York University School of Medicine, New York, NY, USA.
+FAU - Abdelsalam, Ahmed
+AU  - Abdelsalam A
+AD  - Department of Neurology, Saint Louis University Hospital, St. Louis, MO, USA.
+FAU - Shariff, Rimsha K
+AU  - Shariff RK
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, Pittsburgh, PA, USA.
+FAU - Mallela, Arka N
+AU  - Mallela AN
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, Pittsburgh, PA, USA.
+FAU - Andrews, Edward G
+AU  - Andrews EG
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, Pittsburgh, PA, USA.
+FAU - Tonetti, Daniel A
+AU  - Tonetti DA
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, Pittsburgh, PA, USA.
+FAU - Lunsford, L Dade
+AU  - Lunsford LD
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, Pittsburgh, PA, USA.
+FAU - Abou-Al-Shaar, Hussam
+AU  - Abou-Al-Shaar H
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, Pittsburgh, PA, USA.
+TA  - Br J Neurosurg
+JT  - British journal of neurosurgery
+
+
+PMID- 37056872
+TI  - Bibliometric Analysis of the Top 100 Cited Articles on Stereotactic Radiosurgery for Trigeminal Neuralgia.
+FAU - Parikh, Parth
+AU  - Parikh P
+AD  - Mayo Clinic Alix School of Medicine, Scottsdale, Arizona, United States.
+FAU - Abdallah, Hussein M
+AU  - Abdallah HM
+AD  - University of Pittsburgh School of Medicine, Pittsburgh, Pennsylvania, United States.
+FAU - Patel, Aneek
+AU  - Patel A
+AD  - New York University School of Medicine, New York, New York, United States.
+FAU - Shariff, Rimsha K
+AU  - Shariff RK
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, Pittsburgh, Pennsylvania, United States.
+FAU - Nowicki, Kamil W
+AU  - Nowicki KW
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, Pittsburgh, Pennsylvania, United States.
+FAU - Mallela, Arka N
+AU  - Mallela AN
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, Pittsburgh, Pennsylvania, United States.
+FAU - Tonetti, Daniel A
+AU  - Tonetti DA
+AD  - Cooper Neurological Institute, Cooper Medical School of Rowan University, Camden, New Jersey, United States.
+FAU - Sekula, Raymond F Jr
+AU  - Sekula RF Jr
+AD  - Department of Neurological Surgery, Columbia University Medical Center, New York, New York, United States.
+AD  - Vagelos College of Physicians and Surgeons, Columbia University, New York, New York, United States.
+FAU - Lunsford, L Dade
+AU  - Lunsford LD
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, Pittsburgh, Pennsylvania, United States.
+FAU - Abou-Al-Shaar, Hussam
+AU  - Abou-Al-Shaar H
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, Pittsburgh, Pennsylvania, United States.
+TA  - Asian J Neurosurg
+JT  - Asian journal of neurosurgery
+
+
+PMID- 36519863
+TI  - Chronic Encapsulated Expanding Hematomas After Stereotactic Radiosurgery for Intracranial Arteriovenous Malformations: An International Multicenter Case Series.
+FAU - Abou-Al-Shaar, Hussam
+AU  - Abou-Al-Shaar H
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, Pittsburgh, Pennsylvania, USA.
+FAU - Patel, Aneek
+AU  - Patel A
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, Pittsburgh, Pennsylvania, USA.
+FAU - Mallela, Arka N
+AU  - Mallela AN
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, Pittsburgh, Pennsylvania, USA.
+FAU - Bin-Alamer, Othman
+AU  - Bin-Alamer O
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, Pittsburgh, Pennsylvania, USA.
+FAU - Niranjan, Ajay
+AU  - Niranjan A
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, Pittsburgh, Pennsylvania, USA.
+FAU - Peker, Selcuk
+AU  - Peker S
+AD  - Department of Neurosurgery, Koc University School of Medicine, Istanbul, Turkey.
+FAU - Samanci, Yavuz
+AU  - Samanci Y
+AD  - Department of Neurosurgery, Koc University School of Medicine, Istanbul, Turkey.
+FAU - Liscak, Roman
+AU  - Liscak R
+AD  - Department of Radiation and Stereotactic Neurosurgery, Na Homolce Hospital, Prague, Czech Republic.
+FAU - May, Jaromir
+AU  - May J
+AD  - Department of Radiation and Stereotactic Neurosurgery, Na Homolce Hospital, Prague, Czech Republic.
+FAU - Kumar, Jeyan Sathia
+AU  - Kumar JS
+AD  - Department of Neurological Surgery, University of Virginia, Charlottesville, Virginia, USA.
+FAU - Sheehan, Jason P
+AU  - Sheehan JP
+AD  - Department of Neurological Surgery, University of Virginia, Charlottesville, Virginia, USA.
+FAU - Lunsford, L Dade
+AU  - Lunsford LD
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, Pittsburgh, Pennsylvania, USA.
+TA  - Neurosurgery
+JT  - Neurosurgery
+
+
+PMID- 36402302
+TI  - United States Neurosurgery Department Program Directors: A Cross-Sectional Evaluation of Current and Future Trends and Attributes.
+FAU - Plute, Tritan
+AU  - Plute T
+AD  - University of Pittsburgh School of Medicine, Pittsburgh, Pennsylvania, USA.
+FAU - Patel, Aneek
+AU  - Patel A
+AD  - Department of Neurosurgery, NYU Langone Health, New York, New York, USA.
+FAU - Mallela, Arka N
+AU  - Mallela AN
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, Pittsburgh, Pennsylvania, USA.
+FAU - Sefcik, Roberta K
+AU  - Sefcik RK
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, Pittsburgh, Pennsylvania, USA.
+FAU - Hamilton, D Kojo
+AU  - Hamilton DK
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, Pittsburgh, Pennsylvania, USA.
+FAU - Lunsford, L Dade
+AU  - Lunsford LD
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, Pittsburgh, Pennsylvania, USA.
+FAU - Friedlander, Robert M
+AU  - Friedlander RM
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, Pittsburgh, Pennsylvania, USA.
+FAU - Abou-Al-Shaar, Hussam
+AU  - Abou-Al-Shaar H
+AD  - Department of Neurological Surgery, University of Pittsburgh Medical Center, Pittsburgh, Pennsylvania, USA. Electronic address: aboualshaarh@upmc.edu.
+TA  - World Neurosurg
+JT  - World neurosurgery

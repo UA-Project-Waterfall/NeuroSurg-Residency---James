@@ -1,0 +1,372 @@
+PMID- 35471129
+TI  - Risk factors and outcomes associated with external ventricular drain infections.
+FAU - Walek, Konrad W
+AU  - Walek KW
+AD  - Department of Neurosurgery, Warren Alpert Medical School of Medicine of Brown University, Providence, Rhode Island, USA.
+FAU - Leary, Owen P
+AU  - Leary OP
+AD  - Department of Neurosurgery, Warren Alpert Medical School of Medicine of Brown University, Providence, Rhode Island, USA.
+FAU - Sastry, Rahul
+AU  - Sastry R
+AD  - Department of Neurosurgery, Warren Alpert Medical School of Medicine of Brown University, Providence, Rhode Island, USA.
+FAU - Asaad, Wael F
+AU  - Asaad WF
+AD  - Department of Neurosurgery, Warren Alpert Medical School of Medicine of Brown University, Providence, Rhode Island, USA.
+AD  - Department of Neuroscience, Brown University, Providence, Rhode Island, USA.
+AD  - Norman Prince Neuroscience Institute, Rhode Island Hospital, Providence, Rhode Island, USA.
+FAU - Walsh, Joan M
+AU  - Walsh JM
+AD  - Division of Critical Care, Department of Nursing, Rhode Island Hospital, Providence, Rhode Island, USA.
+FAU - Horoho, Jean
+AU  - Horoho J
+AD  - Department of Epidemiology and Infection Control, Rhode Island Hospital, Providence, Rhode Island, USA.
+FAU - Mermel, Leonard A
+AU  - Mermel LA
+AD  - Department of Epidemiology and Infection Prevention, Lifespan Hospital System, Providence, Rhode Island, USA.
+AD  - Division of Infectious Diseases, Rhode Island Hospital, Providence, Rhode Island, USA.
+TA  - Infect Control Hosp Epidemiol
+JT  - Infection control and hospital epidemiology
+
+
+PMID- 35438070
+TI  - Reducing ventriculoperitoneal shunt infection with intraoperative glove removal.
+FAU - Walek, Konrad W
+AU  - Walek KW
+AD  - Department of Neurosurgery, Warren Alpert Medical School of Brown University, ProvidenceRhode Island.
+FAU - Rajski, Michal
+AU  - Rajski M
+AD  - Department of Medicine, Warren Alpert Medical School of Brown University, ProvidenceRhode Island.
+FAU - Sastry, Rahul A
+AU  - Sastry RA
+AD  - Department of Neurosurgery, Warren Alpert Medical School of Brown University, ProvidenceRhode Island.
+FAU - Mermel, Leonard A
+AU  - Mermel LA
+AD  - Department of Medicine, Warren Alpert Medical School of Brown University, ProvidenceRhode Island.
+AD  - Department of Epidemiology and Infection Control, Rhode Island Hospital, Providence, Rhode Island.
+AD  - Division of Infectious Diseases, Rhode Island Hospital, Providence, Rhode Island.
+TA  - Infect Control Hosp Epidemiol
+JT  - Infection control and hospital epidemiology
+
+
+PMID- 35640831
+TI  - Incidence, Characteristics, and Outcomes of Pseudomeningocele and Cerebrospinal Fluid Fistula after Posterior Fossa Surgery.
+FAU - Sastry, Rahul A
+AU  - Sastry RA
+AD  - Department of Neurosurgery, Warren Alpert Medical School of Medicine of Brown University, Providence, Rhode Island, USA. Electronic address: rahul.sastry@gmail.com.
+FAU - Walek, Konrad
+AU  - Walek K
+AD  - Department of Neurosurgery, Warren Alpert Medical School of Medicine of Brown University, Providence, Rhode Island, USA.
+FAU - Leary, Owen P
+AU  - Leary OP
+AD  - Department of Neurosurgery, Warren Alpert Medical School of Medicine of Brown University, Providence, Rhode Island, USA.
+FAU - Rex, Nathaniel
+AU  - Rex N
+AD  - Department of Neurosurgery, Warren Alpert Medical School of Medicine of Brown University, Providence, Rhode Island, USA.
+FAU - Shaaya, Elias A
+AU  - Shaaya EA
+AD  - Department of Neurosurgery, Warren Alpert Medical School of Medicine of Brown University, Providence, Rhode Island, USA.
+FAU - Poggi, Jonathan A
+AU  - Poggi JA
+AD  - Department of Neurosurgery, Warren Alpert Medical School of Medicine of Brown University, Providence, Rhode Island, USA.
+FAU - Cielo, Deus
+AU  - Cielo D
+AD  - Department of Neurosurgery, Warren Alpert Medical School of Medicine of Brown University, Providence, Rhode Island, USA.
+TA  - World Neurosurg
+JT  - World neurosurgery
+
+
+PMID- 37221202
+TI  - Near-lifespan longitudinal tracking of brain microvascular morphology, topology, and flow in male mice.
+FAU - Walek, Konrad W
+AU  - Walek KW
+AD  - Warren Alpert Medical School, Brown University, Providence, RI, 02912, USA.
+FAU - Stefan, Sabina
+AU  - Stefan S
+AD  - School of Engineering, Brown University, Providence, RI, 02912, USA.
+FAU - Lee, Jang-Hoon
+AU  - Lee JH
+AD  - School of Engineering, Brown University, Providence, RI, 02912, USA.
+FAU - Puttigampala, Pooja
+AU  - Puttigampala P
+AD  - College of Medicine, Drexel University, Philadelphia, PA, 19104, USA.
+FAU - Kim, Anna H
+AU  - Kim AH
+AD  - Department of Neuroscience, Brown University, Providence, RI, 02912, USA.
+FAU - Park, Seong Wook
+AU  - Park SW
+AD  - Department of Neuroscience, Brown University, Providence, RI, 02912, USA.
+FAU - Marchand, Paul J
+AU  - Marchand PJ
+AD  - Department of Electrical Engineering, École Polytechnique de Montréal, Montréal, QC, H3T 1J4, Canada.
+FAU - Lesage, Frederic
+AU  - Lesage F
+AD  - Department of Electrical Engineering, École Polytechnique de Montréal, Montréal, QC, H3T 1J4, Canada.
+FAU - Liu, Tao
+AU  - Liu T
+AD  - Department of Biostatistics, Brown University School of Public Health, Providence, RI, 02912, USA.
+FAU - Huang, Yu-Wen Alvin
+AU  - Huang YA
+AD  - Warren Alpert Medical School, Brown University, Providence, RI, 02912, USA.
+AD  - Department of Molecular Biology, Cell Biology and Biochemistry, Brown University, Providence, RI, 02912, USA.
+AD  - Carney Institute for Brain Science, Brown University, Providence, RI, 02912, USA.
+FAU - Boas, David A
+AU  - Boas DA
+AD  - Department of Biomedical Engineering, Boston University, Boston, MA, 02215, USA.
+FAU - Moore, Christopher
+AU  - Moore C
+AD  - Department of Neuroscience, Brown University, Providence, RI, 02912, USA.
+AD  - Carney Institute for Brain Science, Brown University, Providence, RI, 02912, USA.
+FAU - Lee, Jonghwan
+AU  - Lee J
+AD  - School of Engineering, Brown University, Providence, RI, 02912, USA. jonghwan_lee@brown.edu.
+AD  - Carney Institute for Brain Science, Brown University, Providence, RI, 02912, USA. jonghwan_lee@brown.edu.
+TA  - Nat Commun
+JT  - Nature communications
+
+
+PMID- 36447845
+TI  - Development of posttraumatic frontal brain abscess in association with an orbital roof fracture and odontogenic abscess: A case report.
+FAU - Abdulrazeq, Hael
+AU  - Abdulrazeq H
+AD  - Department of Neurosurgery, Rhode Island Hospital, The Alpert Warren Medical School of Brown University Providence, United States.
+FAU - Walek, Konrad
+AU  - Walek K
+AD  - Department of Neurosurgery, Rhode Island Hospital, The Alpert Warren Medical School of Brown University Providence, United States.
+FAU - Sampath, Shailen
+AU  - Sampath S
+AD  - Department of Neurosurgery, Rhode Island Hospital, The Alpert Warren Medical School of Brown University Providence, United States.
+FAU - Shaaya, Elias
+AU  - Shaaya E
+AD  - Department of Neurosurgery, Rhode Island Hospital, The Alpert Warren Medical School of Brown University Providence, United States.
+FAU - Beqiri, Dardan
+AU  - Beqiri D
+AD  - Department of Plastic Surgery, Rhode Island Hospital, The Alpert Warren Medical School of Brown University Providence, United States.
+FAU - Woo, Albert
+AU  - Woo A
+AD  - Department of Plastic Surgery, Rhode Island Hospital, The Alpert Warren Medical School of Brown University Providence, United States.
+FAU - Sampath, Prakash
+AU  - Sampath P
+AD  - Department of Neurosurgery, Rhode Island Hospital, The Alpert Warren Medical School of Brown University Providence, United States.
+TA  - Surg Neurol Int
+JT  - Surgical neurology international
+
+
+PMID- 37877962
+TI  - Differences in microorganisms causing infection after cranial and spinal surgeries.
+FAU - Pralea, Alexander
+AU  - Pralea A
+AD  - Departments of1Medicine.
+FAU - Walek, Konrad W
+AU  - Walek KW
+AD  - 2Neurosurgery, and.
+FAU - Auld, Dianne
+AU  - Auld D
+AD  - 3Epidemiology and Infection Prevention, Warren Alpert Medical School of Medicine, Brown University and Lifespan Hospital, Providence, Rhode Island.
+FAU - Mermel, Leonard A
+AU  - Mermel LA
+AD  - Departments of1Medicine.
+AD  - 3Epidemiology and Infection Prevention, Warren Alpert Medical School of Medicine, Brown University and Lifespan Hospital, Providence, Rhode Island.
+TA  - J Neurosurg
+JT  - Journal of neurosurgery
+
+
+PMID- 33647492
+TI  - Decreasing External Ventricular Drain Infection Rates in the Neurocritical Care Unit: 12-Year Longitudinal Experience at a Single Institution.
+FAU - Walek, Konrad W
+AU  - Walek KW
+AD  - Department of Neurosurgery, Warren Alpert Medical School of Medicine of Brown University, Providence, Rhode Island, USA.
+FAU - Leary, Owen P
+AU  - Leary OP
+AD  - Department of Neurosurgery, Warren Alpert Medical School of Medicine of Brown University, Providence, Rhode Island, USA.
+FAU - Sastry, Rahul
+AU  - Sastry R
+AD  - Department of Neurosurgery, Warren Alpert Medical School of Medicine of Brown University, Providence, Rhode Island, USA.
+FAU - Asaad, Wael F
+AU  - Asaad WF
+AD  - Department of Neurosurgery, Warren Alpert Medical School of Medicine of Brown University, Providence, Rhode Island, USA; Department of Neuroscience, Brown University, Providence, Rhode Island, USA; Norman Prince Neuroscience Institute, Rhode Island Hospital, Providence, Rhode Island, USA.
+FAU - Walsh, Joan M
+AU  - Walsh JM
+AD  - Division of Critical Care, Department of Nursing, Rhode Island Hospital, Providence, Rhode Island, USA.
+FAU - Mermel, Leonard
+AU  - Mermel L
+AD  - Department of Medicine, Warren Alpert Medical School of Medicine of Brown University, Providence, Rhode Island, USA; Department of Epidemiology and Infection Control, Rhode Island Hospital, Providence, Rhode Island, USA; Division of Infectious Diseases, Rhode Island Hospital, Providence, Rhode Island, USA. Electronic address: LMermel@lifespan.org.
+TA  - World Neurosurg
+JT  - World neurosurgery
+
+
+PMID- 36700671
+TI  - Time of Discharge and 30-Day Re-Presentation to an Acute Care Setting After Elective Lumbar Decompression Surgery.
+FAU - Sastry, Rahul A
+AU  - Sastry RA
+AD  - Department of Neurosurgery, Warren Alpert School of Medicine, Brown University, Providence, Rhode Island, USA.
+FAU - Hagan, Matthew
+AU  - Hagan M
+AD  - Department of Neurosurgery, Warren Alpert School of Medicine, Brown University, Providence, Rhode Island, USA.
+FAU - Feler, Joshua
+AU  - Feler J
+AD  - Department of Neurosurgery, Warren Alpert School of Medicine, Brown University, Providence, Rhode Island, USA.
+FAU - Abdulrazeq, Hael
+AU  - Abdulrazeq H
+AD  - Department of Neurosurgery, Warren Alpert School of Medicine, Brown University, Providence, Rhode Island, USA.
+FAU - Walek, Konrad
+AU  - Walek K
+AD  - Department of Neurosurgery, Warren Alpert School of Medicine, Brown University, Providence, Rhode Island, USA.
+FAU - Sullivan, Patricia Z
+AU  - Sullivan PZ
+AD  - Department of Neurosurgery, Warren Alpert School of Medicine, Brown University, Providence, Rhode Island, USA.
+FAU - Abinader, Jose Fernandez
+AU  - Abinader JF
+AD  - Department of Neurosurgery, Warren Alpert School of Medicine, Brown University, Providence, Rhode Island, USA.
+FAU - Camara, Joaquin Q
+AU  - Camara JQ
+AD  - Department of Neurosurgery, Warren Alpert School of Medicine, Brown University, Providence, Rhode Island, USA.
+FAU - Niu, Tianyi
+AU  - Niu T
+AD  - Department of Neurosurgery, Warren Alpert School of Medicine, Brown University, Providence, Rhode Island, USA.
+FAU - Fridley, Jared S
+AU  - Fridley JS
+AD  - Department of Neurosurgery, Warren Alpert School of Medicine, Brown University, Providence, Rhode Island, USA.
+FAU - Oyelese, Adetokunbo A
+AU  - Oyelese AA
+AD  - Department of Neurosurgery, Warren Alpert School of Medicine, Brown University, Providence, Rhode Island, USA.
+FAU - Sampath, Prakash
+AU  - Sampath P
+AD  - Department of Neurosurgery, Warren Alpert School of Medicine, Brown University, Providence, Rhode Island, USA.
+FAU - Telfeian, Albert E
+AU  - Telfeian AE
+AD  - Department of Neurosurgery, Warren Alpert School of Medicine, Brown University, Providence, Rhode Island, USA.
+FAU - Gokaslan, Ziya L
+AU  - Gokaslan ZL
+AD  - Department of Neurosurgery, Warren Alpert School of Medicine, Brown University, Providence, Rhode Island, USA.
+FAU - Toms, Steven A
+AU  - Toms SA
+AD  - Department of Neurosurgery, Warren Alpert School of Medicine, Brown University, Providence, Rhode Island, USA.
+FAU - Weil, Robert J
+AU  - Weil RJ
+AD  - Department of Neurosurgery, Southcoast Health Brain & Spine, Dartmouth, Massachusetts, USA.
+TA  - Neurosurgery
+JT  - Neurosurgery
+
+
+PMID- 37078054
+TI  - Investigating the correlation between early vascular alterations and cognitive impairment in Alzheimer's disease in mice with SD-OCT.
+FAU - Lee, Jang-Hoon
+AU  - Lee JH
+AD  - Center for Biomedical Engineering, School of Engineering, Brown University, Providence, Rhode Island 02912, USA.
+FAU - Stefan, Sabina
+AU  - Stefan S
+AD  - Department of Pediatric Oncology, Dana-Farber Cancer Institute, Boston, Massachusetts 02215, USA.
+FAU - Walek, Konrad
+AU  - Walek K
+AD  - Warren Alpert Medical School of Brown University, Providence, Rhode Island 02903, USA.
+FAU - Nie, Jiarui
+AU  - Nie J
+AD  - Center for Biomedical Engineering, School of Engineering, Brown University, Providence, Rhode Island 02912, USA.
+FAU - Min, Kyounghee
+AU  - Min K
+AD  - University of Massachusetts Chan Medical School, Worcester, Massachusetts 01655, USA.
+FAU - Yang, Taeseok Daniel
+AU  - Yang TD
+AD  - Center for Biomedical Engineering, School of Engineering, Brown University, Providence, Rhode Island 02912, USA.
+AD  - Department of Bioengineering, Korea University, Seoul 02841, Republic of Korea.
+FAU - Lee, Jonghwan
+AU  - Lee J
+AD  - Center for Biomedical Engineering, School of Engineering, Brown University, Providence, Rhode Island 02912, USA.
+AD  - Carney Institute for Brain Science, Brown University, Providence, Rhode Island 02912, USA.
+TA  - Biomed Opt Express
+JT  - Biomedical optics express
+
+
+PMID- 30460132
+TI  - Doppler OCT clutter rejection using variance minimization and offset extrapolation.
+FAU - Akif, Adil
+AU  - Akif A
+AD  - Center for Biomedical Engineering, School of Engineering, Brown University, Providence, RI 02906, USA.
+FAU - Walek, Konrad
+AU  - Walek K
+AD  - Department of Neuroscience, Brown University, Providence, RI 02906, USA.
+AD  - Warren A. Alpert Medical School, Brown University, Providence, RI 02906, USA.
+FAU - Polucha, Collin
+AU  - Polucha C
+AD  - Center for Biomedical Engineering, School of Engineering, Brown University, Providence, RI 02906, USA.
+FAU - Lee, Jonghwan
+AU  - Lee J
+AD  - Center for Biomedical Engineering, School of Engineering, Brown University, Providence, RI 02906, USA.
+AD  - Carney Institute for Brain Science, Brown University, Providence, RI 02906, USA.
+TA  - Biomed Opt Express
+JT  - Biomedical optics express
+
+
+PMID- 38061544
+TI  - The Neurosurgeon's Dilemma-Do Antiplatelet/Anticoagulant Medications Increase the Risk of Catheter-Associated Hemorrhage in External Ventricular Drain Placement?
+FAU - Olexa, Joshua
+AU  - Olexa J
+AD  - Department of Neurosurgery, University of Maryland School of Medicine, Baltimore, Maryland, USA. Electronic address: JOlexa@som.umaryland.edu.
+FAU - Walek, Konrad W
+AU  - Walek KW
+AD  - Department of Neurosurgery, University of Maryland School of Medicine, Baltimore, Maryland, USA.
+FAU - Flessner, Rebecca
+AU  - Flessner R
+AD  - Department of Neurosurgery, University of Maryland School of Medicine, Baltimore, Maryland, USA.
+FAU - Trang, Annie
+AU  - Trang A
+AD  - Department of Neurosurgery, University of Maryland School of Medicine, Baltimore, Maryland, USA.
+FAU - Stokum, Jesse
+AU  - Stokum J
+AD  - Department of Neurosurgery, University of Maryland School of Medicine, Baltimore, Maryland, USA.
+FAU - Chen, Chixiang
+AU  - Chen C
+AD  - Department of Neurosurgery, University of Maryland School of Medicine, Baltimore, Maryland, USA; Division of Biostatistics and Bioinformatics, Department of Epidemiology and Public Health, Baltimore, Maryland, USA.
+FAU - Sharma, Ashish
+AU  - Sharma A
+AD  - Department of Neurosurgery, University of Maryland School of Medicine, Baltimore, Maryland, USA.
+FAU - Oliver, Jeffrey
+AU  - Oliver J
+AD  - Department of Neurosurgery, University of Maryland School of Medicine, Baltimore, Maryland, USA.
+FAU - Solomon, Daniel
+AU  - Solomon D
+AD  - Department of Neurosurgery, University of Maryland School of Medicine, Baltimore, Maryland, USA.
+FAU - Kim, Kevin T
+AU  - Kim KT
+AD  - Department of Neurosurgery, University of Maryland School of Medicine, Baltimore, Maryland, USA.
+FAU - Serra, Riccardo
+AU  - Serra R
+AD  - Department of Neurosurgery, University of Maryland School of Medicine, Baltimore, Maryland, USA.
+FAU - Ahmed, Abdul-Kareem
+AU  - Ahmed AK
+AD  - Department of Neurosurgery, University of Maryland School of Medicine, Baltimore, Maryland, USA.
+FAU - Wilhelmy, Bradley
+AU  - Wilhelmy B
+AD  - Department of Neurosurgery, University of Maryland School of Medicine, Baltimore, Maryland, USA.
+FAU - Chryssikos, Timothy
+AU  - Chryssikos T
+AD  - Department of Neurosurgery, University of Maryland School of Medicine, Baltimore, Maryland, USA.
+FAU - Cannarsa, Gregory
+AU  - Cannarsa G
+AD  - Department of Neurosurgery, University of Maryland School of Medicine, Baltimore, Maryland, USA.
+FAU - Crandall, Kenneth
+AU  - Crandall K
+AD  - Department of Neurosurgery, University of Maryland School of Medicine, Baltimore, Maryland, USA.
+FAU - Sansur, Charles
+AU  - Sansur C
+AD  - Department of Neurosurgery, University of Maryland School of Medicine, Baltimore, Maryland, USA.
+FAU - Schwartzbauer, Gary
+AU  - Schwartzbauer G
+AD  - Department of Neurosurgery, University of Maryland School of Medicine, Baltimore, Maryland, USA.
+TA  - World Neurosurg
+JT  - World neurosurgery
+
+
+PMID- 32357596
+TI  - Spinal Epidural Hematoma After Attempted Catheter Thrombectomy of a Large Iliofemoral Deep Venous Thrombosis: A Case Report.
+FAU - Walek, Konrad
+AU  - Walek K
+AD  - Department of Neurosurgery, The Warren Alpert Medical School of Brown University, Providence, RI.
+FAU - Sastry, Rahul
+AU  - Sastry R
+AD  - Department of Neurosurgery, The Warren Alpert Medical School of Brown University, Providence, RI.
+FAU - Toms, Steven
+AU  - Toms S
+AD  - Department of Neurosurgery, The Warren Alpert Medical School of Brown University, Providence.
+TA  - R I Med J (2013)
+JT  - Rhode Island medical journal (2013)

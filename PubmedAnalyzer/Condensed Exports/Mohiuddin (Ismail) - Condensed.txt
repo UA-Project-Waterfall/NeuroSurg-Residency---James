@@ -1,0 +1,109 @@
+PMID- 31380275
+TI  - DNA-PK as an Emerging Therapeutic Target in Cancer.
+FAU - Mohiuddin, Ismail S
+AU  - Mohiuddin IS
+AD  - Cancer Center, Department of Pediatrics, Pharmacology and Neuroscience, School of Medicine, Texas Tech University Health Sciences Center, Lubbock, TX, United States.
+FAU - Kang, Min H
+AU  - Kang MH
+AD  - Cancer Center, Department of Pediatrics, Pharmacology and Neuroscience, School of Medicine, Texas Tech University Health Sciences Center, Lubbock, TX, United States.
+TA  - Front Oncol
+JT  - Frontiers in oncology
+
+
+PMID- 30904611
+TI  - Role of OCT4 in cancer stem-like cells and chemotherapy resistance.
+FAU - Mohiuddin, Ismail S
+AU  - Mohiuddin IS
+AD  - Cancer Center, Department of Pediatrics, Pharmacology & Neuroscience, School of Medicine, Texas Tech University Health Sciences Center, Lubbock, TX 79430, USA.
+FAU - Wei, Sung-Jen
+AU  - Wei SJ
+AD  - Cancer Center, Department of Pediatrics, Pharmacology & Neuroscience, School of Medicine, Texas Tech University Health Sciences Center, Lubbock, TX 79430, USA.
+FAU - Kang, Min H
+AU  - Kang MH
+AD  - Cancer Center, Department of Pediatrics, Pharmacology & Neuroscience, School of Medicine, Texas Tech University Health Sciences Center, Lubbock, TX 79430, USA. Electronic address: min.kang@ttuhsc.edu.
+TA  - Biochim Biophys Acta Mol Basis Dis
+JT  - Biochimica et biophysica acta. Molecular basis of disease
+
+
+PMID- 37116859
+TI  - DNA-PKcs as an upstream mediator of OCT4-induced MYC activation in small cell lung cancer.
+FAU - Wei, Sung-Jen
+AU  - Wei SJ
+AD  - Cancer Center, Texas Tech University Health Sciences Center, Lubbock, TX 79430, USA; Department of Pediatrics, Texas Tech University Health Sciences Center, Lubbock, TX 79430, USA.
+FAU - Yang, In-Hyoung
+AU  - Yang IH
+AD  - Cancer Center, Texas Tech University Health Sciences Center, Lubbock, TX 79430, USA; Department of Pediatrics, Texas Tech University Health Sciences Center, Lubbock, TX 79430, USA.
+FAU - Mohiuddin, Ismail S
+AU  - Mohiuddin IS
+AD  - Cancer Center, Texas Tech University Health Sciences Center, Lubbock, TX 79430, USA; Graduate School of Biomedical Sciences, Texas Tech University Health Sciences Center, Lubbock, TX 79430, USA.
+FAU - Kshirsagar, Ganesh J
+AU  - Kshirsagar GJ
+AD  - Cancer Center, Texas Tech University Health Sciences Center, Lubbock, TX 79430, USA; Graduate School of Biomedical Sciences, Texas Tech University Health Sciences Center, Lubbock, TX 79430, USA.
+FAU - Nguyen, Thinh H
+AU  - Nguyen TH
+AD  - Cancer Center, Texas Tech University Health Sciences Center, Lubbock, TX 79430, USA; Graduate School of Biomedical Sciences, Texas Tech University Health Sciences Center, Lubbock, TX 79430, USA.
+FAU - Trasti, Scott
+AU  - Trasti S
+AD  - Laboratory Animal Resources Center, Texas Tech University Health Sciences Center, Lubbock, TX 79430, USA.
+FAU - Maurer, Barry J
+AU  - Maurer BJ
+AD  - Cancer Center, Texas Tech University Health Sciences Center, Lubbock, TX 79430, USA; Department of Pediatrics, Texas Tech University Health Sciences Center, Lubbock, TX 79430, USA; Department of Internal Medicine, School of Medicine, Texas Tech University Health Sciences Center, Lubbock, TX 79430, USA.
+FAU - Kang, Min H
+AU  - Kang MH
+AD  - Cancer Center, Texas Tech University Health Sciences Center, Lubbock, TX 79430, USA; Department of Pediatrics, Texas Tech University Health Sciences Center, Lubbock, TX 79430, USA; Department of Internal Medicine, School of Medicine, Texas Tech University Health Sciences Center, Lubbock, TX 79430, USA. Electronic address: min.kang@ttuhsc.edu.
+TA  - Biochim Biophys Acta Gene Regul Mech
+JT  - Biochimica et biophysica acta. Gene regulatory mechanisms
+
+
+PMID- 33565603
+TI  - Development of cell-based high throughput luminescence assay for drug discovery in inhibiting OCT4/DNA-PKcs and OCT4-MK2 interactions.
+FAU - Mohiuddin, Ismail S
+AU  - Mohiuddin IS
+AD  - Cancer Center, School of Medicine, Texas Tech University Health Sciences Center, Lubbock, Texas, USA.
+AD  - Department of Pediatrics, School of Medicine, Texas Tech University Health Sciences Center, Lubbock, Texas, USA.
+FAU - Wei, Sung-Jen
+AU  - Wei SJ
+AD  - Cancer Center, School of Medicine, Texas Tech University Health Sciences Center, Lubbock, Texas, USA.
+AD  - Department of Pediatrics, School of Medicine, Texas Tech University Health Sciences Center, Lubbock, Texas, USA.
+FAU - Yang, In-Hyoung
+AU  - Yang IH
+AD  - Cancer Center, School of Medicine, Texas Tech University Health Sciences Center, Lubbock, Texas, USA.
+AD  - Department of Pediatrics, School of Medicine, Texas Tech University Health Sciences Center, Lubbock, Texas, USA.
+FAU - Martinez, Gloria M
+AU  - Martinez GM
+AD  - Cancer Center, School of Medicine, Texas Tech University Health Sciences Center, Lubbock, Texas, USA.
+AD  - Department of Pediatrics, School of Medicine, Texas Tech University Health Sciences Center, Lubbock, Texas, USA.
+FAU - Yang, Shengping
+AU  - Yang S
+AD  - Department of Biostatistics, Pennington Biomedical Research Center, Baton Rouge, Louisiana, USA.
+FAU - Cho, Eun J
+AU  - Cho EJ
+AD  - Division of Chemical Biology and Medicinal Chemistry, College of Pharmacy, The University of Texas at Austin, Austin, Texas, USA.
+FAU - Dalby, Kevin N
+AU  - Dalby KN
+AD  - Division of Chemical Biology and Medicinal Chemistry, College of Pharmacy, The University of Texas at Austin, Austin, Texas, USA.
+FAU - Kang, Min H
+AU  - Kang MH
+AD  - Cancer Center, School of Medicine, Texas Tech University Health Sciences Center, Lubbock, Texas, USA.
+AD  - Department of Pediatrics, School of Medicine, Texas Tech University Health Sciences Center, Lubbock, Texas, USA.
+TA  - Biotechnol Bioeng
+JT  - Biotechnology and bioengineering
+
+
+PMID- 33136863
+TI  - Analysis of Frontal Sinus Fracture Management and Resource Utilization.
+FAU - Firouzbakht, Peter K
+AU  - Firouzbakht PK
+AD  - Department of Otolaryngology, Texas Tech University Health Sciences Center School of Medicine, Lubbock, TX.
+FAU - Mohiuddin, Ismail S
+AU  - Mohiuddin IS
+FAU - Varman, Rahul M
+AU  - Varman RM
+FAU - Heinrich, Matthew P
+AU  - Heinrich MP
+FAU - Saa, Lisa
+AU  - Saa L
+FAU - Cordero, Joehassin
+AU  - Cordero J
+TA  - J Craniofac Surg
+JT  - The Journal of craniofacial surgery

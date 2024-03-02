@@ -1,0 +1,662 @@
+PMID- 34341881
+TI  - Corticospinal Motor Circuit Plasticity After Spinal Cord Injury: Harnessing Neuroplasticity to Improve Functional Outcomes.
+FAU - Kazim, Syed Faraz
+AU  - Kazim SF
+AD  - Department of Neurosurgery, University of New Mexico (UNM) School of Medicine, Albuquerque, NM, 87131, USA.
+FAU - Bowers, Christian A
+AU  - Bowers CA
+AD  - Department of Neurosurgery, University of New Mexico (UNM) School of Medicine, Albuquerque, NM, 87131, USA.
+FAU - Cole, Chad D
+AU  - Cole CD
+AD  - Department of Neurosurgery, University of New Mexico (UNM) School of Medicine, Albuquerque, NM, 87131, USA.
+FAU - Varela, Samantha
+AU  - Varela S
+AD  - School of Medicine, University of New Mexico (UNM), Albuquerque, NM, 87131, USA.
+FAU - Karimov, Zafar
+AU  - Karimov Z
+AD  - School of Medicine, New York Medical College (NYMC), Valhalla, NY, 10595, USA.
+FAU - Martinez, Erick
+AU  - Martinez E
+AD  - School of Medicine, New York Medical College (NYMC), Valhalla, NY, 10595, USA.
+FAU - Ogulnick, Jonathan V
+AU  - Ogulnick JV
+AD  - School of Medicine, New York Medical College (NYMC), Valhalla, NY, 10595, USA.
+FAU - Schmidt, Meic H
+AU  - Schmidt MH
+AD  - Department of Neurosurgery, University of New Mexico (UNM) School of Medicine, Albuquerque, NM, 87131, USA. MHSchmidt@salud.unm.edu.
+TA  - Mol Neurobiol
+JT  - Molecular neurobiology
+
+
+PMID- 36470560
+TI  - Postprocedural Complications of External Ventricular Drains: A Meta-Analysis Evaluating the Absolute Risk of Hemorrhages, Infections, and Revisions.
+FAU - Mahto, Neil
+AU  - Mahto N
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, New Mexico, USA.
+FAU - Owodunni, Oluwafemi P
+AU  - Owodunni OP
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, New Mexico, USA.
+FAU - Okakpu, Uchenna
+AU  - Okakpu U
+AD  - West Virginia University School of Medicine, Morgantown, West Virginia, USA.
+FAU - Kazim, Syed F
+AU  - Kazim SF
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, New Mexico, USA.
+FAU - Varela, Samantha
+AU  - Varela S
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, New Mexico, USA.
+FAU - Varela, Yandry
+AU  - Varela Y
+AD  - Burrell College of Osteopathic Medicine, New Mexico, USA.
+FAU - Garcia, Josiel
+AU  - Garcia J
+AD  - Burrell College of Osteopathic Medicine, New Mexico, USA.
+FAU - Alunday, Robert
+AU  - Alunday R
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, New Mexico, USA.
+FAU - Schmidt, Meic H
+AU  - Schmidt MH
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, New Mexico, USA.
+FAU - Bowers, Christian A
+AU  - Bowers CA
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, New Mexico, USA. Electronic address: CABowers@salud.unm.edu.
+TA  - World Neurosurg
+JT  - World neurosurgery
+
+
+PMID- 35766210
+TI  - One-year experience with virtual multidisciplinary neuro-oncology tumor board during the COVID-19 pandemic.
+FAU - Varela, Samantha
+AU  - Varela S
+AD  - School of Medicine, University of New Mexico (UNM), Albuquerque, NM, USA.
+FAU - Vidrine, Devan W
+AU  - Vidrine DW
+AD  - School of Medicine, University of New Mexico (UNM), Albuquerque, NM, USA.
+FAU - Marquez, Joshua
+AU  - Marquez J
+AD  - School of Medicine, University of New Mexico (UNM), Albuquerque, NM, USA.
+FAU - Kazim, Syed F
+AU  - Kazim SF
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), Albuquerque, NM, USA.
+FAU - Kogan, Michael
+AU  - Kogan M
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), Albuquerque, NM, USA.
+FAU - Ormsby, Jacob W
+AU  - Ormsby JW
+AD  - Section of Neuroradiology, Department of Radiology, University of New Mexico Hospital (UNMH), Albuquerque, NM, USA.
+FAU - Schroeder, Thomas M
+AU  - Schroeder TM
+AD  - Section of Radiation Oncology, Department of Internal Medicine, University of New Mexico Hospital (UNMH), Albuquerque, NM, USA.
+FAU - Santacruz, Karen S
+AU  - Santacruz KS
+AD  - Section of Neuropathology, Department of Pathology, University of New Mexico Hospital (UNMH), Albuquerque, NM, USA.
+FAU - Botros, James A
+AU  - Botros JA
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), Albuquerque, NM, USA.
+FAU - Spader, Heather S
+AU  - Spader HS
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), Albuquerque, NM, USA.
+FAU - Schmidt, Meic H
+AU  - Schmidt MH
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), Albuquerque, NM, USA.
+FAU - Bowers, Christian A
+AU  - Bowers CA
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), Albuquerque, NM, USA - CABowers@salud.unm.edu.
+TA  - J Neurosurg Sci
+JT  - Journal of neurosurgical sciences
+
+
+PMID- 34647717
+TI  - Neurosurgery virtual education in the COVID-19 pandemic era: results of a global survey.
+FAU - Varela, Samantha
+AU  - Varela S
+AD  - School of Medicine, University of New Mexico (UNM), Albuquerque, NM, USA.
+FAU - Kazim, Syed F
+AU  - Kazim SF
+AD  - Department of Neurosurgery, University of New Mexico (UNM) School of Medicine, Albuquerque, NM, USA.
+FAU - Schmidt, Meic H
+AU  - Schmidt MH
+AD  - Department of Neurosurgery, University of New Mexico (UNM) School of Medicine, Albuquerque, NM, USA.
+FAU - Chaurasia, Bipin
+AU  - Chaurasia B
+AD  - Department of Neurosurgery, Bangabandhu Sheikh Mujib Medical University, Dhaka, Bangladesh.
+FAU - Dicpinigaitis, Alis J
+AU  - Dicpinigaitis AJ
+AD  - School of Medicine, New York Medical College, Valhalla, NY, USA.
+FAU - Ogulnick, Jonathan V
+AU  - Ogulnick JV
+AD  - School of Medicine, New York Medical College, Valhalla, NY, USA.
+FAU - Cole, Kyril L
+AU  - Cole KL
+AD  - School of Medicine, University of Utah, Salt Lake City, UT, USA.
+FAU - Conlon, Matthew
+AU  - Conlon M
+AD  - School of Medicine, New York Medical College, Valhalla, NY, USA.
+FAU - Tarawneh, Omar
+AU  - Tarawneh O
+AD  - School of Medicine, New York Medical College, Valhalla, NY, USA.
+FAU - Thommen, Rachel
+AU  - Thommen R
+AD  - School of Medicine, New York Medical College, Valhalla, NY, USA.
+FAU - Cole, Chad D
+AU  - Cole CD
+AD  - Department of Neurosurgery, University of New Mexico (UNM) School of Medicine, Albuquerque, NM, USA.
+FAU - Jean, Walter C
+AU  - Jean WC
+AD  - Department of Neurosurgery, George Washington University, Washington, DC, USA.
+FAU - Couldwell, William T
+AU  - Couldwell WT
+AD  - Department of Neurosurgery, University of Utah, Clinical Neurosciences Center, University of Utah, Salt Lake City, UT, USA.
+FAU - Litvack, Zachary N
+AU  - Litvack ZN
+AD  - Department of Neurosurgery, Swedish Neuroscience Institute, Swedish Medical Center, Seattle, WA, USA.
+FAU - Al-Mufti, Fawaz
+AU  - Al-Mufti F
+AD  - Department of Neurosurgery, Westchester Medical Center, Valhalla, NY, USA.
+FAU - Bowers, Christian A
+AU  - Bowers CA
+AD  - Department of Neurosurgery, University of New Mexico (UNM) School of Medicine, Albuquerque, NM, USA - CABowers@salud.unm.edu.
+TA  - J Neurosurg Sci
+JT  - Journal of neurosurgical sciences
+
+
+PMID- 35442224
+TI  - Letter: Association of Late Week Nonhome Discharge With Increased Length of Stay in Intracranial Meningioma Resection Patients.
+FAU - Varela, Samantha
+AU  - Varela S
+AD  - School of Medicine, University of New Mexico (UNM), Albuquerque, New Mexico, USA.
+FAU - Garcia, Joshua
+AU  - Garcia J
+AD  - Clinical Quality Improvement (CQI) Program, University of New Mexico Health Science Center (UNMHSC), Albuquerque, New Mexico, USA.
+FAU - Kazim, Syed Faraz
+AU  - Kazim SF
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), Albuquerque, New Mexico, USA.
+FAU - Schmidt, Meic H
+AU  - Schmidt MH
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), Albuquerque, New Mexico, USA.
+FAU - McKee, Rohini G
+AU  - McKee RG
+AD  - Department of Surgery, University of New Mexico Hospital (UNMH), Albuquerque, New Mexico, USA.
+FAU - Miskimins, Richard
+AU  - Miskimins R
+AD  - Department of Surgery, University of New Mexico Hospital (UNMH), Albuquerque, New Mexico, USA.
+FAU - Abeyta, Carlos
+AU  - Abeyta C
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), Albuquerque, New Mexico, USA.
+FAU - Bowers, Christian A
+AU  - Bowers CA
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), Albuquerque, New Mexico, USA.
+TA  - Neurosurgery
+JT  - Neurosurgery
+
+
+PMID- 36094282
+TI  - Letter: Association of Patient Frailty With Vestibular Schwannoma Resection Outcomes and Machine Learning Development of a Vestibular Schwannoma Risk Stratification Score.
+FAU - Bowers, Christian A
+AU  - Bowers CA
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), Albuquerque, New Mexico, USA.
+FAU - Varela, Samantha
+AU  - Varela S
+AD  - School of Medicine, University of New Mexico (UNM), Albuquerque, New Mexico, USA.
+FAU - Kazim, Syed Faraz
+AU  - Kazim SF
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), Albuquerque, New Mexico, USA.
+FAU - Gurgel, Richard
+AU  - Gurgel R
+AD  - Department of Otolaryngology, University of Utah, Salt Lake City, Utah, USA.
+TA  - Neurosurgery
+JT  - Neurosurgery
+
+
+PMID- 36324951
+TI  - Advanced frailty assessment tool predicts successful awake craniotomy in a 92-year-old patient: A case report.
+FAU - Cole, Kyril L
+AU  - Cole KL
+AD  - Department of Neurosurgery, University of New Mexico, University of New Mexico Health Sciences Center, Albuquerque, United States.
+FAU - Varela, Samantha
+AU  - Varela S
+AD  - Department of Neurosurgery, University of New Mexico, University of New Mexico Health Sciences Center, Albuquerque, United States.
+FAU - Rumalla, Kavelin
+AU  - Rumalla K
+AD  - Department of Neurosurgery, University of New Mexico, University of New Mexico Health Sciences Center, Albuquerque, United States.
+FAU - Kazim, Syed Faraz
+AU  - Kazim SF
+AD  - Department of Neurosurgery, University of New Mexico, University of New Mexico Health Sciences Center, Albuquerque, United States.
+FAU - Rebbe, Ryan W
+AU  - Rebbe RW
+AD  - Department of Neurosurgery, University of New Mexico, University of New Mexico Health Sciences Center, Albuquerque, United States.
+FAU - Carvajal, Michael
+AU  - Carvajal M
+AD  - Department of Neurosurgery, University of New Mexico, University of New Mexico Health Sciences Center, Albuquerque, United States.
+FAU - SantaCruz, Karen S
+AU  - SantaCruz KS
+AD  - Department of Neurosurgery, University of New Mexico, University of New Mexico Health Sciences Center, Albuquerque, United States.
+FAU - McKee, Rohini
+AU  - McKee R
+AD  - Department of Neurosurgery, University of New Mexico, University of New Mexico Health Sciences Center, Albuquerque, United States.
+FAU - Willman, Cheryl
+AU  - Willman C
+AD  - Department of Neurosurgery, University of New Mexico, University of New Mexico Health Sciences Center, Albuquerque, United States.
+FAU - Schmidt, Meic H
+AU  - Schmidt MH
+AD  - Department of Neurosurgery, University of New Mexico, University of New Mexico Health Sciences Center, Albuquerque, United States.
+FAU - Bowers, Christian A
+AU  - Bowers CA
+AD  - Department of Neurosurgery, University of New Mexico, University of New Mexico Health Sciences Center, Albuquerque, United States.
+TA  - Surg Neurol Int
+JT  - Surgical neurology international
+
+
+PMID- 36227254
+TI  - Continuous Tissue Plasminogen Activator Infusion Using a Minimally Invasive Irrigating Catheter for the Treatment of Intraparenchymal Hemorrhage Within the Basal Ganglia: Case Reports.
+FAU - Varela, Samantha
+AU  - Varela S
+AD  - School of Medicine, University of New Mexico (UNM), Albuquerque, New Mexico, USA.
+FAU - Carrera, Diego
+AU  - Carrera D
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), Albuquerque, New Mexico, USA.
+FAU - Elazim, Ahmed Abd
+AU  - Elazim AA
+AD  - Department of Neurology, University of New Mexico Hospital (UNMH), Albuquerque, New Mexico, USA.
+FAU - Robinson, Myranda B
+AU  - Robinson MB
+AD  - School of Medicine, University of New Mexico (UNM), Albuquerque, New Mexico, USA.
+FAU - Torbey, Michel
+AU  - Torbey M
+AD  - Department of Neurology, University of New Mexico Hospital (UNMH), Albuquerque, New Mexico, USA.
+FAU - Carlson, Andrew P
+AU  - Carlson AP
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), Albuquerque, New Mexico, USA.
+TA  - Oper Neurosurg (Hagerstown)
+JT  - Operative neurosurgery (Hagerstown, Md.)
+
+
+PMID- 35901555
+TI  - Worse cranial neurosurgical outcomes predicted by increasing frailty in patients with interhospital transfer status: Analysis of 47,736 patients from the National Surgical Quality Improvement Program (NSQIP) 2015-2019.
+FAU - Kassicieh, Alexander J
+AU  - Kassicieh AJ
+AD  - School of Medicine, University of New Mexico, Albuquerque, NM 87106, USA.
+FAU - Varela, Samantha
+AU  - Varela S
+AD  - School of Medicine, University of New Mexico, Albuquerque, NM 87106, USA.
+FAU - Rumalla, Kavelin
+AU  - Rumalla K
+AD  - Department of Neurosurgery, University of New Mexico, Albuquerque, NM 87106, USA.
+FAU - Kazim, Syed Faraz
+AU  - Kazim SF
+AD  - Department of Neurosurgery, University of New Mexico, Albuquerque, NM 87106, USA.
+FAU - Cole, Kyril L
+AU  - Cole KL
+AD  - School of Medicine, University of Utah, Salt Lake City, UT 84132, USA.
+FAU - Ghatalia, Desna V
+AU  - Ghatalia DV
+AD  - School of Medicine, University of New Mexico, Albuquerque, NM 87106, USA.
+FAU - Schmidt, Meic H
+AU  - Schmidt MH
+AD  - Department of Neurosurgery, University of New Mexico, Albuquerque, NM 87106, USA.
+FAU - Bowers, Christian A
+AU  - Bowers CA
+AD  - Department of Neurosurgery, University of New Mexico, Albuquerque, NM 87106, USA. Electronic address: CABowers@salud.unm.edu.
+TA  - Clin Neurol Neurosurg
+JT  - Clinical neurology and neurosurgery
+
+
+PMID- 36781309
+TI  - Clinically predictive baseline labs for post-operative outcomes of brain tumors using NSQIP database.
+FAU - Varela, Samantha
+AU  - Varela S
+AD  - School of Medicine, University of New Mexico (UNM), Albuquerque, NM, USA.
+FAU - Thommen, Rachel
+AU  - Thommen R
+AD  - School of Medicine, New York Medical College (NYMC), Valhalla, NY, USA.
+FAU - Kazim, Syed Faraz
+AU  - Kazim SF
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), Albuquerque, NM, USA.
+FAU - Dicpinigaitis, Alis J
+AU  - Dicpinigaitis AJ
+AD  - School of Medicine, New York Medical College (NYMC), Valhalla, NY, USA.
+FAU - McKee, Rohini G
+AU  - McKee RG
+AD  - Department of Surgery, University of New Mexico, Albuquerque, NM, USA.
+FAU - Schmidt, Meic H
+AU  - Schmidt MH
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), Albuquerque, NM, USA.
+FAU - Couldwell, William T
+AU  - Couldwell WT
+AD  - Department of Neurosurgery, Clinical Neuroscience Center, University of Utah, Salt Lake City, UT, USA.
+FAU - Bowers, Christian A
+AU  - Bowers CA
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), Albuquerque, NM, USA. Electronic address: CABowers@salud.unm.edu.
+TA  - Eur J Surg Oncol
+JT  - European journal of surgical oncology : the journal of the European Society of Surgical Oncology and the British Association of Surgical Oncology
+
+
+PMID- 36773534
+TI  - Preoperative frailty risk in deep brain stimulation patients: Risk analysis index predicts Clavien-Dindo IV complications.
+FAU - Owodunni, Oluwafemi P
+AU  - Owodunni OP
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, NM, USA.
+FAU - Roster, Katie
+AU  - Roster K
+AD  - New York Medical College School of Medicine, Valhalla, NY, USA.
+FAU - Varela, Samantha
+AU  - Varela S
+AD  - University of New Mexico School of Medicine, Albuquerque, NM, USA.
+FAU - Kazim, Syed F
+AU  - Kazim SF
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, NM, USA.
+FAU - Okakpu, Uchenna
+AU  - Okakpu U
+AD  - West Virginia University School of Medicine, Morgantown, WV, USA.
+FAU - Tarawneh, Omar H
+AU  - Tarawneh OH
+AD  - New York Medical College School of Medicine, Valhalla, NY, USA.
+FAU - Thommen, Rachel
+AU  - Thommen R
+AD  - New York Medical College School of Medicine, Valhalla, NY, USA.
+FAU - Kogan, Michael
+AU  - Kogan M
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, NM, USA.
+FAU - Sheehan, Jason
+AU  - Sheehan J
+AD  - Department of Neurosurgery, University of Virginia, Charlottesville, VA, USA.
+FAU - Mckee, Rohini
+AU  - Mckee R
+AD  - Department of Surgery, University of New Mexico Hospital, Albuquerque, NM, USA.
+FAU - Deligtisch, Amanda
+AU  - Deligtisch A
+AD  - Department of Neurology, University of New Mexico Hospital, Albuquerque, NM, USA.
+FAU - Schmidt, Meic H
+AU  - Schmidt MH
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, NM, USA.
+FAU - Bowers, Christian A
+AU  - Bowers CA
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, NM, USA. Electronic address: CABowers@salud.unm.edu.
+TA  - Clin Neurol Neurosurg
+JT  - Clinical neurology and neurosurgery
+
+
+PMID- 36692309
+TI  - Preoperative frailty status measured by Clinical Risk Analysis Index and adverse events after endoscopic endonasal transsphenoidal resection of pituitary adenoma: results of a single center prospective case series.
+FAU - Marquez, Joshua
+AU  - Marquez J
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, NM, USA.
+AD  - Bowers Neurosurgical Frailty and Outcomes Data Science Lab, Albuquerque, NM, USA.
+FAU - Spangler, Benjamin Q
+AU  - Spangler BQ
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, NM, USA.
+FAU - Rumalla, Kavelin
+AU  - Rumalla K
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, NM, USA.
+AD  - Bowers Neurosurgical Frailty and Outcomes Data Science Lab, Albuquerque, NM, USA.
+FAU - Kazim, Syed F
+AU  - Kazim SF
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, NM, USA.
+AD  - Bowers Neurosurgical Frailty and Outcomes Data Science Lab, Albuquerque, NM, USA.
+FAU - Courville, Evan
+AU  - Courville E
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, NM, USA.
+AD  - Bowers Neurosurgical Frailty and Outcomes Data Science Lab, Albuquerque, NM, USA.
+FAU - Patel, Sagar A
+AU  - Patel SA
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, NM, USA.
+FAU - Lundquist, Dominic K
+AU  - Lundquist DK
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, NM, USA.
+FAU - Muka, Theodore N
+AU  - Muka TN
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, NM, USA.
+FAU - Varela, Samantha
+AU  - Varela S
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, NM, USA.
+AD  - Bowers Neurosurgical Frailty and Outcomes Data Science Lab, Albuquerque, NM, USA.
+FAU - Olson, Garth T
+AU  - Olson GT
+AD  - Department of Otolaryngology, University of New Mexico Hospital, Albuquerque, NM, USA.
+FAU - Shama, Liat
+AU  - Shama L
+AD  - Department of Otolaryngology, University of New Mexico Hospital, Albuquerque, NM, USA.
+FAU - McKee, Rohini G
+AU  - McKee RG
+AD  - Bowers Neurosurgical Frailty and Outcomes Data Science Lab, Albuquerque, NM, USA.
+AD  - Department of Surgery, University of New Mexico Hospital, Albuquerque, NM, USA.
+FAU - Schmidt, Meic H
+AU  - Schmidt MH
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, NM, USA.
+AD  - Bowers Neurosurgical Frailty and Outcomes Data Science Lab, Albuquerque, NM, USA.
+FAU - Bowers, Christian A
+AU  - Bowers CA
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, NM, USA - CABowers@salud.unm.edu.
+AD  - Bowers Neurosurgical Frailty and Outcomes Data Science Lab, Albuquerque, NM, USA.
+TA  - J Neurosurg Sci
+JT  - Journal of neurosurgical sciences
+
+
+PMID- 36585095
+TI  - Letter to Editor Regarding "Hospital Frailty Risk Score Predicts Adverse Events and Readmission Following Ventriculoperitoneal Shunt Surgery for Normal Pressure Hydrocephalus".
+FAU - Varela, Samantha
+AU  - Varela S
+AD  - University of New Mexico School of Medicine, Albuquerque, New Mexico, USA.
+FAU - Rumalla, Kavelin
+AU  - Rumalla K
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, New Mexico, USA.
+FAU - Schmidt, Meic H
+AU  - Schmidt MH
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, New Mexico, USA.
+FAU - Bowers, Christian A
+AU  - Bowers CA
+AD  - Department of Neurosurgery, University of New Mexico Hospital, Albuquerque, New Mexico, USA. Electronic address: CABowers@salud.unm.edu.
+TA  - World Neurosurg
+JT  - World neurosurgery
+
+
+PMID- 37439459
+TI  - Superior discrimination of the Risk Analysis Index compared with the 5-item modified frailty index in 30-day outcome prediction after anterior cervical discectomy and fusion.
+FAU - Bowers, Christian A
+AU  - Bowers CA
+AD  - 1Department of Neurosurgery, University of New Mexico Hospital, Albuquerque.
+FAU - Varela, Samantha
+AU  - Varela S
+AD  - 2School of Medicine, University of New Mexico, Albuquerque, New Mexico.
+FAU - Naftchi, Alexandria F
+AU  - Naftchi AF
+AD  - 3School of Medicine, New York Medical College, Valhalla, New York.
+FAU - Kazim, Syed Faraz
+AU  - Kazim SF
+AD  - 1Department of Neurosurgery, University of New Mexico Hospital, Albuquerque.
+FAU - Hall, Daniel E
+AU  - Hall DE
+AD  - 4Department of Surgery, University of Pittsburgh School of Medicine, Pittsburgh.
+AD  - 5Wolff Center at UPMC, Pittsburgh.
+AD  - 6Center for Health Equity Research and Promotion, Veterans Affairs Pittsburgh Healthcare System, Pittsburgh.
+AD  - 7Geriatric Research Education and Clinical Center, Veterans Affairs Pittsburgh Healthcare System, Pittsburgh, Pennsylvania.
+FAU - Ng, Christina
+AU  - Ng C
+AD  - 3School of Medicine, New York Medical College, Valhalla, New York.
+FAU - Rawanduzy, Cameron
+AU  - Rawanduzy C
+AD  - 3School of Medicine, New York Medical College, Valhalla, New York.
+FAU - Spirollari, Eris
+AU  - Spirollari E
+AD  - 3School of Medicine, New York Medical College, Valhalla, New York.
+FAU - Vazquez, Sima
+AU  - Vazquez S
+AD  - 3School of Medicine, New York Medical College, Valhalla, New York.
+FAU - Das, Ankita
+AU  - Das A
+AD  - 3School of Medicine, New York Medical College, Valhalla, New York.
+FAU - Graifman, Gillian
+AU  - Graifman G
+AD  - 3School of Medicine, New York Medical College, Valhalla, New York.
+FAU - Asserson, Derek B
+AU  - Asserson DB
+AD  - 1Department of Neurosurgery, University of New Mexico Hospital, Albuquerque.
+FAU - Dominguez, Jose F
+AU  - Dominguez JF
+AD  - 8Department of Neurosurgery, Westchester Medical Center, Valhalla, New York.
+FAU - Kinon, Merritt D
+AU  - Kinon MD
+AD  - 8Department of Neurosurgery, Westchester Medical Center, Valhalla, New York.
+FAU - Schmidt, Meic H
+AU  - Schmidt MH
+AD  - 1Department of Neurosurgery, University of New Mexico Hospital, Albuquerque.
+TA  - J Neurosurg Spine
+JT  - Journal of neurosurgery. Spine
+
+
+PMID- 37029672
+TI  - Comparison of the Risk Analysis Index and the modified 5-factor frailty index in predicting 30-day morbidity and mortality after spine surgery.
+FAU - Bowers, Christian A
+AU  - Bowers CA
+AD  - 1Department of Neurosurgery, University of New Mexico Hospital (UNMH), Albuquerque.
+FAU - Varela, Samantha
+AU  - Varela S
+AD  - 2School of Medicine, University of New Mexico, Albuquerque, New Mexico.
+FAU - Conlon, Matthew
+AU  - Conlon M
+AD  - 3School of Medicine, New York Medical College, Valhalla, New York.
+FAU - Kazim, Syed Faraz
+AU  - Kazim SF
+AD  - 1Department of Neurosurgery, University of New Mexico Hospital (UNMH), Albuquerque.
+FAU - Thommen, Rachel
+AU  - Thommen R
+AD  - 3School of Medicine, New York Medical College, Valhalla, New York.
+FAU - Roster, Katie
+AU  - Roster K
+AD  - 3School of Medicine, New York Medical College, Valhalla, New York.
+FAU - Hall, Daniel E
+AU  - Hall DE
+AD  - 4Department of Surgery, University of Pittsburgh School of Medicine, Pittsburgh.
+AD  - 7Geriatric Research Education and Clinical Center, Veterans Affairs Pittsburgh Healthcare System, Pittsburgh, Pennsylvania.
+FAU - Schmidt, Meic H
+AU  - Schmidt MH
+AD  - 1Department of Neurosurgery, University of New Mexico Hospital (UNMH), Albuquerque.
+TA  - J Neurosurg Spine
+JT  - Journal of neurosurgery. Spine
+
+
+PMID- 37659341
+TI  - Baseline labs predict adverse postoperative outcomes following metastatic brain tumor resection: Analysis of 5943 patients from a prospective surgical registry (2015-2019).
+FAU - Covell, Michael M
+AU  - Covell MM
+AD  - School of Medicine, Georgetown University, Washington, D.C., USA.
+FAU - Bowers, Charles
+AU  - Bowers C
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), Albuquerque, NM, USA.
+FAU - Kazim, Syed Faraz
+AU  - Kazim SF
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), Albuquerque, NM, USA.
+FAU - Varela, Samantha
+AU  - Varela S
+AD  - School of Medicine, University of New Mexico (UNM), Albuquerque, NM, USA.
+FAU - Rumalla, Kavelin
+AU  - Rumalla K
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), Albuquerque, NM, USA.
+FAU - Schmidt, Meic H
+AU  - Schmidt MH
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), Albuquerque, NM, USA.
+FAU - Bowers, Christian A
+AU  - Bowers CA
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), Albuquerque, NM, USA. Electronic address: christianbowers4@gmail.com.
+TA  - Eur J Surg Oncol
+JT  - European journal of surgical oncology : the journal of the European Society of Surgical Oncology and the British Association of Surgical Oncology
+
+
+PMID- 36972900
+TI  - Preoperative Laboratory Values Are Predictive of Adverse Postoperative Outcomes in Patients Older Than 65 Years Undergoing Brain Tumor Resection: A National Surgical Quality Improvement Program Study.
+FAU - Varela, Samantha
+AU  - Varela S
+AD  - School of Medicine, University of New Mexico (UNM), Albuquerque, New Mexico, USA.
+FAU - Puentes, Hansell
+AU  - Puentes H
+AD  - Burrell College of Osteopathic Medicine, Las Cruces, New Mexico, USA.
+FAU - Moya, Addi
+AU  - Moya A
+AD  - School of Medicine, University of New Mexico (UNM), Albuquerque, New Mexico, USA.
+FAU - Kazim, Syed Faraz
+AU  - Kazim SF
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), Albuquerque, New Mexico, USA.
+FAU - Couldwell, William T
+AU  - Couldwell WT
+AD  - Department of Neurosurgery, Clinical Neurosciences Center, University of Utah, Salt Lake City, Utah, USA.
+FAU - Schmidt, Meic H
+AU  - Schmidt MH
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), Albuquerque, New Mexico, USA.
+FAU - Bowers, Christian A
+AU  - Bowers CA
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), Albuquerque, New Mexico, USA. Electronic address: CABowers@salud.unm.edu.
+TA  - World Neurosurg
+JT  - World neurosurgery
+
+
+PMID- 37291408
+TI  - The 5-item modified frailty index predicts spinal osteotomy outcomes better than age in adult spinal deformity patients: an ACS - NSQIP analysis.
+FAU - Tarawneh, Omar H
+AU  - Tarawneh OH
+AD  - School of Medicine, New York Medical College, Valhalla, NY, 10595, USA.
+FAU - Vellek, John
+AU  - Vellek J
+AD  - School of Medicine, New York Medical College, Valhalla, NY, 10595, USA.
+FAU - Kazim, Syed Faraz
+AU  - Kazim SF
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), Albuquerque, NM, 87131, USA.
+FAU - Thommen, Rachel
+AU  - Thommen R
+AD  - School of Medicine, New York Medical College, Valhalla, NY, 10595, USA.
+FAU - Roster, Katie
+AU  - Roster K
+AD  - School of Medicine, New York Medical College, Valhalla, NY, 10595, USA.
+FAU - Conlon, Matthew
+AU  - Conlon M
+AD  - School of Medicine, New York Medical College, Valhalla, NY, 10595, USA.
+FAU - Alvarez-Crespo, Daniel J
+AU  - Alvarez-Crespo DJ
+AD  - School of Medicine, University of Panama, Simon Bolivar Avenue, Panama, Panama, 07096, USA.
+FAU - Cole, Kyril L
+AU  - Cole KL
+AD  - School of Medicine, University of Utah, Salt Lake City, UT, USA.
+FAU - Varela, Samantha
+AU  - Varela S
+AD  - School of Medicine, University of New Mexico, Albuquerque, NM, 87131, USA.
+FAU - Dominguez, Jose F
+AU  - Dominguez JF
+AD  - Department of Neurosurgery, Westchester Medical Center and New York Medical College, Valhalla, NY, USA.
+FAU - Mckee, Rohini G
+AU  - Mckee RG
+AD  - Department of Surgery, University of New Mexico, Albuquerque, NM, USA.
+FAU - Schmidt, Meic H
+AU  - Schmidt MH
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), Albuquerque, NM, 87131, USA.
+FAU - Bowers, Christian A
+AU  - Bowers CA
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), Albuquerque, NM, 87131, USA. CABowers@salud.unm.edu.
+AD  - Department of Neurosurgery MSC10 5615, Albuquerque, NM, 81731, USA. CABowers@salud.unm.edu.
+TA  - Spine Deform
+JT  - Spine deformity
+
+
+PMID- 38292022
+TI  - The risk analysis index demonstrates superior discriminative ability in predicting extended length of stay in pituitary adenoma resection patients when compared to the 5-point modified frailty index.
+FAU - Varela, Samantha
+AU  - Varela S
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), Albuquerque, NM, USA.
+FAU - Thommen, Rachel
+AU  - Thommen R
+AD  - School of Medicine, New York Medical College (NYMC), Valhalla, NY, USA.
+FAU - Rumalla, Kavelin
+AU  - Rumalla K
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), Albuquerque, NM, USA.
+FAU - Faraz Kazim, Syed
+AU  - Faraz Kazim S
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), Albuquerque, NM, USA.
+FAU - Couldwell, William T
+AU  - Couldwell WT
+AD  - Department of Neurosurgery, Clinical Neurosciences Center, University of Utah, Salt Lake City, UT, USA.
+FAU - Schmidt, Meic H
+AU  - Schmidt MH
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), Albuquerque, NM, USA.
+FAU - Bowers, Christian A
+AU  - Bowers CA
+AD  - Department of Neurosurgery, University of New Mexico Hospital (UNMH), Albuquerque, NM, USA.
+TA  - World Neurosurg X
+JT  - World neurosurgery: X

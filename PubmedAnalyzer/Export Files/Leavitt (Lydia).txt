@@ -1,0 +1,601 @@
+PMID- 36600730
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20230111
+IS  - 2229-5097 (Print)
+IS  - 2152-7806 (Electronic)
+IS  - 2152-7806 (Linking)
+VI  - 13
+DP  - 2022
+TI  - Surgical management of an abscess of the insula.
+PG  - 591
+LID - 10.25259/SNI_871_2022 [doi]
+LID - 591
+AB  - BACKGROUND: Mass lesions within the insular are diagnostically and surgically 
+      challenging due to the numerous critical cortical, subcortical, and vascular 
+      structures surrounding the region. Two main surgical techniques - the 
+      transsylvian approach and the transcortical approach - provide access to the 
+      insular cortex. Of the range of pathologies encountered, abscesses in the insula 
+      are surprisingly rare. CASE DESCRIPTION: A 34-year-old patient was admitted for 
+      surgical resection of a suspected high-grade glioma in the insula of the dominant 
+      hemisphere. A rapid clinical decline prompted emergent neurosurgical intervention 
+      using a transsylvian approach. Surprisingly, abundant purulent material was 
+      encountered on entering the insular fossa. Pathological analysis confirmed an 
+      insular abscess, although a source of infection could not be identified. The 
+      patient required a second evacuation for reaccumulation of the abscess and 
+      adjuvant corticosteroids for extensive cerebral edema. CONCLUSION: An abscess 
+      located in the insular cortex is an incredibly rare occurrence. Surgical 
+      management using the transsylvian approach is one option to approach this region. 
+      Familiarity with this approach is thus extremely beneficial in situations 
+      requiring emergent access to the dominant insula when awake mapping is not 
+      feasible. In addition, treatment of abscesses with adjuvant corticosteroids is 
+      indicated when extensive, life-threatening cerebral edema is present.
+CI  - Copyright: © 2022 Surgical Neurology International.
+FAU - Leavitt, Lydia
+AU  - Leavitt L
+AD  - Department of Neurosurgery, University of Illinois College of Medicine, Rockford, 
+      Illinois.
+FAU - Baohan, Amy
+AU  - Baohan A
+AD  - Department of Neurosurgery, Massachusetts General Hospital, Boston, 
+      Massachusetts, United States.
+FAU - Heller, Howard
+AU  - Heller H
+AD  - Infectious Diseases Division, Massachusetts General Hospital, Boston, 
+      Massachusetts, United States.
+FAU - Kozanno, Liana
+AU  - Kozanno L
+AD  - Department of Pathology, Massachusetts General Hospital, Boston, Massachusetts, 
+      United States.
+FAU - Frosch, Matthew P
+AU  - Frosch MP
+AD  - Department of Pathology, Massachusetts General Hospital, Boston, Massachusetts, 
+      United States.
+FAU - Dunn, Gavin
+AU  - Dunn G
+AD  - Department of Neurosurgery, Massachusetts General Hospital, Boston, 
+      Massachusetts, United States.
+LA  - eng
+PT  - Case Reports
+DEP - 20221223
+PL  - United States
+TA  - Surg Neurol Int
+JT  - Surgical neurology international
+JID - 101535836
+PMC - PMC9805647
+OTO - NOTNLM
+OT  - Brain abscess
+OT  - Infection
+OT  - Insula
+OT  - Transsylvian approach
+COIS- There are no conflicts of interest.
+EDAT- 2023/01/06 06:00
+MHDA- 2023/01/06 06:01
+CRDT- 2023/01/05 02:15
+PHST- 2022/09/20 00:00 [received]
+PHST- 2022/12/07 00:00 [accepted]
+PHST- 2023/01/05 02:15 [entrez]
+PHST- 2023/01/06 06:00 [pubmed]
+PHST- 2023/01/06 06:01 [medline]
+AID - 10.25259/SNI_871_2022 [pii]
+AID - 10.25259/SNI_871_2022 [doi]
+PST - epublish
+SO  - Surg Neurol Int. 2022 Dec 23;13:591. doi: 10.25259/SNI_871_2022. eCollection 
+      2022.
+
+PMID- 37681954
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240118
+LR  - 20240202
+IS  - 1524-4040 (Electronic)
+IS  - 0148-396X (Linking)
+VI  - 94
+IP  - 2
+DP  - 2024 Feb 1
+TI  - Commentary: French Military Neurosurgery: At Home and Abroad.
+PG  - e28-e29
+LID - 10.1227/neu.0000000000002675 [doi]
+FAU - Dagi, T Forcht
+AU  - Dagi TF
+AUID- ORCID: 0000-0002-0344-1384
+AD  - Department of Neurosurgery, Mayo Alix College of Medicine and Science, Newton 
+      Centre , Massachusetts , USA.
+FAU - Leavitt, Lydia
+AU  - Leavitt L
+AD  - Department of Neurosurgery, University of Kentucky College of Medicine, Lexington 
+      , Kentucky , USA.
+FAU - Fox, W Christopher
+AU  - Fox WC
+AD  - Department of Neurosurgery, The Mayo Clinic, Jacksonville , Florida , USA.
+LA  - eng
+PT  - Comment
+PT  - Journal Article
+DEP - 20230908
+PL  - United States
+TA  - Neurosurgery
+JT  - Neurosurgery
+JID - 7802914
+SB  - IM
+CON - Neurosurgery. 2024 Feb 1;94(2):e22-e27. PMID: 37681952
+MH  - Humans
+MH  - *Neurosurgery
+MH  - *Military Personnel
+MH  - Neurosurgical Procedures
+MH  - *Military Medicine
+EDAT- 2023/09/08 12:43
+MHDA- 2024/01/18 06:42
+CRDT- 2023/09/08 09:03
+PHST- 2023/07/26 00:00 [received]
+PHST- 2023/07/27 00:00 [accepted]
+PHST- 2024/01/18 06:42 [medline]
+PHST- 2023/09/08 12:43 [pubmed]
+PHST- 2023/09/08 09:03 [entrez]
+AID - 00006123-990000000-00868 [pii]
+AID - 10.1227/neu.0000000000002675 [doi]
+PST - ppublish
+SO  - Neurosurgery. 2024 Feb 1;94(2):e28-e29. doi: 10.1227/neu.0000000000002675. Epub 
+      2023 Sep 8.
+
+PMID- 36193033
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20221013
+IS  - 2694-1902 (Electronic)
+IS  - 2694-1902 (Linking)
+VI  - 4
+IP  - 14
+DP  - 2022 Oct 3
+TI  - 5-ALA fluorescence-guided resection of a recurrent anaplastic pleomorphic 
+      xanthoastrocytoma: illustrative case.
+LID - CASE22310 [pii]
+LID - 10.3171/CASE22310 [doi]
+AB  - BACKGROUND: 5-aminolevulinic acid (5-ALA)-induced fluorescence of neoplastic 
+      tissue is known to occur in a number of high-grade gliomas. This fluorescence 
+      helps surgeons maximize safe resection by distinguishing previously indiscernible 
+      neoplastic tissue from brain parenchyma. Still, the effectiveness of 5-ALA has 
+      not been fully explored for all central nervous system tumors. Consequently, the 
+      full spectrum of tumors that would benefit from fluorescence-guided surgery using 
+      5-ALA is unknown. OBSERVATIONS: This report describes successfully utilizing 
+      5-ALA to achieve complete resection of a recurrent anaplastic pleomorphic 
+      xanthoastrocytoma (APXA). LESSONS: APXA tumor cells accumulate sufficient amounts 
+      of 5-ALA and its fluorescent metabolite to produce visible intraoperative 
+      fluorescence. However, further investigation is needed to determine if 5-ALA 
+      fluorescent labeling routinely occurs in patients with APXAs.
+FAU - Leavitt, Lydia A
+AU  - Leavitt LA
+AD  - 1University of Illinois College of Medicine, Rockford, Illinois; and.
+FAU - Muñoz, William
+AU  - Muñoz W
+AD  - 2Department of Neurosurgery, Massachusetts General Hospital, Boston, 
+      Massachusetts.
+FAU - Jones, Pamela S
+AU  - Jones PS
+AD  - 2Department of Neurosurgery, Massachusetts General Hospital, Boston, 
+      Massachusetts.
+LA  - eng
+PT  - Journal Article
+DEP - 20221003
+PL  - United States
+TA  - J Neurosurg Case Lessons
+JT  - Journal of neurosurgery. Case lessons
+JID - 9918227275606676
+PMC - PMC9552559
+OTO - NOTNLM
+OT  - 5-aminolevulinic acid
+OT  - anaplastic
+OT  - fluorescence-guided surgery
+OT  - pleomorphic xanthoastrocytoma
+OT  - recurrent astrocytoma
+COIS- Disclosures Dr. Jones reported a patent for MGH25618 pending. No other 
+      disclosures were reported.
+EDAT- 2022/10/05 06:00
+MHDA- 2022/10/05 06:01
+CRDT- 2022/10/04 01:52
+PHST- 2022/07/22 00:00 [received]
+PHST- 2022/08/17 00:00 [accepted]
+PHST- 2022/10/04 01:52 [entrez]
+PHST- 2022/10/05 06:00 [pubmed]
+PHST- 2022/10/05 06:01 [medline]
+AID - CASE22310 [pii]
+AID - 10.3171/CASE22310 [doi]
+PST - epublish
+SO  - J Neurosurg Case Lessons. 2022 Oct 3;4(14):CASE22310. doi: 10.3171/CASE22310. 
+      Print 2022 Oct 3.
+
+PMID- 30952223
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200914
+LR  - 20200914
+IS  - 1550-9397 (Electronic)
+IS  - 1550-9389 (Print)
+IS  - 1550-9389 (Linking)
+VI  - 15
+IP  - 4
+DP  - 2019 Apr 15
+TI  - Optimizing Actigraphic Estimation of Sleep Duration in Suspected Idiopathic 
+      Hypersomnia.
+PG  - 597-602
+LID - 10.5664/jcsm.7722 [doi]
+AB  - STUDY OBJECTIVES: To determine the optimal Actiwatch 2 setting configuration for 
+      the estimation of total sleep time (TST) in persons with suspected idiopathic 
+      hypersomnia. METHODS: Thirty-three patients with a diagnosis of idiopathic 
+      hypersomnia (28 female; mean age = 33.7 ± 10.5) underwent ad libitum 
+      polysomnography with concurrent use of the Actiwatch 2. Actiwatch 2 sleep-wake 
+      activity threshold (SWAT; Low, Medium, and High) and sleep immobility onset and 
+      offset (SIOO; 5, 10, 15, 20, 25, and 30 epoch) duration were modified during data 
+      processing. The resultant 18 unique setting combinations were subsequently 
+      evaluated using Bland-Altman and epoch comparison analyses to determine optimal 
+      settings relative to polysomnography. RESULTS: Low SWAT + 25 Epoch SIOO displayed 
+      the least divergence from polysomnography (mean difference 3.4 minutes). Higher 
+      SWAT and lower SIOO increased sensitivity and accuracy, but at the expense of 
+      reducing specificity and the ability to accurately estimate TST. CONCLUSIONS: 
+      These results demonstrate that actigraphic settings should be carefully 
+      considered when estimating sleep duration. The Low + 25 Epoch configuration is 
+      indicated as most optimal for estimating TST in persons with suspected idiopathic 
+      hypersomnia. COMMENTARY: A commentary on this article appears in this issue on 
+      page 539.
+CI  - © 2019 American Academy of Sleep Medicine.
+FAU - Cook, Jesse D
+AU  - Cook JD
+AD  - Department of Psychiatry, School of Medicine and Public Health, University of 
+      Wisconsin-Madison, Madison, Wisconsin.
+AD  - Department of Psychology, University of Wisconsin-Madison, Madison, Wisconsin.
+FAU - Eftekari, Sahand C
+AU  - Eftekari SC
+AD  - Department of Psychiatry, School of Medicine and Public Health, University of 
+      Wisconsin-Madison, Madison, Wisconsin.
+FAU - Leavitt, Lydia A
+AU  - Leavitt LA
+AD  - Department of Psychiatry, School of Medicine and Public Health, University of 
+      Wisconsin-Madison, Madison, Wisconsin.
+FAU - Prairie, Michael L
+AU  - Prairie ML
+AD  - Department of Psychiatry, School of Medicine and Public Health, University of 
+      Wisconsin-Madison, Madison, Wisconsin.
+FAU - Plante, David T
+AU  - Plante DT
+AD  - Department of Psychiatry, School of Medicine and Public Health, University of 
+      Wisconsin-Madison, Madison, Wisconsin.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20190415
+PL  - United States
+TA  - J Clin Sleep Med
+JT  - Journal of clinical sleep medicine : JCSM : official publication of the American 
+      Academy of Sleep Medicine
+JID - 101231977
+SB  - IM
+CIN - J Clin Sleep Med. 2019 Apr 15;15(4):539-540. PMID: 30952230
+MH  - Actigraphy/*methods
+MH  - Adult
+MH  - Female
+MH  - Humans
+MH  - Idiopathic Hypersomnia/*diagnosis/physiopathology
+MH  - Male
+MH  - Polysomnography/methods
+MH  - *Sleep
+PMC - PMC6457505
+OTO - NOTNLM
+OT  - Actiwatch
+OT  - actigraphy
+OT  - hypersomnolence
+OT  - idiopathic hypersomnia
+EDAT- 2019/04/07 06:00
+MHDA- 2020/09/15 06:00
+CRDT- 2019/04/07 06:00
+PHST- 2018/08/02 00:00 [received]
+PHST- 2019/01/08 00:00 [accepted]
+PHST- 2019/04/07 06:00 [pubmed]
+PHST- 2020/09/15 06:00 [medline]
+PHST- 2019/04/07 06:00 [entrez]
+AID - jc-18-00479 [pii]
+AID - 10.5664/jcsm.7722 [doi]
+PST - epublish
+SO  - J Clin Sleep Med. 2019 Apr 15;15(4):597-602. doi: 10.5664/jcsm.7722.
+
+PMID- 38015025
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231129
+IS  - 2694-1902 (Electronic)
+IS  - 2694-1902 (Linking)
+VI  - 5
+IP  - 7
+DP  - 2023 Feb 13
+TI  - Spontaneous rupture of an arachnoid cyst in an adult: illustrative case.
+LID - CASE22420 [pii]
+LID - 10.3171/CASE22420 [doi]
+AB  - BACKGROUND: Arachnoid cysts are common intracranial mass lesions frequently 
+      discovered as incidental findings on radiographic imaging. It is routine practice 
+      to monitor these lesions as a large majority remain stable. Although traumatic 
+      cyst rupture is a known risk, it is rare for patients to present with spontaneous 
+      rupture. OBSERVATIONS: The authors report the case of a 32-year-old patient who 
+      required emergent neurosurgical intervention for spontaneous rupture of a left 
+      hemispheric arachnoid cyst. LESSONS: Patients with ruptured arachnoid cysts can 
+      present with vague, nonspecific symptoms that may delay diagnosis. If not 
+      diagnosed and treated promptly, arachnoid cyst rupture can progress to a 
+      neurosurgical emergency as the subdural collection may cause extensive mass 
+      effect and even cerebral herniation.
+FAU - Leavitt, Lydia A
+AU  - Leavitt LA
+AD  - 1University of Illinois College of Medicine, Rockford, Illinois; and.
+FAU - Nanda, Pranav
+AU  - Nanda P
+AD  - Departments of2Neurosurgery and.
+FAU - Stemmer-Rachamimov, Anat
+AU  - Stemmer-Rachamimov A
+AD  - 3Pathology, Massachusetts General Hospital, Boston, Massachusetts.
+FAU - Dunn, Gavin P
+AU  - Dunn GP
+AD  - Departments of2Neurosurgery and.
+FAU - Jones, Pamela S
+AU  - Jones PS
+AD  - Departments of2Neurosurgery and.
+LA  - eng
+PT  - Journal Article
+DEP - 20230213
+PL  - United States
+TA  - J Neurosurg Case Lessons
+JT  - Journal of neurosurgery. Case lessons
+JID - 9918227275606676
+PMC - PMC10550604
+OTO - NOTNLM
+OT  - arachnoid cyst
+OT  - intracystic hemorrhage
+OT  - spontaneous rupture
+COIS- Disclosures The authors report no conflict of interest concerning the materials 
+      or methods used in this study or the findings specified in this paper.
+EDAT- 2023/11/28 12:42
+MHDA- 2023/11/28 12:43
+CRDT- 2023/11/28 09:33
+PHST- 2022/09/28 00:00 [received]
+PHST- 2022/12/12 00:00 [accepted]
+PHST- 2023/11/28 12:43 [medline]
+PHST- 2023/11/28 12:42 [pubmed]
+PHST- 2023/11/28 09:33 [entrez]
+AID - CASE22420 [pii]
+AID - 10.3171/CASE22420 [doi]
+PST - epublish
+SO  - J Neurosurg Case Lessons. 2023 Feb 13;5(7):CASE22420. doi: 10.3171/CASE22420. 
+      Print 2023 Feb 13.
+
+PMID- 37626682
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20230828
+IS  - 2227-9059 (Print)
+IS  - 2227-9059 (Electronic)
+IS  - 2227-9059 (Linking)
+VI  - 11
+IP  - 8
+DP  - 2023 Aug 3
+TI  - Economic Trends in Commonly Used Drugs for Spinal Fusion and Brain Tumor 
+      Resection: An Analysis of the Medicare Part D Database.
+LID - 10.3390/biomedicines11082185 [doi]
+LID - 2185
+AB  - With the incidence of central and peripheral nervous system disorders on the 
+      rise, neurosurgical procedures paired with the careful administration of select 
+      medications have become necessary to optimize patient outcomes. Despite efforts 
+      to decrease the over-prescription of common addictive drugs, such as opioids, 
+      prescription costs continue to rise. This study analyzed temporal trends in 
+      medication use and cost for spinal fusion and brain tumor resection procedures. 
+      The Medicare Part B Database was queried from 2016 to 2020 for data regarding 
+      spinal fusion and brain tumor resection procedures, while the Part D Database was 
+      used to extract data for two commonly prescribed medications for each procedure. 
+      Pearson's correlation coefficient and linear regression were completed for the 
+      analyzed variables. The results showed a significant negative correlation between 
+      the number of spinal procedure beneficiaries and the cost of methocarbamol, as 
+      well as between the annual percent change in spinal beneficiaries and the annual 
+      percent change in oxycodone cost. Linear regression revealed that oxycodone cost 
+      was the only parameter with a statistically significant model. Moving forward, it 
+      is imperative to combat rising drug costs, regardless of trends seen in their 
+      usage. Further studies should focus on the utilization of primary data in a 
+      multi-center study.
+FAU - Doad, Jagroop
+AU  - Doad J
+AUID- ORCID: 0000-0002-5905-8456
+AD  - Leon Levine Hall of Medical Sciences, School of Osteopathic Medicine, Campbell 
+      University, 4350 US Hwy 421 S, Lillington, NC 27546, USA.
+FAU - Gupta, Nithin
+AU  - Gupta N
+AUID- ORCID: 0000-0002-6696-8984
+AD  - Leon Levine Hall of Medical Sciences, School of Osteopathic Medicine, Campbell 
+      University, 4350 US Hwy 421 S, Lillington, NC 27546, USA.
+FAU - Leavitt, Lydia
+AU  - Leavitt L
+AD  - College of Medicine, University of Illinois, 1601 Parkview Ave., Rockford, IL 
+      61107, USA.
+FAU - Hart, Alexandra
+AU  - Hart A
+AUID- ORCID: 0000-0001-9175-4155
+AD  - Lake Erie College of Osteopathic Medicine at Seton Hill, Lynch Hall, 20 Seton 
+      Hill Dr, Greensburg, PA 15601, USA.
+FAU - Nguyen, Andrew
+AU  - Nguyen A
+AD  - College of Medicine, University of Florida, 1600 SW Archer Rd., Gainesville, FL 
+      32610, USA.
+FAU - Kaura, Shawn
+AU  - Kaura S
+AD  - Lake Erie College of Osteopathic Medicine at Seton Hill, Lynch Hall, 20 Seton 
+      Hill Dr, Greensburg, PA 15601, USA.
+FAU - DeStefano, Frank
+AU  - DeStefano F
+AD  - Department of Neurological Surgery, University of Kansas Medical Center, 2060 W 
+      39th Ave., Kansas City, KS 66160, USA.
+FAU - McCray, Edwin
+AU  - McCray E
+AD  - Department of Orthopedic Surgery, College of Medicine, University of Arizona, 
+      1501 N Campbell Ave., Tucson, AZ 85724, USA.
+FAU - Lucke-Wold, Brandon
+AU  - Lucke-Wold B
+AUID- ORCID: 0000-0001-6577-4080
+AD  - Department of Neurosurgery, University of Florida, 1600 SW Archer Rd., 
+      Gainesville, FL 32610, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20230803
+PL  - Switzerland
+TA  - Biomedicines
+JT  - Biomedicines
+JID - 101691304
+PMC - PMC10452193
+OTO - NOTNLM
+OT  - Medicare
+OT  - brain tumor resection
+OT  - economics
+OT  - health system
+OT  - neurosurgery
+OT  - pharmacology
+OT  - spinal fusion
+OT  - surgical system
+COIS- The authors declare no conflict of interest.
+EDAT- 2023/08/26 10:44
+MHDA- 2023/08/26 10:45
+CRDT- 2023/08/26 01:01
+PHST- 2023/06/25 00:00 [received]
+PHST- 2023/07/22 00:00 [revised]
+PHST- 2023/08/01 00:00 [accepted]
+PHST- 2023/08/26 10:45 [medline]
+PHST- 2023/08/26 10:44 [pubmed]
+PHST- 2023/08/26 01:01 [entrez]
+AID - biomedicines11082185 [pii]
+AID - biomedicines-11-02185 [pii]
+AID - 10.3390/biomedicines11082185 [doi]
+PST - epublish
+SO  - Biomedicines. 2023 Aug 3;11(8):2185. doi: 10.3390/biomedicines11082185.
+
+PMID- 38416133
+OWN - NLM
+STAT- Publisher
+LR  - 20240228
+IS  - 2159-8290 (Electronic)
+IS  - 2159-8274 (Linking)
+DP  - 2024 Feb 28
+TI  - Glioblastoma-infiltrating CD8+ T cells are predominantly a clonally expanded 
+      GZMK+ effector population.
+LID - 10.1158/2159-8290.CD-23-0913 [doi]
+AB  - Recent clinical trials have highlighted the limited efficacy of T cell-based 
+      immunotherapy in patients with glioblastoma (GBM). To better understand the 
+      characteristics of tumor-infiltrating lymphocytes (TIL) in GBM, we performed 
+      cellular indexing of transcriptomes and epitopes by sequencing (CITE-seq) and 
+      single-cell RNA sequencing (scRNA-seq) with paired V(D)J sequencing, 
+      respectively, on TIL from two cohorts of patients totaling 15 patients with high 
+      grade glioma, including GBM or astrocytoma, IDH mutant, grade 4 (G4A). Analysis 
+      of the CD8+ TIL landscape reveals an enrichment of clonally expanded GZMK+ 
+      effector T cells in the tumor compared to matched blood, which was validated at 
+      the protein level. Furthermore, integration with other cancer types highlights 
+      the lack of a canonically exhausted CD8+ T cell population in GBM TIL. These data 
+      suggest that GZMK+ effector T cells represent an important T cell subset within 
+      the GBM microenvironment and which may harbor potential therapeutic implications.
+FAU - Wang, Anthony Z
+AU  - Wang AZ
+AUID- ORCID: 0000-0003-4824-9908
+AD  - Washington University in St. Louis School of Medicine, St Louis, MO, United 
+      States.
+FAU - Mashimo, Bryce L
+AU  - Mashimo BL
+AUID- ORCID: 0000-0002-6691-4169
+AD  - Massachusetts General Hospital, United States.
+FAU - Schaettler, Maximilian O
+AU  - Schaettler MO
+AUID- ORCID: 0000-0001-7545-6342
+AD  - Brigham and Women's Hospital, Boston, MA, United States.
+FAU - Sherpa, Ngima D
+AU  - Sherpa ND
+AUID- ORCID: 0000-0001-5392-3333
+AD  - Massachusetts General Hospital, United States.
+FAU - Leavitt, Lydia A
+AU  - Leavitt LA
+AUID- ORCID: 0000-0002-7087-1990
+AD  - University of Louisville, United States.
+FAU - Livingstone, Alexandra J
+AU  - Livingstone AJ
+AUID- ORCID: 0000-0001-5471-4576
+AD  - Washington University in St. Louis School of Medicine, St. Louis, MO, United 
+      States.
+FAU - Khan, Saad M
+AU  - Khan SM
+AUID- ORCID: 0000-0002-1385-2056
+AD  - Massachusetts General Hospital, United States.
+FAU - Li, Mao
+AU  - Li M
+AUID- ORCID: 0000-0002-6058-5229
+AD  - Massachusetts General Hospital, Boston, Massachusetts, United States.
+FAU - Anzaldua-Campos, Markus I
+AU  - Anzaldua-Campos MI
+AUID- ORCID: 0000-0003-4727-3404
+AD  - Harvard University, United States.
+FAU - Bradley, Joseph D
+AU  - Bradley JD
+AUID- ORCID: 0009-0003-0318-8934
+AD  - Massachusetts General Hospital, United States.
+FAU - Leuthardt, Eric C
+AU  - Leuthardt EC
+AUID- ORCID: 0000-0003-4154-3135
+AD  - Washington University in St. Louis, St. Louis, Missouri, United States.
+FAU - Kim, Albert H
+AU  - Kim AH
+AUID- ORCID: 0000-0002-1751-8493
+AD  - Washington University in St. Louis School of Medicine, St Louis, MO, United 
+      States.
+FAU - Dowling, Joshua L
+AU  - Dowling JL
+AUID- ORCID: 0000-0002-0340-7493
+AD  - Washington University in St. Louis School of Medicine, United States.
+FAU - Chicoine, Michael R
+AU  - Chicoine MR
+AUID- ORCID: 0000-0002-0689-8603
+AD  - University of Missouri Health System, United States.
+FAU - Jones, Pamela S
+AU  - Jones PS
+AUID- ORCID: 0000-0002-4573-3641
+AD  - Massachusetts General Hospital, Boston, MA, United States.
+FAU - Choi, Bryan D
+AU  - Choi BD
+AUID- ORCID: 0000-0002-5090-2470
+AD  - Massachusetts General Hospital, Boston, United States.
+FAU - Cahill, Daniel P
+AU  - Cahill DP
+AUID- ORCID: 0000-0003-2552-6546
+AD  - Massachusetts General Hospital, Boston, MA, United States.
+FAU - Carter, Bob S
+AU  - Carter BS
+AUID- ORCID: 0000-0002-3586-1324
+AD  - Massachusetts General Hospital, United States.
+FAU - Petti, Allegra A
+AU  - Petti AA
+AUID- ORCID: 0000-0001-6884-6107
+AD  - Massachusetts General Hospital, United States.
+FAU - Johanns, Tanner M
+AU  - Johanns TM
+AUID- ORCID: 0000-0003-1094-1528
+AD  - Washington University in St. Louis School of Medicine, St. Louis, MO, United 
+      States.
+FAU - Dunn, Gavin P
+AU  - Dunn GP
+AUID- ORCID: 0000-0001-9302-4834
+AD  - Massachusetts General Hospital, Boston, MA, United States.
+LA  - eng
+PT  - Journal Article
+DEP - 20240228
+PL  - United States
+TA  - Cancer Discov
+JT  - Cancer discovery
+JID - 101561693
+SB  - IM
+EDAT- 2024/02/28 12:42
+MHDA- 2024/02/28 12:42
+CRDT- 2024/02/28 10:53
+PHST- 2024/02/26 00:00 [accepted]
+PHST- 2023/08/31 00:00 [received]
+PHST- 2023/12/20 00:00 [revised]
+PHST- 2024/02/28 12:42 [medline]
+PHST- 2024/02/28 12:42 [pubmed]
+PHST- 2024/02/28 10:53 [entrez]
+AID - 734950 [pii]
+AID - 10.1158/2159-8290.CD-23-0913 [doi]
+PST - aheadofprint
+SO  - Cancer Discov. 2024 Feb 28. doi: 10.1158/2159-8290.CD-23-0913.
