@@ -84,10 +84,10 @@ for fileIndex in range(len(fileList)):
         updateInfo(pmReader, ["PMID- ", "DP  - ", "TI  - "], [4, 8, 3], table[paperIndex])
 
         table[paperIndex][2] = 0
-        pmReader.moveToID(["JT  - ", "FAU - "])
+        pmReader.moveToID(["TA  - ", "FAU - "])
         maxMatches = 0
         savedFauIndex = currFauIndex = pmReader.index
-        while pmReader.lineID() != "JT  - ":
+        while pmReader.lineID() != "TA  - ":
             table[paperIndex][2] += 1
             currFauIndex = pmReader.index
             author = pmReader.lineInfo()
@@ -99,7 +99,7 @@ for fileIndex in range(len(fileList)):
                     maxMatches = numMatches
                     savedFauIndex = currFauIndex
             pmReader.next()
-            pmReader.moveToID(["JT  - ", "FAU - "])
+            pmReader.moveToID(["TA  - ", "FAU - "])
         table[paperIndex][5] = pmReader.lineInfo()
         pmReader.moveTo(savedFauIndex + 1)
         institutions = extractInstitutions(pmReader)
