@@ -2,11 +2,20 @@ from pandas import read_excel
 from pathlib import Path
 import plotly.express as px
 
-filePath = Path.joinpath(Path(__file__).parent.resolve(), "AffiliationInfo.xlsx")
-dataframe = read_excel(filePath)
-#dataframe["Count"] **= 2
+affMapFile = "AffiliationInfo.xlsx"
+resMapFile = "ResidencyInfo.xlsx"
 
-fig = px.density_mapbox(dataframe, lat = 'Latitude', lon = 'Longitude', z = 'Count',
-                        radius = 20, zoom = 5, center = {"lat": 37.0902, "lon": -95.7129},
-                        mapbox_style = 'open-street-map')
-fig.show()
+inputs = {
+    "file": resMapFile,
+    "startAt": 7
+    }
+
+filePath = Path.joinpath(Path(__file__).parent.resolve(), inputs["file"])
+dataframe = read_excel(filePath)
+for header in list(dataframe)[inputs["startAt"]:]:
+    #dataframe["Count"] **= 2
+
+    fig = px.density_mapbox(dataframe, lat = 'Latitude', lon = 'Longitude', z = header, title=header, labels={header:""},
+                            radius = 30, zoom = 3.5, center = {"lat": 38, "lon": -105},
+                            mapbox_style = 'open-street-map', color_continuous_scale=px.colors.sequential.Turbo)
+    fig.show()
